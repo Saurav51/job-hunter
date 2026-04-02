@@ -1,0 +1,898 @@
+[
+  {
+    "id": "8c004352-f162-4d89-858f-75a649e77ec4",
+    "role": "Account Executive",
+    "title": "Account Executive | Commercial",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/8c004352-f162-4d89-858f-75a649e77ec4"
+  },
+  {
+    "id": "f8e75f30-738c-4987-8e00-2837af8d8bf6",
+    "role": "Account Executive",
+    "title": "Account Executive | Federal ",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/f8e75f30-738c-4987-8e00-2837af8d8bf6"
+  },
+  {
+    "id": "a808d519-404a-4aee-9189-2b1ad62d0330",
+    "role": "Account Executive",
+    "title": "Account Executive | SLED",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/a808d519-404a-4aee-9189-2b1ad62d0330"
+  },
+  {
+    "id": "707d5f91-bcf7-42b2-a0e6-8130bf13e56b",
+    "role": "Account Executive",
+    "title": "Account Executive | Strategic ",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/707d5f91-bcf7-42b2-a0e6-8130bf13e56b"
+  },
+  {
+    "id": "b9568fb8-a47e-4738-87fb-a6d88c3a505f",
+    "role": "Account Manager",
+    "title": "Account Manager | Commercial",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/b9568fb8-a47e-4738-87fb-a6d88c3a505f"
+  },
+  {
+    "id": "f5cf4790-0b77-47be-b332-02ca6ec755fd",
+    "role": "Account Manager",
+    "title": "Account Manager | Enterprise",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/f5cf4790-0b77-47be-b332-02ca6ec755fd"
+  },
+  {
+    "id": "d84bbf19-572a-499c-9c87-0c154ce85caf",
+    "role": "Account Manager",
+    "title": "Account Manager | Mid-Market",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/d84bbf19-572a-499c-9c87-0c154ce85caf"
+  },
+  {
+    "id": "51acae48-933b-4c71-be48-3e9317cf3ab7",
+    "role": "Growth Marketing",
+    "title": "Agentic Operator, Growth Marketing",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/51acae48-933b-4c71-be48-3e9317cf3ab7"
+  },
+  {
+    "id": "63df0ffc-bdc6-40ba-906f-fe03378536b0",
+    "role": "Product Operations",
+    "title": "AI Operations Specialist | Agentic Workflows",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/63df0ffc-bdc6-40ba-906f-fe03378536b0"
+  },
+  {
+    "id": "33a7a700-b9e1-4f6e-ac4e-b69942c6b5b0",
+    "role": "Compliance",
+    "title": "AML Operations Analyst ",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/33a7a700-b9e1-4f6e-ac4e-b69942c6b5b0"
+  },
+  {
+    "id": "d204e136-2749-42de-82b4-88a0dd352090",
+    "role": "Applied AI",
+    "title": "Applied AI Engineer",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/d204e136-2749-42de-82b4-88a0dd352090"
+  },
+  {
+    "id": "edb02fe5-fd01-426a-9445-7db518d659ac",
+    "role": "Strategic Finance",
+    "title": "Associate, FP&A",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/edb02fe5-fd01-426a-9445-7db518d659ac"
+  },
+  {
+    "id": "bd9e9159-6c35-4755-9a48-02cc96d5379d",
+    "role": "Strategic Finance",
+    "title": "Associate, GTM Finance & Operations",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/bd9e9159-6c35-4755-9a48-02cc96d5379d"
+  },
+  {
+    "id": "2e47b59f-f68f-4266-80ff-eb92c8116f1a",
+    "role": "Customer Experience",
+    "title": "Associate Manager | Customer Experience",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/2e47b59f-f68f-4266-80ff-eb92c8116f1a"
+  },
+  {
+    "id": "755b70b4-e548-4564-9b53-7b74d49b42c0",
+    "role": "Strategic Finance",
+    "title": "Associate, Strategic Finance",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/755b70b4-e548-4564-9b53-7b74d49b42c0"
+  },
+  {
+    "id": "7bfa613e-151c-469b-9973-c89ee3d14838",
+    "role": "Backend",
+    "title": "Backend Engineer, Ops",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/7bfa613e-151c-469b-9973-c89ee3d14838"
+  },
+  {
+    "id": "461eae23-fbc5-4590-aa3e-d0e61bdb9905",
+    "role": "Corporate",
+    "title": "Business Lead | Procure\u2011to\u2011Pay",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/461eae23-fbc5-4590-aa3e-d0e61bdb9905"
+  },
+  {
+    "id": "e675851d-b7f2-46b5-ad19-3e20d9cc0d87",
+    "role": "Growth Engineering",
+    "title": "Business Systems Analyst/Admin",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/e675851d-b7f2-46b5-ad19-3e20d9cc0d87"
+  },
+  {
+    "id": "a512aa87-2f3b-4229-b67b-4591c200d650",
+    "role": "Growth Engineering",
+    "title": "Business Systems Engineer",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/a512aa87-2f3b-4229-b67b-4591c200d650"
+  },
+  {
+    "id": "71411021-d7d9-47fe-95b4-4b0b1365dff8",
+    "role": "Channel Sales",
+    "title": "Channel Market Development Manager",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/71411021-d7d9-47fe-95b4-4b0b1365dff8"
+  },
+  {
+    "id": "b596ad9f-9727-4508-bfa1-079123be9d92",
+    "role": "Channel Sales",
+    "title": "Channel Partner Manager | Public Sector",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/b596ad9f-9727-4508-bfa1-079123be9d92"
+  },
+  {
+    "id": "b072f3d9-88a4-4ce6-98c1-f8e91c07f842",
+    "role": "Channel Sales",
+    "title": "Channel Partner Manager | Reseller, National",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/b072f3d9-88a4-4ce6-98c1-f8e91c07f842"
+  },
+  {
+    "id": "1723f96f-fe55-416c-8d1a-c53562d64c84",
+    "role": "Channel Sales",
+    "title": "Channel Partner Manager | Reseller, Regional",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/1723f96f-fe55-416c-8d1a-c53562d64c84"
+  },
+  {
+    "id": "3ce8d76b-0cfb-4dd5-b36b-de22c4bd85e9",
+    "role": "Channel Sales",
+    "title": "Channel Partner Manager | Venture Capital & Banks",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/3ce8d76b-0cfb-4dd5-b36b-de22c4bd85e9"
+  },
+  {
+    "id": "fb6cd6f5-0788-42a0-9d21-36a94e8134a9",
+    "role": "Legal",
+    "title": "Corporate Counsel",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/fb6cd6f5-0788-42a0-9d21-36a94e8134a9"
+  },
+  {
+    "id": "a4ecdd59-e379-4841-9bd3-c3f1f86da008",
+    "role": "Customer Success Management",
+    "title": "Customer Activation Manager, Commercial ",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/a4ecdd59-e379-4841-9bd3-c3f1f86da008"
+  },
+  {
+    "id": "09a9381c-677b-40a5-9ff1-027bd4302c13",
+    "role": "Customer Success Management",
+    "title": "Customer Activation Manager | Enterprise",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/09a9381c-677b-40a5-9ff1-027bd4302c13"
+  },
+  {
+    "id": "8086c65e-b4cc-4bdd-8f1f-5bdf03130ff4",
+    "role": "Customer Success Management",
+    "title": "Customer Activation Manager | Mid-Market",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/8086c65e-b4cc-4bdd-8f1f-5bdf03130ff4"
+  },
+  {
+    "id": "ab6902bd-544e-4107-bf3b-b2157ee84aee",
+    "role": "Solutions Consulting",
+    "title": "Customer Activation Manager | Public Sector",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/ab6902bd-544e-4107-bf3b-b2157ee84aee"
+  },
+  {
+    "id": "f330ccd7-59f5-4032-82b0-4448482769e4",
+    "role": "Customer Success Management",
+    "title": "Customer Activation Manager | Strategic Enterprise",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/f330ccd7-59f5-4032-82b0-4448482769e4"
+  },
+  {
+    "id": "4904547a-e2ca-407c-b113-8aae2be0790c",
+    "role": "Customer Success Management",
+    "title": "Customer Activation | Partnerships ",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/4904547a-e2ca-407c-b113-8aae2be0790c"
+  },
+  {
+    "id": "d64609dd-c391-45a2-bfdb-c1bb34e8f93c",
+    "role": "Customer Experience",
+    "title": "Customer Experience Agent",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/d64609dd-c391-45a2-bfdb-c1bb34e8f93c"
+  },
+  {
+    "id": "40f43993-21e8-4db1-a9f4-7a3e6098a9ba",
+    "role": "Customer Experience",
+    "title": "Customer Experience Agent (Evening Shift)",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/40f43993-21e8-4db1-a9f4-7a3e6098a9ba"
+  },
+  {
+    "id": "9fb1d2f5-2c06-4d06-9394-df2d4420bd5d",
+    "role": "Customer Success Management",
+    "title": "Customer Success and Implementations Manager, Juno",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/9fb1d2f5-2c06-4d06-9394-df2d4420bd5d"
+  },
+  {
+    "id": "e577622f-6657-4e53-8941-b3a774b04448",
+    "role": "Data",
+    "title": "Data Scientist, All Levels",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/e577622f-6657-4e53-8941-b3a774b04448"
+  },
+  {
+    "id": "3d81a24f-cca4-4b2b-9478-cf422adc8237",
+    "role": "Design",
+    "title": "Design Engineer",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/3d81a24f-cca4-4b2b-9478-cf422adc8237"
+  },
+  {
+    "id": "f0918978-d6da-4cd7-b248-055aaa108426",
+    "role": "Security",
+    "title": "Detection & Response, Lead",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/f0918978-d6da-4cd7-b248-055aaa108426"
+  },
+  {
+    "id": "0907ae2a-5334-4d64-9a76-cc9428224546",
+    "role": "Growth Marketing",
+    "title": "Director, Performance Marketing",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/0907ae2a-5334-4d64-9a76-cc9428224546"
+  },
+  {
+    "id": "64afd002-fa7e-4d23-bc29-d3b8eadd9f1c",
+    "role": "Accounting",
+    "title": "Director, Product Accounting",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/64afd002-fa7e-4d23-bc29-d3b8eadd9f1c"
+  },
+  {
+    "id": "9d165e64-bf63-4b16-878f-b46188563ca2",
+    "role": "Solutions Consulting",
+    "title": "Director, Technical Consultant",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/9d165e64-bf63-4b16-878f-b46188563ca2"
+  },
+  {
+    "id": "979c7cc4-4d7e-4604-abe8-bcaf8e258523",
+    "role": "Sales Enablement",
+    "title": "Enablement Manager | Post-Sales",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/979c7cc4-4d7e-4604-abe8-bcaf8e258523"
+  },
+  {
+    "id": "b4cbb19e-8249-4339-8eac-20e3806d7999",
+    "role": "Account Executive",
+    "title": "Enterprise Account Executive, Juno",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/b4cbb19e-8249-4339-8eac-20e3806d7999"
+  },
+  {
+    "id": "bf7064e1-3eb3-4d03-ac81-0e52b71661a4",
+    "role": "Channel Sales",
+    "title": "Enterprise Channel Sales Consultant, Juno",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/bf7064e1-3eb3-4d03-ac81-0e52b71661a4"
+  },
+  {
+    "id": "ab74a687-4545-47c9-870d-bfd7e7cde576",
+    "role": "Customer Success Management",
+    "title": "Enterprise Customer Activation Manager | Bill Pay & Procurement ",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/ab74a687-4545-47c9-870d-bfd7e7cde576"
+  },
+  {
+    "id": "b2ad6271-5748-4433-bc29-f50aa665d72e",
+    "role": "Product Marketing",
+    "title": "Enterprise Product Marketing Manager",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/b2ad6271-5748-4433-bc29-f50aa665d72e"
+  },
+  {
+    "id": "1e65eee9-63b5-40c8-a026-fbe3262a28cf",
+    "role": "Corporate",
+    "title": "Executive Assistant",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/1e65eee9-63b5-40c8-a026-fbe3262a28cf"
+  },
+  {
+    "id": "807f3f46-1ab6-4e48-89d2-49497f698a3e",
+    "role": "Growth Marketing",
+    "title": "Field Marketing Manager, West | Seattle",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/807f3f46-1ab6-4e48-89d2-49497f698a3e"
+  },
+  {
+    "id": "f2ad6068-02e7-4986-967e-804ecef9e043",
+    "role": "Business Development",
+    "title": "Financial Partnerships Manager, International",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/f2ad6068-02e7-4986-967e-804ecef9e043"
+  },
+  {
+    "id": "2f9eaac5-ab42-4f00-aa89-6030bb2b5acb",
+    "role": "Financial Partnerships",
+    "title": "Financial Partnerships Manager, Stablecoins & Cross-Border Payments",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/2f9eaac5-ab42-4f00-aa89-6030bb2b5acb"
+  },
+  {
+    "id": "a4d92b2a-bda6-439e-ba72-3a23e41e495f",
+    "role": "Forward Deployed",
+    "title": "Forward Deployed Operations",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/a4d92b2a-bda6-439e-ba72-3a23e41e495f"
+  },
+  {
+    "id": "8e91631a-7e69-4d76-a73b-de2f09d7de9f",
+    "role": "Growth Marketing",
+    "title": "Growth Manager, Website CRO",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/8e91631a-7e69-4d76-a73b-de2f09d7de9f"
+  },
+  {
+    "id": "5f29499f-1f33-4104-8277-65f02e17c955",
+    "role": "Communications",
+    "title": "Head of Content",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/5f29499f-1f33-4104-8277-65f02e17c955"
+  },
+  {
+    "id": "7c113779-0f85-45a7-b69e-f2e10d4218bf",
+    "role": "People & Talent Operations",
+    "title": "HRIS Manager",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/7c113779-0f85-45a7-b69e-f2e10d4218bf"
+  },
+  {
+    "id": "832ec6d9-580f-48b1-9b76-cbf854590f46",
+    "role": "Strategic Finance",
+    "title": "Indirect Tax Manager",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/832ec6d9-580f-48b1-9b76-cbf854590f46"
+  },
+  {
+    "id": "4400dd85-3ccc-4025-8868-4bda2f0062a4",
+    "role": "Growth Marketing",
+    "title": "Influencer Manager",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/4400dd85-3ccc-4025-8868-4bda2f0062a4"
+  },
+  {
+    "id": "910f3de4-8492-47ca-b55c-6cea0ab64b1a",
+    "role": "Customer Experience",
+    "title": "Integrations Expert | Customer Experience",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/910f3de4-8492-47ca-b55c-6cea0ab64b1a"
+  },
+  {
+    "id": "671a5957-397b-455e-9d34-04526a784aed",
+    "role": "Business Development",
+    "title": "Issuing Partnerships Manager",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/671a5957-397b-455e-9d34-04526a784aed"
+  },
+  {
+    "id": "9a60f41c-1df7-4330-bd0c-ba1481a13bbb",
+    "role": "IT",
+    "title": "IT Site Lead | San Francisco",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/9a60f41c-1df7-4330-bd0c-ba1481a13bbb"
+  },
+  {
+    "id": "baf0a4d2-e07e-4f76-af85-d85c91f479a4",
+    "role": "Account Manager",
+    "title": "Manager, Account Manager | Mid-Market",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/baf0a4d2-e07e-4f76-af85-d85c91f479a4"
+  },
+  {
+    "id": "28babcd7-1da5-434d-8e87-deb7b5809a43",
+    "role": "Customer Success Management",
+    "title": "Manager, Partner Success Strategy & Operations",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/28babcd7-1da5-434d-8e87-deb7b5809a43"
+  },
+  {
+    "id": "f564dcf9-9390-4a3f-896f-8047a5086040",
+    "role": "Mobile",
+    "title": "Mobile Engineer, Android",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/f564dcf9-9390-4a3f-896f-8047a5086040"
+  },
+  {
+    "id": "4859cd5e-f2a9-44d7-81f7-8bfc0e62369f",
+    "role": "Software Engineering - Industry",
+    "title": "Mobile Engineer, iOS",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f"
+  },
+  {
+    "id": "b55447c0-4adc-42eb-9ca2-f88fd44e0e5b",
+    "role": "Channel Sales",
+    "title": "Partner Development Representative | Accounting ",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/b55447c0-4adc-42eb-9ca2-f88fd44e0e5b"
+  },
+  {
+    "id": "503b53ff-7986-4657-a5f6-0779559999ac",
+    "role": "Channel Sales",
+    "title": "Partner Development Representative | Financial Institutions",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/503b53ff-7986-4657-a5f6-0779559999ac"
+  },
+  {
+    "id": "25fab813-c74b-460a-9728-c7d9cc93090c",
+    "role": "Growth Marketing",
+    "title": "Performance Marketing Analyst, Direct Mail",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/25fab813-c74b-460a-9728-c7d9cc93090c"
+  },
+  {
+    "id": "4c24a55a-ea3b-4cea-a5b5-7862938616bf",
+    "role": "Solutions Consulting",
+    "title": "Procurement Architect",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/4c24a55a-ea3b-4cea-a5b5-7862938616bf"
+  },
+  {
+    "id": "b14626bf-6208-419c-a12b-11453f5d34bd",
+    "role": "Legal",
+    "title": "Product and Regulatory Counsel",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/b14626bf-6208-419c-a12b-11453f5d34bd"
+  },
+  {
+    "id": "eca54d0e-232a-4c3e-bfcc-d6c6add393f5",
+    "role": "Design",
+    "title": "Product Designer",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/eca54d0e-232a-4c3e-bfcc-d6c6add393f5"
+  },
+  {
+    "id": "bc828c32-cac3-42b4-9d26-ce80af957da1",
+    "role": "Product Management",
+    "title": "Product Manager | Financial Intelligence",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/bc828c32-cac3-42b4-9d26-ce80af957da1"
+  },
+  {
+    "id": "9972df9e-4133-4e2c-9305-49c285b76506",
+    "role": "Product Management",
+    "title": "Product Manager | Generalist (All Levels)",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/9972df9e-4133-4e2c-9305-49c285b76506"
+  },
+  {
+    "id": "e0b64893-0459-4d84-ac4f-7b50966ef024",
+    "role": "Product Management",
+    "title": "Product Manager | Growth",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/e0b64893-0459-4d84-ac4f-7b50966ef024"
+  },
+  {
+    "id": "8baec095-2235-41ab-ab64-9abc57823b4b",
+    "role": "Product Management",
+    "title": "Product Manager | International",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/8baec095-2235-41ab-ab64-9abc57823b4b"
+  },
+  {
+    "id": "86f1f75d-ea6f-4959-9a68-408bf56ead45",
+    "role": "Product Management",
+    "title": "Product Manager | New Bets",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/86f1f75d-ea6f-4959-9a68-408bf56ead45"
+  },
+  {
+    "id": "624cd0cc-7471-4c9a-99be-56b90809d2ce",
+    "role": "People & Talent",
+    "title": "Recruiting Manager | Engineering",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/624cd0cc-7471-4c9a-99be-56b90809d2ce"
+  },
+  {
+    "id": "fbc42a9a-6fc2-4061-9511-502ee4f2a60a",
+    "role": "Risk Operations",
+    "title": "Risk Operations Specialist, Payments",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/fbc42a9a-6fc2-4061-9511-502ee4f2a60a"
+  },
+  {
+    "id": "d2d32a6d-5f29-4708-83d0-03b4e44c031d",
+    "role": "SDR",
+    "title": "Sales Development Representative",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/d2d32a6d-5f29-4708-83d0-03b4e44c031d"
+  },
+  {
+    "id": "add8bb4a-f618-44f9-9874-81b32d7d862b",
+    "role": "SDR",
+    "title": "Sales Development Representative, Inbound | Ontario, Canada",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/add8bb4a-f618-44f9-9874-81b32d7d862b"
+  },
+  {
+    "id": "cce684de-191d-4a8a-bc42-7ded3ccd47af",
+    "role": "SDR",
+    "title": "Sales Development Representative | Ontario, Canada",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/cce684de-191d-4a8a-bc42-7ded3ccd47af"
+  },
+  {
+    "id": "94d79eed-34db-42c8-b47c-5edef335b7f2",
+    "role": "Customer Success Management",
+    "title": "Scaled Customer Activation Manager",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/94d79eed-34db-42c8-b47c-5edef335b7f2"
+  },
+  {
+    "id": "503f45ec-9b4c-44c1-95dd-fa8aaf96e5a8",
+    "role": "Customer Success Management",
+    "title": "Scaled Customer Activation Manager | Bill Pay Specialist",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/503f45ec-9b4c-44c1-95dd-fa8aaf96e5a8"
+  },
+  {
+    "id": "95f450a1-0d38-4d58-9aac-9d7e655adc36",
+    "role": "Backend",
+    "title": "Security Engineer, Privacy",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/95f450a1-0d38-4d58-9aac-9d7e655adc36"
+  },
+  {
+    "id": "7c26780b-7923-42d5-8111-9825ff996966",
+    "role": "Backend",
+    "title": "Security Engineer, Product",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/7c26780b-7923-42d5-8111-9825ff996966"
+  },
+  {
+    "id": "b6f399c4-b11f-453d-9ca7-cf823500c84e",
+    "role": "Security",
+    "title": "Security Program Manager, AI Assurance",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/b6f399c4-b11f-453d-9ca7-cf823500c84e"
+  },
+  {
+    "id": "c539b349-d570-41a8-824f-94fc9729caa6",
+    "role": "Account Manager",
+    "title": "Senior Account Manager | Commercial",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/c539b349-d570-41a8-824f-94fc9729caa6"
+  },
+  {
+    "id": "97898101-f97b-47c8-a991-267afc517ae5",
+    "role": "Customer Success Management",
+    "title": "Senior Customer Activation Manager | Partnerships ",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/97898101-f97b-47c8-a991-267afc517ae5"
+  },
+  {
+    "id": "41696f51-7b29-4e12-b528-46c2f6c4f5f7",
+    "role": "Data",
+    "title": "Senior Data Scientist | Growth ",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/41696f51-7b29-4e12-b528-46c2f6c4f5f7"
+  },
+  {
+    "id": "bac452dd-e553-479b-b6ac-2568003ec6dc",
+    "role": "Growth Marketing",
+    "title": "Senior Director | Finance Transformation",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/bac452dd-e553-479b-b6ac-2568003ec6dc"
+  },
+  {
+    "id": "56c53865-0cbe-4303-bced-43b06df59f69",
+    "role": "Risk",
+    "title": "Senior Fraud Operations Specialist | Singapore",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/56c53865-0cbe-4303-bced-43b06df59f69"
+  },
+  {
+    "id": "8d7eb6d1-a691-4be1-a333-c2b23a7ab0d5",
+    "role": "Customer Success Management",
+    "title": "Senior Manager, Strategic Implementations ",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/8d7eb6d1-a691-4be1-a333-c2b23a7ab0d5"
+  },
+  {
+    "id": "bdd28c40-f95b-43df-bebe-3b8a25c8f602",
+    "role": "People & Talent Operations",
+    "title": "Senior Manager, Talent Operations",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/bdd28c40-f95b-43df-bebe-3b8a25c8f602"
+  },
+  {
+    "id": "130259a3-866d-4f6e-9f89-390f82c8d8ac",
+    "role": "Solutions Consulting",
+    "title": "Senior Manager, Technical Consulting",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/130259a3-866d-4f6e-9f89-390f82c8d8ac"
+  },
+  {
+    "id": "b08f642a-674b-482c-aa4c-bc907860136d",
+    "role": "Growth Marketing",
+    "title": "Senior Marketing Media Analyst",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/b08f642a-674b-482c-aa4c-bc907860136d"
+  },
+  {
+    "id": "f0f95d20-fb64-4c06-86ff-6142e937fe0b",
+    "role": "Customer Success Management",
+    "title": "Senior Scaled Customer Activation Manager",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/f0f95d20-fb64-4c06-86ff-6142e937fe0b"
+  },
+  {
+    "id": "7d85fdd7-1c0f-4552-a1e0-8f2482446003",
+    "role": "Customer Success Management",
+    "title": "Senior Scaled Customer Activation Manager | Bill Pay Specialist",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/7d85fdd7-1c0f-4552-a1e0-8f2482446003"
+  },
+  {
+    "id": "8beb1735-ded2-4067-b982-fb0faed9038e",
+    "role": "Security",
+    "title": "Senior Security Program Manager | Public Sector",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/8beb1735-ded2-4067-b982-fb0faed9038e"
+  },
+  {
+    "id": "1540a41f-d88f-4c89-9b08-5b9fade1ee81",
+    "role": "Growth Engineering",
+    "title": "Senior Software Engineer | GTM Platform, Frontend",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/1540a41f-d88f-4c89-9b08-5b9fade1ee81"
+  },
+  {
+    "id": "71e5c2bf-6014-499e-92b5-c4b3241bbbcd",
+    "role": "Communications",
+    "title": "Social Media Manager",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/71e5c2bf-6014-499e-92b5-c4b3241bbbcd"
+  },
+  {
+    "id": "ed2e9a94-f58e-4ff8-8853-afd977850d43",
+    "role": "Backend",
+    "title": "Software Engineer, Accounting",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/ed2e9a94-f58e-4ff8-8853-afd977850d43"
+  },
+  {
+    "id": "b42cce4b-8fa9-4e8d-892d-3a29a7afb909",
+    "role": "Engineering",
+    "title": "Software Engineer, AI DevX",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/b42cce4b-8fa9-4e8d-892d-3a29a7afb909"
+  },
+  {
+    "id": "9320454f-f2ca-4c19-82d2-b51b8d75fd3a",
+    "role": "Backend",
+    "title": "Software Engineer, Argentina",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a"
+  },
+  {
+    "id": "2a4968ae-220c-471b-b890-a011de570bbb",
+    "role": "Backend",
+    "title": "Software Engineer, Bill Pay & Procurement",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/2a4968ae-220c-471b-b890-a011de570bbb"
+  },
+  {
+    "id": "5fe4c64e-9336-4384-9e6f-ff32eeb3fdae",
+    "role": "Backend",
+    "title": "Software Engineer, Core Product",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/5fe4c64e-9336-4384-9e6f-ff32eeb3fdae"
+  },
+  {
+    "id": "bca0346c-b843-4795-96df-6091f51e421b",
+    "role": "Infrastructure ",
+    "title": "Software Engineer, Data Platform ",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/bca0346c-b843-4795-96df-6091f51e421b"
+  },
+  {
+    "id": "42527ca9-03b9-499e-a5c4-18e4245af138",
+    "role": "Backend",
+    "title": "Software Engineer, Dev API",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/42527ca9-03b9-499e-a5c4-18e4245af138"
+  },
+  {
+    "id": "9912212c-2edd-4bdb-a18c-1087bcae0522",
+    "role": "Infrastructure ",
+    "title": "Software Engineer, FedRAMP Infrastructure",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/9912212c-2edd-4bdb-a18c-1087bcae0522"
+  },
+  {
+    "id": "1b191a1d-bb39-4b4a-b6bf-224e66ead1eb",
+    "role": "Backend",
+    "title": "Software Engineer, Financial Systems",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/1b191a1d-bb39-4b4a-b6bf-224e66ead1eb"
+  },
+  {
+    "id": "deca582c-a1d0-4705-9975-60aed81ba89f",
+    "role": "Forward Deployed",
+    "title": "Software Engineer, Forward Deployed",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f"
+  },
+  {
+    "id": "8fa367de-71ba-409e-befd-175a163acb1b",
+    "role": "Backend",
+    "title": "Software Engineer, Fraud & Identity",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/8fa367de-71ba-409e-befd-175a163acb1b"
+  },
+  {
+    "id": "4e64ab86-4e30-403b-b1b9-41dc052570ce",
+    "role": "Frontend",
+    "title": "Software Engineer, Frontend",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/4e64ab86-4e30-403b-b1b9-41dc052570ce"
+  },
+  {
+    "id": "0c9e3e0f-54df-4252-a17b-b506e954225b",
+    "role": "Growth Engineering",
+    "title": "Software Engineer, Growth",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/0c9e3e0f-54df-4252-a17b-b506e954225b"
+  },
+  {
+    "id": "f5b60cf1-c0ec-42c1-89db-ece853e998ab",
+    "role": "Growth Engineering",
+    "title": "Software Engineer, Growth Platform",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/f5b60cf1-c0ec-42c1-89db-ece853e998ab"
+  },
+  {
+    "id": "0ea43bb5-201b-4626-ae19-1d7ae3a3193f",
+    "role": "Infrastructure ",
+    "title": "Software Engineer, Infrastructure",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/0ea43bb5-201b-4626-ae19-1d7ae3a3193f"
+  },
+  {
+    "id": "67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
+    "role": "Emerging Talent - SWE",
+    "title": "Software Engineer Internship, Android ",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b"
+  },
+  {
+    "id": "31f7e045-9a51-4a75-9ffc-d815d6db6daa",
+    "role": "Emerging Talent - SWE",
+    "title": "Software Engineer Internship, Frontend",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/31f7e045-9a51-4a75-9ffc-d815d6db6daa"
+  },
+  {
+    "id": "5598f7b8-4ae2-4105-a2b4-2d0f55c54c40",
+    "role": "Backend",
+    "title": "Software Engineer, Risk",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/5598f7b8-4ae2-4105-a2b4-2d0f55c54c40"
+  },
+  {
+    "id": "d1183b00-6590-4fe4-a585-28d84e578fe3",
+    "role": "Backend",
+    "title": "Software Engineer, Stablecoins",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3"
+  },
+  {
+    "id": "f2d10bdf-0906-47eb-96fb-0efe6f81d8a3",
+    "role": "Backend",
+    "title": "Software Engineer, Travel, Juno",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/f2d10bdf-0906-47eb-96fb-0efe6f81d8a3"
+  },
+  {
+    "id": "29b679a8-9990-48c1-b91e-001c566ced27",
+    "role": "Solutions Consulting",
+    "title": "Solutions Consultant, Enterprise ",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/29b679a8-9990-48c1-b91e-001c566ced27"
+  },
+  {
+    "id": "f36f233b-bb27-4334-87df-8dc02b897724",
+    "role": "Solutions Consulting",
+    "title": "Solutions Consultant, Mid-Market",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/f36f233b-bb27-4334-87df-8dc02b897724"
+  },
+  {
+    "id": "4314ed0e-186d-4d37-a2a7-bf49999a6747",
+    "role": "Solutions Consulting",
+    "title": "Solutions Consultant | Public Sector",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/4314ed0e-186d-4d37-a2a7-bf49999a6747"
+  },
+  {
+    "id": "157bb000-868b-4a6d-9143-67619871812f",
+    "role": "Solutions Consulting",
+    "title": "Solutions Consultant | Public Sector",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/157bb000-868b-4a6d-9143-67619871812f"
+  },
+  {
+    "id": "e32364c2-a952-44c3-b2dc-a1c6204ddb8a",
+    "role": "Accounting",
+    "title": "Technical Accounting Manager",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/e32364c2-a952-44c3-b2dc-a1c6204ddb8a"
+  },
+  {
+    "id": "e45a8b6a-5029-4ca5-ac6f-5af940843c72",
+    "role": "Solutions Consulting",
+    "title": "Technical Consultant, Strategic",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/e45a8b6a-5029-4ca5-ac6f-5af940843c72"
+  },
+  {
+    "id": "21aabcbe-948c-47ab-bcf8-3ac3f13174a9",
+    "role": "Talent",
+    "title": "Technical Recruiter | Engineering | Industry or University",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/21aabcbe-948c-47ab-bcf8-3ac3f13174a9"
+  },
+  {
+    "id": "47dfbc1a-824a-40a6-96f6-d500f26cf361",
+    "role": "People & Talent",
+    "title": "Technical Sourcer | Engineering",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/47dfbc1a-824a-40a6-96f6-d500f26cf361"
+  },
+  {
+    "id": "fc971889-db1d-4a20-a25e-f282f9296936",
+    "role": "Customer Experience",
+    "title": "University Grad | Customer Experience Agent",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936"
+  },
+  {
+    "id": "59d37975-3e84-4d55-adb7-11dccf97ad88",
+    "role": "Emerging Talent - SDR",
+    "title": "University Grad | Sales Development Representative",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/59d37975-3e84-4d55-adb7-11dccf97ad88"
+  },
+  {
+    "id": "a1229aec-1105-4c47-8533-b912e732ed89",
+    "role": "Emerging Talent - SWE",
+    "title": "University Grad | Software Engineer | Frontend",
+    "company": "ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89"
+  }
+]

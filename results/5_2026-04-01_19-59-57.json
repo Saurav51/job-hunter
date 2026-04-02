@@ -1,0 +1,62 @@
+{
+  "anthropic": [
+    {
+      "id": "5153588008",
+      "role": "Sales",
+      "title": "Head of Programmatic Outcomes \u2014 Partners",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5153588008"
+    },
+    {
+      "id": "5153580008",
+      "role": "Sales",
+      "title": "Head of Programmatic Outcomes \u2014 Product",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5153580008"
+    },
+    {
+      "id": "5147350008",
+      "role": "Communications",
+      "title": "Internal Communications Manager, Policy ",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5147350008"
+    },
+    {
+      "id": "5173031008",
+      "role": "Sales",
+      "title": "Manager, Applied AI Solutions Architecture - Partnerships",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5173031008"
+    },
+    {
+      "id": "5172396008",
+      "role": "Public Policy",
+      "title": "Strategy & Operations, Public Policy & Public Benefit",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5172396008"
+    }
+  ],
+  "openai": [
+    {
+      "id": "caf73542-dc90-4d3b-8962-b6da51711aec",
+      "role": "Growth",
+      "title": "AI Workflow Engineer, Marketing Innovation",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/caf73542-dc90-4d3b-8962-b6da51711aec"
+    },
+    {
+      "id": "3423e484-d978-4593-855d-ff6fa4b62f75",
+      "role": "Recruiting",
+      "title": "G&A Recruiter ",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/3423e484-d978-4593-855d-ff6fa4b62f75"
+    },
+    {
+      "id": "3de4718b-8f4c-4b63-8637-02077a0113aa",
+      "role": "Security",
+      "title": "Security Engineer, Host Assurance",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/3de4718b-8f4c-4b63-8637-02077a0113aa"
+    }
+  ]
+}

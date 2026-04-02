@@ -6,4 +6,5 @@ def fetch_all():
     jobs += greenhouse.fetch("anthropic")
     jobs += ashby.fetch("perplexity")
     jobs += ashby.fetch("openai")
+    jobs += ashby.fetch("ramp")
     return jobs

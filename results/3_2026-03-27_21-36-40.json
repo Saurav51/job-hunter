@@ -1,0 +1,176 @@
+{
+  "anthropic": [
+    {
+      "id": "5017273008",
+      "role": "Finance",
+      "title": "Corporate Finance & Strategy, Planning & Reporting",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5017273008"
+    },
+    {
+      "id": "5168144008",
+      "role": "Finance",
+      "title": "Order Management ",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5168144008"
+    },
+    {
+      "id": "5113785008",
+      "role": "People",
+      "title": "People Research Scientist",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5113785008"
+    },
+    {
+      "id": "5153924008",
+      "role": "Product Management, Support, & Operations",
+      "title": "Product Manager, Multi-Cloud Growth - Google",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5153924008"
+    },
+    {
+      "id": "4991194008",
+      "role": "Finance",
+      "title": "Senior Business Systems Analyst, Finance Systems",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/4991194008"
+    },
+    {
+      "id": "5168829008",
+      "role": "Safeguards (Trust & Safety) ",
+      "title": "Software Engineer, Cloud Inference Safeguards",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5168829008"
+    },
+    {
+      "id": "5168482008",
+      "role": "Sales",
+      "title": "Strategic Account Executive, Canada Financial Services - FSI",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5168482008"
+    }
+  ],
+  "perplexity": [
+    {
+      "id": "e7f59bee-4960-4b86-a0f5-b312cafd10bc",
+      "role": "Product Engineering",
+      "title": "Software Engineer - Agentic Commerce ",
+      "company": "perplexity",
+      "link": "https://jobs.ashbyhq.com/perplexity/e7f59bee-4960-4b86-a0f5-b312cafd10bc"
+    }
+  ],
+  "openai": [
+    {
+      "id": "f89a91bf-0436-4ca7-b316-92d4f42460a5",
+      "role": "Creative",
+      "title": "Creative Director, Stories",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/f89a91bf-0436-4ca7-b316-92d4f42460a5"
+    },
+    {
+      "id": "917f8212-faa6-48bd-a83d-497536d4101f",
+      "role": "Workplace",
+      "title": "Director, Leasing and Strategy, Real Estate & Workplace",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/917f8212-faa6-48bd-a83d-497536d4101f"
+    },
+    {
+      "id": "38f7ff08-bdc6-4f1a-ad7d-1d34abe6affc",
+      "role": "Production",
+      "title": "Executive Producer",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/38f7ff08-bdc6-4f1a-ad7d-1d34abe6affc"
+    },
+    {
+      "id": "13cdb1b1-8c21-4bff-8201-f7ca904e181d",
+      "role": "Datacenter Design",
+      "title": "Facilities Operations Lead  - Stargate",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/13cdb1b1-8c21-4bff-8201-f7ca904e181d"
+    },
+    {
+      "id": "e26ddc06-132c-4dcf-8b21-c712025d126c",
+      "role": "Sales",
+      "title": "Head of EMEA Sales Development",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/e26ddc06-132c-4dcf-8b21-c712025d126c"
+    },
+    {
+      "id": "a0a1a05f-464a-4412-9cc9-ba722491e2ad",
+      "role": "Sales",
+      "title": "Head of North American Sales Development",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/a0a1a05f-464a-4412-9cc9-ba722491e2ad"
+    },
+    {
+      "id": "2f8a9267-6fdf-4067-b162-d219b844268c",
+      "role": "B2B Applications",
+      "title": "Product Engineer, ",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/2f8a9267-6fdf-4067-b162-d219b844268c"
+    },
+    {
+      "id": "3593839b-bce8-4de7-862c-4807fd6e40c3",
+      "role": "Recruiting",
+      "title": "Recruiter, Forward Deployed Engineering",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/3593839b-bce8-4de7-862c-4807fd6e40c3"
+    },
+    {
+      "id": "2374c932-2837-451e-866b-02e453cf33b5",
+      "role": "Recruiting",
+      "title": "Recruiter, Forward Deployed Engineering",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/2374c932-2837-451e-866b-02e453cf33b5"
+    },
+    {
+      "id": "de2f9d9b-f19f-4190-a366-bbb7ffbad10e",
+      "role": "People Programs & Strategy",
+      "title": "Senior Talent & Succession Program Manager",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/de2f9d9b-f19f-4190-a366-bbb7ffbad10e"
+    },
+    {
+      "id": "e1321408-91da-4ef3-8ac6-2e1da1be796f",
+      "role": "Scaling",
+      "title": "Software Engineer, System Enablement",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/e1321408-91da-4ef3-8ac6-2e1da1be796f"
+    },
+    {
+      "id": "9efcef02-0515-4672-bace-81329944b38b",
+      "role": "Scaling",
+      "title": "Software Engineer, Workload Enablement",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/9efcef02-0515-4672-bace-81329944b38b"
+    },
+    {
+      "id": "766e8c85-af56-4e6b-9097-8ac6c9eb10a5",
+      "role": "Recruiting",
+      "title": "Sourcer, Forward Deployment Engineering",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/766e8c85-af56-4e6b-9097-8ac6c9eb10a5"
+    },
+    {
+      "id": "c5a62426-169a-46a9-9dc9-1c6a2a7c2762",
+      "role": "Recruiting",
+      "title": "Sourcer, Forward Deployment Engineering",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/c5a62426-169a-46a9-9dc9-1c6a2a7c2762"
+    },
+    {
+      "id": "410fd00e-6bde-42d5-9bb8-c6504f6b3bbd",
+      "role": "Recruiting",
+      "title": "Sourcer, Forward Deployment Engineering",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/410fd00e-6bde-42d5-9bb8-c6504f6b3bbd"
+    },
+    {
+      "id": "1c3f1e61-755c-4b48-b943-b1b08ebbae8b",
+      "role": "Recruiting",
+      "title": "Sourcer, Forward Deployment Engineering",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/1c3f1e61-755c-4b48-b943-b1b08ebbae8b"
+    }
+  ]
+}

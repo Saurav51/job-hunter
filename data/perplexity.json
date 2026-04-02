@@ -91,20 +91,6 @@
     "link": "https://jobs.ashbyhq.com/perplexity/94ccf41e-d3e1-41aa-9569-c3bcbffc4184"
   },
   {
-    "id": "9d5dae86-1ec4-4dca-9ea4-24b11e4748ab",
-    "role": "Browser",
-    "title": "Browser C++ Engineer ",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/9d5dae86-1ec4-4dca-9ea4-24b11e4748ab"
-  },
-  {
-    "id": "7bce0fcf-eef6-41aa-9243-896f07a0316e",
-    "role": "Browser",
-    "title": "Browser Infrastructure Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/7bce0fcf-eef6-41aa-9243-896f07a0316e"
-  },
-  {
     "id": "0fd96ad3-49ec-4098-a881-a0d5127b3403",
     "role": "Security",
     "title": "Browser Security Engineer",
@@ -350,25 +336,11 @@
     "link": "https://jobs.ashbyhq.com/perplexity/a805e14b-061d-469c-9136-b9e6a1855902"
   },
   {
-    "id": "9b1718ee-3c40-463c-b0b6-ef74c451f06f",
-    "role": "AI",
-    "title": "Product Manager - Comet Mobile",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/9b1718ee-3c40-463c-b0b6-ef74c451f06f"
-  },
-  {
     "id": "5ec96ca1-319a-4b85-99ce-e06629099cf9",
     "role": "Communications",
     "title": "Product Marketing Manager",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/5ec96ca1-319a-4b85-99ce-e06629099cf9"
-  },
-  {
-    "id": "dd389dff-facd-4b63-a2eb-0bc32985444b",
-    "role": "People",
-    "title": "Recruiting Coordinator (Contract)",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/dd389dff-facd-4b63-a2eb-0bc32985444b"
   },
   {
     "id": "08d510a4-c217-4967-a035-b5b8147e5c62",
@@ -467,6 +439,13 @@
     "title": "Software Engineer - Acceleration",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/c03bf199-9faa-48a4-809d-095c72b06000"
+  },
+  {
+    "id": "e7f59bee-4960-4b86-a0f5-b312cafd10bc",
+    "role": "Product Engineering",
+    "title": "Software Engineer - Agentic Commerce ",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/e7f59bee-4960-4b86-a0f5-b312cafd10bc"
   },
   {
     "id": "8673866c-f624-4b58-b171-752cf003630e",

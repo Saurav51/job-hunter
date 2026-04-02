@@ -1,0 +1,181 @@
+{
+  "anthropic": [
+    {
+      "id": "5171124008",
+      "role": "Sales",
+      "title": "Customer Success Manager",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5171124008"
+    },
+    {
+      "id": "5163925008",
+      "role": "Sales",
+      "title": "Enterprise Account Executive, CPG",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5163925008"
+    },
+    {
+      "id": "5163941008",
+      "role": "Sales",
+      "title": "Enterprise Account Executive, Generalist",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5163941008"
+    },
+    {
+      "id": "5163907008",
+      "role": "Sales",
+      "title": "Enterprise Account Executive, Manufacturing",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5163907008"
+    },
+    {
+      "id": "5163917008",
+      "role": "Sales",
+      "title": "Enterprise Account Executive, Retail",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5163917008"
+    },
+    {
+      "id": "5169167008",
+      "role": "Marketing & Brand",
+      "title": "Field Marketing Manager",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5169167008"
+    },
+    {
+      "id": "5169101008",
+      "role": "Marketing & Brand",
+      "title": "Head of Enterprise Marketing Strategy & Analytics",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5169101008"
+    },
+    {
+      "id": "5171187008",
+      "role": "Sales",
+      "title": "Head of Federal Partners Sales",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5171187008"
+    },
+    {
+      "id": "5056173008",
+      "role": "Sales",
+      "title": "(London) Enterprise Account Executive, Digital Native Business",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5056173008"
+    },
+    {
+      "id": "5170073008",
+      "role": "Software Engineering - Infrastructure",
+      "title": "Network Engineer",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5170073008"
+    },
+    {
+      "id": "5169103008",
+      "role": "Legal",
+      "title": "People Legal Specialist",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5169103008"
+    },
+    {
+      "id": "5170235008",
+      "role": "People",
+      "title": "People Operations Lead",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5170235008"
+    },
+    {
+      "id": "5172245008",
+      "role": "Software Engineering - Infrastructure",
+      "title": "Senior / Staff+ Software Engineer, Voice Platform",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5172245008"
+    },
+    {
+      "id": "5170084008",
+      "role": "Compute",
+      "title": "Transaction Principal",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5170084008"
+    }
+  ],
+  "openai": [
+    {
+      "id": "a5591da5-23f3-4926-ac8d-8d1c927e3004",
+      "role": "B2B Applications",
+      "title": "Backend Software Engineer, ChatGPT Enterprise",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/a5591da5-23f3-4926-ac8d-8d1c927e3004"
+    },
+    {
+      "id": "d29b455a-9fee-4610-8e08-ce6a9ea8a37e",
+      "role": "Sales",
+      "title": "Business Development Representative - EMEA",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/d29b455a-9fee-4610-8e08-ce6a9ea8a37e"
+    },
+    {
+      "id": "82b77bb5-a39d-4387-b253-defc9ebe77da",
+      "role": "Go To Market",
+      "title": "GTM Product Enablement Lead",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/82b77bb5-a39d-4387-b253-defc9ebe77da"
+    },
+    {
+      "id": "8530d152-93e6-40cf-9822-d42fb4edcec6",
+      "role": "XYZ - Exec",
+      "title": "Head of Data Center Delivery",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/8530d152-93e6-40cf-9822-d42fb4edcec6"
+    },
+    {
+      "id": "4509797c-7e8b-4bfd-a68e-fb3fd90d2433",
+      "role": "Scaling",
+      "title": "IC Agentic Engineering Manager - Stargate",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/4509797c-7e8b-4bfd-a68e-fb3fd90d2433"
+    },
+    {
+      "id": "67f7347a-9ee9-48b3-9b34-24b717634cf9",
+      "role": "IT",
+      "title": "IT Support Specialist ",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/67f7347a-9ee9-48b3-9b34-24b717634cf9"
+    },
+    {
+      "id": "156244c1-4c21-45f1-8cf4-96f49c59a8fc",
+      "role": "Robotics",
+      "title": "Operations Manager, Data Aquisition",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/156244c1-4c21-45f1-8cf4-96f49c59a8fc"
+    },
+    {
+      "id": "49d67b25-476e-440b-b20e-51aa85a995fa",
+      "role": "Robotics",
+      "title": "PCB Layout Engineer and Librarian",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/49d67b25-476e-440b-b20e-51aa85a995fa"
+    },
+    {
+      "id": "f19db7e1-ba36-4efa-a620-d7c7fd85b67b",
+      "role": "Compute",
+      "title": "Program Manager - Industrial Compute Ecosystem",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/f19db7e1-ba36-4efa-a620-d7c7fd85b67b"
+    },
+    {
+      "id": "f85a7351-6d6b-4b00-9d50-ae2fe29be283",
+      "role": "Revenue Operations",
+      "title": "Sales Program Lead",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/f85a7351-6d6b-4b00-9d50-ae2fe29be283"
+    },
+    {
+      "id": "8eb37c9d-76d1-4420-8c73-ed9f818be009",
+      "role": "Finance",
+      "title": "Senior Manager of Technical Accounting, Strategic Transactions",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/8eb37c9d-76d1-4420-8c73-ed9f818be009"
+    }
+  ]
+}
