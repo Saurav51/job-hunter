@@ -7,18 +7,18 @@
     "link": "https://jobs.ashbyhq.com/perplexity/3c656963-876a-458d-bca6-916a42a24c1a"
   },
   {
-    "id": "e4777627-ff8f-4257-8612-3a016bb58592",
-    "role": "AI",
-    "title": "AI Inference Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592"
-  },
-  {
     "id": "8a976851-9bef-4b07-8d36-567fa9540aef",
     "role": "AI",
     "title": "AI Inference Engineer",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef"
+  },
+  {
+    "id": "e4777627-ff8f-4257-8612-3a016bb58592",
+    "role": "AI",
+    "title": "AI Inference Engineer",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592"
   },
   {
     "id": "598e1f7d-b802-4de2-99ac-90eb2bc33315",
@@ -294,18 +294,11 @@
     "link": "https://jobs.ashbyhq.com/perplexity/8c6b0350-e920-47a5-a575-b018a280bbb9"
   },
   {
-    "id": "41c289d5-5306-4ba0-b098-e8925683225a",
+    "id": "18509f15-ab49-450d-8a01-4b280e464ad0",
     "role": "IT",
-    "title": "IT Systems Administrator",
+    "title": "IT Systems Administrator ",
     "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/41c289d5-5306-4ba0-b098-e8925683225a"
-  },
-  {
-    "id": "7f75cf27-ae41-4b33-b6ca-a29c00d5a962",
-    "role": "IT",
-    "title": "IT Systems Administrator (Serbia)",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/7f75cf27-ae41-4b33-b6ca-a29c00d5a962"
+    "link": "https://jobs.ashbyhq.com/perplexity/18509f15-ab49-450d-8a01-4b280e464ad0"
   },
   {
     "id": "30d27c9c-6d6f-4614-b6b3-35bd3ce641a9",
@@ -313,6 +306,20 @@
     "title": "Lead Design Engineer \u2014 Growth & Marketing",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/30d27c9c-6d6f-4614-b6b3-35bd3ce641a9"
+  },
+  {
+    "id": "1a3df802-9238-4827-ab1f-12a9d1e4b81c",
+    "role": "Search",
+    "title": "Machine Learning Research Engineer",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/1a3df802-9238-4827-ab1f-12a9d1e4b81c"
+  },
+  {
+    "id": "0359ebb4-7cbd-4641-a6d1-1127823e2fd5",
+    "role": "AI",
+    "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/0359ebb4-7cbd-4641-a6d1-1127823e2fd5"
   },
   {
     "id": "e48aaf8c-24cd-4733-aa5b-752773467bfa",
@@ -327,6 +334,13 @@
     "title": "Model Behavior Architect ",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/9904db61-b8ca-4207-8f93-88ab6f0cd3fd"
+  },
+  {
+    "id": "69fd6a56-0050-44f7-9ed2-2c3a7320908d",
+    "role": "Security",
+    "title": "Offensive Security Engineer",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/69fd6a56-0050-44f7-9ed2-2c3a7320908d"
   },
   {
     "id": "a805e14b-061d-469c-9136-b9e6a1855902",
@@ -355,13 +369,6 @@
     "title": "Research Resident",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/adf189e8-5802-4077-aa1f-3668206aacbb"
-  },
-  {
-    "id": "739411fa-6580-4c8b-9960-035d5fa3c00e",
-    "role": "Search",
-    "title": "Search DevOps Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/739411fa-6580-4c8b-9960-035d5fa3c00e"
   },
   {
     "id": "30a09c0f-8715-447d-92b7-9f0adb772fd6",
@@ -488,13 +495,6 @@
     "title": "Strategic Finance Lead - Core",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/2e1ee70c-b070-4ccc-a2bf-8b394161bbde"
-  },
-  {
-    "id": "874705e5-092e-4b3e-af48-9559253abc55",
-    "role": "Finance",
-    "title": "Strategic Finance Lead - GTM",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/874705e5-092e-4b3e-af48-9559253abc55"
   },
   {
     "id": "44181937-a55e-4c68-a2dc-9a86e0898498",

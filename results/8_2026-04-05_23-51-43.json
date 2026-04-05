@@ -1,0 +1,150 @@
+{
+  "anthropic": [
+    {
+      "id": "5171710008",
+      "role": "Legal",
+      "title": "Contracts Manager, Public Sector",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5171710008"
+    },
+    {
+      "id": "5068570008",
+      "role": "Sales",
+      "title": "Customer Success Manager, Industries",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5068570008"
+    },
+    {
+      "id": "5174700008",
+      "role": "Sales",
+      "title": "Customer Success Manager, Scaled",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5174700008"
+    },
+    {
+      "id": "5175891008",
+      "role": "Finance",
+      "title": "Director, Technical Accounting \u2013 M&A and Investments",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5175891008"
+    },
+    {
+      "id": "5175017008",
+      "role": "Sales",
+      "title": "Ecosystem Lead, Claude Marketplace",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5175017008"
+    },
+    {
+      "id": "5171624008",
+      "role": "Marketing & Brand",
+      "title": "Head of Integrated Marketing, Claude",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5171624008"
+    },
+    {
+      "id": "5174844008",
+      "role": "Marketing & Brand",
+      "title": "Influencer Marketing Manager, Brand",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5174844008"
+    },
+    {
+      "id": "5171950008",
+      "role": "Sales",
+      "title": "Partner Sales Manager, Systems Integrators",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5171950008"
+    },
+    {
+      "id": "5174759008",
+      "role": "Public Policy",
+      "title": "Policy Programs & Partnerships, Global Impact",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5174759008"
+    },
+    {
+      "id": "5169670008",
+      "role": "Finance",
+      "title": "Strategic Deals Lead, Compute & Infrastructure",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5169670008"
+    },
+    {
+      "id": "5175013008",
+      "role": "Sales",
+      "title": "Strategic Operations Manager, Claude Marketplace",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5175013008"
+    },
+    {
+      "id": "5139423008",
+      "role": "Sales",
+      "title": "Strategy & Operations, Enterprise Business Partner",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5139423008"
+    }
+  ],
+  "perplexity": [
+    {
+      "id": "18509f15-ab49-450d-8a01-4b280e464ad0",
+      "role": "IT",
+      "title": "IT Systems Administrator ",
+      "company": "perplexity",
+      "link": "https://jobs.ashbyhq.com/perplexity/18509f15-ab49-450d-8a01-4b280e464ad0"
+    },
+    {
+      "id": "1a3df802-9238-4827-ab1f-12a9d1e4b81c",
+      "role": "Search",
+      "title": "Machine Learning Research Engineer",
+      "company": "perplexity",
+      "link": "https://jobs.ashbyhq.com/perplexity/1a3df802-9238-4827-ab1f-12a9d1e4b81c"
+    },
+    {
+      "id": "0359ebb4-7cbd-4641-a6d1-1127823e2fd5",
+      "role": "AI",
+      "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
+      "company": "perplexity",
+      "link": "https://jobs.ashbyhq.com/perplexity/0359ebb4-7cbd-4641-a6d1-1127823e2fd5"
+    },
+    {
+      "id": "69fd6a56-0050-44f7-9ed2-2c3a7320908d",
+      "role": "Security",
+      "title": "Offensive Security Engineer",
+      "company": "perplexity",
+      "link": "https://jobs.ashbyhq.com/perplexity/69fd6a56-0050-44f7-9ed2-2c3a7320908d"
+    }
+  ],
+  "openai": [
+    {
+      "id": "c4726cfd-59c2-4977-80c3-e2204ce27b8e",
+      "role": "GTM Readiness",
+      "title": "Customer Education, Learning Experience & Curriculum Lead",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/c4726cfd-59c2-4977-80c3-e2204ce27b8e"
+    },
+    {
+      "id": "d6d4fbf8-1976-4745-bf48-1a3cca5503b9",
+      "role": "Go To Market",
+      "title": "Go to Market Strategy Internship / Co-op, Emerging Talent (Summer 2026)",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/d6d4fbf8-1976-4745-bf48-1a3cca5503b9"
+    }
+  ],
+  "ramp": [
+    {
+      "id": "6857e269-b7cb-4c30-956b-8c1f76a0e406",
+      "role": "Channel Sales",
+      "title": "Channel Partner Manager | Banks",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/6857e269-b7cb-4c30-956b-8c1f76a0e406"
+    },
+    {
+      "id": "24bf5a4c-85ad-4351-88c4-51de60475681",
+      "role": "Channel Sales",
+      "title": "Channel Partner Manager | Sports",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/24bf5a4c-85ad-4351-88c4-51de60475681"
+    }
+  ]
+}
