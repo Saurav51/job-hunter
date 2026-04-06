@@ -91,21 +91,29 @@
 
     .no-jobs-msg { font-size: 0.875rem; color: #888; }
 
-    .company { margin-bottom: 20px; }
+    .company {
+      margin-bottom: 16px;
+      border-left: 3px solid var(--co-color, #6b7280);
+      padding-left: 12px;
+    }
     .company:last-child { margin-bottom: 0; }
 
     .company-name {
-      font-size: 0.7rem;
+      display: inline-block;
+      font-size: 0.78rem;
       font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      color: #888;
-      margin-bottom: 8px;
+      text-transform: capitalize;
+      letter-spacing: 0.01em;
+      color: #fff;
+      background: var(--co-color, #6b7280);
+      padding: 3px 10px;
+      border-radius: 20px;
+      margin-bottom: 10px;
     }
 
     .job {
       display: flex;
-      align-items: baseline;
+      align-items: center;
       gap: 8px;
       padding: 7px 0;
       border-bottom: 1px solid #f0f0f0;
@@ -113,11 +121,19 @@
 
     .job:last-child { border-bottom: none; }
 
+    .co-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: var(--co-color, #6b7280);
+      flex-shrink: 0;
+    }
+
     .role-badge {
       font-size: 0.68rem;
       font-weight: 600;
-      background: #eff6ff;
-      color: #1d4ed8;
+      background: #f3f4f6;
+      color: #374151;
       padding: 2px 6px;
       border-radius: 4px;
       white-space: nowrap;
@@ -165,6 +181,17 @@
     return Object.values(data).reduce((sum, jobs) => sum + jobs.length, 0);
   }
 
+  const COMPANY_COLORS = {
+    anthropic:  '#d97706',
+    openai:     '#059669',
+    perplexity: '#7c3aed',
+    ramp:       '#2563eb',
+  };
+
+  function companyColor(name) {
+    return COMPANY_COLORS[name.toLowerCase()] || '#6b7280';
+  }
+
   function renderJobs(data) {
     const total = countJobs(data);
     if (total === 0) {
@@ -172,13 +199,15 @@
     }
     return Object.entries(data).map(([company, jobs]) => {
       if (!jobs.length) return '';
+      const color = companyColor(company);
       const jobsHtml = jobs.map(j => `
         <div class="job">
+          <span class="co-dot"></span>
           ${j.role ? `<span class="role-badge">${esc(j.role)}</span>` : ''}
           <a href="${esc(j.link)}" target="_blank" rel="noopener">${esc(j.title)}</a>
         </div>`).join('');
       return `
-        <div class="company">
+        <div class="company" style="--co-color:${color}">
           <div class="company-name">${esc(company)}</div>
           ${jobsHtml}
         </div>`;
