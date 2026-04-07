@@ -7,13 +7,6 @@
     "link": "https://jobs.ashbyhq.com/perplexity/3c656963-876a-458d-bca6-916a42a24c1a"
   },
   {
-    "id": "8a976851-9bef-4b07-8d36-567fa9540aef",
-    "role": "AI",
-    "title": "AI Inference Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef"
-  },
-  {
     "id": "e4777627-ff8f-4257-8612-3a016bb58592",
     "role": "AI",
     "title": "AI Inference Engineer",
@@ -21,11 +14,25 @@
     "link": "https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592"
   },
   {
+    "id": "8a976851-9bef-4b07-8d36-567fa9540aef",
+    "role": "AI",
+    "title": "AI Inference Engineer",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef"
+  },
+  {
     "id": "598e1f7d-b802-4de2-99ac-90eb2bc33315",
     "role": "AI",
     "title": "AI Infra Engineer",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315"
+  },
+  {
+    "id": "60deb376-51b5-46c6-9e17-55377a5ef34e",
+    "role": "AI",
+    "title": "AI Infra Engineer ",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e"
   },
   {
     "id": "8fe61c73-0daf-4432-a47d-44714c1ef764",
@@ -91,13 +98,6 @@
     "link": "https://jobs.ashbyhq.com/perplexity/94ccf41e-d3e1-41aa-9569-c3bcbffc4184"
   },
   {
-    "id": "0fd96ad3-49ec-4098-a881-a0d5127b3403",
-    "role": "Security",
-    "title": "Browser Security Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/0fd96ad3-49ec-4098-a881-a0d5127b3403"
-  },
-  {
     "id": "a5b97109-222d-49e1-b2ac-e101487a5ddd",
     "role": "Business",
     "title": "Business Development Representative",
@@ -117,6 +117,13 @@
     "title": "Commercial Counsel",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/09a2f0e5-c38c-49ee-a5af-9a179e137a44"
+  },
+  {
+    "id": "d7e05546-4d42-4f1a-8ccd-c95d2519f5f6",
+    "role": "Business",
+    "title": "Community & Field Marketer",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/d7e05546-4d42-4f1a-8ccd-c95d2519f5f6"
   },
   {
     "id": "5fd49e19-9ebd-4e0a-95c4-f8c4a3eb5fd3",
@@ -474,6 +481,13 @@
     "title": "Software Engineer - Security",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03"
+  },
+  {
+    "id": "9e3a4516-b893-4579-9a6a-3720658e4b6d",
+    "role": "Business",
+    "title": "Solutions Product Marketing Manager",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/9e3a4516-b893-4579-9a6a-3720658e4b6d"
   },
   {
     "id": "9ac5e638-85f6-4308-bcd5-7dfe0a30a79b",

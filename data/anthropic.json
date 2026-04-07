@@ -21,18 +21,18 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5161975008"
   },
   {
-    "id": "5161980008",
-    "role": "Sales",
-    "title": "Account Executive, Beneficial Deployments (French Speaking)",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5161980008"
-  },
-  {
     "id": "5165641008",
     "role": "Sales",
     "title": "Account Executive, Beneficial Deployments (French Speaking)",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5165641008"
+  },
+  {
+    "id": "5161980008",
+    "role": "Sales",
+    "title": "Account Executive, Beneficial Deployments (French Speaking)",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5161980008"
   },
   {
     "id": "5165651008",
@@ -49,6 +49,13 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5161988008"
   },
   {
+    "id": "5165670008",
+    "role": "Sales",
+    "title": "Account Executive, Beneficial Deployments (Spanish Speaking)",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5165670008"
+  },
+  {
     "id": "5161986008",
     "role": "Sales",
     "title": "Account Executive, Beneficial Deployments (Spanish Speaking)",
@@ -56,11 +63,11 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5161986008"
   },
   {
-    "id": "5165670008",
+    "id": "5101378008",
     "role": "Sales",
-    "title": "Account Executive, Beneficial Deployments (Spanish Speaking)",
+    "title": "Account Executive, Public Sector",
     "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5165670008"
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5101378008"
   },
   {
     "id": "5112090008",
@@ -70,13 +77,6 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5112090008"
   },
   {
-    "id": "4461450008",
-    "role": "Sales",
-    "title": "Account Executive, Startups",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008"
-  },
-  {
     "id": "4964935008",
     "role": "Sales",
     "title": "Account Executive, Startups",
@@ -84,11 +84,11 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4964935008"
   },
   {
-    "id": "5134153008",
-    "role": "Communications",
-    "title": "AI Productivity Lead, Communications",
+    "id": "4461450008",
+    "role": "Sales",
+    "title": "Account Executive, Startups",
     "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5134153008"
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008"
   },
   {
     "id": "5123742008",
@@ -189,18 +189,18 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5066977008"
   },
   {
-    "id": "4939815008",
-    "role": "Sales",
-    "title": "Business Development Representative",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4939815008"
-  },
-  {
     "id": "5166519008",
     "role": "Sales",
     "title": "Business Development Representative",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5166519008"
+  },
+  {
+    "id": "4939815008",
+    "role": "Sales",
+    "title": "Business Development Representative",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4939815008"
   },
   {
     "id": "4969427008",
@@ -222,6 +222,13 @@
     "title": "Campus Security Manager",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5099202008"
+  },
+  {
+    "id": "5116167008",
+    "role": "Finance",
+    "title": "Capital Markets & Investor Relations ",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5116167008"
   },
   {
     "id": "5097348008",
@@ -259,18 +266,18 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5044994008"
   },
   {
-    "id": "5142966008",
-    "role": "Legal",
-    "title": "Commercial Counsel, EMEA",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
-  },
-  {
     "id": "5142971008",
     "role": "Legal",
     "title": "Commercial Counsel, EMEA",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
+  },
+  {
+    "id": "5142966008",
+    "role": "Legal",
+    "title": "Commercial Counsel, EMEA",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
   },
   {
     "id": "5074052008",
@@ -385,6 +392,13 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5062733008"
   },
   {
+    "id": "5175932008",
+    "role": "Sales",
+    "title": "Customer Success Manager, Higher Education",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5175932008"
+  },
+  {
     "id": "5068570008",
     "role": "Sales",
     "title": "Customer Success Manager, Industries",
@@ -411,13 +425,6 @@
     "title": "Data Center Design Execution Lead",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5157023008"
-  },
-  {
-    "id": "5109452008",
-    "role": "Compute",
-    "title": "Data Center Energy Lead",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5109452008"
   },
   {
     "id": "5159642008",
@@ -567,6 +574,13 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4889396008"
   },
   {
+    "id": "5140492008",
+    "role": "Engineering & Design - Product",
+    "title": "Engineering Manager, Claude for Financial Services",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5140492008"
+  },
+  {
     "id": "5141377008",
     "role": "Software Engineering - Infrastructure",
     "title": "Engineering Manager, Cloud Inference AWS",
@@ -630,13 +644,6 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4921729008"
   },
   {
-    "id": "5140492008",
-    "role": "Engineering & Design - Product",
-    "title": "Engineering Manager, Verticals \u2013 Financial Services ",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5140492008"
-  },
-  {
     "id": "5163925008",
     "role": "Sales",
     "title": "Enterprise Account Executive, CPG",
@@ -686,13 +693,6 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5104753008"
   },
   {
-    "id": "5163941008",
-    "role": "Sales",
-    "title": "Enterprise Account Executive, Generalist",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5163941008"
-  },
-  {
     "id": "4947500008",
     "role": "Sales",
     "title": "Enterprise Account Executive, Industries",
@@ -728,18 +728,18 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5163907008"
   },
   {
-    "id": "5104754008",
-    "role": "Sales",
-    "title": "Enterprise Account Executive, Retail",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5104754008"
-  },
-  {
     "id": "5163917008",
     "role": "Sales",
     "title": "Enterprise Account Executive, Retail",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5163917008"
+  },
+  {
+    "id": "5104754008",
+    "role": "Sales",
+    "title": "Enterprise Account Executive, Retail",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5104754008"
   },
   {
     "id": "5102665008",
@@ -782,6 +782,13 @@
     "title": "Enterprise Account Executive, Transportation & Utilities",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5104755008"
+  },
+  {
+    "id": "5151916008",
+    "role": "Sales",
+    "title": "Executive Engagement Lead - International",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5151916008"
   },
   {
     "id": "4980436008",
@@ -903,13 +910,6 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5069207008"
   },
   {
-    "id": "4985877008",
-    "role": "Sales",
-    "title": "Forward Deployed Engineer, Applied AI",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4985877008"
-  },
-  {
     "id": "5121563008",
     "role": "Sales",
     "title": "Forward Deployed Engineer, Applied AI",
@@ -917,18 +917,25 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5121563008"
   },
   {
-    "id": "5121561008",
-    "role": "Sales",
-    "title": "Forward Deployed Engineer, Applied AI",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5121561008"
-  },
-  {
     "id": "5012991008",
     "role": "Sales",
     "title": "Forward Deployed Engineer, Applied AI",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5012991008"
+  },
+  {
+    "id": "4985877008",
+    "role": "Sales",
+    "title": "Forward Deployed Engineer, Applied AI",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4985877008"
+  },
+  {
+    "id": "5121561008",
+    "role": "Sales",
+    "title": "Forward Deployed Engineer, Applied AI",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5121561008"
   },
   {
     "id": "5079562008",
@@ -1071,18 +1078,18 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5097305008"
   },
   {
-    "id": "5141849008",
-    "role": "Sales",
-    "title": "Incentive Compensation System Engineer",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5141849008"
-  },
-  {
     "id": "5042002008",
     "role": "Sales",
     "title": "Incentive Compensation System Engineer",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5042002008"
+  },
+  {
+    "id": "5141849008",
+    "role": "Sales",
+    "title": "Incentive Compensation System Engineer",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5141849008"
   },
   {
     "id": "5133070008",
@@ -1092,11 +1099,11 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5133070008"
   },
   {
-    "id": "5174844008",
-    "role": "Marketing & Brand",
-    "title": "Influencer Marketing Manager, Brand",
+    "id": "4973067008",
+    "role": "AI Research & Engineering",
+    "title": "Infrastructure Engineer, Pre-training",
     "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5174844008"
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4973067008"
   },
   {
     "id": "5030680008",
@@ -1127,11 +1134,11 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5147350008"
   },
   {
-    "id": "5127050008",
+    "id": "5151922008",
     "role": "Sales",
-    "title": "International GTM Onboarding Lead",
+    "title": "International Expansions Lead",
     "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5127050008"
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5151922008"
   },
   {
     "id": "5121918008",
@@ -1141,11 +1148,18 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5121918008"
   },
   {
-    "id": "4966365008",
-    "role": "Finance",
-    "title": "International Revenue Accountant",
+    "id": "5127050008",
+    "role": "Sales",
+    "title": "International GTM Onboarding Lead",
     "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4966365008"
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5127050008"
+  },
+  {
+    "id": "5151939008",
+    "role": "Sales",
+    "title": "International Readiness Lead",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5151939008"
   },
   {
     "id": "4802076008",
@@ -1260,18 +1274,18 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5117652008"
   },
   {
-    "id": "4964610008",
-    "role": "Sales",
-    "title": "Manager of Solutions Architecture, Applied AI (Industries)",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4964610008"
-  },
-  {
     "id": "5115884008",
     "role": "Sales",
     "title": "Manager of Solutions Architecture, Applied AI (Industries)",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5115884008"
+  },
+  {
+    "id": "4964610008",
+    "role": "Sales",
+    "title": "Manager of Solutions Architecture, Applied AI (Industries)",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4964610008"
   },
   {
     "id": "5146999008",
@@ -1372,18 +1386,18 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5163273008"
   },
   {
+    "id": "5177143008",
+    "role": "Compute",
+    "title": "Network Engineer, Capacity and Efficiency",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5177143008"
+  },
+  {
     "id": "5123011008",
     "role": "Safeguards (Trust & Safety) ",
     "title": "Offensive Security Research Engineer, Safeguards",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5123011008"
-  },
-  {
-    "id": "5125290008",
-    "role": "Finance",
-    "title": "Order Management",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5125290008"
   },
   {
     "id": "5168144008",
@@ -1435,11 +1449,11 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5171950008"
   },
   {
-    "id": "5112493008",
+    "id": "4950664008",
     "role": "Sales",
     "title": "Partner Solutions Architect, Applied AI",
     "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5112493008"
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008"
   },
   {
     "id": "5112486008",
@@ -1449,11 +1463,11 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5112486008"
   },
   {
-    "id": "4950664008",
+    "id": "5112493008",
     "role": "Sales",
     "title": "Partner Solutions Architect, Applied AI",
     "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008"
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5112493008"
   },
   {
     "id": "5169103008",
@@ -1526,13 +1540,6 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4949108008"
   },
   {
-    "id": "5127645008",
-    "role": "Sales",
-    "title": "Private Equity Partnerships Manager",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5127645008"
-  },
-  {
     "id": "5152817008",
     "role": "Engineering & Design - Product",
     "title": "Product Designer",
@@ -1561,6 +1568,13 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4985920008"
   },
   {
+    "id": "5153773008",
+    "role": "Product Management, Support, & Operations",
+    "title": "Product Manager, Claude Growth (Monetization) ",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5153773008"
+  },
+  {
     "id": "5127559008",
     "role": "Product Management, Support, & Operations",
     "title": "Product Manager, Consumer",
@@ -1582,18 +1596,18 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5055669008"
   },
   {
-    "id": "5138042008",
-    "role": "Product Management, Support, & Operations",
-    "title": "Product Support Specialist",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5138042008"
-  },
-  {
     "id": "4979585008",
     "role": "Product Management, Support, & Operations",
     "title": "Product Support Specialist",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4979585008"
+  },
+  {
+    "id": "5138042008",
+    "role": "Product Management, Support, & Operations",
+    "title": "Product Support Specialist",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5138042008"
   },
   {
     "id": "5141856008",
@@ -1615,13 +1629,6 @@
     "title": "Prompt Engineer, Claude Code",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5159669008"
-  },
-  {
-    "id": "5041174008",
-    "role": "People",
-    "title": "Recruiting Coordinator [contract]",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5041174008"
   },
   {
     "id": "5018472008",
@@ -1890,18 +1897,18 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5076754008"
   },
   {
+    "id": "5125290008",
+    "role": "Finance",
+    "title": "Revenue Accounting \u2014 Order Management & Billing",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5125290008"
+  },
+  {
     "id": "5016171008",
     "role": "Sales",
     "title": "Revenue Strategy & Operations Lead, Japan",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5016171008"
-  },
-  {
-    "id": "5068721008",
-    "role": "Finance",
-    "title": "Revenue Systems Solution Architect",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5068721008"
   },
   {
     "id": "5108841008",
@@ -1930,6 +1937,13 @@
     "title": "Safeguards Enforcement Lead, Frontier Abuse Enforcement",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5162211008"
+  },
+  {
+    "id": "5174857008",
+    "role": "Safeguards (Trust & Safety) ",
+    "title": "Safeguards Policy Analyst, Fraud & Scams",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5174857008"
   },
   {
     "id": "5079188008",
@@ -2142,6 +2156,13 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5172245008"
   },
   {
+    "id": "5178467008",
+    "role": "Finance",
+    "title": "Senior Treasury Analyst",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5178467008"
+  },
+  {
     "id": "4931782008",
     "role": "Sales",
     "title": "SMB Account Executive, Industries",
@@ -2182,13 +2203,6 @@
     "title": "Software Engineer, Business Technology ",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4982198008"
-  },
-  {
-    "id": "4816198008",
-    "role": "Engineering & Design - Product",
-    "title": "Software Engineer, Claude Code",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4816198008"
   },
   {
     "id": "5168829008",
@@ -2303,18 +2317,11 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5025591008"
   },
   {
-    "id": "5098506008",
-    "role": "Engineering & Design - Product",
-    "title": "Software Engineer, Windows (Claude Code)",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5098506008"
-  },
-  {
-    "id": "5117589008",
+    "id": "5117581008",
     "role": "Sales",
     "title": "Solutions Architect, Applied AI",
     "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008"
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5117581008"
   },
   {
     "id": "5076109008",
@@ -2322,6 +2329,13 @@
     "title": "Solutions Architect, Applied AI",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5076109008"
+  },
+  {
+    "id": "5117589008",
+    "role": "Sales",
+    "title": "Solutions Architect, Applied AI",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008"
   },
   {
     "id": "5146028008",
@@ -2366,13 +2380,6 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5140405008"
   },
   {
-    "id": "4977624008",
-    "role": "Sales",
-    "title": " Solutions Architect, Applied AI (Industries)",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008"
-  },
-  {
     "id": "4977626008",
     "role": "Sales",
     "title": " Solutions Architect, Applied AI (Industries)",
@@ -2380,11 +2387,11 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008"
   },
   {
-    "id": "4461444008",
+    "id": "4977624008",
     "role": "Sales",
-    "title": "Solutions Architect, Applied AI (Industries)",
+    "title": " Solutions Architect, Applied AI (Industries)",
     "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4461444008"
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008"
   },
   {
     "id": "5031670008",
@@ -2394,6 +2401,13 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5031670008"
   },
   {
+    "id": "4461444008",
+    "role": "Sales",
+    "title": "Solutions Architect, Applied AI (Industries)",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4461444008"
+  },
+  {
     "id": "5079511008",
     "role": "Sales",
     "title": "Solutions Architect, Applied AI (National Security)",
@@ -2401,18 +2415,18 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5079511008"
   },
   {
-    "id": "5057258008",
-    "role": "Sales",
-    "title": "Solutions Architect, Applied AI (Startups)",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5057258008"
-  },
-  {
     "id": "4968059008",
     "role": "Sales",
     "title": "Solutions Architect, Applied AI (Startups)",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4968059008"
+  },
+  {
+    "id": "5057258008",
+    "role": "Sales",
+    "title": "Solutions Architect, Applied AI (Startups)",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5057258008"
   },
   {
     "id": "5140403008",
@@ -2485,18 +2499,18 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4951696008"
   },
   {
-    "id": "5101173008",
-    "role": "Software Engineering - Infrastructure",
-    "title": "Staff Software Engineer, AI Reliability Engineering",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5101173008"
-  },
-  {
     "id": "5101169008",
     "role": "Software Engineering - Infrastructure",
     "title": "Staff Software Engineer, AI Reliability Engineering",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5101169008"
+  },
+  {
+    "id": "5101173008",
+    "role": "Software Engineering - Infrastructure",
+    "title": "Staff Software Engineer, AI Reliability Engineering",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5101173008"
   },
   {
     "id": "5146298008",
@@ -2702,13 +2716,6 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5172396008"
   },
   {
-    "id": "5125912008",
-    "role": "Compute",
-    "title": "Supply Chain Lead, Data Center Infrastructure",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5125912008"
-  },
-  {
     "id": "5080931008",
     "role": "Product Management, Support, & Operations",
     "title": "Support Operations Analyst",
@@ -2758,18 +2765,18 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5159877008"
   },
   {
-    "id": "5153754008",
-    "role": "Sales",
-    "title": "Technical Deployment Lead, Applied AI",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5153754008"
-  },
-  {
     "id": "5153761008",
     "role": "Sales",
     "title": "Technical Deployment Lead, Applied AI",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5153761008"
+  },
+  {
+    "id": "5153754008",
+    "role": "Sales",
+    "title": "Technical Deployment Lead, Applied AI",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5153754008"
   },
   {
     "id": "5140239008",
@@ -2819,13 +2826,6 @@
     "title": "Technical Program Manager, Consumer Engineering",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5062968008"
-  },
-  {
-    "id": "5078403008",
-    "role": "Technical Program Management ",
-    "title": "Technical Program Manager, Enterprise Readiness",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5078403008"
   },
   {
     "id": "5107763008",
@@ -2940,18 +2940,18 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5099080008"
   },
   {
-    "id": "5170084008",
-    "role": "Compute",
-    "title": "Transaction Principal",
-    "company": "anthropic",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5170084008"
-  },
-  {
     "id": "5154345008",
     "role": "Compute",
     "title": "Transaction Principal",
     "company": "anthropic",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5154345008"
+  },
+  {
+    "id": "5170084008",
+    "role": "Compute",
+    "title": "Transaction Principal",
+    "company": "anthropic",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5170084008"
   },
   {
     "id": "5149802008",

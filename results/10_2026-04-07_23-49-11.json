@@ -1,0 +1,304 @@
+{
+  "anthropic": [
+    {
+      "id": "5101378008",
+      "role": "Sales",
+      "title": "Account Executive, Public Sector",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5101378008"
+    },
+    {
+      "id": "5116167008",
+      "role": "Finance",
+      "title": "Capital Markets & Investor Relations ",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5116167008"
+    },
+    {
+      "id": "5175932008",
+      "role": "Sales",
+      "title": "Customer Success Manager, Higher Education",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5175932008"
+    },
+    {
+      "id": "5151916008",
+      "role": "Sales",
+      "title": "Executive Engagement Lead - International",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5151916008"
+    },
+    {
+      "id": "4973067008",
+      "role": "AI Research & Engineering",
+      "title": "Infrastructure Engineer, Pre-training",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/4973067008"
+    },
+    {
+      "id": "5151922008",
+      "role": "Sales",
+      "title": "International Expansions Lead",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5151922008"
+    },
+    {
+      "id": "5151939008",
+      "role": "Sales",
+      "title": "International Readiness Lead",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5151939008"
+    },
+    {
+      "id": "5177143008",
+      "role": "Compute",
+      "title": "Network Engineer, Capacity and Efficiency",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5177143008"
+    },
+    {
+      "id": "5153773008",
+      "role": "Product Management, Support, & Operations",
+      "title": "Product Manager, Claude Growth (Monetization) ",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5153773008"
+    },
+    {
+      "id": "5174857008",
+      "role": "Safeguards (Trust & Safety) ",
+      "title": "Safeguards Policy Analyst, Fraud & Scams",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5174857008"
+    },
+    {
+      "id": "5178467008",
+      "role": "Finance",
+      "title": "Senior Treasury Analyst",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5178467008"
+    },
+    {
+      "id": "5117581008",
+      "role": "Sales",
+      "title": "Solutions Architect, Applied AI",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5117581008"
+    }
+  ],
+  "perplexity": [
+    {
+      "id": "60deb376-51b5-46c6-9e17-55377a5ef34e",
+      "role": "AI",
+      "title": "AI Infra Engineer ",
+      "company": "perplexity",
+      "link": "https://jobs.ashbyhq.com/perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e"
+    },
+    {
+      "id": "d7e05546-4d42-4f1a-8ccd-c95d2519f5f6",
+      "role": "Business",
+      "title": "Community & Field Marketer",
+      "company": "perplexity",
+      "link": "https://jobs.ashbyhq.com/perplexity/d7e05546-4d42-4f1a-8ccd-c95d2519f5f6"
+    },
+    {
+      "id": "9e3a4516-b893-4579-9a6a-3720658e4b6d",
+      "role": "Business",
+      "title": "Solutions Product Marketing Manager",
+      "company": "perplexity",
+      "link": "https://jobs.ashbyhq.com/perplexity/9e3a4516-b893-4579-9a6a-3720658e4b6d"
+    }
+  ],
+  "openai": [
+    {
+      "id": "470e33ac-3b0e-4d8f-823f-c72e3665d964",
+      "role": "Marketing",
+      "title": "ChatGPT Consumer Product Marketing",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/470e33ac-3b0e-4d8f-823f-c72e3665d964"
+    },
+    {
+      "id": "8dbed9d5-411f-4934-8906-194a77523f87",
+      "role": "Marketing",
+      "title": "Creative Director, Global Partnerships ",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/8dbed9d5-411f-4934-8906-194a77523f87"
+    },
+    {
+      "id": "9e39d642-6c78-4c21-bc86-49b1773c933c",
+      "role": "Model Deployment for Business",
+      "title": "Forward Deployed Engineer - Sydney",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/9e39d642-6c78-4c21-bc86-49b1773c933c"
+    },
+    {
+      "id": "794e6d74-1ab1-459d-8adb-bb3398e9deb1",
+      "role": "People Systems & Operations",
+      "title": "Head of People Science and Operations ",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/794e6d74-1ab1-459d-8adb-bb3398e9deb1"
+    },
+    {
+      "id": "33e84dbf-5d3b-4cab-928d-4219fc68fdee",
+      "role": "Robotics",
+      "title": "Mechanical Engineer",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/33e84dbf-5d3b-4cab-928d-4219fc68fdee"
+    },
+    {
+      "id": "cbcc7df1-3e5a-475c-a5ff-6582757d097a",
+      "role": "Partnerships",
+      "title": "Partner Director",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/cbcc7df1-3e5a-475c-a5ff-6582757d097a"
+    },
+    {
+      "id": "3dae15aa-27de-4d96-b4f2-d2186723b105",
+      "role": "OpenAI for Gov",
+      "title": "Partner Manager, OpenAI for Government",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/3dae15aa-27de-4d96-b4f2-d2186723b105"
+    },
+    {
+      "id": "cc61c461-c1da-4151-a35a-e56173e8d7ff",
+      "role": "Marketing",
+      "title": "Partner Marketing Lead",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/cc61c461-c1da-4151-a35a-e56173e8d7ff"
+    },
+    {
+      "id": "c742a67e-f1b1-494d-8da7-5e6a6f80e655",
+      "role": "Marketing",
+      "title": "Partner Marketing Lead, Growth",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/c742a67e-f1b1-494d-8da7-5e6a6f80e655"
+    },
+    {
+      "id": "7e265aee-6842-4fc1-bf28-1df3ea4ee013",
+      "role": "Product Design",
+      "title": "Product Designer ",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/7e265aee-6842-4fc1-bf28-1df3ea4ee013"
+    },
+    {
+      "id": "8a86b02b-6063-4124-863f-7e41e9849e22",
+      "role": "Hardware",
+      "title": "Product Manufacturing Engineer - PCB/PCBA",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/8a86b02b-6063-4124-863f-7e41e9849e22"
+    },
+    {
+      "id": "0dc614c9-4eec-475f-b215-5480fe41317a",
+      "role": "Product Operations",
+      "title": "Product Operations Manager",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/0dc614c9-4eec-475f-b215-5480fe41317a"
+    },
+    {
+      "id": "3593839b-bce8-4de7-862c-4807fd6e40c3",
+      "role": "Recruiting",
+      "title": "Recruiter, Forward Deployed Engineering - London",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/3593839b-bce8-4de7-862c-4807fd6e40c3"
+    },
+    {
+      "id": "a0feb59d-e66b-4cc7-a685-7f9393d80fb6",
+      "role": "Safety Systems",
+      "title": "Researcher, Safety & Privacy",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/a0feb59d-e66b-4cc7-a685-7f9393d80fb6"
+    },
+    {
+      "id": "8ec58023-f644-4e92-b384-72f8db83cd33",
+      "role": "Corporate Security",
+      "title": "Risk Analyst, Corporate Security",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/8ec58023-f644-4e92-b384-72f8db83cd33"
+    },
+    {
+      "id": "3b0efbdb-af8d-4313-af0c-5bb5f0487bb9",
+      "role": "Finance",
+      "title": "Senior Manager, IT (Financial Risk Management) ",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/3b0efbdb-af8d-4313-af0c-5bb5f0487bb9"
+    },
+    {
+      "id": "69417f32-b564-471b-acdf-f0330bd7074e",
+      "role": "Applied AI Engineering",
+      "title": "Software Engineer, Scaled Abuse",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/69417f32-b564-471b-acdf-f0330bd7074e"
+    },
+    {
+      "id": "f48fcb07-d742-45c0-b692-70d5ee3e8c4f",
+      "role": "Recruiting",
+      "title": "Sourcer, Forward Deployed Engineering - London",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/f48fcb07-d742-45c0-b692-70d5ee3e8c4f"
+    },
+    {
+      "id": "df514733-46ad-4777-be67-44667bc9fd45",
+      "role": "Model Deployment for Business",
+      "title": "Technical Deployment Lead - Tokyo",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/df514733-46ad-4777-be67-44667bc9fd45"
+    }
+  ],
+  "ramp": [
+    {
+      "id": "ecbd340c-f7ca-43ef-9d0e-f562494c4078",
+      "role": "Channel Sales",
+      "title": "Channel Partner Manager | Franchise  ",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/ecbd340c-f7ca-43ef-9d0e-f562494c4078"
+    },
+    {
+      "id": "657dedaa-a828-4f4f-ae67-9e976127d907",
+      "role": "Growth Marketing",
+      "title": "Community Lead",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/657dedaa-a828-4f4f-ae67-9e976127d907"
+    },
+    {
+      "id": "d95403e6-dc35-44fc-adfe-15e268ac3825",
+      "role": "Finance",
+      "title": "Financial Systems Lead",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/d95403e6-dc35-44fc-adfe-15e268ac3825"
+    },
+    {
+      "id": "bf985727-34e9-43e2-8d3e-93a0bcc0d433",
+      "role": "Channel Sales",
+      "title": "Partner Development Representative | Reseller",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/bf985727-34e9-43e2-8d3e-93a0bcc0d433"
+    },
+    {
+      "id": "34413f8d-26bf-4bbc-8ade-eb309a0e2245",
+      "role": "Backend",
+      "title": " Security Engineer, Cloud",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245"
+    },
+    {
+      "id": "8db155ca-7e13-4eed-9813-1b6b65d66158",
+      "role": "Channel Sales",
+      "title": "Senior Channel Partner Manager | Venture Capital & Growth Equity",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/8db155ca-7e13-4eed-9813-1b6b65d66158"
+    },
+    {
+      "id": "4bb1ccd6-cf0d-48a8-90f6-05d61617d0d4",
+      "role": "Travel",
+      "title": "Software Engineer, Ramp Travel",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/4bb1ccd6-cf0d-48a8-90f6-05d61617d0d4"
+    },
+    {
+      "id": "157bb000-868b-4a6d-9143-67619871812f",
+      "role": "Solutions Consulting",
+      "title": "Solutions Consultant | Public Sector",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/157bb000-868b-4a6d-9143-67619871812f"
+    }
+  ]
+}
