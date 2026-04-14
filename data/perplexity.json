@@ -1,115 +1,10 @@
 [
   {
-    "id": "3c656963-876a-458d-bca6-916a42a24c1a",
-    "role": "AI",
-    "title": "AI Engineer, Applied ML",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/3c656963-876a-458d-bca6-916a42a24c1a"
-  },
-  {
-    "id": "e4777627-ff8f-4257-8612-3a016bb58592",
-    "role": "AI",
-    "title": "AI Inference Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592"
-  },
-  {
-    "id": "8a976851-9bef-4b07-8d36-567fa9540aef",
-    "role": "AI",
-    "title": "AI Inference Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef"
-  },
-  {
-    "id": "598e1f7d-b802-4de2-99ac-90eb2bc33315",
-    "role": "AI",
-    "title": "AI Infra Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315"
-  },
-  {
-    "id": "60deb376-51b5-46c6-9e17-55377a5ef34e",
-    "role": "AI",
-    "title": "AI Infra Engineer ",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e"
-  },
-  {
-    "id": "8fe61c73-0daf-4432-a47d-44714c1ef764",
-    "role": "AI",
-    "title": "AI Researcher",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/8fe61c73-0daf-4432-a47d-44714c1ef764"
-  },
-  {
-    "id": "16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
-    "role": "AI",
-    "title": "AI Research Lead",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03"
-  },
-  {
-    "id": "cdbf6ccb-2078-4499-b0a6-af8a04754eee",
-    "role": "Security",
-    "title": "AI Security Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/cdbf6ccb-2078-4499-b0a6-af8a04754eee"
-  },
-  {
-    "id": "bc1a6878-8de9-48c2-a791-95b2f8f27261",
-    "role": "AI",
-    "title": "AI Software Engineer - Agents",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/bc1a6878-8de9-48c2-a791-95b2f8f27261"
-  },
-  {
-    "id": "fed8d2c4-9c82-43ad-a168-434146c759ff",
-    "role": "Data Science",
-    "title": "Analytics Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/fed8d2c4-9c82-43ad-a168-434146c759ff"
-  },
-  {
-    "id": "63abf041-c7ba-4bd6-840c-1a4ac7925dee",
-    "role": "Security",
-    "title": "Application Security Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/63abf041-c7ba-4bd6-840c-1a4ac7925dee"
-  },
-  {
-    "id": "2b5a9f9c-7cd5-4579-b7c2-69d09e0214c8",
-    "role": "Platform & Infrastructure",
-    "title": "Backend Software Engineer ",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/2b5a9f9c-7cd5-4579-b7c2-69d09e0214c8"
-  },
-  {
-    "id": "f400c8b0-22aa-4952-b24c-4cacda96787e",
-    "role": "Mobile",
-    "title": "Backend Software Engineer - Mobile ",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/f400c8b0-22aa-4952-b24c-4cacda96787e"
-  },
-  {
-    "id": "94ccf41e-d3e1-41aa-9569-c3bcbffc4184",
-    "role": "Search",
-    "title": "Backend Software Engineer - Search, Crawler Team ",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/94ccf41e-d3e1-41aa-9569-c3bcbffc4184"
-  },
-  {
     "id": "a5b97109-222d-49e1-b2ac-e101487a5ddd",
     "role": "Business",
     "title": "Business Development Representative",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd"
-  },
-  {
-    "id": "b932d73f-49f3-4367-8fa7-a22f760e55a3",
-    "role": "Security",
-    "title": "Cloud Security Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/b932d73f-49f3-4367-8fa7-a22f760e55a3"
   },
   {
     "id": "09a2f0e5-c38c-49ee-a5af-9a179e137a44",
@@ -126,13 +21,6 @@
     "link": "https://jobs.ashbyhq.com/perplexity/d7e05546-4d42-4f1a-8ccd-c95d2519f5f6"
   },
   {
-    "id": "5fd49e19-9ebd-4e0a-95c4-f8c4a3eb5fd3",
-    "role": "Customer Success & Support",
-    "title": "Customer Success Associate (Comet Browser) ",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/5fd49e19-9ebd-4e0a-95c4-f8c4a3eb5fd3"
-  },
-  {
     "id": "387fbd3f-7e4d-4683-b299-f94a770dce3f",
     "role": "Customer Success",
     "title": "Customer Success Engineer (APAC, Remote)",
@@ -145,27 +33,6 @@
     "title": "Customer Support and Success Associate APAC (Full Time)",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/c0c29041-ebcb-40e6-b4ab-80b386922d8c"
-  },
-  {
-    "id": "d680e788-14d3-43f6-8ce8-5df486ca32d0",
-    "role": "Data Science",
-    "title": "Data Scientist",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/d680e788-14d3-43f6-8ce8-5df486ca32d0"
-  },
-  {
-    "id": "768efd34-3854-4c9b-9686-2a128ab35405",
-    "role": "AI",
-    "title": "Data Scientist/Engineer \u2013 Online Metrics",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/768efd34-3854-4c9b-9686-2a128ab35405"
-  },
-  {
-    "id": "4615ca06-bea7-47e3-9e57-f5cee52b75e6",
-    "role": "AI",
-    "title": "Data Scientist, Evals ",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/4615ca06-bea7-47e3-9e57-f5cee52b75e6"
   },
   {
     "id": "2be717cb-ad3e-4052-a464-79b107a70406",
@@ -189,11 +56,25 @@
     "link": "https://jobs.ashbyhq.com/perplexity/209036d1-278a-4a2f-a912-3c68a7881e6a"
   },
   {
+    "id": "44181937-a55e-4c68-a2dc-9a86e0898498",
+    "role": "AI",
+    "title": "Engineering Manager (Agents)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/44181937-a55e-4c68-a2dc-9a86e0898498"
+  },
+  {
     "id": "2a87ccbf-82ef-4fc7-b1ed-4dd18b11baf9",
     "role": "AI",
-    "title": "Engineering Manager - Inference",
+    "title": "Engineering Manager (AI Inference)",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/2a87ccbf-82ef-4fc7-b1ed-4dd18b11baf9"
+  },
+  {
+    "id": "08d510a4-c217-4967-a035-b5b8147e5c62",
+    "role": "AI",
+    "title": "Engineering Manager (AI Research & Model Training)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/08d510a4-c217-4967-a035-b5b8147e5c62"
   },
   {
     "id": "638e6823-be7f-46c6-9675-7b1197fc9b8c",
@@ -231,48 +112,6 @@
     "link": "https://jobs.ashbyhq.com/perplexity/2df92d4a-48eb-422f-af9c-4a963fd6135c"
   },
   {
-    "id": "aa511ea8-96e3-42ba-b28f-5e222170bcee",
-    "role": "AI",
-    "title": "Forward Deployed Engineer - Applied AI",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee"
-  },
-  {
-    "id": "36afb111-5c9c-4aec-9066-a2beb6f25f4b",
-    "role": "Product Engineering",
-    "title": "Frontend Engineer - Design Systems",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/36afb111-5c9c-4aec-9066-a2beb6f25f4b"
-  },
-  {
-    "id": "f5bacc41-66d6-46cc-8a29-5dc6bf055bad",
-    "role": "Product Engineering",
-    "title": "Full Stack Software Engineer ",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/f5bacc41-66d6-46cc-8a29-5dc6bf055bad"
-  },
-  {
-    "id": "8e98cd9a-ef90-4e9b-9f4d-3d93f6e3a8fc",
-    "role": "Product Engineering",
-    "title": "Full Stack Software Engineer - Applied AI",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/8e98cd9a-ef90-4e9b-9f4d-3d93f6e3a8fc"
-  },
-  {
-    "id": "911a7fa6-a2e2-4800-89d3-5f105a01556e",
-    "role": "Product Engineering",
-    "title": "Full Stack Software Engineer - Finance",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/911a7fa6-a2e2-4800-89d3-5f105a01556e"
-  },
-  {
-    "id": "9917ce6e-bd59-4d79-a8d2-ca47827bf9e2",
-    "role": "Product Engineering",
-    "title": "Full Stack Software Engineer - Growth",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/9917ce6e-bd59-4d79-a8d2-ca47827bf9e2"
-  },
-  {
     "id": "b9e1ff15-d52a-46d5-abf0-26460f2a116c",
     "role": "Search",
     "title": "Internship - Machine Learning Research Engineer",
@@ -301,13 +140,6 @@
     "link": "https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d"
   },
   {
-    "id": "8c6b0350-e920-47a5-a575-b018a280bbb9",
-    "role": "Mobile",
-    "title": "iOS Engineer - Comet",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/8c6b0350-e920-47a5-a575-b018a280bbb9"
-  },
-  {
     "id": "18509f15-ab49-450d-8a01-4b280e464ad0",
     "role": "IT",
     "title": "IT Systems Administrator ",
@@ -315,51 +147,324 @@
     "link": "https://jobs.ashbyhq.com/perplexity/18509f15-ab49-450d-8a01-4b280e464ad0"
   },
   {
-    "id": "30d27c9c-6d6f-4614-b6b3-35bd3ce641a9",
-    "role": "Product Engineering",
-    "title": "Lead Design Engineer \u2014 Growth & Marketing",
+    "id": "3c656963-876a-458d-bca6-916a42a24c1a",
+    "role": "AI",
+    "title": "Member of Technical Staff (AI Engineer, Applied ML)",
     "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/30d27c9c-6d6f-4614-b6b3-35bd3ce641a9"
+    "link": "https://jobs.ashbyhq.com/perplexity/3c656963-876a-458d-bca6-916a42a24c1a"
   },
   {
-    "id": "1a3df802-9238-4827-ab1f-12a9d1e4b81c",
-    "role": "Search",
-    "title": "Machine Learning Research Engineer",
+    "id": "e4777627-ff8f-4257-8612-3a016bb58592",
+    "role": "AI",
+    "title": "Member of Technical Staff (AI Inference Engineer)",
     "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/1a3df802-9238-4827-ab1f-12a9d1e4b81c"
+    "link": "https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592"
+  },
+  {
+    "id": "8a976851-9bef-4b07-8d36-567fa9540aef",
+    "role": "AI",
+    "title": "Member of Technical Staff (AI Inference Engineer)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef"
+  },
+  {
+    "id": "60deb376-51b5-46c6-9e17-55377a5ef34e",
+    "role": "AI",
+    "title": "Member of Technical Staff (AI Infrastructure Engineer)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e"
+  },
+  {
+    "id": "598e1f7d-b802-4de2-99ac-90eb2bc33315",
+    "role": "AI",
+    "title": "Member of Technical Staff (AI Infrastructure Engineer)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315"
   },
   {
     "id": "0359ebb4-7cbd-4641-a6d1-1127823e2fd5",
     "role": "AI",
-    "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
+    "title": "Member of Technical Staff (AI Policy and Strategic Initiatives)",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/0359ebb4-7cbd-4641-a6d1-1127823e2fd5"
   },
   {
-    "id": "e48aaf8c-24cd-4733-aa5b-752773467bfa",
+    "id": "8fe61c73-0daf-4432-a47d-44714c1ef764",
     "role": "AI",
-    "title": "Member of Technical Staff - Secure Intelligence Institute",
+    "title": "Member of Technical Staff (AI Researcher)",
     "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/e48aaf8c-24cd-4733-aa5b-752773467bfa"
+    "link": "https://jobs.ashbyhq.com/perplexity/8fe61c73-0daf-4432-a47d-44714c1ef764"
+  },
+  {
+    "id": "16bc54a6-83ab-4802-8a65-d88fbb7ebe03",
+    "role": "AI",
+    "title": "Member of Technical Staff (AI Research Lead)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/16bc54a6-83ab-4802-8a65-d88fbb7ebe03"
+  },
+  {
+    "id": "cdbf6ccb-2078-4499-b0a6-af8a04754eee",
+    "role": "Security",
+    "title": "Member of Technical Staff (AI Security Engineer)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/cdbf6ccb-2078-4499-b0a6-af8a04754eee"
+  },
+  {
+    "id": "bc1a6878-8de9-48c2-a791-95b2f8f27261",
+    "role": "AI",
+    "title": "Member of Technical Staff (AI Software Engineer, Agents)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/bc1a6878-8de9-48c2-a791-95b2f8f27261"
+  },
+  {
+    "id": "fed8d2c4-9c82-43ad-a168-434146c759ff",
+    "role": "Data Science",
+    "title": "Member of Technical Staff (Analytics Engineer)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/fed8d2c4-9c82-43ad-a168-434146c759ff"
+  },
+  {
+    "id": "63abf041-c7ba-4bd6-840c-1a4ac7925dee",
+    "role": "Security",
+    "title": "Member of Technical Staff (Application Security Engineer)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/63abf041-c7ba-4bd6-840c-1a4ac7925dee"
+  },
+  {
+    "id": "dd80ab52-34bd-42af-aa5e-6283b7e6c194",
+    "role": "Search",
+    "title": "Member of Technical Staff (Backend/Infrastructure Engineer, Search)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/dd80ab52-34bd-42af-aa5e-6283b7e6c194"
+  },
+  {
+    "id": "2b5a9f9c-7cd5-4579-b7c2-69d09e0214c8",
+    "role": "Platform & Infrastructure",
+    "title": "Member of Technical Staff (Backend Software Engineer)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/2b5a9f9c-7cd5-4579-b7c2-69d09e0214c8"
+  },
+  {
+    "id": "9ac5e638-85f6-4308-bcd5-7dfe0a30a79b",
+    "role": "AI",
+    "title": "Member of Technical Staff (Backend Software Engineer, API Platform)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/9ac5e638-85f6-4308-bcd5-7dfe0a30a79b"
+  },
+  {
+    "id": "f400c8b0-22aa-4952-b24c-4cacda96787e",
+    "role": "Mobile",
+    "title": "Member of Technical Staff (Backend Software Engineer, Mobile)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/f400c8b0-22aa-4952-b24c-4cacda96787e"
+  },
+  {
+    "id": "94ccf41e-d3e1-41aa-9569-c3bcbffc4184",
+    "role": "Search",
+    "title": "Member of Technical Staff (Backend Software Engineer, Search Crawler)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/94ccf41e-d3e1-41aa-9569-c3bcbffc4184"
+  },
+  {
+    "id": "b932d73f-49f3-4367-8fa7-a22f760e55a3",
+    "role": "Security",
+    "title": "Member of Technical Staff (Cloud Security Engineer)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/b932d73f-49f3-4367-8fa7-a22f760e55a3"
+  },
+  {
+    "id": "d680e788-14d3-43f6-8ce8-5df486ca32d0",
+    "role": "Data Science",
+    "title": "Member of Technical Staff (Data Scientist)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/d680e788-14d3-43f6-8ce8-5df486ca32d0"
+  },
+  {
+    "id": "768efd34-3854-4c9b-9686-2a128ab35405",
+    "role": "AI",
+    "title": "Member of Technical Staff (Data Scientist/Engineer, Online Metrics)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/768efd34-3854-4c9b-9686-2a128ab35405"
+  },
+  {
+    "id": "4615ca06-bea7-47e3-9e57-f5cee52b75e6",
+    "role": "AI",
+    "title": "Member of Technical Staff (Data Scientist, Evals)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/4615ca06-bea7-47e3-9e57-f5cee52b75e6"
+  },
+  {
+    "id": "36afb111-5c9c-4aec-9066-a2beb6f25f4b",
+    "role": "Product Engineering",
+    "title": "Member of Technical Staff (Design Systems Engineer)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/36afb111-5c9c-4aec-9066-a2beb6f25f4b"
+  },
+  {
+    "id": "aa511ea8-96e3-42ba-b28f-5e222170bcee",
+    "role": "AI",
+    "title": "Member of Technical Staff (Forward Deployed Engineer, Applied AI)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee"
+  },
+  {
+    "id": "8e98cd9a-ef90-4e9b-9f4d-3d93f6e3a8fc",
+    "role": "Product Engineering",
+    "title": "Member of Technical Staff (Full Stack Engineer, Applied AI)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/8e98cd9a-ef90-4e9b-9f4d-3d93f6e3a8fc"
+  },
+  {
+    "id": "911a7fa6-a2e2-4800-89d3-5f105a01556e",
+    "role": "Product Engineering",
+    "title": "Member of Technical Staff (Full Stack Engineer, Finance)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/911a7fa6-a2e2-4800-89d3-5f105a01556e"
+  },
+  {
+    "id": "9917ce6e-bd59-4d79-a8d2-ca47827bf9e2",
+    "role": "Product Engineering",
+    "title": "Member of Technical Staff (Full Stack Engineer, Growth)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/9917ce6e-bd59-4d79-a8d2-ca47827bf9e2"
+  },
+  {
+    "id": "30a09c0f-8715-447d-92b7-9f0adb772fd6",
+    "role": "Search",
+    "title": "Member of Technical Staff (Golang Engineer, Search)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/30a09c0f-8715-447d-92b7-9f0adb772fd6"
+  },
+  {
+    "id": "1dc97d9e-565e-4079-9fba-40fab14a3602",
+    "role": "Mobile",
+    "title": "Member of Technical Staff (iOS Software Engineer)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/1dc97d9e-565e-4079-9fba-40fab14a3602"
+  },
+  {
+    "id": "8c6b0350-e920-47a5-a575-b018a280bbb9",
+    "role": "Mobile",
+    "title": "Member of Technical Staff (iOS Software Engineer, Comet)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/8c6b0350-e920-47a5-a575-b018a280bbb9"
+  },
+  {
+    "id": "0190699f-010b-44f2-8399-278899fef018",
+    "role": "Search",
+    "title": "Member of Technical Staff (Machine Learning Engineer, Search)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/0190699f-010b-44f2-8399-278899fef018"
+  },
+  {
+    "id": "1a3df802-9238-4827-ab1f-12a9d1e4b81c",
+    "role": "Search",
+    "title": "Member of Technical Staff (Machine Learning Research Engineer)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/1a3df802-9238-4827-ab1f-12a9d1e4b81c"
   },
   {
     "id": "9904db61-b8ca-4207-8f93-88ab6f0cd3fd",
     "role": "AI",
-    "title": "Model Behavior Architect ",
+    "title": "Member of Technical Staff (Model Behavior Architect)",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/9904db61-b8ca-4207-8f93-88ab6f0cd3fd"
   },
   {
     "id": "69fd6a56-0050-44f7-9ed2-2c3a7320908d",
     "role": "Security",
-    "title": "Offensive Security Engineer",
+    "title": "Member of Technical Staff (Offensive Security Engineer)",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/69fd6a56-0050-44f7-9ed2-2c3a7320908d"
   },
   {
+    "id": "3b349a2f-360e-44e6-a57d-6a87bc3016a7",
+    "role": "Search",
+    "title": "Member of Technical Staff (Quality Analyst, Search)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/3b349a2f-360e-44e6-a57d-6a87bc3016a7"
+  },
+  {
+    "id": "a19f1774-5944-4981-b446-e3e40d0dd281",
+    "role": "Search",
+    "title": "Member of Technical Staff (Rust Engineer, Search)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/a19f1774-5944-4981-b446-e3e40d0dd281"
+  },
+  {
+    "id": "27aa1a14-bc59-4613-a65a-38598695076f",
+    "role": "Search",
+    "title": "Member of Technical Staff (Search Engine Developer, Search Core)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f"
+  },
+  {
+    "id": "e48aaf8c-24cd-4733-aa5b-752773467bfa",
+    "role": "AI",
+    "title": "Member of Technical Staff (Secure Intelligence Institute)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/e48aaf8c-24cd-4733-aa5b-752773467bfa"
+  },
+  {
+    "id": "c03bf199-9faa-48a4-809d-095c72b06000",
+    "role": "AI",
+    "title": "Member of Technical Staff (Software Engineer, Acceleration)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/c03bf199-9faa-48a4-809d-095c72b06000"
+  },
+  {
+    "id": "e7f59bee-4960-4b86-a0f5-b312cafd10bc",
+    "role": "Product Engineering",
+    "title": "Member of Technical Staff (Software Engineer, Agentic Commerce)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/e7f59bee-4960-4b86-a0f5-b312cafd10bc"
+  },
+  {
+    "id": "8673866c-f624-4b58-b171-752cf003630e",
+    "role": "AI",
+    "title": "Member of Technical Staff (Software Engineer, AI Platform)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/8673866c-f624-4b58-b171-752cf003630e"
+  },
+  {
+    "id": "7755eb0a-0f51-4286-b75e-591e44c741bc",
+    "role": "AI",
+    "title": "Member of Technical Staff (Software Engineer, Data Flywheel)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc"
+  },
+  {
+    "id": "f5bacc41-66d6-46cc-8a29-5dc6bf055bad",
+    "role": "Product Engineering",
+    "title": "Member of Technical Staff (Software Engineer, Full Stack)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/f5bacc41-66d6-46cc-8a29-5dc6bf055bad"
+  },
+  {
+    "id": "2cef7831-6ed3-4663-aec4-57f79f08c95a",
+    "role": "Platform & Infrastructure",
+    "title": "Member of Technical Staff (Software Engineer, Infrastructure)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/2cef7831-6ed3-4663-aec4-57f79f08c95a"
+  },
+  {
+    "id": "6c9b3c71-85ba-47db-bce5-44fd9fa95d03",
+    "role": "Security",
+    "title": "Member of Technical Staff (Software Engineer, Security)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03"
+  },
+  {
+    "id": "cf179df1-3d69-4a9d-bda0-0c423efa9255",
+    "role": "Platform & Infrastructure",
+    "title": "Member of Technical Staff (Software Engineer, Web Platform)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/cf179df1-3d69-4a9d-bda0-0c423efa9255"
+  },
+  {
     "id": "a805e14b-061d-469c-9136-b9e6a1855902",
     "role": "Search",
-    "title": "Product Data Scientist, Search Quality ",
+    "title": "Product Data Scientist, Search Quality",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/a805e14b-061d-469c-9136-b9e6a1855902"
   },
@@ -371,53 +476,11 @@
     "link": "https://jobs.ashbyhq.com/perplexity/5ec96ca1-319a-4b85-99ce-e06629099cf9"
   },
   {
-    "id": "08d510a4-c217-4967-a035-b5b8147e5c62",
-    "role": "AI",
-    "title": "Research Engineering Manager - Model Training",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/08d510a4-c217-4967-a035-b5b8147e5c62"
-  },
-  {
     "id": "adf189e8-5802-4077-aa1f-3668206aacbb",
     "role": "Residency Program",
     "title": "Research Resident",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/adf189e8-5802-4077-aa1f-3668206aacbb"
-  },
-  {
-    "id": "30a09c0f-8715-447d-92b7-9f0adb772fd6",
-    "role": "Search",
-    "title": "Search Golang Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/30a09c0f-8715-447d-92b7-9f0adb772fd6"
-  },
-  {
-    "id": "3b349a2f-360e-44e6-a57d-6a87bc3016a7",
-    "role": "Search",
-    "title": "Search Quality Analyst ",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/3b349a2f-360e-44e6-a57d-6a87bc3016a7"
-  },
-  {
-    "id": "a19f1774-5944-4981-b446-e3e40d0dd281",
-    "role": "Search",
-    "title": "Search Rust Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/a19f1774-5944-4981-b446-e3e40d0dd281"
-  },
-  {
-    "id": "dd80ab52-34bd-42af-aa5e-6283b7e6c194",
-    "role": "Search",
-    "title": "Search Senior Backend/Infrastructure Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/dd80ab52-34bd-42af-aa5e-6283b7e6c194"
-  },
-  {
-    "id": "0190699f-010b-44f2-8399-278899fef018",
-    "role": "Search",
-    "title": "Search Senior Machine Learning Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/0190699f-010b-44f2-8399-278899fef018"
   },
   {
     "id": "be996347-b366-44a1-82b3-2df64a744afb",
@@ -427,69 +490,6 @@
     "link": "https://jobs.ashbyhq.com/perplexity/be996347-b366-44a1-82b3-2df64a744afb"
   },
   {
-    "id": "1dc97d9e-565e-4079-9fba-40fab14a3602",
-    "role": "Mobile",
-    "title": "Senior iOS Software Engineer ",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/1dc97d9e-565e-4079-9fba-40fab14a3602"
-  },
-  {
-    "id": "27aa1a14-bc59-4613-a65a-38598695076f",
-    "role": "Search",
-    "title": "Senior Search Engine Developer - Search Core",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f"
-  },
-  {
-    "id": "c03bf199-9faa-48a4-809d-095c72b06000",
-    "role": "AI",
-    "title": "Senior/Staff Software Engineer - Acceleration",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/c03bf199-9faa-48a4-809d-095c72b06000"
-  },
-  {
-    "id": "2cef7831-6ed3-4663-aec4-57f79f08c95a",
-    "role": "Platform & Infrastructure",
-    "title": "Senior/Staff Software Engineer - Infrastructure",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/2cef7831-6ed3-4663-aec4-57f79f08c95a"
-  },
-  {
-    "id": "cf179df1-3d69-4a9d-bda0-0c423efa9255",
-    "role": "Platform & Infrastructure",
-    "title": "Senior/Staff Web Platform Engineer",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/cf179df1-3d69-4a9d-bda0-0c423efa9255"
-  },
-  {
-    "id": "e7f59bee-4960-4b86-a0f5-b312cafd10bc",
-    "role": "Product Engineering",
-    "title": "Software Engineer - Agentic Commerce ",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/e7f59bee-4960-4b86-a0f5-b312cafd10bc"
-  },
-  {
-    "id": "8673866c-f624-4b58-b171-752cf003630e",
-    "role": "AI",
-    "title": "Software Engineer - AI Platform",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/8673866c-f624-4b58-b171-752cf003630e"
-  },
-  {
-    "id": "7755eb0a-0f51-4286-b75e-591e44c741bc",
-    "role": "AI",
-    "title": "Software Engineer - Data Flywheel",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc"
-  },
-  {
-    "id": "6c9b3c71-85ba-47db-bce5-44fd9fa95d03",
-    "role": "Security",
-    "title": "Software Engineer - Security",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03"
-  },
-  {
     "id": "9e3a4516-b893-4579-9a6a-3720658e4b6d",
     "role": "Business",
     "title": "Solutions Product Marketing Manager",
@@ -497,32 +497,11 @@
     "link": "https://jobs.ashbyhq.com/perplexity/9e3a4516-b893-4579-9a6a-3720658e4b6d"
   },
   {
-    "id": "9ac5e638-85f6-4308-bcd5-7dfe0a30a79b",
-    "role": "AI",
-    "title": "Staff Backend Software Engineer - API Platform ",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/9ac5e638-85f6-4308-bcd5-7dfe0a30a79b"
-  },
-  {
-    "id": "8df04206-7b62-4163-9d94-a4f28680eeb1",
-    "role": "Product Engineering",
-    "title": "Staff Full Stack Software Engineer ",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/8df04206-7b62-4163-9d94-a4f28680eeb1"
-  },
-  {
     "id": "2e1ee70c-b070-4ccc-a2bf-8b394161bbde",
     "role": "Finance",
     "title": "Strategic Finance Lead - Core",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/2e1ee70c-b070-4ccc-a2bf-8b394161bbde"
-  },
-  {
-    "id": "44181937-a55e-4c68-a2dc-9a86e0898498",
-    "role": "AI",
-    "title": "Tech Lead Manager - Agents",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/44181937-a55e-4c68-a2dc-9a86e0898498"
   },
   {
     "id": "79a07e2d-6150-4929-80fe-bbe13a641763",
