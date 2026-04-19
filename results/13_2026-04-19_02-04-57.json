@@ -1,0 +1,409 @@
+{
+  "anthropic": [
+    {
+      "id": "5189848008",
+      "role": "AI Research & Engineering",
+      "title": "Anthropic STEM Fellow",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5189848008"
+    },
+    {
+      "id": "5188428008",
+      "role": "Marketing & Brand",
+      "title": "Art Director, Enterprise",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5188428008"
+    },
+    {
+      "id": "5191638008",
+      "role": "Compute",
+      "title": "Cluster Deployment Engineer",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5191638008"
+    },
+    {
+      "id": "5188431008",
+      "role": "Marketing & Brand",
+      "title": "Copy Lead, Enterprise",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5188431008"
+    },
+    {
+      "id": "5189047008",
+      "role": "Marketing & Brand",
+      "title": "Customer Programs Manager, Customer Advisory Boards ",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5189047008"
+    },
+    {
+      "id": "5187486008",
+      "role": "Compute",
+      "title": "Data Center Electrical Engineer",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5187486008"
+    },
+    {
+      "id": "5188939008",
+      "role": "Compute",
+      "title": "Data Center Portfolio Planning & Execution Lead",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5188939008"
+    },
+    {
+      "id": "5104760008",
+      "role": "Sales",
+      "title": "Enterprise Account Executive, Manufacturing & Automotive",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5104760008"
+    },
+    {
+      "id": "5043427008",
+      "role": "Finance",
+      "title": "Finance & Strategy, GTM",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5043427008"
+    },
+    {
+      "id": "5192104008",
+      "role": "Sales",
+      "title": "Global Leader, Applied AI Architects, Beneficial Deployments",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5192104008"
+    },
+    {
+      "id": "5189045008",
+      "role": "Marketing & Brand",
+      "title": "Head of Customer Programs",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5189045008"
+    },
+    {
+      "id": "5188745008",
+      "role": "Finance",
+      "title": "Head of Insurance & Business Risk",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5188745008"
+    },
+    {
+      "id": "5188606008",
+      "role": "Sales",
+      "title": "Manager, Mid-Market Industries Sales, West",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5188606008"
+    },
+    {
+      "id": "5190234008",
+      "role": "Sales",
+      "title": "Manager, Partner Account Managers",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5190234008"
+    },
+    {
+      "id": "5191437008",
+      "role": "Sales",
+      "title": "Partner Business Systems & AI Operations Lead",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5191437008"
+    },
+    {
+      "id": "5191775008",
+      "role": "Legal",
+      "title": "Product Counsel, Claude Platform ",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5191775008"
+    },
+    {
+      "id": "5189011008",
+      "role": "Product Management, Support, & Operations",
+      "title": "Product Support Manager (Dublin)",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5189011008"
+    },
+    {
+      "id": "5191785008",
+      "role": "AI Research & Engineering",
+      "title": "Research Engineer, Safeguards Labs",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5191785008"
+    },
+    {
+      "id": "5189205008",
+      "role": "Sales",
+      "title": "Revenue Strategy & Operations",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5189205008"
+    },
+    {
+      "id": "5189196008",
+      "role": "Sales",
+      "title": "Revenue Strategy & Operations Lead",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5189196008"
+    },
+    {
+      "id": "5191332008",
+      "role": "Sales",
+      "title": "Sales Strategy & Operational Excellence Lead",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5191332008"
+    },
+    {
+      "id": "5191226008",
+      "role": "AI Research & Engineering",
+      "title": "Software Engineer, Research Data Platform",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5191226008"
+    },
+    {
+      "id": "5192805008",
+      "role": "Sales",
+      "title": "Solutions Architect, Applied AI (Commercial)",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008"
+    },
+    {
+      "id": "5139910008",
+      "role": "Software Engineering - Infrastructure",
+      "title": "Staff+ Software Engineer, Observability",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5139910008"
+    },
+    {
+      "id": "5108817008",
+      "role": "Software Engineering - Infrastructure",
+      "title": "Staff+ Software Engineer, Systems",
+      "company": "anthropic",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5108817008"
+    }
+  ],
+  "perplexity": [
+    {
+      "id": "d59c175a-9889-4947-81f7-21fd7db243be",
+      "role": "People",
+      "title": "People Ops Manager (8 Month Maternity Cover, London) ",
+      "company": "perplexity",
+      "link": "https://jobs.ashbyhq.com/perplexity/d59c175a-9889-4947-81f7-21fd7db243be"
+    }
+  ],
+  "openai": [
+    {
+      "id": "55e4518a-5caf-4d96-9c16-3924805d71bd",
+      "role": "Intelligence & Investigations",
+      "title": "Abuse Investigator (AI Self-Improvement Risk)",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/55e4518a-5caf-4d96-9c16-3924805d71bd"
+    },
+    {
+      "id": "625d8018-a39e-4fec-913d-8bd319537e5c",
+      "role": "OpenAI for Gov",
+      "title": "Account Director, Federal Civilian",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/625d8018-a39e-4fec-913d-8bd319537e5c"
+    },
+    {
+      "id": "5c128c89-ae23-4a5e-8870-bff01c63288c",
+      "role": "Sales",
+      "title": "Account Director, Startups",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/5c128c89-ae23-4a5e-8870-bff01c63288c"
+    },
+    {
+      "id": "69446e90-74c1-4afe-b268-a86e1a58c984",
+      "role": "Sales",
+      "title": "Account Director, Startups",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/69446e90-74c1-4afe-b268-a86e1a58c984"
+    },
+    {
+      "id": "1a4befe6-a438-40b2-863e-d4843fb3f90a",
+      "role": "Technical Success",
+      "title": "AI Deployment Engineer - Codex | APAC",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/1a4befe6-a438-40b2-863e-d4843fb3f90a"
+    },
+    {
+      "id": "38ddaa2c-a490-427a-8457-0e92bf00138c",
+      "role": "Applied AI Engineering",
+      "title": "ChatGPT Performance Engineer",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/38ddaa2c-a490-427a-8457-0e92bf00138c"
+    },
+    {
+      "id": "29d40809-10a4-451c-966f-80c3ef7b94ea",
+      "role": "Workplace",
+      "title": "Environmental Health and Safety, Engineering & Technical Program Manager",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/29d40809-10a4-451c-966f-80c3ef7b94ea"
+    },
+    {
+      "id": "9b1b62f5-1400-4672-910a-fda6f975f642",
+      "role": "Applied AI Engineering",
+      "title": "Full Stack Software Engineer, OpenAI Edu",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/9b1b62f5-1400-4672-910a-fda6f975f642"
+    },
+    {
+      "id": "d286bd07-15b4-4dd6-b436-aa3c0214d40e",
+      "role": "Finance",
+      "title": "Head of Corporate Services Sourcing",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/d286bd07-15b4-4dd6-b436-aa3c0214d40e"
+    },
+    {
+      "id": "745239e7-09dd-4152-9c30-a97bef7cbc82",
+      "role": "Technical Success",
+      "title": "Lead, Builder AI Deployment Manager",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/745239e7-09dd-4152-9c30-a97bef7cbc82"
+    },
+    {
+      "id": "eed8496c-8e12-4d14-b8b6-6dadff0463a6",
+      "role": "Go To Market",
+      "title": "Manager, Technical Deployment Leads (TDL), Forward Deployed Engineering (FDE)",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/eed8496c-8e12-4d14-b8b6-6dadff0463a6"
+    },
+    {
+      "id": "1c92378f-c553-4711-8d06-00c9f834c699",
+      "role": "Hardware",
+      "title": "Optical Network Engineer",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/1c92378f-c553-4711-8d06-00c9f834c699"
+    },
+    {
+      "id": "37f3bee3-f291-421d-9e42-5497bd3c46fc",
+      "role": "Product Partnerships",
+      "title": "Partner Manager",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/37f3bee3-f291-421d-9e42-5497bd3c46fc"
+    },
+    {
+      "id": "b5dc0d33-b2d8-4150-9e41-2f7a6dfc8930",
+      "role": "Product Partnerships",
+      "title": "Partner Manager, Growth (Mandarin Speaking) ",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/b5dc0d33-b2d8-4150-9e41-2f7a6dfc8930"
+    },
+    {
+      "id": "72e206a6-9769-470d-8f9c-be7522d809e1",
+      "role": "Product Design",
+      "title": "Product Design Manager ",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/72e206a6-9769-470d-8f9c-be7522d809e1"
+    },
+    {
+      "id": "7ffa2a14-fa9c-46cb-a30a-1f7a35ae904a",
+      "role": "Product Management",
+      "title": "Product Manager, API Infrastructure",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/7ffa2a14-fa9c-46cb-a30a-1f7a35ae904a"
+    },
+    {
+      "id": "fbc7ebaf-3a26-406d-9ff6-f166f3e246a2",
+      "role": "Product Management",
+      "title": "Product Manager, Safety Measurement",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/fbc7ebaf-3a26-406d-9ff6-f166f3e246a2"
+    },
+    {
+      "id": "0c4d4052-9cc0-49eb-8fb9-350bcdf55685",
+      "role": "Legal",
+      "title": "Senior Legal Program Manager (Hardware Compliance)",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/0c4d4052-9cc0-49eb-8fb9-350bcdf55685"
+    },
+    {
+      "id": "c85bd49b-df69-4eb6-80b7-cb9f89fccac4",
+      "role": "Finance",
+      "title": "Senior Manager, Financial Risk Management (Hardware and Supply Chain)",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/c85bd49b-df69-4eb6-80b7-cb9f89fccac4"
+    },
+    {
+      "id": "ae3a32af-b862-45db-838c-7fb49d4bc27e",
+      "role": "Software",
+      "title": "Software Engineer, Engineering Acceleration | Consumer Devices",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/ae3a32af-b862-45db-838c-7fb49d4bc27e"
+    },
+    {
+      "id": "3544fb7b-669b-43e3-8828-94972620bac7",
+      "role": "Software",
+      "title": "Software Engineer, Infrastructure, Consumer Devices",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/3544fb7b-669b-43e3-8828-94972620bac7"
+    },
+    {
+      "id": "e9627fa6-ac76-4899-9a93-9251419e61a0",
+      "role": "Hardware",
+      "title": "Software Engineer, Kernel Performance & AI Tooling",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/e9627fa6-ac76-4899-9a93-9251419e61a0"
+    },
+    {
+      "id": "1e4e9985-babf-4bd9-8fe8-a2016250780d",
+      "role": "Security",
+      "title": "Software Engineer, Security Observability",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/1e4e9985-babf-4bd9-8fe8-a2016250780d"
+    },
+    {
+      "id": "7eb1ac08-5168-4eff-a96c-90ce0bfd3fde",
+      "role": "Robotics",
+      "title": "Technical Program Manager, Robotics Data Acquisition",
+      "company": "openai",
+      "link": "https://jobs.ashbyhq.com/openai/7eb1ac08-5168-4eff-a96c-90ce0bfd3fde"
+    }
+  ],
+  "ramp": [
+    {
+      "id": "f7c4de3c-1d64-42e9-8111-f38e265327d8",
+      "role": "Account Executive",
+      "title": " Account Executive | Mid-Market",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/f7c4de3c-1d64-42e9-8111-f38e265327d8"
+    },
+    {
+      "id": "440606b5-1923-4f9d-a0ed-c126445b9477",
+      "role": "Channel Sales",
+      "title": "Channel Partner Manager | Accounting  ",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/440606b5-1923-4f9d-a0ed-c126445b9477"
+    },
+    {
+      "id": "7c113779-0f85-45a7-b69e-f2e10d4218bf",
+      "role": "People & Talent Operations",
+      "title": "HRIS Manager",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/7c113779-0f85-45a7-b69e-f2e10d4218bf"
+    },
+    {
+      "id": "b599c5a9-9c9d-4826-b67a-ca5e012faaad",
+      "role": "Channel Sales",
+      "title": "Partner Development Representative | Reseller",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/b599c5a9-9c9d-4826-b67a-ca5e012faaad"
+    },
+    {
+      "id": "add8bb4a-f618-44f9-9874-81b32d7d862b",
+      "role": "SDR",
+      "title": "Sales Development Representative, Inbound | Ontario, Canada",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/add8bb4a-f618-44f9-9874-81b32d7d862b"
+    },
+    {
+      "id": "ca9a8794-b40c-44bc-8f8a-d85182c62c6e",
+      "role": "Channel Sales",
+      "title": "Senior Channel Partner Manager | Franchise  ",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/ca9a8794-b40c-44bc-8f8a-d85182c62c6e"
+    },
+    {
+      "id": "6c68ed4b-dab8-4e2d-b677-a7b6ddca0272",
+      "role": "Channel Sales",
+      "title": "Technical Channel Partner Manager | ISV",
+      "company": "ramp",
+      "link": "https://jobs.ashbyhq.com/ramp/6c68ed4b-dab8-4e2d-b677-a7b6ddca0272"
+    }
+  ]
+}

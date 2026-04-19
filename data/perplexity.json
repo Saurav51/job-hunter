@@ -154,13 +154,6 @@
     "link": "https://jobs.ashbyhq.com/perplexity/3c656963-876a-458d-bca6-916a42a24c1a"
   },
   {
-    "id": "e4777627-ff8f-4257-8612-3a016bb58592",
-    "role": "AI",
-    "title": "Member of Technical Staff (AI Inference Engineer)",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592"
-  },
-  {
     "id": "8a976851-9bef-4b07-8d36-567fa9540aef",
     "role": "AI",
     "title": "Member of Technical Staff (AI Inference Engineer)",
@@ -168,11 +161,11 @@
     "link": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef"
   },
   {
-    "id": "60deb376-51b5-46c6-9e17-55377a5ef34e",
+    "id": "e4777627-ff8f-4257-8612-3a016bb58592",
     "role": "AI",
-    "title": "Member of Technical Staff (AI Infrastructure Engineer)",
+    "title": "Member of Technical Staff (AI Inference Engineer)",
     "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e"
+    "link": "https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592"
   },
   {
     "id": "598e1f7d-b802-4de2-99ac-90eb2bc33315",
@@ -180,6 +173,13 @@
     "title": "Member of Technical Staff (AI Infrastructure Engineer)",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315"
+  },
+  {
+    "id": "60deb376-51b5-46c6-9e17-55377a5ef34e",
+    "role": "AI",
+    "title": "Member of Technical Staff (AI Infrastructure Engineer)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e"
   },
   {
     "id": "0359ebb4-7cbd-4641-a6d1-1127823e2fd5",
@@ -308,13 +308,6 @@
     "link": "https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee"
   },
   {
-    "id": "8e98cd9a-ef90-4e9b-9f4d-3d93f6e3a8fc",
-    "role": "Product Engineering",
-    "title": "Member of Technical Staff (Full Stack Engineer, Applied AI)",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/8e98cd9a-ef90-4e9b-9f4d-3d93f6e3a8fc"
-  },
-  {
     "id": "911a7fa6-a2e2-4800-89d3-5f105a01556e",
     "role": "Product Engineering",
     "title": "Member of Technical Staff (Full Stack Engineer, Finance)",
@@ -376,6 +369,13 @@
     "title": "Member of Technical Staff (Offensive Security Engineer)",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/69fd6a56-0050-44f7-9ed2-2c3a7320908d"
+  },
+  {
+    "id": "a805e14b-061d-469c-9136-b9e6a1855902",
+    "role": "Search",
+    "title": "Member of Technical Staff (Product Data Scientist, Search Quality)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/a805e14b-061d-469c-9136-b9e6a1855902"
   },
   {
     "id": "3b349a2f-360e-44e6-a57d-6a87bc3016a7",
@@ -455,18 +455,11 @@
     "link": "https://jobs.ashbyhq.com/perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03"
   },
   {
-    "id": "cf179df1-3d69-4a9d-bda0-0c423efa9255",
-    "role": "Platform & Infrastructure",
-    "title": "Member of Technical Staff (Software Engineer, Web Platform)",
+    "id": "d59c175a-9889-4947-81f7-21fd7db243be",
+    "role": "People",
+    "title": "People Ops Manager (8 Month Maternity Cover, London) ",
     "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/cf179df1-3d69-4a9d-bda0-0c423efa9255"
-  },
-  {
-    "id": "a805e14b-061d-469c-9136-b9e6a1855902",
-    "role": "Search",
-    "title": "Product Data Scientist, Search Quality",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/a805e14b-061d-469c-9136-b9e6a1855902"
+    "link": "https://jobs.ashbyhq.com/perplexity/d59c175a-9889-4947-81f7-21fd7db243be"
   },
   {
     "id": "5ec96ca1-319a-4b85-99ce-e06629099cf9",
