@@ -1,0 +1,38 @@
+{
+  "anthropic": [
+    {
+      "id": "5194827008",
+      "role": "Technical Program Management ",
+      "title": "Field Services Engineer",
+      "company": "anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5194827008"
+    },
+    {
+      "id": "5191911008",
+      "role": "Sales",
+      "title": "Head of EMEA Partner Success",
+      "company": "anthropic",
+      "location": "London, UK",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5191911008"
+    }
+  ],
+  "openai": [
+    {
+      "id": "7536171d-0f98-4964-8f22-7968db062105",
+      "role": "Strategic Finance",
+      "title": "Director, Compute Finance FP&A",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/7536171d-0f98-4964-8f22-7968db062105"
+    },
+    {
+      "id": "b4196174-9cc3-487d-9d21-848bc283b80f",
+      "role": "Strategic Finance",
+      "title": "Strategic Finance, Compute",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/b4196174-9cc3-487d-9d21-848bc283b80f"
+    }
+  ]
+}
