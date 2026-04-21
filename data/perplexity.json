@@ -154,18 +154,18 @@
     "link": "https://jobs.ashbyhq.com/perplexity/3c656963-876a-458d-bca6-916a42a24c1a"
   },
   {
-    "id": "8a976851-9bef-4b07-8d36-567fa9540aef",
-    "role": "AI",
-    "title": "Member of Technical Staff (AI Inference Engineer)",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef"
-  },
-  {
     "id": "e4777627-ff8f-4257-8612-3a016bb58592",
     "role": "AI",
     "title": "Member of Technical Staff (AI Inference Engineer)",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592"
+  },
+  {
+    "id": "8a976851-9bef-4b07-8d36-567fa9540aef",
+    "role": "AI",
+    "title": "Member of Technical Staff (AI Inference Engineer)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef"
   },
   {
     "id": "598e1f7d-b802-4de2-99ac-90eb2bc33315",
@@ -306,13 +306,6 @@
     "title": "Member of Technical Staff (Forward Deployed Engineer, Applied AI)",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee"
-  },
-  {
-    "id": "911a7fa6-a2e2-4800-89d3-5f105a01556e",
-    "role": "Product Engineering",
-    "title": "Member of Technical Staff (Full Stack Engineer, Finance)",
-    "company": "perplexity",
-    "link": "https://jobs.ashbyhq.com/perplexity/911a7fa6-a2e2-4800-89d3-5f105a01556e"
   },
   {
     "id": "9917ce6e-bd59-4d79-a8d2-ca47827bf9e2",
@@ -460,6 +453,13 @@
     "title": "People Ops Manager (8 Month Maternity Cover, London) ",
     "company": "perplexity",
     "link": "https://jobs.ashbyhq.com/perplexity/d59c175a-9889-4947-81f7-21fd7db243be"
+  },
+  {
+    "id": "f25e190e-0508-4707-b575-fcaed358dc13",
+    "role": "Product Management",
+    "title": "Product Manager (Builder)",
+    "company": "perplexity",
+    "link": "https://jobs.ashbyhq.com/perplexity/f25e190e-0508-4707-b575-fcaed358dc13"
   },
   {
     "id": "5ec96ca1-319a-4b85-99ce-e06629099cf9",
