@@ -13,6 +13,7 @@ def fetch(company):
                 "role": job["departments"][0]["name"] if job.get("departments") else "",
                 "title": job["title"],
                 "company": company,
+                "location": job.get("location", {}).get("name", ""),
                 "link": job["absolute_url"],
             }
             for job in jobs

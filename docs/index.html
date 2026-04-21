@@ -140,6 +140,16 @@
       flex-shrink: 0;
     }
 
+    .loc-badge {
+      font-size: 0.68rem;
+      background: #eff6ff;
+      color: #3b82f6;
+      padding: 2px 6px;
+      border-radius: 4px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
     .job a {
       font-size: 0.875rem;
       color: #1a1a1a;
@@ -222,6 +232,7 @@
         <div class="job">
           <span class="co-dot"></span>
           ${j.role ? `<span class="role-badge">${esc(j.role)}</span>` : ''}
+          ${j.location ? `<span class="loc-badge">${esc(j.location)}</span>` : ''}
           <a href="${esc(j.link)}" target="_blank" rel="noopener">${esc(j.title)}</a>
         </div>`).join('');
       return `

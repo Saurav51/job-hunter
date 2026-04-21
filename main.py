@@ -44,7 +44,8 @@ def main():
     if new_jobs:
         print(f"Found {len(new_jobs)} new job(s):\n")
         for job in new_jobs:
-            print(f"  [{job['company']}] {job['title']}")
+            loc = f" · {job['location']}" if job.get('location') else ""
+            print(f"  [{job['company']}] {job['title']}{loc}")
             print(f"  {job['link']}\n")
     else:
         print("No new jobs.")

@@ -6,7 +6,7 @@ QUERY = """
 {
   jobBoardWithTeams(organizationHostedJobsPageName: "%s") {
     teams { id name }
-    jobPostings { id title teamId }
+    jobPostings { id title teamId locationName }
   }
 }
 """
@@ -28,6 +28,7 @@ def fetch(company):
                 "role": team_map.get(job["teamId"], ""),
                 "title": job["title"],
                 "company": company,
+                "location": job.get("locationName", ""),
                 "link": f"https://jobs.ashbyhq.com/{company}/{job['id']}",
             }
             for job in board.get("jobPostings", [])
