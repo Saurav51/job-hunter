@@ -1,4 +1,5 @@
-from adapters import greenhouse, ashby, uber
+from adapters.ats import greenhouse, ashby
+from adapters.companies import uber
 
 
 def fetch_all():
