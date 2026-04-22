@@ -1,4 +1,4 @@
-from adapters import greenhouse, ashby
+from adapters import greenhouse, ashby, uber
 
 
 def fetch_all():
@@ -7,4 +7,5 @@ def fetch_all():
     jobs += ashby.fetch("perplexity")
     jobs += ashby.fetch("openai")
     jobs += ashby.fetch("ramp")
+    jobs += uber.fetch("uber")
     return jobs
