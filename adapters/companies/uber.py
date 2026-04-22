@@ -15,7 +15,10 @@ HEADERS = {
     ),
 }
 
-PARAMS = {"department": ["Engineering", "University"]}
+PARAMS = {
+    "department": ["Engineering", "University"],
+    "location": [{"country": "USA"}],
+}
 
 
 def fetch(company="uber"):
