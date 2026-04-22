@@ -1,0 +1,2902 @@
+{
+  "anthropic": [
+    {
+      "id": "5194302008",
+      "role": "AI Research & Engineering",
+      "title": "Program Operations Manager, Human Data",
+      "company": "anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5194302008"
+    },
+    {
+      "id": "5194810008",
+      "role": "People",
+      "title": "Workday Business Systems Analyst, HCM ",
+      "company": "anthropic",
+      "location": "San Francisco, CA",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5194810008"
+    }
+  ],
+  "google": [
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "130667307197178566",
+      "role": "",
+      "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130667307197178566"
+    },
+    {
+      "id": "81388810947961542",
+      "role": "",
+      "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81388810947961542"
+    },
+    {
+      "id": "130326289478230726",
+      "role": "",
+      "title": "Software Engineer, AI/ML, Shopping Experiences",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130326289478230726"
+    },
+    {
+      "id": "75350971693048518",
+      "role": "",
+      "title": "Senior Software Engineer, Generative AI, Search Health",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
+    },
+    {
+      "id": "118079380822860486",
+      "role": "",
+      "title": "Software Engineer III, Fuschia",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
+    },
+    {
+      "id": "125473575044817606",
+      "role": "",
+      "title": "Software Engineer III, Android, Media Technologies, YouTube",
+      "company": "google",
+      "location": "San Bruno, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125473575044817606"
+    },
+    {
+      "id": "111519971879592646",
+      "role": "",
+      "title": "Software Engineer III, Full Stack, Google Cloud Business Platforms",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111519971879592646"
+    },
+    {
+      "id": "124133579608203974",
+      "role": "",
+      "title": "Senior Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/124133579608203974"
+    },
+    {
+      "id": "114738878203470534",
+      "role": "",
+      "title": "Security Software Engineer, Emerging On-prem AI infrastructure",
+      "company": "google",
+      "location": "Reston, VA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
+    },
+    {
+      "id": "99326551270531782",
+      "role": "",
+      "title": "Software Engineer III, Technical Infrastructure",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
+    },
+    {
+      "id": "129280004709065414",
+      "role": "",
+      "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+      "company": "google",
+      "location": "Mountain View, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+    },
+    {
+      "id": "104676875783021254",
+      "role": "",
+      "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    },
+    {
+      "id": "130646601696715462",
+      "role": "",
+      "title": "Senior Software Engineer, Hardware Compiler",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
+    },
+    {
+      "id": "136273135019139782",
+      "role": "",
+      "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
+    },
+    {
+      "id": "96957711316329158",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+    },
+    {
+      "id": "140194199642219206",
+      "role": "",
+      "title": "Software Engineer, Fabric Networking",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+    },
+    {
+      "id": "88714689822761670",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+    },
+    {
+      "id": "122258040807137990",
+      "role": "",
+      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    }
+  ]
+}
