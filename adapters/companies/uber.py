@@ -53,7 +53,7 @@ def fetch(company="uber"):
                 job.get("location", {}).get("city"),
                 job.get("location", {}).get("countryName"),
             ])),
-            "link": f"https://www.uber.com/us/en/careers/list/{job['id']}/",
+            "link": f"https://www.uber.com/global/en/careers/list/{job['id']}/",
         }
         for job in all_jobs
     ]
