@@ -72,14 +72,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -88,12 +80,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -104,20 +96,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -158,6 +150,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -232,14 +232,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -248,12 +240,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -264,20 +256,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -318,6 +310,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -392,14 +392,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -408,12 +400,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -424,20 +416,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -478,6 +470,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -552,14 +552,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -568,12 +560,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -584,20 +576,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -638,6 +630,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -712,14 +712,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -728,12 +720,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -744,20 +736,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -798,6 +790,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -872,14 +872,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -888,12 +880,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -904,20 +896,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -958,6 +950,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -1032,14 +1032,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -1048,12 +1040,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -1064,20 +1056,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -1118,6 +1110,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -1192,14 +1192,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -1208,12 +1200,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -1224,20 +1216,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -1278,6 +1270,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -1352,14 +1352,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -1368,12 +1360,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -1384,20 +1376,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -1438,6 +1430,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -1512,14 +1512,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -1528,12 +1520,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -1544,20 +1536,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -1598,6 +1590,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -1672,14 +1672,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -1688,12 +1680,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -1704,20 +1696,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -1758,6 +1750,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -1832,14 +1832,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -1848,12 +1840,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -1864,20 +1856,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -1918,6 +1910,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -1992,14 +1992,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -2008,12 +2000,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -2024,20 +2016,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -2078,6 +2070,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -2152,14 +2152,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -2168,12 +2160,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -2184,20 +2176,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -2238,6 +2230,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -2312,14 +2312,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -2328,12 +2320,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -2344,20 +2336,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -2398,6 +2390,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -2472,14 +2472,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -2488,12 +2480,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -2504,20 +2496,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -2558,6 +2550,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -2632,14 +2632,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -2648,12 +2640,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -2664,20 +2656,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -2718,6 +2710,14 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   },
   {
     "id": "130667307197178566",
@@ -2792,14 +2792,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "99326551270531782",
-    "role": "",
-    "title": "Software Engineer III, Technical Infrastructure",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
-  },
-  {
     "id": "129280004709065414",
     "role": "",
     "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
@@ -2808,12 +2800,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
   },
   {
-    "id": "104676875783021254",
+    "id": "99326551270531782",
     "role": "",
-    "title": "Senior Software Engineer, Performance, Google Cloud Performance",
+    "title": "Software Engineer III, Technical Infrastructure",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104676875783021254"
+    "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
     "id": "130646601696715462",
@@ -2824,20 +2816,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130646601696715462"
   },
   {
-    "id": "136273135019139782",
-    "role": "",
-    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
-  },
-  {
     "id": "96957711316329158",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158"
+  },
+  {
+    "id": "136273135019139782",
+    "role": "",
+    "title": "Software Engineer, GDC Air Gapped, Engineering Productivity",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
     "id": "140194199642219206",
@@ -2878,5 +2870,13 @@
     "company": "google",
     "location": "Boulder, CO, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+  },
+  {
+    "id": "139709985029268166",
+    "role": "",
+    "title": "Software Engineer, Machine Management Qual Infra",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/139709985029268166"
   }
 ]

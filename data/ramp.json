@@ -722,7 +722,7 @@
   {
     "id": "bdd28c40-f95b-43df-bebe-3b8a25c8f602",
     "role": "People & Talent Operations",
-    "title": "Senior Manager, Talent Operations",
+    "title": "Senior Manager, Business Operations - Talent",
     "company": "ramp",
     "location": "New York, NY (HQ)",
     "link": "https://jobs.ashbyhq.com/ramp/bdd28c40-f95b-43df-bebe-3b8a25c8f602"
@@ -816,12 +816,28 @@
     "link": "https://jobs.ashbyhq.com/ramp/b42cce4b-8fa9-4e8d-892d-3a29a7afb909"
   },
   {
+    "id": "deca582c-a1d0-4705-9975-60aed81ba89f",
+    "role": "Forward Deployed",
+    "title": "Software Engineer, AI Forward Deployed",
+    "company": "ramp",
+    "location": "San Francisco, CA",
+    "link": "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f"
+  },
+  {
     "id": "9320454f-f2ca-4c19-82d2-b51b8d75fd3a",
     "role": "Backend",
     "title": "Software Engineer, Argentina",
     "company": "ramp",
     "location": "Remote (Buenos Aires, Argentina)",
     "link": "https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a"
+  },
+  {
+    "id": "d818443f-d4c5-4eab-892d-3715a935c165",
+    "role": "Backend",
+    "title": "Software Engineer, Banking",
+    "company": "ramp",
+    "location": "New York, NY (HQ)",
+    "link": "https://jobs.ashbyhq.com/ramp/d818443f-d4c5-4eab-892d-3715a935c165"
   },
   {
     "id": "2a4968ae-220c-471b-b890-a011de570bbb",
@@ -854,14 +870,6 @@
     "company": "ramp",
     "location": "New York, NY (HQ)",
     "link": "https://jobs.ashbyhq.com/ramp/1b191a1d-bb39-4b4a-b6bf-224e66ead1eb"
-  },
-  {
-    "id": "deca582c-a1d0-4705-9975-60aed81ba89f",
-    "role": "Forward Deployed",
-    "title": "Software Engineer, Forward Deployed AI",
-    "company": "ramp",
-    "location": "San Francisco, CA",
-    "link": "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f"
   },
   {
     "id": "8fa367de-71ba-409e-befd-175a163acb1b",

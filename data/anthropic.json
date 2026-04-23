@@ -24,20 +24,20 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5161980008"
   },
   {
-    "id": "5161988008",
-    "role": "Sales",
-    "title": "Account Executive, Beneficial Deployments (Portuguese Speaking)",
-    "company": "anthropic",
-    "location": "London, UK",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5161988008"
-  },
-  {
     "id": "5165651008",
     "role": "Sales",
     "title": "Account Executive, Beneficial Deployments (Portuguese Speaking)",
     "company": "anthropic",
     "location": "Dublin, IE",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5165651008"
+  },
+  {
+    "id": "5161988008",
+    "role": "Sales",
+    "title": "Account Executive, Beneficial Deployments (Portuguese Speaking)",
+    "company": "anthropic",
+    "location": "London, UK",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5161988008"
   },
   {
     "id": "5165670008",
@@ -160,20 +160,20 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5193973008"
   },
   {
-    "id": "5014500008",
-    "role": "Sales",
-    "title": "Applied AI Engineer",
-    "company": "anthropic",
-    "location": "Seoul, South Korea",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5014500008"
-  },
-  {
     "id": "5055488008",
     "role": "Sales",
     "title": "Applied AI Engineer",
     "company": "anthropic",
     "location": "Tokyo, Japan",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5055488008"
+  },
+  {
+    "id": "5014500008",
+    "role": "Sales",
+    "title": "Applied AI Engineer",
+    "company": "anthropic",
+    "location": "Seoul, South Korea",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5014500008"
   },
   {
     "id": "5116274008",
@@ -184,20 +184,20 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5116274008"
   },
   {
-    "id": "5068226008",
-    "role": "Sales",
-    "title": "Applied AI Engineer, Beneficial Deployments",
-    "company": "anthropic",
-    "location": "San Francisco, CA | New York City, NY",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5068226008"
-  },
-  {
     "id": "5146028008",
     "role": "Sales",
     "title": "Applied AI Engineer, Beneficial Deployments",
     "company": "anthropic",
     "location": "Bangalore, India",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5146028008"
+  },
+  {
+    "id": "5068226008",
+    "role": "Sales",
+    "title": "Applied AI Engineer, Beneficial Deployments",
+    "company": "anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5068226008"
   },
   {
     "id": "5057647008",
@@ -240,12 +240,12 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5066977008"
   },
   {
-    "id": "5186199008",
+    "id": "5166519008",
     "role": "Sales",
     "title": "Business Development Representative",
     "company": "anthropic",
-    "location": "Seoul, South Korea",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5186199008"
+    "location": "Tokyo, Japan",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5166519008"
   },
   {
     "id": "4939815008",
@@ -256,12 +256,12 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4939815008"
   },
   {
-    "id": "5166519008",
+    "id": "5186199008",
     "role": "Sales",
     "title": "Business Development Representative",
     "company": "anthropic",
-    "location": "Tokyo, Japan",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5166519008"
+    "location": "Seoul, South Korea",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5186199008"
   },
   {
     "id": "4969427008",
@@ -310,14 +310,6 @@
     "company": "anthropic",
     "location": "San Francisco, CA | New York City, NY",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5116927008"
-  },
-  {
-    "id": "5026678008",
-    "role": "Finance",
-    "title": "Cloud Service Provider Accounting Manager",
-    "company": "anthropic",
-    "location": "San Francisco, CA; Seattle, WA",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5026678008"
   },
   {
     "id": "5191638008",
@@ -656,6 +648,22 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5161973008"
   },
   {
+    "id": "5196221008",
+    "role": "Finance",
+    "title": "Director, Infrastructure Capex Accounting",
+    "company": "anthropic",
+    "location": "San Francisco, CA | Seattle, WA",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5196221008"
+  },
+  {
+    "id": "5196219008",
+    "role": "Finance",
+    "title": "Director, Infrastructure & Energy Accounting ",
+    "company": "anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5196219008"
+  },
+  {
     "id": "5175891008",
     "role": "Finance",
     "title": "Director, Technical Accounting \u2013 M&A and Investments",
@@ -664,20 +672,20 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5175891008"
   },
   {
-    "id": "5072140008",
-    "role": "Sales",
-    "title": "EMEA AE Lead, Beneficial Deployments",
-    "company": "anthropic",
-    "location": "London, UK",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5072140008"
-  },
-  {
     "id": "5165673008",
     "role": "Sales",
     "title": "EMEA AE Lead, Beneficial Deployments",
     "company": "anthropic",
     "location": "Dublin, IE",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5165673008"
+  },
+  {
+    "id": "5072140008",
+    "role": "Sales",
+    "title": "EMEA AE Lead, Beneficial Deployments",
+    "company": "anthropic",
+    "location": "London, UK",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5072140008"
   },
   {
     "id": "5079916008",
@@ -750,14 +758,6 @@
     "company": "anthropic",
     "location": "San Francisco, CA | New York City, NY",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5155391008"
-  },
-  {
-    "id": "5119478008",
-    "role": "Engineering & Design - Product",
-    "title": "Engineering Manager, People Products",
-    "company": "anthropic",
-    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5119478008"
   },
   {
     "id": "5146363008",
@@ -870,14 +870,6 @@
     "company": "anthropic",
     "location": "Bangalore, India",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4947500008"
-  },
-  {
-    "id": "5138618008",
-    "role": "Sales",
-    "title": "Enterprise Account Executive, Industries Generalist",
-    "company": "anthropic",
-    "location": "Z\u00fcrich, CH",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5138618008"
   },
   {
     "id": "4677205008",
@@ -1050,7 +1042,7 @@
   {
     "id": "5194835008",
     "role": "Finance",
-    "title": "Finance & Strategy, Compute - Central Compute",
+    "title": "Finance & Strategy, Compute ",
     "company": "anthropic",
     "location": "San Francisco, CA",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5194835008"
@@ -1058,7 +1050,7 @@
   {
     "id": "5194829008",
     "role": "Finance",
-    "title": "Finance & Strategy, Datacenter Finance",
+    "title": "Finance & Strategy, Datacenter / Infrastructure Finance",
     "company": "anthropic",
     "location": "San Francisco, CA",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5194829008"
@@ -1168,20 +1160,20 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5133449008"
   },
   {
-    "id": "5012991008",
-    "role": "Sales",
-    "title": "Forward Deployed Engineer, Applied AI",
-    "company": "anthropic",
-    "location": "London, UK",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5012991008"
-  },
-  {
     "id": "4985877008",
     "role": "Sales",
     "title": "Forward Deployed Engineer, Applied AI",
     "company": "anthropic",
     "location": "Boston, MA; Chicago, IL; New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY; Washington, DC",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4985877008"
+  },
+  {
+    "id": "5012991008",
+    "role": "Sales",
+    "title": "Forward Deployed Engineer, Applied AI",
+    "company": "anthropic",
+    "location": "London, UK",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5012991008"
   },
   {
     "id": "5121561008",
@@ -1428,7 +1420,7 @@
     "role": "Security",
     "title": "Incident Manager - Detection & Response",
     "company": "anthropic",
-    "location": "San Francisco, CA | New York City, NY",
+    "location": "New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA; Washington, DC",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5176481008"
   },
   {
@@ -1584,14 +1576,6 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5142110008"
   },
   {
-    "id": "5181763008",
-    "role": "Sales",
-    "title": "Manager, Customer Productivity",
-    "company": "anthropic",
-    "location": "San Francisco, CA | New York City, NY",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5181763008"
-  },
-  {
     "id": "5097046008",
     "role": "Sales",
     "title": "Manager, Enterprise Account Executive, Tech",
@@ -1694,6 +1678,14 @@
     "company": "anthropic",
     "location": "San Francisco, CA | New York City, NY",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5099163008"
+  },
+  {
+    "id": "5181763008",
+    "role": "Sales",
+    "title": "Manager, Value Transformation",
+    "company": "anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5181763008"
   },
   {
     "id": "5100613008",
@@ -1848,14 +1840,6 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5171950008"
   },
   {
-    "id": "4950664008",
-    "role": "Sales",
-    "title": "Partner Solutions Architect, Applied AI",
-    "company": "anthropic",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008"
-  },
-  {
     "id": "5112486008",
     "role": "Sales",
     "title": "Partner Solutions Architect, Applied AI",
@@ -1870,6 +1854,14 @@
     "company": "anthropic",
     "location": "Munich, Germany",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5112493008"
+  },
+  {
+    "id": "4950664008",
+    "role": "Sales",
+    "title": "Partner Solutions Architect, Applied AI",
+    "company": "anthropic",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008"
   },
   {
     "id": "5169103008",
@@ -2006,22 +1998,6 @@
     "company": "anthropic",
     "location": "San Francisco, CA",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5153924008"
-  },
-  {
-    "id": "5179882008",
-    "role": "Product Management, Support, & Operations",
-    "title": "Product Operations Manager, Feedback Loops",
-    "company": "anthropic",
-    "location": "San Francisco, CA | New York City, NY",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5179882008"
-  },
-  {
-    "id": "5179891008",
-    "role": "Product Management, Support, & Operations",
-    "title": "Product Operations Manager, Research Product",
-    "company": "anthropic",
-    "location": "San Francisco, CA | New York City, NY",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5179891008"
   },
   {
     "id": "5186811008",
@@ -2208,20 +2184,20 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4938436008"
   },
   {
-    "id": "5112018008",
-    "role": "AI Research & Engineering",
-    "title": "Research Engineer, Production Model Post-Training",
-    "company": "anthropic",
-    "location": "Z\u00fcrich, CH",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5112018008"
-  },
-  {
     "id": "4613592008",
     "role": "AI Research & Engineering",
     "title": "Research Engineer, Production Model Post-Training",
     "company": "anthropic",
     "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008"
+  },
+  {
+    "id": "5112018008",
+    "role": "AI Research & Engineering",
+    "title": "Research Engineer, Production Model Post-Training",
+    "company": "anthropic",
+    "location": "Z\u00fcrich, CH",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5112018008"
   },
   {
     "id": "5074815008",
@@ -2472,6 +2448,14 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5191332008"
   },
   {
+    "id": "5182887008",
+    "role": "Sales",
+    "title": "Scaled Enterprise Account Executive, Industries",
+    "company": "anthropic",
+    "location": "New York City, NY; San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5182887008"
+  },
+  {
     "id": "5101433008",
     "role": "Sales",
     "title": "Security Architect, Applied AI ",
@@ -2502,6 +2486,14 @@
     "company": "anthropic",
     "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5105509008"
+  },
+  {
+    "id": "5195705008",
+    "role": "Security",
+    "title": "Security Engineer - Threat Intel",
+    "company": "anthropic",
+    "location": "New York City, NY; Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC; San Francisco, CA | New York City, NY",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5195705008"
   },
   {
     "id": "5153564008",
@@ -2608,6 +2600,30 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5175538008"
   },
   {
+    "id": "5196100008",
+    "role": "Finance",
+    "title": "Senior Manager, Finance Strategic Projects",
+    "company": "anthropic",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5196100008"
+  },
+  {
+    "id": "5196230008",
+    "role": "Finance",
+    "title": "Senior Manager, Infrastructure Capex Accounting",
+    "company": "anthropic",
+    "location": "San Francisco, CA | Seattle, WA",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5196230008"
+  },
+  {
+    "id": "5194021008",
+    "role": "Finance",
+    "title": "Senior Manager, Infrastructure Lease Accounting",
+    "company": "anthropic",
+    "location": "San Francisco, CA | Seattle, WA",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5194021008"
+  },
+  {
     "id": "5076754008",
     "role": "Finance",
     "title": "Senior Manager, Revenue Accounting",
@@ -2664,12 +2680,12 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5024835008"
   },
   {
-    "id": "5108521008",
-    "role": "Security",
-    "title": "Senior Security Software Engineer, eBPF & Security Sensors",
+    "id": "5174743008",
+    "role": "Engineering & Design - Product",
+    "title": "Senior Software Engineer, Full-stack",
     "company": "anthropic",
-    "location": "Z\u00fcrich, CH",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5108521008"
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5174743008"
   },
   {
     "id": "4641822008",
@@ -2680,6 +2696,14 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4641822008"
   },
   {
+    "id": "5157844008",
+    "role": "Engineering & Design - Product",
+    "title": "Senior Software Engineer, Platform",
+    "company": "anthropic",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5157844008"
+  },
+  {
     "id": "4981828008",
     "role": "AI Research & Engineering",
     "title": "Senior+ Software Engineer, Research Tools",
@@ -2688,20 +2712,20 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4981828008"
   },
   {
-    "id": "4887959008",
-    "role": "Security",
-    "title": "Senior Software Security Engineer",
-    "company": "anthropic",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4887959008"
-  },
-  {
     "id": "5022845008",
     "role": "Security",
     "title": "Senior Software Security Engineer",
     "company": "anthropic",
     "location": "London, UK",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5022845008"
+  },
+  {
+    "id": "4887959008",
+    "role": "Security",
+    "title": "Senior Software Security Engineer",
+    "company": "anthropic",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4887959008"
   },
   {
     "id": "5134895008",
@@ -2784,14 +2808,6 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4980420008"
   },
   {
-    "id": "5174743008",
-    "role": "Engineering & Design - Product",
-    "title": "Software Engineer, Full-stack",
-    "company": "anthropic",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5174743008"
-  },
-  {
     "id": "5109273008",
     "role": "AI Research & Engineering",
     "title": "Software Engineer, Human Data Interface",
@@ -2814,14 +2830,6 @@
     "company": "anthropic",
     "location": "San Francisco, CA, New York City, NY, Seattle, WA",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4572744008"
-  },
-  {
-    "id": "5157844008",
-    "role": "Engineering & Design - Product",
-    "title": "Software Engineer, Platform",
-    "company": "anthropic",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5157844008"
   },
   {
     "id": "5191226008",
@@ -2880,20 +2888,20 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4673416008"
   },
   {
-    "id": "5076109008",
-    "role": "Sales",
-    "title": "Solutions Architect, Applied AI",
-    "company": "anthropic",
-    "location": "Tokyo, Japan",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5076109008"
-  },
-  {
     "id": "5117581008",
     "role": "Sales",
     "title": "Solutions Architect, Applied AI",
     "company": "anthropic",
     "location": "Bangalore, India",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5117581008"
+  },
+  {
+    "id": "5076109008",
+    "role": "Sales",
+    "title": "Solutions Architect, Applied AI",
+    "company": "anthropic",
+    "location": "Tokyo, Japan",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5076109008"
   },
   {
     "id": "5192805008",
@@ -2928,20 +2936,20 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5140405008"
   },
   {
-    "id": "4977624008",
-    "role": "Sales",
-    "title": " Solutions Architect, Applied AI (Industries)",
-    "company": "anthropic",
-    "location": "Munich, Germany",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008"
-  },
-  {
     "id": "4977626008",
     "role": "Sales",
     "title": " Solutions Architect, Applied AI (Industries)",
     "company": "anthropic",
     "location": "Paris, France",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008"
+  },
+  {
+    "id": "4977624008",
+    "role": "Sales",
+    "title": " Solutions Architect, Applied AI (Industries)",
+    "company": "anthropic",
+    "location": "Munich, Germany",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008"
   },
   {
     "id": "4461444008",
@@ -2968,20 +2976,20 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5079511008"
   },
   {
-    "id": "5057258008",
-    "role": "Sales",
-    "title": "Solutions Architect, Applied AI (Startups)",
-    "company": "anthropic",
-    "location": "San Francisco, CA | New York City, NY",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5057258008"
-  },
-  {
     "id": "4968059008",
     "role": "Sales",
     "title": "Solutions Architect, Applied AI (Startups)",
     "company": "anthropic",
     "location": "London, UK",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4968059008"
+  },
+  {
+    "id": "5057258008",
+    "role": "Sales",
+    "title": "Solutions Architect, Applied AI (Startups)",
+    "company": "anthropic",
+    "location": "San Francisco, CA | New York City, NY",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5057258008"
   },
   {
     "id": "5140403008",
@@ -3056,20 +3064,20 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4951696008"
   },
   {
-    "id": "5101173008",
-    "role": "Software Engineering - Infrastructure",
-    "title": "Staff Software Engineer, AI Reliability Engineering",
-    "company": "anthropic",
-    "location": "London, UK",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5101173008"
-  },
-  {
     "id": "5101169008",
     "role": "Software Engineering - Infrastructure",
     "title": "Staff Software Engineer, AI Reliability Engineering",
     "company": "anthropic",
     "location": "Dublin, IE",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5101169008"
+  },
+  {
+    "id": "5101173008",
+    "role": "Software Engineering - Infrastructure",
+    "title": "Staff Software Engineer, AI Reliability Engineering",
+    "company": "anthropic",
+    "location": "London, UK",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5101173008"
   },
   {
     "id": "5174755008",
@@ -3144,20 +3152,20 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5150472008"
   },
   {
-    "id": "5102440008",
-    "role": "Software Engineering - Infrastructure",
-    "title": "Staff+ Software Engineer, Observability",
-    "company": "anthropic",
-    "location": "London, UK",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5102440008"
-  },
-  {
     "id": "5139910008",
     "role": "Software Engineering - Infrastructure",
     "title": "Staff+ Software Engineer, Observability",
     "company": "anthropic",
     "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5139910008"
+  },
+  {
+    "id": "5102440008",
+    "role": "Software Engineering - Infrastructure",
+    "title": "Staff+ Software Engineer, Observability",
+    "company": "anthropic",
+    "location": "London, UK",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5102440008"
   },
   {
     "id": "5157847008",
@@ -3360,14 +3368,6 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5017903008"
   },
   {
-    "id": "5153761008",
-    "role": "Sales",
-    "title": "Technical Deployment Lead, Applied AI",
-    "company": "anthropic",
-    "location": "Paris, France",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5153761008"
-  },
-  {
     "id": "5153754008",
     "role": "Sales",
     "title": "Technical Deployment Lead, Applied AI",
@@ -3376,20 +3376,20 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5153754008"
   },
   {
+    "id": "5153761008",
+    "role": "Sales",
+    "title": "Technical Deployment Lead, Applied AI",
+    "company": "anthropic",
+    "location": "Paris, France",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5153761008"
+  },
+  {
     "id": "5185501008",
     "role": "Sales",
     "title": "Technical Enablement Lead, Claude Code",
     "company": "anthropic",
-    "location": "Boston, MA; San Francisco, CA | New York City, NY; Seattle, WA; Washington, DC",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5185501008"
-  },
-  {
-    "id": "5140239008",
-    "role": "Safeguards (Trust & Safety) ",
-    "title": "Technical Influence Operations Threat Investigator",
-    "company": "anthropic",
-    "location": "Remote-Friendly, United States",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5140239008"
   },
   {
     "id": "5066981008",
@@ -3486,14 +3486,6 @@
     "company": "anthropic",
     "location": "San Francisco, CA | Seattle, WA",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/4935314008"
-  },
-  {
-    "id": "5056499008",
-    "role": "AI Research & Engineering",
-    "title": "Technical Solutions Specialist, Data Operations",
-    "company": "anthropic",
-    "location": "San Francisco, CA | New York City, NY",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5056499008"
   },
   {
     "id": "5074937008",

@@ -352,14 +352,6 @@
     "link": "https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee"
   },
   {
-    "id": "9917ce6e-bd59-4d79-a8d2-ca47827bf9e2",
-    "role": "Product Engineering",
-    "title": "Member of Technical Staff (Full Stack Engineer, Growth)",
-    "company": "perplexity",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/perplexity/9917ce6e-bd59-4d79-a8d2-ca47827bf9e2"
-  },
-  {
     "id": "30a09c0f-8715-447d-92b7-9f0adb772fd6",
     "role": "Search",
     "title": "Member of Technical Staff (Golang Engineer, Search)",
@@ -480,20 +472,20 @@
     "link": "https://jobs.ashbyhq.com/perplexity/8673866c-f624-4b58-b171-752cf003630e"
   },
   {
+    "id": "4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8",
+    "role": "Product Engineering",
+    "title": "Member of Technical Staff (Software Engineer, Computer)",
+    "company": "perplexity",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/perplexity/4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8"
+  },
+  {
     "id": "7755eb0a-0f51-4286-b75e-591e44c741bc",
     "role": "AI",
     "title": "Member of Technical Staff (Software Engineer, Data Flywheel)",
     "company": "perplexity",
     "location": "London",
     "link": "https://jobs.ashbyhq.com/perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc"
-  },
-  {
-    "id": "f5bacc41-66d6-46cc-8a29-5dc6bf055bad",
-    "role": "Product Engineering",
-    "title": "Member of Technical Staff (Software Engineer, Full Stack)",
-    "company": "perplexity",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/perplexity/f5bacc41-66d6-46cc-8a29-5dc6bf055bad"
   },
   {
     "id": "2cef7831-6ed3-4663-aec4-57f79f08c95a",
@@ -542,14 +534,6 @@
     "company": "perplexity",
     "location": "San Francisco",
     "link": "https://jobs.ashbyhq.com/perplexity/adf189e8-5802-4077-aa1f-3668206aacbb"
-  },
-  {
-    "id": "be996347-b366-44a1-82b3-2df64a744afb",
-    "role": "Legal",
-    "title": "Senior Counsel, Intellectual Property (Patent)",
-    "company": "perplexity",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/perplexity/be996347-b366-44a1-82b3-2df64a744afb"
   },
   {
     "id": "9e3a4516-b893-4579-9a6a-3720658e4b6d",
