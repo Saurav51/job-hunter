@@ -32,14 +32,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -112,20 +104,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -152,12 +144,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -192,14 +192,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -272,20 +264,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -312,12 +304,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -352,14 +352,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -432,20 +424,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -472,12 +464,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -512,14 +512,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -592,20 +584,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -632,12 +624,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -672,14 +672,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -752,20 +744,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -792,12 +784,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -832,14 +832,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -912,20 +904,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -952,12 +944,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -992,14 +992,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -1072,20 +1064,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -1112,12 +1104,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -1152,14 +1152,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -1232,20 +1224,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -1272,12 +1264,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -1312,14 +1312,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -1392,20 +1384,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -1432,12 +1424,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -1472,14 +1472,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -1552,20 +1544,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -1592,12 +1584,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -1632,14 +1632,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -1712,20 +1704,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -1752,12 +1744,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -1792,14 +1792,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -1872,20 +1864,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -1912,12 +1904,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -1952,14 +1952,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -2032,20 +2024,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -2072,12 +2064,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -2112,14 +2112,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -2192,20 +2184,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -2232,12 +2224,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -2272,14 +2272,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -2352,20 +2344,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -2392,12 +2384,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -2432,14 +2432,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -2512,20 +2504,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -2552,12 +2544,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -2592,14 +2592,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -2672,20 +2664,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -2712,12 +2704,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   },
   {
     "id": "130667307197178566",
@@ -2752,14 +2752,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/75350971693048518"
   },
   {
-    "id": "118079380822860486",
-    "role": "",
-    "title": "Software Engineer III, Fuschia",
-    "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/118079380822860486"
-  },
-  {
     "id": "125473575044817606",
     "role": "",
     "title": "Software Engineer III, Android, Media Technologies, YouTube",
@@ -2832,20 +2824,20 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "88714689822761670",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670"
+  },
+  {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
   },
   {
     "id": "122258040807137990",
@@ -2872,11 +2864,19 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "115106806040011462",
+    "id": "88922787028050630",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Search Ads",
+    "title": "Software Engineer, Platform UI",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/115106806040011462"
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+  },
+  {
+    "id": "90342411158332102",
+    "role": "",
+    "title": "Software Engineer",
+    "company": "google",
+    "location": "Boulder, CO, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
   }
 ]

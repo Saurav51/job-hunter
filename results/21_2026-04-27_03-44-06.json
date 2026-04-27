@@ -1,0 +1,484 @@
+{
+  "anthropic": [
+    {
+      "id": "5197432008",
+      "role": "Finance",
+      "title": "Director, Revenue Accounting Operations - Program Management",
+      "company": "anthropic",
+      "location": "San Francisco, CA | Seattle, WA",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5197432008"
+    },
+    {
+      "id": "5200670008",
+      "role": "Security",
+      "title": "Head of Resilience Operations, Global Safety, Intelligence & Security",
+      "company": "anthropic",
+      "location": "Boston, MA; San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5200670008"
+    },
+    {
+      "id": "5197538008",
+      "role": "Applied AI",
+      "title": "Manager of Applied AI Architecture, Enterprise Tech (Cyber)",
+      "company": "anthropic",
+      "location": "New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5197538008"
+    },
+    {
+      "id": "5198991008",
+      "role": "Marketing & Brand",
+      "title": "Product Marketing Lead, Claude Platform - Cloud",
+      "company": "anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5198991008"
+    }
+  ],
+  "openai": [
+    {
+      "id": "7b0b92e0-3d7e-41d7-a756-3ed11a334449",
+      "role": "Finance",
+      "title": "Accounts Payable Manager, Direct",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/7b0b92e0-3d7e-41d7-a756-3ed11a334449"
+    },
+    {
+      "id": "dc70e8e8-0f0c-400b-a731-0756c9fdfec1",
+      "role": "Finance",
+      "title": "Business Platform Engineer - Supply Chain Technology",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/dc70e8e8-0f0c-400b-a731-0756c9fdfec1"
+    },
+    {
+      "id": "4ffac8e5-95fe-4184-835d-bd6b03fb9f72",
+      "role": "Datacenter Design",
+      "title": "Capacity Planning & Tooling Program Manager",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/4ffac8e5-95fe-4184-835d-bd6b03fb9f72"
+    },
+    {
+      "id": "eb84b293-0158-4faf-be05-7027016445a9",
+      "role": "People Innovation Lab",
+      "title": "Engineer  Manager, People Innovations  Labs",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/eb84b293-0158-4faf-be05-7027016445a9"
+    },
+    {
+      "id": "d1aee16e-0876-472b-85db-f64b0f803315",
+      "role": "Software",
+      "title": "Graphics Software Engineer - Consumer Devices",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/d1aee16e-0876-472b-85db-f64b0f803315"
+    },
+    {
+      "id": "24ddfd8a-cce8-4da8-a7f0-e4ea44f0d81c",
+      "role": "Sales",
+      "title": "Head of Industries",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/24ddfd8a-cce8-4da8-a7f0-e4ea44f0d81c"
+    },
+    {
+      "id": "a4d772fc-1c97-43fd-8241-5e5afdc0ef51",
+      "role": "Research Program Management",
+      "title": "Program Manager, Partner Operations",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/a4d772fc-1c97-43fd-8241-5e5afdc0ef51"
+    },
+    {
+      "id": "3c640684-f396-4d30-b43f-bac4c362aaa3",
+      "role": "Recruiting",
+      "title": "Recruiting Coordinator",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/3c640684-f396-4d30-b43f-bac4c362aaa3"
+    },
+    {
+      "id": "85fceac9-fb8a-4d71-a524-a8e5f1e9b01b",
+      "role": "Inference",
+      "title": "Software Engineer, Inference - Performance Optimization",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/85fceac9-fb8a-4d71-a524-a8e5f1e9b01b"
+    },
+    {
+      "id": "25301e84-68bc-4fba-bb20-475a434aa3f1",
+      "role": "Marketing",
+      "title": "Startup Field Marketer",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/25301e84-68bc-4fba-bb20-475a434aa3f1"
+    }
+  ],
+  "ramp": [
+    {
+      "id": "b8291945-567a-4ed6-8a06-3deab4e18fd7",
+      "role": "Channel Sales",
+      "title": "Senior Technical Channel Partner Manager | ISV",
+      "company": "ramp",
+      "location": "New York, NY (HQ)",
+      "link": "https://jobs.ashbyhq.com/ramp/b8291945-567a-4ed6-8a06-3deab4e18fd7"
+    }
+  ],
+  "uber": [
+    {
+      "id": "157787",
+      "role": "Engineering",
+      "title": "Software Engineer",
+      "company": "uber",
+      "location": "New York, United States",
+      "link": "https://www.uber.com/global/en/careers/list/157787/"
+    },
+    {
+      "id": "158889",
+      "role": "Backend",
+      "title": "Software Engineer II - Middleware - AV Labs",
+      "company": "uber",
+      "location": "Sunnyvale, United States",
+      "link": "https://www.uber.com/global/en/careers/list/158889/"
+    },
+    {
+      "id": "158888",
+      "role": "Engineering",
+      "title": "Software Engineer II",
+      "company": "uber",
+      "location": "Sunnyvale, United States",
+      "link": "https://www.uber.com/global/en/careers/list/158888/"
+    },
+    {
+      "id": "157792",
+      "role": "Engineering",
+      "title": "Software Engineer",
+      "company": "uber",
+      "location": "San Francisco, United States",
+      "link": "https://www.uber.com/global/en/careers/list/157792/"
+    },
+    {
+      "id": "157793",
+      "role": "Engineering",
+      "title": "Software Engineer II",
+      "company": "uber",
+      "location": "San Francisco, United States",
+      "link": "https://www.uber.com/global/en/careers/list/157793/"
+    },
+    {
+      "id": "157785",
+      "role": "Engineering",
+      "title": "Software Engineer I",
+      "company": "uber",
+      "location": "San Francisco, United States",
+      "link": "https://www.uber.com/global/en/careers/list/157785/"
+    },
+    {
+      "id": "158723",
+      "role": "Program Manager",
+      "title": "Senior Localization Program Manager, Multilingual AI",
+      "company": "uber",
+      "location": "Sunnyvale, United States",
+      "link": "https://www.uber.com/global/en/careers/list/158723/"
+    },
+    {
+      "id": "157788",
+      "role": "Engineering",
+      "title": "Software Engineer",
+      "company": "uber",
+      "location": "Seattle, United States",
+      "link": "https://www.uber.com/global/en/careers/list/157788/"
+    }
+  ],
+  "google": [
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    },
+    {
+      "id": "88922787028050630",
+      "role": "",
+      "title": "Software Engineer, Platform UI",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
+    },
+    {
+      "id": "90342411158332102",
+      "role": "",
+      "title": "Software Engineer",
+      "company": "google",
+      "location": "Boulder, CO, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
+    }
+  ]
+}

@@ -176,20 +176,20 @@
     "link": "https://jobs.ashbyhq.com/perplexity/3c656963-876a-458d-bca6-916a42a24c1a"
   },
   {
-    "id": "e4777627-ff8f-4257-8612-3a016bb58592",
-    "role": "AI",
-    "title": "Member of Technical Staff (AI Inference Engineer)",
-    "company": "perplexity",
-    "location": "London",
-    "link": "https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592"
-  },
-  {
     "id": "8a976851-9bef-4b07-8d36-567fa9540aef",
     "role": "AI",
     "title": "Member of Technical Staff (AI Inference Engineer)",
     "company": "perplexity",
     "location": "San Francisco",
     "link": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef"
+  },
+  {
+    "id": "e4777627-ff8f-4257-8612-3a016bb58592",
+    "role": "AI",
+    "title": "Member of Technical Staff (AI Inference Engineer)",
+    "company": "perplexity",
+    "location": "London",
+    "link": "https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592"
   },
   {
     "id": "598e1f7d-b802-4de2-99ac-90eb2bc33315",
@@ -416,14 +416,6 @@
     "link": "https://jobs.ashbyhq.com/perplexity/a805e14b-061d-469c-9136-b9e6a1855902"
   },
   {
-    "id": "3b349a2f-360e-44e6-a57d-6a87bc3016a7",
-    "role": "Search",
-    "title": "Member of Technical Staff (Quality Analyst, Search)",
-    "company": "perplexity",
-    "location": "Belgrade",
-    "link": "https://jobs.ashbyhq.com/perplexity/3b349a2f-360e-44e6-a57d-6a87bc3016a7"
-  },
-  {
     "id": "a19f1774-5944-4981-b446-e3e40d0dd281",
     "role": "Search",
     "title": "Member of Technical Staff (Rust Engineer, Search)",
@@ -438,6 +430,14 @@
     "company": "perplexity",
     "location": "Belgrade",
     "link": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f"
+  },
+  {
+    "id": "3b349a2f-360e-44e6-a57d-6a87bc3016a7",
+    "role": "Search",
+    "title": "Member of Technical Staff (Search Quality Analyst)",
+    "company": "perplexity",
+    "location": "Belgrade",
+    "link": "https://jobs.ashbyhq.com/perplexity/3b349a2f-360e-44e6-a57d-6a87bc3016a7"
   },
   {
     "id": "e48aaf8c-24cd-4733-aa5b-752773467bfa",
@@ -472,14 +472,6 @@
     "link": "https://jobs.ashbyhq.com/perplexity/4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8"
   },
   {
-    "id": "043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
-    "role": "Product Engineering",
-    "title": "Member of Technical Staff (Software Engineer, Computer Monetization)",
-    "company": "perplexity",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4"
-  },
-  {
     "id": "7755eb0a-0f51-4286-b75e-591e44c741bc",
     "role": "AI",
     "title": "Member of Technical Staff (Software Engineer, Data Flywheel)",
@@ -494,6 +486,14 @@
     "company": "perplexity",
     "location": "London",
     "link": "https://jobs.ashbyhq.com/perplexity/2cef7831-6ed3-4663-aec4-57f79f08c95a"
+  },
+  {
+    "id": "043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+    "role": "Product Engineering",
+    "title": "Member of Technical Staff (Software Engineer, Monetization)",
+    "company": "perplexity",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4"
   },
   {
     "id": "6c9b3c71-85ba-47db-bce5-44fd9fa95d03",
