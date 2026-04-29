@@ -16,28 +16,12 @@
     "link": "https://jobs.ashbyhq.com/ramp/f8e75f30-738c-4987-8e00-2837af8d8bf6"
   },
   {
-    "id": "f7c4de3c-1d64-42e9-8111-f38e265327d8",
+    "id": "3f94674f-6af8-4e10-9631-77b1b0a410bf",
     "role": "Account Executive",
-    "title": " Account Executive | Mid-Market",
+    "title": "Account Executive, SMB | Canada",
     "company": "ramp",
-    "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/f7c4de3c-1d64-42e9-8111-f38e265327d8"
-  },
-  {
-    "id": "a808d519-404a-4aee-9189-2b1ad62d0330",
-    "role": "Account Executive",
-    "title": "Account Executive | SLED",
-    "company": "ramp",
-    "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/a808d519-404a-4aee-9189-2b1ad62d0330"
-  },
-  {
-    "id": "707d5f91-bcf7-42b2-a0e6-8130bf13e56b",
-    "role": "Account Executive",
-    "title": "Account Executive | Strategic ",
-    "company": "ramp",
-    "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/707d5f91-bcf7-42b2-a0e6-8130bf13e56b"
+    "location": "Remote (Canada)",
+    "link": "https://jobs.ashbyhq.com/ramp/3f94674f-6af8-4e10-9631-77b1b0a410bf"
   },
   {
     "id": "b9568fb8-a47e-4738-87fb-a6d88c3a505f",
@@ -440,14 +424,6 @@
     "link": "https://jobs.ashbyhq.com/ramp/671a5957-397b-455e-9d34-04526a784aed"
   },
   {
-    "id": "9a60f41c-1df7-4330-bd0c-ba1481a13bbb",
-    "role": "IT",
-    "title": "IT Site Lead | San Francisco",
-    "company": "ramp",
-    "location": "San Francisco, CA",
-    "link": "https://jobs.ashbyhq.com/ramp/9a60f41c-1df7-4330-bd0c-ba1481a13bbb"
-  },
-  {
     "id": "baf0a4d2-e07e-4f76-af85-d85c91f479a4",
     "role": "Account Manager",
     "title": "Manager, Account Manager | Mid-Market",
@@ -462,14 +438,6 @@
     "company": "ramp",
     "location": "San Francisco, CA",
     "link": "https://jobs.ashbyhq.com/ramp/28babcd7-1da5-434d-8e87-deb7b5809a43"
-  },
-  {
-    "id": "9a7b7657-1e16-4a95-9a47-79612669cf9c",
-    "role": "SDR",
-    "title": "Manager, Sales Development | Enterprise",
-    "company": "ramp",
-    "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/9a7b7657-1e16-4a95-9a47-79612669cf9c"
   },
   {
     "id": "f564dcf9-9390-4a3f-896f-8047a5086040",
@@ -550,14 +518,6 @@
     "company": "ramp",
     "location": "New York, NY (HQ)",
     "link": "https://jobs.ashbyhq.com/ramp/9972df9e-4133-4e2c-9305-49c285b76506"
-  },
-  {
-    "id": "e0b64893-0459-4d84-ac4f-7b50966ef024",
-    "role": "Product Management",
-    "title": "Product Manager | Growth",
-    "company": "ramp",
-    "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/e0b64893-0459-4d84-ac4f-7b50966ef024"
   },
   {
     "id": "8baec095-2235-41ab-ab64-9abc57823b4b",
@@ -824,14 +784,6 @@
     "link": "https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a"
   },
   {
-    "id": "d818443f-d4c5-4eab-892d-3715a935c165",
-    "role": "Backend",
-    "title": "Software Engineer, Banking",
-    "company": "ramp",
-    "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/d818443f-d4c5-4eab-892d-3715a935c165"
-  },
-  {
     "id": "2a4968ae-220c-471b-b890-a011de570bbb",
     "role": "Backend",
     "title": "Software Engineer, Bill Pay & Procurement",
@@ -856,12 +808,12 @@
     "link": "https://jobs.ashbyhq.com/ramp/bca0346c-b843-4795-96df-6091f51e421b"
   },
   {
-    "id": "1b191a1d-bb39-4b4a-b6bf-224e66ead1eb",
-    "role": "Backend",
-    "title": "Software Engineer, Financial Systems",
+    "id": "198150d6-789a-4ef8-999f-93a49656d4f1",
+    "role": "Engineering",
+    "title": "Software Engineer, Engineering Platform",
     "company": "ramp",
     "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/1b191a1d-bb39-4b4a-b6bf-224e66ead1eb"
+    "link": "https://jobs.ashbyhq.com/ramp/198150d6-789a-4ef8-999f-93a49656d4f1"
   },
   {
     "id": "8fa367de-71ba-409e-befd-175a163acb1b",
@@ -896,14 +848,6 @@
     "link": "https://jobs.ashbyhq.com/ramp/f2d10bdf-0906-47eb-96fb-0efe6f81d8a3"
   },
   {
-    "id": "0ea43bb5-201b-4626-ae19-1d7ae3a3193f",
-    "role": "Infrastructure ",
-    "title": "Software Engineer, Infrastructure",
-    "company": "ramp",
-    "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/0ea43bb5-201b-4626-ae19-1d7ae3a3193f"
-  },
-  {
     "id": "67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
     "role": "Emerging Talent - SWE",
     "title": "Software Engineer Internship, Android ",
@@ -918,6 +862,14 @@
     "company": "ramp",
     "location": "New York, NY (HQ)",
     "link": "https://jobs.ashbyhq.com/ramp/0c9e3e0f-54df-4252-a17b-b506e954225b"
+  },
+  {
+    "id": "be496b52-cfbf-494e-b862-61fb4a188b24",
+    "role": "Infrastructure ",
+    "title": "Software Engineer, Production Engineering",
+    "company": "ramp",
+    "location": "New York, NY (HQ)",
+    "link": "https://jobs.ashbyhq.com/ramp/be496b52-cfbf-494e-b862-61fb4a188b24"
   },
   {
     "id": "4bb1ccd6-cf0d-48a8-90f6-05d61617d0d4",
@@ -938,7 +890,7 @@
   {
     "id": "d1183b00-6590-4fe4-a585-28d84e578fe3",
     "role": "Backend",
-    "title": "Software Engineer, Stablecoins",
+    "title": "Software Engineer, Stablecoin",
     "company": "ramp",
     "location": "New York, NY (HQ)",
     "link": "https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3"
@@ -950,14 +902,6 @@
     "company": "ramp",
     "location": "Remote (US)",
     "link": "https://jobs.ashbyhq.com/ramp/c578c61a-2a0a-4c35-97cc-d18e4725b72f"
-  },
-  {
-    "id": "f36f233b-bb27-4334-87df-8dc02b897724",
-    "role": "Solutions Consulting",
-    "title": "Solutions Consultant | Mid-Market",
-    "company": "ramp",
-    "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/f36f233b-bb27-4334-87df-8dc02b897724"
   },
   {
     "id": "157bb000-868b-4a6d-9143-67619871812f",
