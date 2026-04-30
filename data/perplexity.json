@@ -144,20 +144,20 @@
     "link": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92"
   },
   {
-    "id": "71168628-1998-47d3-87a9-be7bc56a430d",
-    "role": "Search",
-    "title": "Internship - Search Machine Learning Engineer",
-    "company": "perplexity",
-    "location": "London",
-    "link": "https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d"
-  },
-  {
     "id": "9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
     "role": "Search",
     "title": "Internship - Search Machine Learning Engineer",
     "company": "perplexity",
     "location": "Belgrade",
     "link": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2"
+  },
+  {
+    "id": "71168628-1998-47d3-87a9-be7bc56a430d",
+    "role": "Search",
+    "title": "Internship - Search Machine Learning Engineer",
+    "company": "perplexity",
+    "location": "London",
+    "link": "https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d"
   },
   {
     "id": "18509f15-ab49-450d-8a01-4b280e464ad0",
@@ -168,20 +168,20 @@
     "link": "https://jobs.ashbyhq.com/perplexity/18509f15-ab49-450d-8a01-4b280e464ad0"
   },
   {
-    "id": "e4777627-ff8f-4257-8612-3a016bb58592",
-    "role": "AI",
-    "title": "Member of Technical Staff (AI Inference Engineer)",
-    "company": "perplexity",
-    "location": "London",
-    "link": "https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592"
-  },
-  {
     "id": "8a976851-9bef-4b07-8d36-567fa9540aef",
     "role": "AI",
     "title": "Member of Technical Staff (AI Inference Engineer)",
     "company": "perplexity",
     "location": "San Francisco",
     "link": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef"
+  },
+  {
+    "id": "e4777627-ff8f-4257-8612-3a016bb58592",
+    "role": "AI",
+    "title": "Member of Technical Staff (AI Inference Engineer)",
+    "company": "perplexity",
+    "location": "London",
+    "link": "https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592"
   },
   {
     "id": "598e1f7d-b802-4de2-99ac-90eb2bc33315",
@@ -498,7 +498,7 @@
   {
     "id": "d59c175a-9889-4947-81f7-21fd7db243be",
     "role": "People",
-    "title": "People Ops Manager (8 Month Maternity Cover, London) ",
+    "title": "People Ops Generalist (8 Month Maternity Cover, London) ",
     "company": "perplexity",
     "location": "London",
     "link": "https://jobs.ashbyhq.com/perplexity/d59c175a-9889-4947-81f7-21fd7db243be"

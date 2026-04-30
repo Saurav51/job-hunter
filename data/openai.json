@@ -64,20 +64,20 @@
     "link": "https://jobs.ashbyhq.com/openai/673ca4f5-b5dc-448f-be3c-4f888a6d13ed"
   },
   {
-    "id": "9b64afcc-c0e0-4b2f-acce-4212b02da23a",
-    "role": "Sales",
-    "title": "Account Director, Education",
-    "company": "openai",
-    "location": "Sydney, Australia",
-    "link": "https://jobs.ashbyhq.com/openai/9b64afcc-c0e0-4b2f-acce-4212b02da23a"
-  },
-  {
     "id": "a8f86859-ad6a-4381-80ee-d7f9b8bc4fb3",
     "role": "Sales",
     "title": "Account Director, Education",
     "company": "openai",
     "location": "Dublin, Ireland",
     "link": "https://jobs.ashbyhq.com/openai/a8f86859-ad6a-4381-80ee-d7f9b8bc4fb3"
+  },
+  {
+    "id": "9b64afcc-c0e0-4b2f-acce-4212b02da23a",
+    "role": "Sales",
+    "title": "Account Director, Education",
+    "company": "openai",
+    "location": "Sydney, Australia",
+    "link": "https://jobs.ashbyhq.com/openai/9b64afcc-c0e0-4b2f-acce-4212b02da23a"
   },
   {
     "id": "bfffb67e-e4c8-4020-8111-3b3160543071",
@@ -224,20 +224,20 @@
     "link": "https://jobs.ashbyhq.com/openai/5547d275-f123-46e1-8695-71fd79a05724"
   },
   {
-    "id": "04435c05-7a05-4802-894d-c173327fbac8",
-    "role": "Technical Success",
-    "title": "AI Deployment Engineer",
-    "company": "openai",
-    "location": "Seoul, South Korea",
-    "link": "https://jobs.ashbyhq.com/openai/04435c05-7a05-4802-894d-c173327fbac8"
-  },
-  {
     "id": "8acfba11-707e-4d8e-a860-88643fae24ba",
     "role": "Technical Success",
     "title": "AI Deployment Engineer",
     "company": "openai",
     "location": "Singapore",
     "link": "https://jobs.ashbyhq.com/openai/8acfba11-707e-4d8e-a860-88643fae24ba"
+  },
+  {
+    "id": "04435c05-7a05-4802-894d-c173327fbac8",
+    "role": "Technical Success",
+    "title": "AI Deployment Engineer",
+    "company": "openai",
+    "location": "Seoul, South Korea",
+    "link": "https://jobs.ashbyhq.com/openai/04435c05-7a05-4802-894d-c173327fbac8"
   },
   {
     "id": "c9acc73a-b118-4802-bb51-87f3d57df883",
@@ -256,14 +256,6 @@
     "link": "https://jobs.ashbyhq.com/openai/387e28ec-a4db-42da-9448-b6dbb7b13901"
   },
   {
-    "id": "8335b0cb-bad7-4f10-9e44-b245ccc2842e",
-    "role": "Technical Success",
-    "title": "AI Deployment Engineer | Codex",
-    "company": "openai",
-    "location": "London, UK",
-    "link": "https://jobs.ashbyhq.com/openai/8335b0cb-bad7-4f10-9e44-b245ccc2842e"
-  },
-  {
     "id": "744e5dde-a51f-445c-bc4a-f9ddb68e2fc2",
     "role": "Technical Success",
     "title": "AI Deployment Engineer | Codex",
@@ -280,20 +272,12 @@
     "link": "https://jobs.ashbyhq.com/openai/03e9c605-5b93-4589-888d-959a8071b9be"
   },
   {
-    "id": "ca7e4019-bf93-42fd-8f15-fac59c6e237c",
+    "id": "8335b0cb-bad7-4f10-9e44-b245ccc2842e",
     "role": "Technical Success",
-    "title": "AI Deployment Engineer- Codex",
+    "title": "AI Deployment Engineer | Codex",
     "company": "openai",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/openai/ca7e4019-bf93-42fd-8f15-fac59c6e237c"
-  },
-  {
-    "id": "179b998f-ae76-4de7-a4d0-c2c30d0b0bc8",
-    "role": "Technical Success",
-    "title": "AI Deployment Engineer- Codex",
-    "company": "openai",
-    "location": "New York City",
-    "link": "https://jobs.ashbyhq.com/openai/179b998f-ae76-4de7-a4d0-c2c30d0b0bc8"
+    "location": "London, UK",
+    "link": "https://jobs.ashbyhq.com/openai/8335b0cb-bad7-4f10-9e44-b245ccc2842e"
   },
   {
     "id": "4f4221ef-f2bc-4dc1-9086-69ba126e4903",
@@ -304,12 +288,36 @@
     "link": "https://jobs.ashbyhq.com/openai/4f4221ef-f2bc-4dc1-9086-69ba126e4903"
   },
   {
+    "id": "179b998f-ae76-4de7-a4d0-c2c30d0b0bc8",
+    "role": "Technical Success",
+    "title": "AI Deployment Engineer- Codex",
+    "company": "openai",
+    "location": "New York City",
+    "link": "https://jobs.ashbyhq.com/openai/179b998f-ae76-4de7-a4d0-c2c30d0b0bc8"
+  },
+  {
+    "id": "ca7e4019-bf93-42fd-8f15-fac59c6e237c",
+    "role": "Technical Success",
+    "title": "AI Deployment Engineer- Codex",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/ca7e4019-bf93-42fd-8f15-fac59c6e237c"
+  },
+  {
     "id": "1a4befe6-a438-40b2-863e-d4843fb3f90a",
     "role": "Technical Success",
     "title": "AI Deployment Engineer, Codex | India",
     "company": "openai",
     "location": "Delhi, India",
     "link": "https://jobs.ashbyhq.com/openai/1a4befe6-a438-40b2-863e-d4843fb3f90a"
+  },
+  {
+    "id": "b71eb884-113e-4a3c-9160-56e1708cc812",
+    "role": "Technical Success",
+    "title": "AI Deployment Engineer, Codex | Korea",
+    "company": "openai",
+    "location": "Seoul, South Korea",
+    "link": "https://jobs.ashbyhq.com/openai/b71eb884-113e-4a3c-9160-56e1708cc812"
   },
   {
     "id": "ba2ead69-d118-4a91-a4d7-c880d17fa7f9",
@@ -352,20 +360,20 @@
     "link": "https://jobs.ashbyhq.com/openai/71e7252f-abb1-4b74-8e69-318413042357"
   },
   {
-    "id": "16df5b48-917d-41d8-b0c6-dbfdf11400f7",
-    "role": "Technical Success",
-    "title": "AI Deployment Engineer, Startups",
-    "company": "openai",
-    "location": "Singapore",
-    "link": "https://jobs.ashbyhq.com/openai/16df5b48-917d-41d8-b0c6-dbfdf11400f7"
-  },
-  {
     "id": "ac1de598-3891-4d1b-bbb6-4c3997a8bef8",
     "role": "Technical Success",
     "title": "AI Deployment Engineer, Startups",
     "company": "openai",
     "location": "India - Remote",
     "link": "https://jobs.ashbyhq.com/openai/ac1de598-3891-4d1b-bbb6-4c3997a8bef8"
+  },
+  {
+    "id": "16df5b48-917d-41d8-b0c6-dbfdf11400f7",
+    "role": "Technical Success",
+    "title": "AI Deployment Engineer, Startups",
+    "company": "openai",
+    "location": "Singapore",
+    "link": "https://jobs.ashbyhq.com/openai/16df5b48-917d-41d8-b0c6-dbfdf11400f7"
   },
   {
     "id": "4762783e-61e1-4d36-af1d-8dee3c5f70e2",
@@ -760,6 +768,14 @@
     "link": "https://jobs.ashbyhq.com/openai/f630d886-76d4-4492-a06b-7c6a34d05b8f"
   },
   {
+    "id": "bf9d9e1c-7967-41a4-a7ae-0bf9b6a768c2",
+    "role": "Ads Solutions",
+    "title": "Client Partner, Ads Solutions",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/bf9d9e1c-7967-41a4-a7ae-0bf9b6a768c2"
+  },
+  {
     "id": "9858b86a-f55e-4d5f-9cba-0a191b539970",
     "role": "Communications",
     "title": "Communications Manager, India",
@@ -936,6 +952,22 @@
     "link": "https://jobs.ashbyhq.com/openai/efb24a0b-cb44-42cc-8cd9-023af778073a"
   },
   {
+    "id": "99f4a8ea-6bd0-49a3-b90a-5004c8923523",
+    "role": "Go To Market",
+    "title": "Customer Success Manager, Ads Solutions",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/99f4a8ea-6bd0-49a3-b90a-5004c8923523"
+  },
+  {
+    "id": "2baad972-e00c-42ea-8929-118934e5844d",
+    "role": "Ads Solutions",
+    "title": "Customer Success Manager, Ads Solutions",
+    "company": "openai",
+    "location": "Seoul, South Korea",
+    "link": "https://jobs.ashbyhq.com/openai/2baad972-e00c-42ea-8929-118934e5844d"
+  },
+  {
     "id": "8c68932c-8c1d-42b4-bfa6-c50f8bdf933a",
     "role": "Ads Solutions",
     "title": "Customer Success Manager, Ads Solutions",
@@ -952,12 +984,12 @@
     "link": "https://jobs.ashbyhq.com/openai/3a2b9078-f4ac-4d97-89b2-2bbf59919796"
   },
   {
-    "id": "2baad972-e00c-42ea-8929-118934e5844d",
+    "id": "209fa4ab-fcc1-4442-8ae6-7ec47902b518",
     "role": "Ads Solutions",
     "title": "Customer Success Manager, Ads Solutions",
     "company": "openai",
-    "location": "Seoul, South Korea",
-    "link": "https://jobs.ashbyhq.com/openai/2baad972-e00c-42ea-8929-118934e5844d"
+    "location": "Sydney, Australia",
+    "link": "https://jobs.ashbyhq.com/openai/209fa4ab-fcc1-4442-8ae6-7ec47902b518"
   },
   {
     "id": "de12f86b-507f-402b-ae1d-4977969bf788",
@@ -1136,20 +1168,20 @@
     "link": "https://jobs.ashbyhq.com/openai/fb601d63-9657-487f-bf49-efece8dd5c5e"
   },
   {
-    "id": "be4e1098-f7ac-46f4-babe-44ef08f47fcb",
-    "role": "Data Science",
-    "title": "Data Scientist, Integrity Measurement",
-    "company": "openai",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/openai/be4e1098-f7ac-46f4-babe-44ef08f47fcb"
-  },
-  {
     "id": "a7a326e7-6718-42ab-a4d8-b16d5021c99b",
     "role": "Data Science",
     "title": "Data Scientist, Integrity Measurement",
     "company": "openai",
     "location": "London, UK",
     "link": "https://jobs.ashbyhq.com/openai/a7a326e7-6718-42ab-a4d8-b16d5021c99b"
+  },
+  {
+    "id": "be4e1098-f7ac-46f4-babe-44ef08f47fcb",
+    "role": "Data Science",
+    "title": "Data Scientist, Integrity Measurement",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/be4e1098-f7ac-46f4-babe-44ef08f47fcb"
   },
   {
     "id": "7f299784-2c75-4d73-99e5-1e5043ec7b48",
@@ -1392,20 +1424,20 @@
     "link": "https://jobs.ashbyhq.com/openai/fca0f787-f3c5-4528-bb20-803dba07501a"
   },
   {
-    "id": "4fb47557-86d2-47c3-9c6a-909aeb561329",
-    "role": "IT",
-    "title": "Enterprise Security Engineer",
-    "company": "openai",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/openai/4fb47557-86d2-47c3-9c6a-909aeb561329"
-  },
-  {
     "id": "28c34712-6818-47fb-a4de-de9201ddc86f",
     "role": "IT",
     "title": "Enterprise Security Engineer",
     "company": "openai",
     "location": "Seattle",
     "link": "https://jobs.ashbyhq.com/openai/28c34712-6818-47fb-a4de-de9201ddc86f"
+  },
+  {
+    "id": "47048627-427e-4566-b349-847e52a5def1",
+    "role": "IT",
+    "title": "Enterprise Security Engineer",
+    "company": "openai",
+    "location": "Remote - US",
+    "link": "https://jobs.ashbyhq.com/openai/47048627-427e-4566-b349-847e52a5def1"
   },
   {
     "id": "720b6d72-0c98-4acc-ab75-d67dd36fbccf",
@@ -1416,12 +1448,12 @@
     "link": "https://jobs.ashbyhq.com/openai/720b6d72-0c98-4acc-ab75-d67dd36fbccf"
   },
   {
-    "id": "47048627-427e-4566-b349-847e52a5def1",
+    "id": "4fb47557-86d2-47c3-9c6a-909aeb561329",
     "role": "IT",
     "title": "Enterprise Security Engineer",
     "company": "openai",
-    "location": "Remote - US",
-    "link": "https://jobs.ashbyhq.com/openai/47048627-427e-4566-b349-847e52a5def1"
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/4fb47557-86d2-47c3-9c6a-909aeb561329"
   },
   {
     "id": "29d40809-10a4-451c-966f-80c3ef7b94ea",
@@ -1478,6 +1510,14 @@
     "company": "openai",
     "location": "San Francisco",
     "link": "https://jobs.ashbyhq.com/openai/13cdb1b1-8c21-4bff-8201-f7ca904e181d"
+  },
+  {
+    "id": "d8ebcb30-c789-4e75-bf9b-a1e3fb09dd2f",
+    "role": "Robotics",
+    "title": "Field Engineer",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/d8ebcb30-c789-4e75-bf9b-a1e3fb09dd2f"
   },
   {
     "id": "b40efa93-da3c-4593-bc98-03d203cd0488",
@@ -1936,12 +1976,44 @@
     "link": "https://jobs.ashbyhq.com/openai/b1ba9bd7-6ff9-4902-a11d-18b4c7a87096"
   },
   {
+    "id": "76d44b19-7586-446e-a21a-a073af1f0a00",
+    "role": "Growth",
+    "title": "GTM Strategy & Growth Lead, API",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/76d44b19-7586-446e-a21a-a073af1f0a00"
+  },
+  {
+    "id": "ffbd26ce-25fe-44af-931f-8939cb8a731b",
+    "role": "Growth",
+    "title": "GTM Strategy & Growth Lead, Codex",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/ffbd26ce-25fe-44af-931f-8939cb8a731b"
+  },
+  {
     "id": "c3029025-9f6e-429c-98da-01efc387b621",
     "role": "Go To Market",
     "title": "GTM Strategy & Operations Lead - BDR",
     "company": "openai",
     "location": "San Francisco",
     "link": "https://jobs.ashbyhq.com/openai/c3029025-9f6e-429c-98da-01efc387b621"
+  },
+  {
+    "id": "d9b8a8fb-838f-4851-b61c-b80a89319a5f",
+    "role": "Go To Market",
+    "title": "GTM Strategy & Operations Lead, Enterprise",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/d9b8a8fb-838f-4851-b61c-b80a89319a5f"
+  },
+  {
+    "id": "75f10cd2-22f4-4dae-8c67-3d51b9c2ec4a",
+    "role": "Go To Market",
+    "title": "GTM Strategy & Operations, Strategic Programs",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/75f10cd2-22f4-4dae-8c67-3d51b9c2ec4a"
   },
   {
     "id": "5b8f5279-1767-407f-be62-0e34a7c1cf72",
@@ -1998,6 +2070,14 @@
     "company": "openai",
     "location": "San Francisco",
     "link": "https://jobs.ashbyhq.com/openai/467cbfac-3e7d-4cc6-a131-2b26617afa02"
+  },
+  {
+    "id": "44dc0dc1-30d8-4608-8bcc-979873e42608",
+    "role": "Finance",
+    "title": "Head of Compute Capital Markets",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/44dc0dc1-30d8-4608-8bcc-979873e42608"
   },
   {
     "id": "d286bd07-15b4-4dd6-b436-aa3c0214d40e",
@@ -2118,6 +2198,14 @@
     "company": "openai",
     "location": "Seoul, South Korea",
     "link": "https://jobs.ashbyhq.com/openai/25d4cedb-62f5-47a4-b506-a637fd529a7e"
+  },
+  {
+    "id": "b762a151-65ca-4956-adae-e7d1c97cb67e",
+    "role": "Marketing",
+    "title": "Head of SMB Ads Marketing ",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/b762a151-65ca-4956-adae-e7d1c97cb67e"
   },
   {
     "id": "e4086a4f-1b4a-40e9-87c5-63706b708904",
@@ -2368,20 +2456,20 @@
     "link": "https://jobs.ashbyhq.com/openai/5302d896-d477-4b71-a82a-412fa3931651"
   },
   {
-    "id": "ec911cb2-6b87-4546-9ec7-6c54a34db84d",
-    "role": "Technical Success",
-    "title": "Manager, AI Deployment Engineering - Health & Life Sciences",
-    "company": "openai",
-    "location": "Seattle",
-    "link": "https://jobs.ashbyhq.com/openai/ec911cb2-6b87-4546-9ec7-6c54a34db84d"
-  },
-  {
     "id": "3775cb8b-770d-456b-8d5c-b9de78d4e218",
     "role": "Technical Success",
     "title": "Manager, AI Deployment Engineering - Health & Life Sciences",
     "company": "openai",
     "location": "San Francisco",
     "link": "https://jobs.ashbyhq.com/openai/3775cb8b-770d-456b-8d5c-b9de78d4e218"
+  },
+  {
+    "id": "ec911cb2-6b87-4546-9ec7-6c54a34db84d",
+    "role": "Technical Success",
+    "title": "Manager, AI Deployment Engineering - Health & Life Sciences",
+    "company": "openai",
+    "location": "Seattle",
+    "link": "https://jobs.ashbyhq.com/openai/ec911cb2-6b87-4546-9ec7-6c54a34db84d"
   },
   {
     "id": "227ea1b3-6fc4-44ca-93db-d59373121180",
@@ -2608,20 +2696,20 @@
     "link": "https://jobs.ashbyhq.com/openai/d44bec7c-30ee-4db8-8d08-63a78c947484"
   },
   {
-    "id": "552396f4-dc83-43de-9230-6301e5f461bd",
-    "role": "Technical Success",
-    "title": "Partner AI Deployment Engineer",
-    "company": "openai",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd"
-  },
-  {
     "id": "4a3d7b56-5e7b-4a90-8b94-2a99596b4496",
     "role": "Technical Success",
     "title": "Partner AI Deployment Engineer",
     "company": "openai",
     "location": "Munich, Germany",
     "link": "https://jobs.ashbyhq.com/openai/4a3d7b56-5e7b-4a90-8b94-2a99596b4496"
+  },
+  {
+    "id": "552396f4-dc83-43de-9230-6301e5f461bd",
+    "role": "Technical Success",
+    "title": "Partner AI Deployment Engineer",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd"
   },
   {
     "id": "49082e49-0755-4029-b1e9-6f389d9c3b64",
@@ -2678,14 +2766,6 @@
     "company": "openai",
     "location": "Munich, Germany",
     "link": "https://jobs.ashbyhq.com/openai/ca7b3ef5-19f5-44c5-9a74-1415327ddc94"
-  },
-  {
-    "id": "f18b5c0b-81aa-4cd2-a511-85cd87c7c4e3",
-    "role": "Go To Market",
-    "title": "Partner Director, Global BCG Alliance",
-    "company": "openai",
-    "location": "New York City",
-    "link": "https://jobs.ashbyhq.com/openai/f18b5c0b-81aa-4cd2-a511-85cd87c7c4e3"
   },
   {
     "id": "69f6c63c-ab4a-4a4b-8b99-e0e1fe488fa1",
@@ -3032,14 +3112,6 @@
     "link": "https://jobs.ashbyhq.com/openai/0dc614c9-4eec-475f-b215-5480fe41317a"
   },
   {
-    "id": "f9b7d572-9cd9-4998-82a7-cb6513c7f045",
-    "role": "Product Partnerships",
-    "title": "Product Partnerships Manager, APAC",
-    "company": "openai",
-    "location": "Singapore",
-    "link": "https://jobs.ashbyhq.com/openai/f9b7d572-9cd9-4998-82a7-cb6513c7f045"
-  },
-  {
     "id": "c664cc09-d996-450c-8683-ad591ac27c11",
     "role": "Intelligence & Investigations",
     "title": "Product & Solutions Lead, Safety and Security",
@@ -3054,6 +3126,22 @@
     "company": "openai",
     "location": "San Francisco",
     "link": "https://jobs.ashbyhq.com/openai/01f5e531-4de9-4258-9662-7ad4bdf96ddd"
+  },
+  {
+    "id": "932c9cc1-c542-4f67-8d0d-443de87b8213",
+    "role": "Human Data",
+    "title": "Program Manager, Human Data",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/932c9cc1-c542-4f67-8d0d-443de87b8213"
+  },
+  {
+    "id": "8699d48a-273b-440a-9bdb-ccb6afe0a853",
+    "role": "Recruiting",
+    "title": "Program Manager, M&A Recruiting | People",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/8699d48a-273b-440a-9bdb-ccb6afe0a853"
   },
   {
     "id": "a4d772fc-1c97-43fd-8241-5e5afdc0ef51",
@@ -3144,14 +3232,6 @@
     "link": "https://jobs.ashbyhq.com/openai/3c640684-f396-4d30-b43f-bac4c362aaa3"
   },
   {
-    "id": "c59851e9-ff6f-4a73-942e-0b59582f021b",
-    "role": "Recruiting",
-    "title": "Recruiting Coordinator Lead",
-    "company": "openai",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/openai/c59851e9-ff6f-4a73-942e-0b59582f021b"
-  },
-  {
     "id": "cea32163-3a80-4824-83bf-91159f21ef3c",
     "role": "Recruiting",
     "title": "Recruiting Coordinator, Strategic Initiatives ",
@@ -3174,6 +3254,14 @@
     "company": "openai",
     "location": "Sydney, Australia",
     "link": "https://jobs.ashbyhq.com/openai/735b8487-aeac-4264-8f83-4b327fad5491"
+  },
+  {
+    "id": "33302907-6876-4629-9bc0-e9c221e61dd5",
+    "role": "Ads Solutions",
+    "title": "Regional Client Partner, Ads Solutions",
+    "company": "openai",
+    "location": "S\u00e3o Paulo",
+    "link": "https://jobs.ashbyhq.com/openai/33302907-6876-4629-9bc0-e9c221e61dd5"
   },
   {
     "id": "85fff91b-3aa0-4356-a0cf-184cf88d68b2",
@@ -3496,14 +3584,6 @@
     "link": "https://jobs.ashbyhq.com/openai/5f0c6579-0bfb-4a06-8a43-1dd371499e10"
   },
   {
-    "id": "29dc246a-2240-4843-8050-463c8ecc726a",
-    "role": "Research",
-    "title": "Research Scientist, PhD ",
-    "company": "openai",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/openai/29dc246a-2240-4843-8050-463c8ecc726a"
-  },
-  {
     "id": "8ec58023-f644-4e92-b384-72f8db83cd33",
     "role": "Corporate Security",
     "title": "Risk Analyst, Corporate Security",
@@ -3576,20 +3656,20 @@
     "link": "https://jobs.ashbyhq.com/openai/61baa597-683b-4d7a-a521-8d5ddec1216f"
   },
   {
-    "id": "8c528169-a243-4145-9611-b1455fa269ac",
-    "role": "Sales",
-    "title": "Sales Manager, Mid-Market Enterprise Sales",
-    "company": "openai",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/openai/8c528169-a243-4145-9611-b1455fa269ac"
-  },
-  {
     "id": "f85a7351-6d6b-4b00-9d50-ae2fe29be283",
     "role": "Revenue Operations",
     "title": "Sales Programs Lead",
     "company": "openai",
     "location": "San Francisco",
     "link": "https://jobs.ashbyhq.com/openai/f85a7351-6d6b-4b00-9d50-ae2fe29be283"
+  },
+  {
+    "id": "2881fcec-3ab8-480c-813f-14769dcbf963",
+    "role": "Revenue Operations",
+    "title": "Sales Strategy & Operations - Central ",
+    "company": "openai",
+    "location": "Remote - US",
+    "link": "https://jobs.ashbyhq.com/openai/2881fcec-3ab8-480c-813f-14769dcbf963"
   },
   {
     "id": "e556be3b-a366-4d7c-84b2-19162b2679a6",
@@ -3616,14 +3696,6 @@
     "link": "https://jobs.ashbyhq.com/openai/e9bea775-7eb6-438a-ab96-27d5f941e69d"
   },
   {
-    "id": "0322d6d8-6588-4209-a304-83e768063a25",
-    "role": "Security",
-    "title": "Security Engineer, Application Security",
-    "company": "openai",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/openai/0322d6d8-6588-4209-a304-83e768063a25"
-  },
-  {
     "id": "1e110226-448a-4c0b-b0e4-d0f5df579fbf",
     "role": "Security",
     "title": "Security Engineer, Application Security",
@@ -3640,12 +3712,12 @@
     "link": "https://jobs.ashbyhq.com/openai/ec5a5d98-6314-44d9-9466-8d4d7ee866f6"
   },
   {
-    "id": "f956b77c-3cc5-4fdd-9463-2a6e5047e57c",
+    "id": "0322d6d8-6588-4209-a304-83e768063a25",
     "role": "Security",
-    "title": "Security Engineer, Detection and Response",
+    "title": "Security Engineer, Application Security",
     "company": "openai",
     "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/openai/f956b77c-3cc5-4fdd-9463-2a6e5047e57c"
+    "link": "https://jobs.ashbyhq.com/openai/0322d6d8-6588-4209-a304-83e768063a25"
   },
   {
     "id": "3728b144-f640-42be-84af-94f6b0743d7c",
@@ -3654,6 +3726,14 @@
     "company": "openai",
     "location": "Sydney, Australia",
     "link": "https://jobs.ashbyhq.com/openai/3728b144-f640-42be-84af-94f6b0743d7c"
+  },
+  {
+    "id": "f956b77c-3cc5-4fdd-9463-2a6e5047e57c",
+    "role": "Security",
+    "title": "Security Engineer, Detection and Response",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/f956b77c-3cc5-4fdd-9463-2a6e5047e57c"
   },
   {
     "id": "2d8b30c7-afa3-42ca-b315-ead35e8457ab",
@@ -3736,6 +3816,14 @@
     "link": "https://jobs.ashbyhq.com/openai/aa9e15ba-413a-4224-bed7-852787bc0cae"
   },
   {
+    "id": "a3fb7d2a-7b83-4b88-b56a-3b213965aea1",
+    "role": "Legal",
+    "title": "Senior Counsel, Sanctions and Trade Compliance",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/a3fb7d2a-7b83-4b88-b56a-3b213965aea1"
+  },
+  {
     "id": "0c4d4052-9cc0-49eb-8fb9-350bcdf55685",
     "role": "Legal",
     "title": "Senior Legal Program Manager (Hardware Compliance)",
@@ -3750,14 +3838,6 @@
     "company": "openai",
     "location": "San Francisco",
     "link": "https://jobs.ashbyhq.com/openai/2004c873-d6e3-41b7-96e2-12fd9faec7a4"
-  },
-  {
-    "id": "643f97ab-16fb-432f-9fc2-eb2dac85abf0",
-    "role": "Finance",
-    "title": "Senior Manager, Accounting Operations",
-    "company": "openai",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/openai/643f97ab-16fb-432f-9fc2-eb2dac85abf0"
   },
   {
     "id": "6cd28395-3994-4309-8c41-e3f10c8102d8",
@@ -4536,6 +4616,14 @@
     "link": "https://jobs.ashbyhq.com/openai/0da75470-7e1e-44c3-90df-6f93cf90b968"
   },
   {
+    "id": "5e4ed6d1-2417-4bf5-bae0-905931c488e3",
+    "role": "Systems",
+    "title": "Software Engineer, Platform Systems",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/5e4ed6d1-2417-4bf5-bae0-905931c488e3"
+  },
+  {
     "id": "4349f80b-3518-4e4d-b9eb-3e5e9b490cc7",
     "role": "Systems",
     "title": "Software Engineer, Platform Systems",
@@ -4544,12 +4632,12 @@
     "link": "https://jobs.ashbyhq.com/openai/4349f80b-3518-4e4d-b9eb-3e5e9b490cc7"
   },
   {
-    "id": "5e4ed6d1-2417-4bf5-bae0-905931c488e3",
-    "role": "Systems",
-    "title": "Software Engineer, Platform Systems",
+    "id": "f381868f-7b0a-4b22-b215-71c7f5c1b498",
+    "role": "Post-training",
+    "title": "Software Engineer, Post-Training Research",
     "company": "openai",
     "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/openai/5e4ed6d1-2417-4bf5-bae0-905931c488e3"
+    "link": "https://jobs.ashbyhq.com/openai/f381868f-7b0a-4b22-b215-71c7f5c1b498"
   },
   {
     "id": "fb5862cc-244c-410b-b287-47df89ad1e43",
@@ -4582,6 +4670,14 @@
     "company": "openai",
     "location": "San Francisco",
     "link": "https://jobs.ashbyhq.com/openai/07153f7c-7e8b-4283-a879-cb07a224e083"
+  },
+  {
+    "id": "6d403ec9-d5d3-4754-9092-8fd5e659562a",
+    "role": "Runtime",
+    "title": "Software Engineer, Productivity - Model Performance",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/6d403ec9-d5d3-4754-9092-8fd5e659562a"
   },
   {
     "id": "17daedbd-b3fb-4e8c-a17c-8bbc9ec1d0b5",
@@ -4760,12 +4856,12 @@
     "link": "https://jobs.ashbyhq.com/openai/1baad891-43b8-4e2a-9e6c-f68741e718a4"
   },
   {
-    "id": "ec8e0727-50a4-4a0c-b9e1-960294a8bf2c",
+    "id": "f2794e39-9c8f-4590-ba4d-3fa19a0e61f4",
     "role": "Technical Success",
     "title": "Solutions Engineer, Large Enterprise",
     "company": "openai",
-    "location": "London, UK",
-    "link": "https://jobs.ashbyhq.com/openai/ec8e0727-50a4-4a0c-b9e1-960294a8bf2c"
+    "location": "Paris, France",
+    "link": "https://jobs.ashbyhq.com/openai/f2794e39-9c8f-4590-ba4d-3fa19a0e61f4"
   },
   {
     "id": "c00094f9-e071-4870-afec-104beb3ce499",
@@ -4776,12 +4872,12 @@
     "link": "https://jobs.ashbyhq.com/openai/c00094f9-e071-4870-afec-104beb3ce499"
   },
   {
-    "id": "f2794e39-9c8f-4590-ba4d-3fa19a0e61f4",
+    "id": "98a36c10-3497-4955-9cc0-a6f211e4dc1b",
     "role": "Technical Success",
-    "title": "Solutions Engineer, Large Enterprise",
+    "title": "Solutions Engineer, Pre-Sales",
     "company": "openai",
-    "location": "Paris, France",
-    "link": "https://jobs.ashbyhq.com/openai/f2794e39-9c8f-4590-ba4d-3fa19a0e61f4"
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/98a36c10-3497-4955-9cc0-a6f211e4dc1b"
   },
   {
     "id": "e665817a-bf86-4208-8cf3-c1754c28b401",
@@ -4790,14 +4886,6 @@
     "company": "openai",
     "location": "New York City",
     "link": "https://jobs.ashbyhq.com/openai/e665817a-bf86-4208-8cf3-c1754c28b401"
-  },
-  {
-    "id": "98a36c10-3497-4955-9cc0-a6f211e4dc1b",
-    "role": "Technical Success",
-    "title": "Solutions Engineer, Pre-Sales",
-    "company": "openai",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/openai/98a36c10-3497-4955-9cc0-a6f211e4dc1b"
   },
   {
     "id": "c56d195f-75d8-4c51-b951-b76caa0d8760",
@@ -4842,7 +4930,7 @@
   {
     "id": "25301e84-68bc-4fba-bb20-475a434aa3f1",
     "role": "Marketing",
-    "title": "Startup Field Marketer",
+    "title": "Startup Field Marketing Lead",
     "company": "openai",
     "location": "San Francisco",
     "link": "https://jobs.ashbyhq.com/openai/25301e84-68bc-4fba-bb20-475a434aa3f1"
@@ -4984,6 +5072,14 @@
     "link": "https://jobs.ashbyhq.com/openai/782db0f6-a03d-4f9f-9eb2-191831b37939"
   },
   {
+    "id": "c6b196b0-f118-4ad3-8c71-6b54a083d56b",
+    "role": "Recruiting",
+    "title": "Systems & Enablement Lead, Recruiting Operations",
+    "company": "openai",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/openai/c6b196b0-f118-4ad3-8c71-6b54a083d56b"
+  },
+  {
     "id": "695300fd-1332-4eff-ba1d-d87bb1691f73",
     "role": "Hardware",
     "title": "Systems Engineer (Network / Storage / Systems)",
@@ -5046,6 +5142,14 @@
     "company": "openai",
     "location": "San Francisco",
     "link": "https://jobs.ashbyhq.com/openai/d7d1bd40-d9d5-466b-9d21-39b9b423db40"
+  },
+  {
+    "id": "93568fc5-8c7a-4cc1-8aad-198d67bf348f",
+    "role": "Model Deployment for Business",
+    "title": "Technical Deployment Lead - Singapore",
+    "company": "openai",
+    "location": "Singapore",
+    "link": "https://jobs.ashbyhq.com/openai/93568fc5-8c7a-4cc1-8aad-198d67bf348f"
   },
   {
     "id": "df514733-46ad-4777-be67-44667bc9fd45",
