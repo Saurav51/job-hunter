@@ -38,6 +38,7 @@ def _parse(html):
 
 def fetch(company="google"):
     all_jobs = []
+    seen_ids = set()
     page_id = "none"
 
     try:
@@ -47,9 +48,15 @@ def fetch(company="google"):
             resp.raise_for_status()
 
             jobs_raw, total, next_off = _parse(resp.text)
-            all_jobs.extend(jobs_raw)
 
-            if not jobs_raw or next_off is None or len(all_jobs) >= total:
+            new_this_page = [j for j in jobs_raw if str(j[0]) not in seen_ids]
+            if not new_this_page:
+                break
+            for j in new_this_page:
+                seen_ids.add(str(j[0]))
+            all_jobs.extend(new_this_page)
+
+            if next_off is None or len(all_jobs) >= total:
                 break
             page_id = next_off
 
