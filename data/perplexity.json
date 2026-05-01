@@ -144,20 +144,20 @@
     "link": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92"
   },
   {
-    "id": "9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
-    "role": "Search",
-    "title": "Internship - Search Machine Learning Engineer",
-    "company": "perplexity",
-    "location": "Belgrade",
-    "link": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2"
-  },
-  {
     "id": "71168628-1998-47d3-87a9-be7bc56a430d",
     "role": "Search",
     "title": "Internship - Search Machine Learning Engineer",
     "company": "perplexity",
     "location": "London",
     "link": "https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d"
+  },
+  {
+    "id": "9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
+    "role": "Search",
+    "title": "Internship - Search Machine Learning Engineer",
+    "company": "perplexity",
+    "location": "Belgrade",
+    "link": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2"
   },
   {
     "id": "18509f15-ab49-450d-8a01-4b280e464ad0",
@@ -168,20 +168,20 @@
     "link": "https://jobs.ashbyhq.com/perplexity/18509f15-ab49-450d-8a01-4b280e464ad0"
   },
   {
-    "id": "8a976851-9bef-4b07-8d36-567fa9540aef",
-    "role": "AI",
-    "title": "Member of Technical Staff (AI Inference Engineer)",
-    "company": "perplexity",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef"
-  },
-  {
     "id": "e4777627-ff8f-4257-8612-3a016bb58592",
     "role": "AI",
     "title": "Member of Technical Staff (AI Inference Engineer)",
     "company": "perplexity",
     "location": "London",
     "link": "https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592"
+  },
+  {
+    "id": "8a976851-9bef-4b07-8d36-567fa9540aef",
+    "role": "AI",
+    "title": "Member of Technical Staff (AI Inference Engineer)",
+    "company": "perplexity",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef"
   },
   {
     "id": "598e1f7d-b802-4de2-99ac-90eb2bc33315",
@@ -248,14 +248,6 @@
     "link": "https://jobs.ashbyhq.com/perplexity/fed8d2c4-9c82-43ad-a168-434146c759ff"
   },
   {
-    "id": "63abf041-c7ba-4bd6-840c-1a4ac7925dee",
-    "role": "Security",
-    "title": "Member of Technical Staff (Application Security Engineer)",
-    "company": "perplexity",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/perplexity/63abf041-c7ba-4bd6-840c-1a4ac7925dee"
-  },
-  {
     "id": "dd80ab52-34bd-42af-aa5e-6283b7e6c194",
     "role": "Search",
     "title": "Member of Technical Staff (Backend/Infrastructure Engineer, Search)",
@@ -318,14 +310,6 @@
     "company": "perplexity",
     "location": "London",
     "link": "https://jobs.ashbyhq.com/perplexity/4615ca06-bea7-47e3-9e57-f5cee52b75e6"
-  },
-  {
-    "id": "36afb111-5c9c-4aec-9066-a2beb6f25f4b",
-    "role": "Product Engineering",
-    "title": "Member of Technical Staff (Design Systems Engineer)",
-    "company": "perplexity",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/perplexity/36afb111-5c9c-4aec-9066-a2beb6f25f4b"
   },
   {
     "id": "aa511ea8-96e3-42ba-b28f-5e222170bcee",

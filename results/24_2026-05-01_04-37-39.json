@@ -1,0 +1,410 @@
+{
+  "anthropic": [
+    {
+      "id": "4880880008",
+      "role": "Sales",
+      "title": "Manager, Account Executive (Startups)",
+      "company": "anthropic",
+      "location": "San Francisco, CA",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/4880880008"
+    },
+    {
+      "id": "5175538008",
+      "role": "Finance",
+      "title": "Senior Manager, Corporate Accounting Operations",
+      "company": "anthropic",
+      "location": "San Francisco, CA | Seattle, WA",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5175538008"
+    },
+    {
+      "id": "5206978008",
+      "role": "Software Engineering - Infrastructure",
+      "title": "Staff Infrastructure Engineer, Cluster Infrastructure",
+      "company": "anthropic",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5206978008"
+    }
+  ],
+  "openai": [
+    {
+      "id": "60d1420a-8aa3-4d87-847e-e7b73d9d9a0c",
+      "role": "Codex - Engineering",
+      "title": "Deployed Product Manager, Codex ",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/60d1420a-8aa3-4d87-847e-e7b73d9d9a0c"
+    },
+    {
+      "id": "a9229465-4048-444c-9c03-1f281bcf2373",
+      "role": "Developer Experience",
+      "title": "Developer Experience Engineer",
+      "company": "openai",
+      "location": "India - Remote",
+      "link": "https://jobs.ashbyhq.com/openai/a9229465-4048-444c-9c03-1f281bcf2373"
+    },
+    {
+      "id": "29328228-2737-482b-aded-9e9fa2b478a8",
+      "role": "Datacenter Design",
+      "title": "Hardware Operations Technical Program Manager",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/29328228-2737-482b-aded-9e9fa2b478a8"
+    },
+    {
+      "id": "373f1bd1-22cb-4b7e-ab2f-a1f5e7bff438",
+      "role": "Go To Market",
+      "title": "Partner Director, Global BCG Alliance",
+      "company": "openai",
+      "location": "New York City",
+      "link": "https://jobs.ashbyhq.com/openai/373f1bd1-22cb-4b7e-ab2f-a1f5e7bff438"
+    },
+    {
+      "id": "40a02dc5-a57b-4db4-be75-139aa23b33a1",
+      "role": "Alignment",
+      "title": "Researcher, Alignment Training",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/40a02dc5-a57b-4db4-be75-139aa23b33a1"
+    },
+    {
+      "id": "cca6277b-5f58-4981-a9f2-c6edbe8a521b",
+      "role": "Model Deployment for Business",
+      "title": "Technical Deployment Lead, Life Sciences ",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/cca6277b-5f58-4981-a9f2-c6edbe8a521b"
+    },
+    {
+      "id": "f01b7084-a68d-4e30-ace9-6b5e6d90c517",
+      "role": "Security",
+      "title": "Technical Threat Investigator, Threat Intel Engineering",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/f01b7084-a68d-4e30-ace9-6b5e6d90c517"
+    },
+    {
+      "id": "ace9f6ba-0448-47ba-83a0-714a59c0dfa9",
+      "role": "Security",
+      "title": "Technical Threat Investigator, Threat Intel Engineering - UK",
+      "company": "openai",
+      "location": "London, UK",
+      "link": "https://jobs.ashbyhq.com/openai/ace9f6ba-0448-47ba-83a0-714a59c0dfa9"
+    }
+  ],
+  "uber": [
+    {
+      "id": "158925",
+      "role": "Backend",
+      "title": "Staff Software Engineer, Build Systems",
+      "company": "uber",
+      "location": "San Francisco, United States",
+      "link": "https://www.uber.com/global/en/careers/list/158925/"
+    },
+    {
+      "id": "157741",
+      "role": "Backend",
+      "title": "Software Engineer II - Backend, Rider Intelligence",
+      "company": "uber",
+      "location": "Seattle, United States",
+      "link": "https://www.uber.com/global/en/careers/list/157741/"
+    },
+    {
+      "id": "157998",
+      "role": "Backend",
+      "title": "Sr Software Engineer - Developer Platform",
+      "company": "uber",
+      "location": "New York, United States",
+      "link": "https://www.uber.com/global/en/careers/list/157998/"
+    },
+    {
+      "id": "157645",
+      "role": "Backend",
+      "title": "Sr Software Engineer, Ads",
+      "company": "uber",
+      "location": "San Francisco, United States",
+      "link": "https://www.uber.com/global/en/careers/list/157645/"
+    },
+    {
+      "id": "158904",
+      "role": "Backend",
+      "title": "Senior Software Engineer",
+      "company": "uber",
+      "location": "New York, United States",
+      "link": "https://www.uber.com/global/en/careers/list/158904/"
+    }
+  ],
+  "google": [
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    },
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    },
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    },
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    },
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    },
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    },
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    },
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    },
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    },
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    },
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    },
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    },
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    },
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    },
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    },
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    },
+    {
+      "id": "102326541366502086",
+      "role": "",
+      "title": "Software Engineer, Mobile iOS, Maps",
+      "company": "google",
+      "location": "San Francisco, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/102326541366502086"
+    },
+    {
+      "id": "120479753218990790",
+      "role": "",
+      "title": "Software Engineer, Full Stack, gUP Engineering",
+      "company": "google",
+      "location": "Pittsburgh, PA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120479753218990790"
+    }
+  ]
+}
