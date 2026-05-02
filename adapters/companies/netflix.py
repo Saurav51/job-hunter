@@ -4,7 +4,6 @@ API_URL = "https://explore.jobs.netflix.net/api/apply/v2/jobs"
 
 PARAMS = {
     "domain": "netflix.com",
-    "location": "United States",
     "num": 100,
 }
 
