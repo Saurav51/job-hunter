@@ -1,5 +1,5 @@
 from adapters.ats import greenhouse, ashby
-from adapters.companies import uber, google
+from adapters.companies import uber, google, netflix
 
 
 def fetch_all():
@@ -10,4 +10,5 @@ def fetch_all():
     jobs += ashby.fetch("ramp")
     jobs += uber.fetch("uber")
     jobs += google.fetch("google")
+    jobs += netflix.fetch("netflix")
     return jobs
