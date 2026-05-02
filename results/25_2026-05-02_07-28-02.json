@@ -1,0 +1,226 @@
+{
+  "anthropic": [
+    {
+      "id": "5208218008",
+      "role": "Legal",
+      "title": "AI Compliance Officer",
+      "company": "anthropic",
+      "location": "Dublin, IE",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5208218008"
+    },
+    {
+      "id": "5205884008",
+      "role": "Legal",
+      "title": "Commercial Counsel, Networking & Datacenter Operations",
+      "company": "anthropic",
+      "location": "New York City, NY; San Francisco, CA; Seattle, WA; Washington, DC",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5205884008"
+    },
+    {
+      "id": "5207760008",
+      "role": "Legal",
+      "title": "Compliance Governance & Oversight Lead",
+      "company": "anthropic",
+      "location": "New York City, NY; San Francisco, CA; Washington, DC",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5207760008"
+    },
+    {
+      "id": "5208205008",
+      "role": "Legal",
+      "title": "Content Moderation Specialist",
+      "company": "anthropic",
+      "location": "New York City, NY; San Francisco, CA; Washington, DC",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5208205008"
+    },
+    {
+      "id": "5207835008",
+      "role": "Legal",
+      "title": "Corporate Compliance Officer",
+      "company": "anthropic",
+      "location": "New York City, NY; San Francisco, CA; Washington, DC",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5207835008"
+    },
+    {
+      "id": "5196986008",
+      "role": "Sales",
+      "title": "Partnership Strategy & Operations Lead, International",
+      "company": "anthropic",
+      "location": "London, UK",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5196986008"
+    },
+    {
+      "id": "5208136008",
+      "role": "Legal",
+      "title": "Privacy Governance Lead ",
+      "company": "anthropic",
+      "location": "New York City, NY; San Francisco, CA; Washington, DC",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5208136008"
+    },
+    {
+      "id": "5206456008",
+      "role": "AI Research & Engineering",
+      "title": "Research Engineer, Search and Knowledge Post-Training",
+      "company": "anthropic",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5206456008"
+    },
+    {
+      "id": "5208130008",
+      "role": "Legal",
+      "title": "Sanctions & Export Controls Compliance Officer",
+      "company": "anthropic",
+      "location": "New York City, NY; San Francisco, CA; Washington, DC",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5208130008"
+    },
+    {
+      "id": "5208193008",
+      "role": "Technical Program Management ",
+      "title": "Technical Program Manager, Launches  ",
+      "company": "anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5208193008"
+    }
+  ],
+  "openai": [
+    {
+      "id": "9b42e650-427f-4993-86bf-9c21c3d04fdc",
+      "role": "Sales",
+      "title": "Account Director, Quantitative Trading",
+      "company": "openai",
+      "location": "New York City",
+      "link": "https://jobs.ashbyhq.com/openai/9b42e650-427f-4993-86bf-9c21c3d04fdc"
+    },
+    {
+      "id": "821168d6-c97c-457a-9187-88a2cb95ba32",
+      "role": "Marketing",
+      "title": "Business Insights Intern",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/821168d6-c97c-457a-9187-88a2cb95ba32"
+    },
+    {
+      "id": "1ac47cd0-b12a-4345-aecf-406f9e554b6c",
+      "role": "Datacenter Design",
+      "title": "Manufacturing Quality Engineer, Datacenter Infrastructure - Stargate",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/1ac47cd0-b12a-4345-aecf-406f9e554b6c"
+    },
+    {
+      "id": "7d79a0ea-9aed-46da-8197-bac5c3cc7ea6",
+      "role": "Marketing",
+      "title": "Marketing Center of Excellence Ops Lead",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/7d79a0ea-9aed-46da-8197-bac5c3cc7ea6"
+    },
+    {
+      "id": "8a9d680c-5122-4ffe-ab4b-e1de7e806500",
+      "role": "Research",
+      "title": "Performance & Systems Engineer, Codex",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/8a9d680c-5122-4ffe-ab4b-e1de7e806500"
+    },
+    {
+      "id": "0f4da2b4-df8a-4560-809d-d0a6ac1ad9bc",
+      "role": "Product Management",
+      "title": "Product Manager, Financial Engineering",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/0f4da2b4-df8a-4560-809d-d0a6ac1ad9bc"
+    },
+    {
+      "id": "1c67d2de-ef49-44c2-978a-ab0d1dd1e236",
+      "role": "Product Management",
+      "title": "Product Manager, Premium Subscriptions",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/1c67d2de-ef49-44c2-978a-ab0d1dd1e236"
+    },
+    {
+      "id": "e6508eb4-b21a-402d-8bc3-d953a6a029d6",
+      "role": "Finance",
+      "title": "Senior Global Extended Workforce Compliance Lead ",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/e6508eb4-b21a-402d-8bc3-d953a6a029d6"
+    },
+    {
+      "id": "9f179118-5df6-4ccb-b8d1-cfb0642fba37",
+      "role": "Go To Market",
+      "title": "Solutions Engineering, Ads Solutions ",
+      "company": "openai",
+      "location": "New York City",
+      "link": "https://jobs.ashbyhq.com/openai/9f179118-5df6-4ccb-b8d1-cfb0642fba37"
+    },
+    {
+      "id": "52e3b285-07d0-42a3-9c52-508254cb8745",
+      "role": "Intelligence & Investigations",
+      "title": "Technical Intelligence Analyst",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/52e3b285-07d0-42a3-9c52-508254cb8745"
+    },
+    {
+      "id": "feba5afa-8b01-4050-ad6c-889dfeaafd9f",
+      "role": "Finance",
+      "title": "Third Party Risk Manager, APAC",
+      "company": "openai",
+      "location": "Singapore",
+      "link": "https://jobs.ashbyhq.com/openai/feba5afa-8b01-4050-ad6c-889dfeaafd9f"
+    }
+  ],
+  "uber": [
+    {
+      "id": "158518",
+      "role": "Machine Learning",
+      "title": "Staff Machine Learning Engineer",
+      "company": "uber",
+      "location": "San Francisco, United States",
+      "link": "https://www.uber.com/global/en/careers/list/158518/"
+    },
+    {
+      "id": "158780",
+      "role": "Backend",
+      "title": "Sr. Software Engineer - Build Systems",
+      "company": "uber",
+      "location": "San Francisco, United States",
+      "link": "https://www.uber.com/global/en/careers/list/158780/"
+    },
+    {
+      "id": "158074",
+      "role": "Engineering",
+      "title": "Software Engineer I",
+      "company": "uber",
+      "location": "Sunnyvale, United States",
+      "link": "https://www.uber.com/global/en/careers/list/158074/"
+    },
+    {
+      "id": "158077",
+      "role": "Engineering",
+      "title": "Software Engineer I",
+      "company": "uber",
+      "location": "San Francisco, United States",
+      "link": "https://www.uber.com/global/en/careers/list/158077/"
+    }
+  ],
+  "google": [
+    {
+      "id": "133268525148971718",
+      "role": "",
+      "title": "Software Engineer, Infrastructure, Geo Earth Engine",
+      "company": "google",
+      "location": "Seattle, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/133268525148971718"
+    },
+    {
+      "id": "139686886695150278",
+      "role": "",
+      "title": "Software Engineer, Applied AI",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/139686886695150278"
+    }
+  ]
+}
