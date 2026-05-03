@@ -1,347 +1,11 @@
 [
   {
-    "id": "152666",
-    "role": "Machine Learning",
-    "title": "Sr Staff Machine Learning Engineer - Ads",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/152666/"
-  },
-  {
-    "id": "146267",
-    "role": "Program Manager",
-    "title": "Sr Program Manager Tech - Gen AI",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/146267/"
-  },
-  {
-    "id": "153449",
-    "role": "Backend",
-    "title": "Software Engineer II- Grocery & Retail",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153449/"
-  },
-  {
-    "id": "156729",
-    "role": "Backend",
-    "title": "Staff Software Engineer",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156729/"
-  },
-  {
-    "id": "153377",
-    "role": "Backend",
-    "title": "Staff Software Engineer",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153377/"
-  },
-  {
-    "id": "154042",
+    "id": "155303",
     "role": "Security Engineer",
-    "title": "Senior Security Engineer (AI & Agentic Systems)",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154042/"
-  },
-  {
-    "id": "144297",
-    "role": "Backend",
-    "title": "Senior Staff Engineer - Marketplace Competitive Intelligence",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/144297/"
-  },
-  {
-    "id": "156311",
-    "role": "Backend",
-    "title": "Staff Software Engineer - Eater Growth",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156311/"
-  },
-  {
-    "id": "157755",
-    "role": "Manager",
-    "title": "Engineering Manager II, Evaluation & Simulation - AV Labs",
+    "title": "Staff Software Engineer - Core Security Engineering",
     "company": "uber",
     "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157755/"
-  },
-  {
-    "id": "158925",
-    "role": "Backend",
-    "title": "Staff Software Engineer, Build Systems",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158925/"
-  },
-  {
-    "id": "158518",
-    "role": "Machine Learning",
-    "title": "Staff Machine Learning Engineer",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158518/"
-  },
-  {
-    "id": "157820",
-    "role": "Engineering",
-    "title": "Audio/Visual Application Engineer",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157820/"
-  },
-  {
-    "id": "155959",
-    "role": "Machine Learning",
-    "title": "Senior AI/ML Engineer",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155959/"
-  },
-  {
-    "id": "154344",
-    "role": "Backend",
-    "title": "Sr Staff Software Engineer, Consumer Pricing and Incentives",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154344/"
-  },
-  {
-    "id": "157785",
-    "role": "Engineering",
-    "title": "Software Engineer I",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157785/"
-  },
-  {
-    "id": "158193",
-    "role": "Engineering",
-    "title": "HCM Security Product Lead",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158193/"
-  },
-  {
-    "id": "157862",
-    "role": "Engineering",
-    "title": "Engagement Growth - Software Engineer II- Full Stack",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157862/"
-  },
-  {
-    "id": "157003",
-    "role": "Backend",
-    "title": "Staff Software Engineer, Uber Eats Search Experience",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157003/"
-  },
-  {
-    "id": "155792",
-    "role": "Machine Learning",
-    "title": "Staff Machine Learning Engineer, Rider Pricing & Incentives",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155792/"
-  },
-  {
-    "id": "157882",
-    "role": "Backend",
-    "title": "Software Engineer II - Batch Data",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157882/"
-  },
-  {
-    "id": "154905",
-    "role": "Machine Learning",
-    "title": "Staff Machine Learning Engineer, Delivery Marketplace (Sunnyvale/San Francisco/NYC)",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154905/"
-  },
-  {
-    "id": "155576",
-    "role": "Machine Learning",
-    "title": "Senior Machine Learning Engineer - Earner Incentive",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155576/"
-  },
-  {
-    "id": "158679",
-    "role": "Engineering",
-    "title": "Software Engineer II, Evaluation & Simulation",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158679/"
-  },
-  {
-    "id": "154672",
-    "role": "Backend",
-    "title": "Staff Software Engineer - Fulfillment Optimization",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154672/"
-  },
-  {
-    "id": "157788",
-    "role": "Engineering",
-    "title": "Software Engineer",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157788/"
-  },
-  {
-    "id": "155793",
-    "role": "Machine Learning",
-    "title": "Senior Machine Learning Engineer - Rider Pricing & Incentives",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155793/"
-  },
-  {
-    "id": "158640",
-    "role": "Networking",
-    "title": "Network Engineer - Autonomous Vehicle Infrastructure",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158640/"
-  },
-  {
-    "id": "158672",
-    "role": "Backend",
-    "title": "Sr Software Engineer - Presto",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158672/"
-  },
-  {
-    "id": "158690",
-    "role": "Data",
-    "title": "Software Engineer II - Maps & Localization - AV Labs",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158690/"
-  },
-  {
-    "id": "156944",
-    "role": "Backend",
-    "title": "Sr Software Engineer (Backend) - GenAI",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156944/"
-  },
-  {
-    "id": "158931",
-    "role": "Backend",
-    "title": "Software Engineer II - Michelangelo",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158931/"
-  },
-  {
-    "id": "155187",
-    "role": "iOS",
-    "title": "Software Engineer II - iOS, Engagement Growth",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155187/"
-  },
-  {
-    "id": "157793",
-    "role": "Engineering",
-    "title": "Software Engineer II",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157793/"
-  },
-  {
-    "id": "157024",
-    "role": "Backend",
-    "title": "Senior Software Engineer - Privacy & Security",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157024/"
-  },
-  {
-    "id": "153912",
-    "role": "Fullstack",
-    "title": "Senior Software Engineer - FullStack Eng / AI",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153912/"
-  },
-  {
-    "id": "156186",
-    "role": "Engineering",
-    "title": "Manager II, Engineering - Uber",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156186/"
-  },
-  {
-    "id": "152899",
-    "role": "Machine Learning",
-    "title": "Staff ML Engineer, Generative AI",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/152899/"
-  },
-  {
-    "id": "155038",
-    "role": "Backend",
-    "title": "Staff Software Engineer - AI Platform (Michelangelo)",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155038/"
-  },
-  {
-    "id": "152295",
-    "role": "Backend",
-    "title": "Staff Software Engineer - Remote Assistance",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/152295/"
-  },
-  {
-    "id": "155701",
-    "role": "Frontend",
-    "title": "Senior Software Engineer, Uber Eats Search Experience",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155701/"
-  },
-  {
-    "id": "156309",
-    "role": "Backend",
-    "title": "Sr Software Engineer",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156309/"
-  },
-  {
-    "id": "157787",
-    "role": "Engineering",
-    "title": "Software Engineer",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157787/"
-  },
-  {
-    "id": "146209",
-    "role": "Machine Learning",
-    "title": "Staff Machine Learning Engineer - Pricing & Incentives",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/146209/"
+    "link": "https://www.uber.com/global/en/careers/list/155303/"
   },
   {
     "id": "149191",
@@ -352,332 +16,12 @@
     "link": "https://www.uber.com/global/en/careers/list/149191/"
   },
   {
-    "id": "157202",
+    "id": "156179",
     "role": "Backend",
-    "title": "Sr Software - Core Infrastructure",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157202/"
-  },
-  {
-    "id": "156798",
-    "role": "Engineering",
-    "title": "Cloud Partner Manager",
+    "title": "Senior Software Engineer - Communications Platform (Backend)",
     "company": "uber",
     "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156798/"
-  },
-  {
-    "id": "146338",
-    "role": "Machine Learning",
-    "title": "Machine Learning Engineer II, Pricing",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/146338/"
-  },
-  {
-    "id": "154044",
-    "role": "Security Engineer",
-    "title": "Security Engineer (AI & Agentic Systems)",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154044/"
-  },
-  {
-    "id": "145474",
-    "role": "Machine Learning",
-    "title": "Staff Machine Learning Engineer - Causal Inference",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/145474/"
-  },
-  {
-    "id": "154688",
-    "role": "Fullstack",
-    "title": "Software Engineer II - Fullstack, Grocery",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154688/"
-  },
-  {
-    "id": "156244",
-    "role": "Backend",
-    "title": "Staff Software Engineer (Backend) - Java Platform",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156244/"
-  },
-  {
-    "id": "157998",
-    "role": "Backend",
-    "title": "Sr Software Engineer - Developer Platform",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157998/"
-  },
-  {
-    "id": "157334",
-    "role": "Machine Learning",
-    "title": "Machine Learning Engineer II - AV Foundation, AV Labs",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157334/"
-  },
-  {
-    "id": "157153",
-    "role": "Backend",
-    "title": "Senior Staff Software Engineer - Membership",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157153/"
-  },
-  {
-    "id": "156593",
-    "role": "Backend",
-    "title": "Sr Software Engineer - AV data quality",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156593/"
-  },
-  {
-    "id": "155791",
-    "role": "Machine Learning",
-    "title": "Engineering Manager II, Machine Learning \u2013 Rider Pricing & Incentives",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155791/"
-  },
-  {
-    "id": "157162",
-    "role": "Machine Learning",
-    "title": "Senior Machine Learning Engineer - AV Foundation,  AV Labs",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157162/"
-  },
-  {
-    "id": "159031",
-    "role": "Manager",
-    "title": "Sr Manager, Engineering",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/159031/"
-  },
-  {
-    "id": "158808",
-    "role": "Backend",
-    "title": "Senior Software Engineer - Maps & Localization - AV Labs",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158808/"
-  },
-  {
-    "id": "158011",
-    "role": "Engineering",
-    "title": "Graduate 2026 Software Engineer I, Mobile (iOS)",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158011/"
-  },
-  {
-    "id": "156728",
-    "role": "Backend",
-    "title": "Software Engineer II - Grocery & Retail",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156728/"
-  },
-  {
-    "id": "155493",
-    "role": "Backend",
-    "title": "Sr Software Engineer - Matching Platform",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155493/"
-  },
-  {
-    "id": "156809",
-    "role": "Backend",
-    "title": "Senior Engineering Manager - Membership",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156809/"
-  },
-  {
-    "id": "158904",
-    "role": "Backend",
-    "title": "Senior Software Engineer",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158904/"
-  },
-  {
-    "id": "146489",
-    "role": "Other",
-    "title": "Senior Optimization Engineer",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/146489/"
-  },
-  {
-    "id": "149797",
-    "role": "Machine Learning",
-    "title": "Senior Staff Machine Learning Engineer - Trusted Identity",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/149797/"
-  },
-  {
-    "id": "158129",
-    "role": "Backend",
-    "title": "Staff Software Engineer- Earner Offer Experience",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158129/"
-  },
-  {
-    "id": "153451",
-    "role": "Backend",
-    "title": "Sr Software Engineer - Backend, Grocery & Retail",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153451/"
-  },
-  {
-    "id": "152580",
-    "role": "Backend",
-    "title": "Staff Software Engineer",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/152580/"
-  },
-  {
-    "id": "158889",
-    "role": "Backend",
-    "title": "Software Engineer II - Middleware - AV Labs",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158889/"
-  },
-  {
-    "id": "155890",
-    "role": "Manager",
-    "title": "Sr Engineering Manager - Eater",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155890/"
-  },
-  {
-    "id": "156801",
-    "role": "Engineering",
-    "title": "Software Engineer II, AdTech",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156801/"
-  },
-  {
-    "id": "147867",
-    "role": "Program Manager",
-    "title": "Senior Program Manager, Site Technology",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/147867/"
-  },
-  {
-    "id": "158784",
-    "role": "Backend",
-    "title": "Staff Software Engineer - Control - AV Labs",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158784/"
-  },
-  {
-    "id": "155653",
-    "role": "Machine Learning",
-    "title": "Senior Staff Machine Learning Engineer \u2013 Moonshot AI",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155653/"
-  },
-  {
-    "id": "158248",
-    "role": "Machine Learning",
-    "title": "Machine Learning Engineer II",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158248/"
-  },
-  {
-    "id": "148236",
-    "role": "Networking",
-    "title": "Staff Network Engineer",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/148236/"
-  },
-  {
-    "id": "159001",
-    "role": "Backend",
-    "title": "Staff Software Engineer",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/159001/"
-  },
-  {
-    "id": "158789",
-    "role": "Machine Learning",
-    "title": "Machine Learning Engineer II - AV Labs",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158789/"
-  },
-  {
-    "id": "153830",
-    "role": "Frontend",
-    "title": "Staff Software Engineer - Frontend-  Ads Manager Web Platform",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153830/"
-  },
-  {
-    "id": "158670",
-    "role": "Backend",
-    "title": "Software Engineer II - Presto",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158670/"
-  },
-  {
-    "id": "158084",
-    "role": "Machine Learning",
-    "title": "Staff Machine Learning Engineer - Rider Intelligence",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158084/"
-  },
-  {
-    "id": "153966",
-    "role": "Backend",
-    "title": "Senior Staff Engineer",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153966/"
-  },
-  {
-    "id": "157796",
-    "role": "Machine Learning",
-    "title": "Senior Machine Learning Engineer \u2013 AV Labs",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157796/"
-  },
-  {
-    "id": "154553",
-    "role": "iOS",
-    "title": "Senior Software Engineer - iOS, Autonomous Mobility & Delivery",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154553/"
+    "link": "https://www.uber.com/global/en/careers/list/156179/"
   },
   {
     "id": "158723",
@@ -688,364 +32,12 @@
     "link": "https://www.uber.com/global/en/careers/list/158723/"
   },
   {
-    "id": "144784",
-    "role": "Fullstack",
-    "title": "Staff Software Engineer - Fullstack -Growth",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/144784/"
-  },
-  {
-    "id": "157823",
+    "id": "158784",
     "role": "Backend",
-    "title": "Senior Software Engineer, Uber Direct",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157823/"
-  },
-  {
-    "id": "139226",
-    "role": "Backend",
-    "title": "Senior Staff Engineer - Autonomous Vehicle Platform",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/139226/"
-  },
-  {
-    "id": "154537",
-    "role": "Security Engineer",
-    "title": "Senior Security Incident Commander",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154537/"
-  },
-  {
-    "id": "157227",
-    "role": "Security Engineer",
-    "title": "Staff Security Engineer",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157227/"
-  },
-  {
-    "id": "158485",
-    "role": "Engineering",
-    "title": "Partner Solution Engineer II, Uber Advertising",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158485/"
-  },
-  {
-    "id": "157996",
-    "role": "Backend",
-    "title": "Senior Software Engineer - Developer Experience - AV Labs",
+    "title": "Staff Software Engineer - Control - AV Labs",
     "company": "uber",
     "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157996/"
-  },
-  {
-    "id": "156253",
-    "role": "Machine Learning",
-    "title": "Staff Machine Learning Engineer",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156253/"
-  },
-  {
-    "id": "155212",
-    "role": "Engineering",
-    "title": "Program Manager II, Tech - Enterprise Applications",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155212/"
-  },
-  {
-    "id": "149949",
-    "role": "IT Eng",
-    "title": "Executive Tech Support",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/149949/"
-  },
-  {
-    "id": "156731",
-    "role": "Backend",
-    "title": "Sr Software Engineer, Ad Serving",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156731/"
-  },
-  {
-    "id": "156179",
-    "role": "Backend",
-    "title": "Senior Software Engineer - Communications Platform (Backend)",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156179/"
-  },
-  {
-    "id": "154908",
-    "role": "Security Engineer",
-    "title": "Senior Staff Security Engineer",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154908/"
-  },
-  {
-    "id": "154100",
-    "role": "Security Engineer",
-    "title": "Senior Software Security Engineer",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154100/"
-  },
-  {
-    "id": "158780",
-    "role": "Backend",
-    "title": "Sr. Software Engineer - Build Systems",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158780/"
-  },
-  {
-    "id": "152246",
-    "role": "Engineering",
-    "title": "Partner Solution Engineer, Uber Advertising",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/152246/"
-  },
-  {
-    "id": "158726",
-    "role": "Android",
-    "title": "Software Engineer II, Mobile Engineer",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158726/"
-  },
-  {
-    "id": "155438",
-    "role": "Backend",
-    "title": "Staff Software Engineer (Backend) - Road Safety",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155438/"
-  },
-  {
-    "id": "154625",
-    "role": "Engineering",
-    "title": "Senior Applications Engineer - CRM",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154625/"
-  },
-  {
-    "id": "156951",
-    "role": "iOS",
-    "title": "Staff Software Engineer - iOS",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156951/"
-  },
-  {
-    "id": "158037",
-    "role": "Engineering",
-    "title": "Graduate 2026 Software Engineer I, Mobile (Android)",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158037/"
-  },
-  {
-    "id": "158077",
-    "role": "Engineering",
-    "title": "Software Engineer I",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158077/"
-  },
-  {
-    "id": "157199",
-    "role": "Backend",
-    "title": "Senior Staff Software Engineer: Data & Storage Platform",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157199/"
-  },
-  {
-    "id": "150193",
-    "role": "Backend",
-    "title": "Senior Staff Software Engineer - Financial Products (Backend)",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/150193/"
-  },
-  {
-    "id": "157792",
-    "role": "Engineering",
-    "title": "Software Engineer",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157792/"
-  },
-  {
-    "id": "156945",
-    "role": "Backend",
-    "title": "Sr Software Engineer, Backend (AV and AI)",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156945/"
-  },
-  {
-    "id": "157233",
-    "role": "Manager",
-    "title": "Engineering Manager II, Operation Intelligence - AV Labs",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157233/"
-  },
-  {
-    "id": "158888",
-    "role": "Engineering",
-    "title": "Software Engineer II",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158888/"
-  },
-  {
-    "id": "158495",
-    "role": "Engineering",
-    "title": "Director, Engineering - Autonomy",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158495/"
-  },
-  {
-    "id": "154284",
-    "role": "Machine Learning",
-    "title": "Staff Machine Learning Engineer \u2013 AV Labs",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154284/"
-  },
-  {
-    "id": "157374",
-    "role": "Manager",
-    "title": "Engineering Manager",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157374/"
-  },
-  {
-    "id": "154429",
-    "role": "Backend",
-    "title": "Staff Software Engineer, Ad Serving & Attribution Infra",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154429/"
-  },
-  {
-    "id": "156704",
-    "role": "Backend",
-    "title": "Sr Software Engineer, AdTech",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156704/"
-  },
-  {
-    "id": "157945",
-    "role": "Backend",
-    "title": "Sr Software Engineer - Host Network",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157945/"
-  },
-  {
-    "id": "151830",
-    "role": "Machine Learning",
-    "title": "Senior Machine Learning Engineer",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/151830/"
-  },
-  {
-    "id": "157198",
-    "role": "Backend",
-    "title": "Sr Staff Engineer - Core Infrastructure",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157198/"
-  },
-  {
-    "id": "154038",
-    "role": "Machine Learning",
-    "title": "Senior Machine Learning Engineer| Uber Direct",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154038/"
-  },
-  {
-    "id": "155299",
-    "role": "Machine Learning",
-    "title": "Sr Machine Learning Engineer, Pricing",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155299/"
-  },
-  {
-    "id": "158074",
-    "role": "Engineering",
-    "title": "Software Engineer I",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158074/"
-  },
-  {
-    "id": "155303",
-    "role": "Security Engineer",
-    "title": "Staff Software Engineer - Core Security Engineering",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155303/"
-  },
-  {
-    "id": "156320",
-    "role": "Backend",
-    "title": "Senior Software Engineer - Application Security",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156320/"
-  },
-  {
-    "id": "157200",
-    "role": "Backend",
-    "title": "Staff Engineer - Core Infrastructure",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157200/"
-  },
-  {
-    "id": "146337",
-    "role": "Machine Learning",
-    "title": "Staff Machine Learning Engineer - Marketplace Pricing",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/146337/"
-  },
-  {
-    "id": "156413",
-    "role": "Backend",
-    "title": "Staff Software Engineer, Production Engineering",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156413/"
-  },
-  {
-    "id": "156616",
-    "role": "Fullstack",
-    "title": "Staff Software Engineer, Offsite Ads",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156616/"
+    "link": "https://www.uber.com/global/en/careers/list/158784/"
   },
   {
     "id": "156610",
@@ -1056,28 +48,108 @@
     "link": "https://www.uber.com/global/en/careers/list/156610/"
   },
   {
-    "id": "155294",
+    "id": "144784",
     "role": "Fullstack",
-    "title": "Senior Software Engineer- Uber Eats Search Experience",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155294/"
-  },
-  {
-    "id": "152625",
-    "role": "Machine Learning",
-    "title": "Senior Machine Learning Engineer - Ads",
+    "title": "Staff Software Engineer - Fullstack -Growth",
     "company": "uber",
     "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/152625/"
+    "link": "https://www.uber.com/global/en/careers/list/144784/"
   },
   {
-    "id": "155228",
-    "role": "Machine Learning",
-    "title": "Staff Machine Learning Engineer",
+    "id": "154908",
+    "role": "Security Engineer",
+    "title": "Senior Staff Security Engineer",
     "company": "uber",
     "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155228/"
+    "link": "https://www.uber.com/global/en/careers/list/154908/"
+  },
+  {
+    "id": "155187",
+    "role": "iOS",
+    "title": "Software Engineer II - iOS, Engagement Growth",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155187/"
+  },
+  {
+    "id": "154042",
+    "role": "Security Engineer",
+    "title": "Senior Security Engineer (AI & Agentic Systems)",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154042/"
+  },
+  {
+    "id": "145474",
+    "role": "Machine Learning",
+    "title": "Staff Machine Learning Engineer - Causal Inference",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/145474/"
+  },
+  {
+    "id": "157820",
+    "role": "Engineering",
+    "title": "Audio/Visual Application Engineer",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157820/"
+  },
+  {
+    "id": "152666",
+    "role": "Machine Learning",
+    "title": "Sr Staff Machine Learning Engineer - Ads",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/152666/"
+  },
+  {
+    "id": "155791",
+    "role": "Machine Learning",
+    "title": "Engineering Manager II, Machine Learning \u2013 Rider Pricing & Incentives",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155791/"
+  },
+  {
+    "id": "154100",
+    "role": "Security Engineer",
+    "title": "Senior Software Security Engineer",
+    "company": "uber",
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154100/"
+  },
+  {
+    "id": "154672",
+    "role": "Backend",
+    "title": "Staff Software Engineer - Fulfillment Optimization",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154672/"
+  },
+  {
+    "id": "156311",
+    "role": "Backend",
+    "title": "Staff Software Engineer - Eater Growth",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156311/"
+  },
+  {
+    "id": "156951",
+    "role": "iOS",
+    "title": "Staff Software Engineer - iOS",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156951/"
+  },
+  {
+    "id": "158780",
+    "role": "Backend",
+    "title": "Sr. Software Engineer - Build Systems",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158780/"
   },
   {
     "id": "155196",
@@ -1088,84 +160,316 @@
     "link": "https://www.uber.com/global/en/careers/list/155196/"
   },
   {
-    "id": "153457",
-    "role": "Machine Learning",
-    "title": "Machine Learning Engineer II\u2013 Ranking & Recommendations",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153457/"
-  },
-  {
-    "id": "153476",
-    "role": "Machine Learning",
-    "title": "Sr Software Engineer - Machine Learning, Marketplace/Maps/Membership/AV",
+    "id": "158193",
+    "role": "Engineering",
+    "title": "HCM Security Product Lead",
     "company": "uber",
     "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153476/"
+    "link": "https://www.uber.com/global/en/careers/list/158193/"
   },
   {
-    "id": "154095",
-    "role": "Engineering",
-    "title": "Director, Engineering - Uber Direct",
+    "id": "150193",
+    "role": "Backend",
+    "title": "Senior Staff Software Engineer - Financial Products (Backend)",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/150193/"
+  },
+  {
+    "id": "156253",
+    "role": "Machine Learning",
+    "title": "Staff Machine Learning Engineer",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156253/"
+  },
+  {
+    "id": "155493",
+    "role": "Backend",
+    "title": "Sr Software Engineer - Matching Platform",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155493/"
+  },
+  {
+    "id": "154553",
+    "role": "iOS",
+    "title": "Senior Software Engineer - iOS, Autonomous Mobility & Delivery",
     "company": "uber",
     "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154095/"
+    "link": "https://www.uber.com/global/en/careers/list/154553/"
   },
   {
-    "id": "151177",
-    "role": "Security Engineer",
-    "title": "Sr. Security Investigator",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/151177/"
-  },
-  {
-    "id": "158467",
-    "role": "Machine Learning",
-    "title": "Principal Machine Learning Engineer \u2013 Autonomy",
+    "id": "158495",
+    "role": "Engineering",
+    "title": "Director, Engineering - Autonomy",
     "company": "uber",
     "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158467/"
+    "link": "https://www.uber.com/global/en/careers/list/158495/"
   },
   {
-    "id": "155904",
+    "id": "155959",
     "role": "Machine Learning",
-    "title": "Sr. Engineering Manager, Matching & Segmentation",
+    "title": "Senior AI/ML Engineer",
     "company": "uber",
     "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155904/"
+    "link": "https://www.uber.com/global/en/careers/list/155959/"
   },
   {
-    "id": "155776",
-    "role": "Engineering",
-    "title": "Application Developer II, Oracle EPM",
+    "id": "139226",
+    "role": "Backend",
+    "title": "Senior Staff Engineer - Autonomous Vehicle Platform",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/139226/"
+  },
+  {
+    "id": "154044",
+    "role": "Security Engineer",
+    "title": "Security Engineer (AI & Agentic Systems)",
     "company": "uber",
     "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155776/"
+    "link": "https://www.uber.com/global/en/careers/list/154044/"
   },
   {
-    "id": "147251",
-    "role": "Fullstack",
-    "title": "Principal Engineer - AI Tools",
+    "id": "157024",
+    "role": "Backend",
+    "title": "Senior Software Engineer - Privacy & Security",
     "company": "uber",
     "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/147251/"
+    "link": "https://www.uber.com/global/en/careers/list/157024/"
   },
   {
-    "id": "156570",
-    "role": "Manager",
-    "title": "Engineering Manager II, Eater Messaging, Core Consumer",
+    "id": "158077",
+    "role": "Engineering",
+    "title": "Software Engineer I",
     "company": "uber",
     "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156570/"
+    "link": "https://www.uber.com/global/en/careers/list/158077/"
   },
   {
-    "id": "155652",
+    "id": "155701",
+    "role": "Frontend",
+    "title": "Senior Software Engineer, Uber Eats Search Experience",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155701/"
+  },
+  {
+    "id": "155793",
     "role": "Machine Learning",
-    "title": "Senior Machine Learning Engineer - Moonshot AI",
+    "title": "Senior Machine Learning Engineer - Rider Pricing & Incentives",
     "company": "uber",
     "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155652/"
+    "link": "https://www.uber.com/global/en/careers/list/155793/"
+  },
+  {
+    "id": "154284",
+    "role": "Machine Learning",
+    "title": "Staff Machine Learning Engineer \u2013 AV Labs",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154284/"
+  },
+  {
+    "id": "156731",
+    "role": "Backend",
+    "title": "Sr Software Engineer, Ad Serving",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156731/"
+  },
+  {
+    "id": "154429",
+    "role": "Backend",
+    "title": "Staff Software Engineer, Ad Serving & Attribution Infra",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154429/"
+  },
+  {
+    "id": "156809",
+    "role": "Backend",
+    "title": "Senior Engineering Manager - Membership",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156809/"
+  },
+  {
+    "id": "156616",
+    "role": "Fullstack",
+    "title": "Staff Software Engineer, Offsite Ads",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156616/"
+  },
+  {
+    "id": "158011",
+    "role": "Engineering",
+    "title": "Graduate 2026 Software Engineer I, Mobile (iOS)",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158011/"
+  },
+  {
+    "id": "158889",
+    "role": "Backend",
+    "title": "Software Engineer II - Middleware - AV Labs",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158889/"
+  },
+  {
+    "id": "157334",
+    "role": "Machine Learning",
+    "title": "Machine Learning Engineer II - AV Foundation, AV Labs",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157334/"
+  },
+  {
+    "id": "151830",
+    "role": "Machine Learning",
+    "title": "Senior Machine Learning Engineer",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/151830/"
+  },
+  {
+    "id": "154688",
+    "role": "Fullstack",
+    "title": "Software Engineer II - Fullstack, Grocery",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154688/"
+  },
+  {
+    "id": "156728",
+    "role": "Backend",
+    "title": "Software Engineer II - Grocery & Retail",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156728/"
+  },
+  {
+    "id": "146338",
+    "role": "Machine Learning",
+    "title": "Machine Learning Engineer II, Pricing",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/146338/"
+  },
+  {
+    "id": "157199",
+    "role": "Backend",
+    "title": "Senior Staff Software Engineer: Data & Storage Platform",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157199/"
+  },
+  {
+    "id": "158888",
+    "role": "Engineering",
+    "title": "Software Engineer II",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158888/"
+  },
+  {
+    "id": "158037",
+    "role": "Engineering",
+    "title": "Graduate 2026 Software Engineer I, Mobile (Android)",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158037/"
+  },
+  {
+    "id": "154038",
+    "role": "Machine Learning",
+    "title": "Senior Machine Learning Engineer| Uber Direct",
+    "company": "uber",
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154038/"
+  },
+  {
+    "id": "146337",
+    "role": "Machine Learning",
+    "title": "Staff Machine Learning Engineer - Marketplace Pricing",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/146337/"
+  },
+  {
+    "id": "157788",
+    "role": "Engineering",
+    "title": "Software Engineer",
+    "company": "uber",
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157788/"
+  },
+  {
+    "id": "152295",
+    "role": "Backend",
+    "title": "Staff Software Engineer - Remote Assistance",
+    "company": "uber",
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/152295/"
+  },
+  {
+    "id": "159001",
+    "role": "Backend",
+    "title": "Staff Software Engineer",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/159001/"
+  },
+  {
+    "id": "157796",
+    "role": "Machine Learning",
+    "title": "Senior Machine Learning Engineer \u2013 AV Labs",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157796/"
+  },
+  {
+    "id": "152899",
+    "role": "Machine Learning",
+    "title": "Staff ML Engineer, Generative AI",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/152899/"
+  },
+  {
+    "id": "158904",
+    "role": "Backend",
+    "title": "Senior Software Engineer",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158904/"
+  },
+  {
+    "id": "158129",
+    "role": "Backend",
+    "title": "Staff Software Engineer- Earner Offer Experience",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158129/"
+  },
+  {
+    "id": "156244",
+    "role": "Backend",
+    "title": "Staff Software Engineer (Backend) - Java Platform",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156244/"
+  },
+  {
+    "id": "154625",
+    "role": "Engineering",
+    "title": "Senior Applications Engineer - CRM",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154625/"
   },
   {
     "id": "156932",
@@ -1176,500 +480,620 @@
     "link": "https://www.uber.com/global/en/careers/list/156932/"
   },
   {
-    "id": "157384",
-    "role": "Backend",
-    "title": "Senior Software Engineer: Backend",
+    "id": "158074",
+    "role": "Engineering",
+    "title": "Software Engineer I",
     "company": "uber",
     "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157384/"
+    "link": "https://www.uber.com/global/en/careers/list/158074/"
   },
   {
-    "id": "157209",
+    "id": "155294",
+    "role": "Fullstack",
+    "title": "Senior Software Engineer- Uber Eats Search Experience",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155294/"
+  },
+  {
+    "id": "156801",
     "role": "Engineering",
-    "title": "Senior EDMCS Cloud Consultant",
-    "company": "uber",
-    "location": "Dallas, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157209/"
-  },
-  {
-    "id": "146988",
-    "role": "Machine Learning",
-    "title": "Sr Staff ML Engineer - Applied AI",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/146988/"
-  },
-  {
-    "id": "156799",
-    "role": "Data",
-    "title": "Data Engineer - Growth and Marketing Platform",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156799/"
-  },
-  {
-    "id": "152343",
-    "role": "Backend",
-    "title": "Staff Software Engineer - Simulation and Data",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/152343/"
-  },
-  {
-    "id": "156955",
-    "role": "Manager",
-    "title": "Engineering Manager II, Ranking and Recommendations, Grocery and Retail",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156955/"
-  },
-  {
-    "id": "154899",
-    "role": "Backend",
-    "title": "Staff Software Engineer - Marketplace",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154899/"
-  },
-  {
-    "id": "154739",
-    "role": "Engineering",
-    "title": "Application Developer - ServiceNow HRSD",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154739/"
-  },
-  {
-    "id": "157750",
-    "role": "Android",
-    "title": "Staff Software Engineer - Android",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157750/"
-  },
-  {
-    "id": "148438",
-    "role": "Manager",
-    "title": "Engineering Manager, Fulfillment Matching and Indexing Team",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/148438/"
-  },
-  {
-    "id": "155595",
-    "role": "Backend",
-    "title": "Staff Engineer - Home Feed Foundations",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155595/"
-  },
-  {
-    "id": "156903",
-    "role": "Machine Learning",
-    "title": "Staff Machine Learning Engineer \u2013 Ranking & Recommendations (Generative AI)",
+    "title": "Software Engineer II, AdTech",
     "company": "uber",
     "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156903/"
+    "link": "https://www.uber.com/global/en/careers/list/156801/"
   },
   {
-    "id": "156819",
+    "id": "155038",
     "role": "Backend",
-    "title": "Sr Staff Engineer, Java Platform",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156819/"
-  },
-  {
-    "id": "157638",
-    "role": "Backend",
-    "title": "Software Engineer II - Discovery and Monetization",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157638/"
-  },
-  {
-    "id": "153491",
-    "role": "Engineering",
-    "title": "Sr. Staff Software Engineer, Capacity Engineering",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153491/"
-  },
-  {
-    "id": "142073",
-    "role": "Manager",
-    "title": "Senior Engineering Manager - (Machine Learning) Uber Eats",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/142073/"
-  },
-  {
-    "id": "153194",
-    "role": "Machine Learning",
-    "title": "Staff Software Engineer - ML Michelangelo",
+    "title": "Staff Software Engineer - AI Platform (Michelangelo)",
     "company": "uber",
     "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153194/"
+    "link": "https://www.uber.com/global/en/careers/list/155038/"
   },
   {
-    "id": "154997",
-    "role": "Backend",
-    "title": "Sr Software Engineer - Fulfillment Shopping & Ordering",
+    "id": "158679",
+    "role": "Engineering",
+    "title": "Software Engineer II, Evaluation & Simulation",
     "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154997/"
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158679/"
   },
   {
-    "id": "149926",
-    "role": "Manager",
-    "title": "Engineering Manager II, Marketplace Pricing",
+    "id": "157198",
+    "role": "Backend",
+    "title": "Sr Staff Engineer - Core Infrastructure",
     "company": "uber",
     "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/149926/"
+    "link": "https://www.uber.com/global/en/careers/list/157198/"
   },
   {
-    "id": "157392",
-    "role": "Manager",
-    "title": "Engineering Manager, Shopping Ranking & Personalization",
+    "id": "157823",
+    "role": "Backend",
+    "title": "Senior Software Engineer, Uber Direct",
     "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157392/"
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157823/"
   },
   {
-    "id": "150977",
+    "id": "157200",
+    "role": "Backend",
+    "title": "Staff Engineer - Core Infrastructure",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157200/"
+  },
+  {
+    "id": "157785",
     "role": "Engineering",
-    "title": "Director, Engineering - Marketplace",
+    "title": "Software Engineer I",
     "company": "uber",
     "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/150977/"
+    "link": "https://www.uber.com/global/en/careers/list/157785/"
   },
   {
-    "id": "150907",
+    "id": "149949",
+    "role": "IT Eng",
+    "title": "Executive Tech Support",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/149949/"
+  },
+  {
+    "id": "157882",
+    "role": "Backend",
+    "title": "Software Engineer II - Batch Data",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157882/"
+  },
+  {
+    "id": "156309",
+    "role": "Backend",
+    "title": "Sr Software Engineer",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156309/"
+  },
+  {
+    "id": "155212",
+    "role": "Engineering",
+    "title": "Program Manager II, Tech - Enterprise Applications",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155212/"
+  },
+  {
+    "id": "158925",
+    "role": "Backend",
+    "title": "Staff Software Engineer, Build Systems",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158925/"
+  },
+  {
+    "id": "147867",
     "role": "Program Manager",
-    "title": "Senior Program Manager, Tech- Gen AI Data Collections",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/150907/"
-  },
-  {
-    "id": "156748",
-    "role": "Backend",
-    "title": "Sr Software Engineer - Incentives Platform",
+    "title": "Senior Program Manager, Site Technology",
     "company": "uber",
     "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156748/"
+    "link": "https://www.uber.com/global/en/careers/list/147867/"
   },
   {
-    "id": "153215",
+    "id": "158808",
     "role": "Backend",
-    "title": "Senior Staff Engineer IAM",
+    "title": "Senior Software Engineer - Maps & Localization - AV Labs",
     "company": "uber",
     "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153215/"
+    "link": "https://www.uber.com/global/en/careers/list/158808/"
   },
   {
-    "id": "153470",
-    "role": "Backend",
-    "title": "Software Engineer II- Backend, Marketplace/Maps/Membership/AV",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153470/"
-  },
-  {
-    "id": "154759",
+    "id": "157862",
     "role": "Engineering",
-    "title": "Application Developer \u2013 Atlassian",
+    "title": "Engagement Growth - Software Engineer II- Full Stack",
     "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154759/"
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157862/"
   },
   {
-    "id": "157432",
+    "id": "158640",
+    "role": "Networking",
+    "title": "Network Engineer - Autonomous Vehicle Infrastructure",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158640/"
+  },
+  {
+    "id": "148236",
+    "role": "Networking",
+    "title": "Staff Network Engineer",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/148236/"
+  },
+  {
+    "id": "146267",
+    "role": "Program Manager",
+    "title": "Sr Program Manager Tech - Gen AI",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/146267/"
+  },
+  {
+    "id": "153966",
     "role": "Backend",
-    "title": "Software Engineer II - Earner (multiple teams hiring)",
+    "title": "Senior Staff Engineer",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/153966/"
+  },
+  {
+    "id": "157162",
+    "role": "Machine Learning",
+    "title": "Senior Machine Learning Engineer - AV Foundation,  AV Labs",
     "company": "uber",
     "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157432/"
+    "link": "https://www.uber.com/global/en/careers/list/157162/"
   },
   {
-    "id": "157627",
-    "role": "Engineering",
-    "title": "Enterprise Application Developer",
+    "id": "155576",
+    "role": "Machine Learning",
+    "title": "Senior Machine Learning Engineer - Earner Incentive",
     "company": "uber",
     "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157627/"
+    "link": "https://www.uber.com/global/en/careers/list/155576/"
   },
   {
-    "id": "153370",
+    "id": "157003",
+    "role": "Backend",
+    "title": "Staff Software Engineer, Uber Eats Search Experience",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157003/"
+  },
+  {
+    "id": "154344",
+    "role": "Backend",
+    "title": "Sr Staff Software Engineer, Consumer Pricing and Incentives",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154344/"
+  },
+  {
+    "id": "155653",
+    "role": "Machine Learning",
+    "title": "Senior Staff Machine Learning Engineer \u2013 Moonshot AI",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155653/"
+  },
+  {
+    "id": "157996",
+    "role": "Backend",
+    "title": "Senior Software Engineer - Developer Experience - AV Labs",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157996/"
+  },
+  {
+    "id": "156320",
+    "role": "Backend",
+    "title": "Senior Software Engineer - Application Security",
+    "company": "uber",
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156320/"
+  },
+  {
+    "id": "157233",
+    "role": "Manager",
+    "title": "Engineering Manager II, Operation Intelligence - AV Labs",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157233/"
+  },
+  {
+    "id": "157755",
+    "role": "Manager",
+    "title": "Engineering Manager II, Evaluation & Simulation - AV Labs",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157755/"
+  },
+  {
+    "id": "157945",
+    "role": "Backend",
+    "title": "Sr Software Engineer - Host Network",
+    "company": "uber",
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157945/"
+  },
+  {
+    "id": "153449",
+    "role": "Backend",
+    "title": "Software Engineer II- Grocery & Retail",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/153449/"
+  },
+  {
+    "id": "152625",
+    "role": "Machine Learning",
+    "title": "Senior Machine Learning Engineer - Ads",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/152625/"
+  },
+  {
+    "id": "156945",
+    "role": "Backend",
+    "title": "Sr Software Engineer, Backend (AV and AI)",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156945/"
+  },
+  {
+    "id": "146489",
+    "role": "Other",
+    "title": "Senior Optimization Engineer",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/146489/"
+  },
+  {
+    "id": "152580",
+    "role": "Backend",
+    "title": "Staff Software Engineer",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/152580/"
+  },
+  {
+    "id": "154905",
+    "role": "Machine Learning",
+    "title": "Staff Machine Learning Engineer, Delivery Marketplace (Sunnyvale/San Francisco/NYC)",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154905/"
+  },
+  {
+    "id": "149797",
+    "role": "Machine Learning",
+    "title": "Senior Staff Machine Learning Engineer - Trusted Identity",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/149797/"
+  },
+  {
+    "id": "144297",
+    "role": "Backend",
+    "title": "Senior Staff Engineer - Marketplace Competitive Intelligence",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/144297/"
+  },
+  {
+    "id": "157998",
+    "role": "Backend",
+    "title": "Sr Software Engineer - Developer Platform",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157998/"
+  },
+  {
+    "id": "158789",
+    "role": "Machine Learning",
+    "title": "Machine Learning Engineer II - AV Labs",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158789/"
+  },
+  {
+    "id": "156944",
+    "role": "Backend",
+    "title": "Sr Software Engineer (Backend) - GenAI",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156944/"
+  },
+  {
+    "id": "157374",
+    "role": "Manager",
+    "title": "Engineering Manager",
+    "company": "uber",
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157374/"
+  },
+  {
+    "id": "156593",
+    "role": "Backend",
+    "title": "Sr Software Engineer - AV data quality",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156593/"
+  },
+  {
+    "id": "153830",
+    "role": "Frontend",
+    "title": "Staff Software Engineer - Frontend-  Ads Manager Web Platform",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/153830/"
+  },
+  {
+    "id": "157202",
+    "role": "Backend",
+    "title": "Sr Software - Core Infrastructure",
+    "company": "uber",
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157202/"
+  },
+  {
+    "id": "158931",
+    "role": "Backend",
+    "title": "Software Engineer II - Michelangelo",
+    "company": "uber",
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158931/"
+  },
+  {
+    "id": "158670",
+    "role": "Backend",
+    "title": "Software Engineer II - Presto",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158670/"
+  },
+  {
+    "id": "158518",
     "role": "Machine Learning",
     "title": "Staff Machine Learning Engineer",
     "company": "uber",
     "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153370/"
+    "link": "https://www.uber.com/global/en/careers/list/158518/"
   },
   {
-    "id": "150917",
-    "role": "Program Manager",
-    "title": "Senior Program Manager, Tech - Uber AI Solutions",
+    "id": "153377",
+    "role": "Backend",
+    "title": "Staff Software Engineer",
     "company": "uber",
     "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/150917/"
+    "link": "https://www.uber.com/global/en/careers/list/153377/"
   },
   {
-    "id": "156942",
-    "role": "Fullstack",
-    "title": "Senior Software Engineer - Fullstack, Engagement Growth",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156942/"
-  },
-  {
-    "id": "154195",
-    "role": "Backend",
-    "title": "Software Engineer II",
+    "id": "158690",
+    "role": "Data",
+    "title": "Software Engineer II - Maps & Localization - AV Labs",
     "company": "uber",
     "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154195/"
+    "link": "https://www.uber.com/global/en/careers/list/158690/"
   },
   {
-    "id": "155905",
-    "role": "Machine Learning",
-    "title": "Senior Staff Engineer, Matching & Segmentation",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155905/"
-  },
-  {
-    "id": "156290",
-    "role": "Backend",
-    "title": "Staff Software Engineer - Autonomous",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156290/"
-  },
-  {
-    "id": "156899",
-    "role": "Backend",
-    "title": "Software Engineer II - Back-end & ML/AI Infra",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156899/"
-  },
-  {
-    "id": "154276",
-    "role": "Machine Learning",
-    "title": "Principle MLE - Autonomy",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154276/"
-  },
-  {
-    "id": "154788",
-    "role": "Backend",
-    "title": "Sr Software Engineer, Core Security Engineering",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154788/"
-  },
-  {
-    "id": "154758",
-    "role": "Engineering",
-    "title": "Applications Developer II - ServiceNow",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154758/"
-  },
-  {
-    "id": "155806",
-    "role": "Machine Learning",
-    "title": "Principal Engineer - Marketplace",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155806/"
-  },
-  {
-    "id": "154824",
-    "role": "Backend",
-    "title": "Software Engineer II",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154824/"
-  },
-  {
-    "id": "155960",
-    "role": "Backend",
-    "title": "Staff Software Engineer - Media Platform (Backend)",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155960/"
-  },
-  {
-    "id": "153471",
-    "role": "Backend",
-    "title": "Sr Software Engineer - Backend, Marketplace/Maps/Membership/AV",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153471/"
-  },
-  {
-    "id": "153097",
-    "role": "Backend",
-    "title": "Sr. Salesforce Application Developer",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153097/"
-  },
-  {
-    "id": "157570",
-    "role": "Backend",
-    "title": "Sr Software Engineer, Backend - Enterprise Identity",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157570/"
-  },
-  {
-    "id": "155854",
-    "role": "Fullstack",
-    "title": "Senior Software Engineer - Delivery Growth - 3PDG",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155854/"
-  },
-  {
-    "id": "145860",
-    "role": "Machine Learning",
-    "title": "Staff Machine Learning Engineer - Applied AI",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/145860/"
-  },
-  {
-    "id": "153473",
-    "role": "Machine Learning",
-    "title": "Software Engineer II - Machine Learning, Marketplace/Maps/Membership/AV",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153473/"
-  },
-  {
-    "id": "157540",
-    "role": "Backend",
-    "title": "Software Engineer II - Uber Eats",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157540/"
-  },
-  {
-    "id": "154913",
-    "role": "Backend",
-    "title": "Sr. Software Engineer, ML Platform (Michelangelo)",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154913/"
-  },
-  {
-    "id": "155529",
-    "role": "Manager",
-    "title": "Engineering Manager, Competitive Data Platform",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155529/"
-  },
-  {
-    "id": "155457",
-    "role": "Machine Learning",
-    "title": "Engineering Manager II, Computer Vision - Applied AI",
-    "company": "uber",
-    "location": "Seattle, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155457/"
-  },
-  {
-    "id": "158009",
-    "role": "Engineering",
-    "title": "Graduate 2026 Software Engineer I, US",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158009/"
-  },
-  {
-    "id": "155034",
-    "role": "Backend",
-    "title": "Senior Staff Engineer (Backend) - Road Safety/Insurance",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/155034/"
-  },
-  {
-    "id": "154716",
-    "role": "Engineering",
-    "title": "Principal Engineer - Client and Product Foundations",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154716/"
-  },
-  {
-    "id": "158048",
-    "role": "Business & Sales",
-    "title": "2026 Strategic Business Development Representative Intern, US",
-    "company": "uber",
-    "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158048/"
-  },
-  {
-    "id": "157856",
+    "id": "157227",
     "role": "Security Engineer",
-    "title": "Staff Security Engineer, Privacy Engineering & AI",
+    "title": "Staff Security Engineer",
     "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/157856/"
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157227/"
   },
   {
-    "id": "153543",
-    "role": "Backend",
-    "title": "Staff Software Engineer - Fulfillment Logistics",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/153543/"
-  },
-  {
-    "id": "158468",
-    "role": "Engineering",
-    "title": "Principal Engineer - Evaluation & Simulation",
+    "id": "158726",
+    "role": "Android",
+    "title": "Software Engineer II, Mobile Engineer",
     "company": "uber",
     "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/158468/"
+    "link": "https://www.uber.com/global/en/careers/list/158726/"
   },
   {
-    "id": "154735",
-    "role": "Engineering",
-    "title": "Business System Analyst : ServiceNow Platform",
-    "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154735/"
-  },
-  {
-    "id": "154691",
-    "role": "Fullstack",
-    "title": "Senior Software Engineer - Fullstack, Grocery",
-    "company": "uber",
-    "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/154691/"
-  },
-  {
-    "id": "152571",
+    "id": "155890",
     "role": "Manager",
-    "title": "Engineering Manager II, Core Security Engineering",
+    "title": "Sr Engineering Manager - Eater",
     "company": "uber",
-    "location": "San Francisco, United States",
-    "link": "https://www.uber.com/global/en/careers/list/152571/"
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155890/"
   },
   {
-    "id": "156399",
-    "role": "Technical Program Manager",
-    "title": "Sr. Technical Program Manager",
+    "id": "155438",
+    "role": "Backend",
+    "title": "Staff Software Engineer (Backend) - Road Safety",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155438/"
+  },
+  {
+    "id": "157153",
+    "role": "Backend",
+    "title": "Senior Staff Software Engineer - Membership",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157153/"
+  },
+  {
+    "id": "154537",
+    "role": "Security Engineer",
+    "title": "Senior Security Incident Commander",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154537/"
+  },
+  {
+    "id": "157793",
+    "role": "Engineering",
+    "title": "Software Engineer II",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157793/"
+  },
+  {
+    "id": "155792",
+    "role": "Machine Learning",
+    "title": "Staff Machine Learning Engineer, Rider Pricing & Incentives",
     "company": "uber",
     "location": "Sunnyvale, United States",
-    "link": "https://www.uber.com/global/en/careers/list/156399/"
+    "link": "https://www.uber.com/global/en/careers/list/155792/"
+  },
+  {
+    "id": "152246",
+    "role": "Engineering",
+    "title": "Partner Solution Engineer, Uber Advertising",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/152246/"
+  },
+  {
+    "id": "153912",
+    "role": "Fullstack",
+    "title": "Senior Software Engineer - FullStack Eng / AI",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/153912/"
+  },
+  {
+    "id": "155228",
+    "role": "Machine Learning",
+    "title": "Staff Machine Learning Engineer",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155228/"
+  },
+  {
+    "id": "157792",
+    "role": "Engineering",
+    "title": "Software Engineer",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157792/"
+  },
+  {
+    "id": "157787",
+    "role": "Engineering",
+    "title": "Software Engineer",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157787/"
+  },
+  {
+    "id": "158084",
+    "role": "Machine Learning",
+    "title": "Staff Machine Learning Engineer - Rider Intelligence",
+    "company": "uber",
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158084/"
+  },
+  {
+    "id": "156186",
+    "role": "Engineering",
+    "title": "Manager II, Engineering - Uber",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156186/"
+  },
+  {
+    "id": "158485",
+    "role": "Engineering",
+    "title": "Partner Solution Engineer II, Uber Advertising",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158485/"
+  },
+  {
+    "id": "159031",
+    "role": "Manager",
+    "title": "Sr Manager, Engineering",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/159031/"
+  },
+  {
+    "id": "155299",
+    "role": "Machine Learning",
+    "title": "Sr Machine Learning Engineer, Pricing",
+    "company": "uber",
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155299/"
+  },
+  {
+    "id": "156729",
+    "role": "Backend",
+    "title": "Staff Software Engineer",
+    "company": "uber",
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156729/"
+  },
+  {
+    "id": "146209",
+    "role": "Machine Learning",
+    "title": "Staff Machine Learning Engineer - Pricing & Incentives",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/146209/"
+  },
+  {
+    "id": "156798",
+    "role": "Engineering",
+    "title": "Cloud Partner Manager",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156798/"
+  },
+  {
+    "id": "158248",
+    "role": "Machine Learning",
+    "title": "Machine Learning Engineer II",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158248/"
+  },
+  {
+    "id": "156413",
+    "role": "Backend",
+    "title": "Staff Software Engineer, Production Engineering",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156413/"
+  },
+  {
+    "id": "158672",
+    "role": "Backend",
+    "title": "Sr Software Engineer - Presto",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158672/"
+  },
+  {
+    "id": "153451",
+    "role": "Backend",
+    "title": "Sr Software Engineer - Backend, Grocery & Retail",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/153451/"
+  },
+  {
+    "id": "156704",
+    "role": "Backend",
+    "title": "Sr Software Engineer, AdTech",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156704/"
   },
   {
     "id": "150077",
@@ -1680,12 +1104,580 @@
     "link": "https://www.uber.com/global/en/careers/list/150077/"
   },
   {
-    "id": "144523",
+    "id": "156799",
+    "role": "Data",
+    "title": "Data Engineer - Growth and Marketing Platform",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156799/"
+  },
+  {
+    "id": "150977",
+    "role": "Engineering",
+    "title": "Director, Engineering - Marketplace",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/150977/"
+  },
+  {
+    "id": "156399",
+    "role": "Technical Program Manager",
+    "title": "Sr. Technical Program Manager",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156399/"
+  },
+  {
+    "id": "157432",
     "role": "Backend",
-    "title": "Senior Software Engineer, Consumer Fulfillment (UberEats)",
+    "title": "Software Engineer II - Earner (multiple teams hiring)",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157432/"
+  },
+  {
+    "id": "157209",
+    "role": "Engineering",
+    "title": "Senior EDMCS Cloud Consultant",
+    "company": "uber",
+    "location": "Dallas, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157209/"
+  },
+  {
+    "id": "156899",
+    "role": "Backend",
+    "title": "Software Engineer II - Back-end & ML/AI Infra",
+    "company": "uber",
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156899/"
+  },
+  {
+    "id": "157638",
+    "role": "Backend",
+    "title": "Software Engineer II - Discovery and Monetization",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157638/"
+  },
+  {
+    "id": "157384",
+    "role": "Backend",
+    "title": "Senior Software Engineer: Backend",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157384/"
+  },
+  {
+    "id": "158048",
+    "role": "Business & Sales",
+    "title": "2026 Strategic Business Development Representative Intern, US",
     "company": "uber",
     "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/144523/"
+    "link": "https://www.uber.com/global/en/careers/list/158048/"
+  },
+  {
+    "id": "150917",
+    "role": "Program Manager",
+    "title": "Senior Program Manager, Tech - Uber AI Solutions",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/150917/"
+  },
+  {
+    "id": "156819",
+    "role": "Backend",
+    "title": "Sr Staff Engineer, Java Platform",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156819/"
+  },
+  {
+    "id": "154276",
+    "role": "Machine Learning",
+    "title": "Principle MLE - Autonomy",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154276/"
+  },
+  {
+    "id": "151177",
+    "role": "Security Engineer",
+    "title": "Sr. Security Investigator",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/151177/"
+  },
+  {
+    "id": "155457",
+    "role": "Machine Learning",
+    "title": "Engineering Manager II, Computer Vision - Applied AI",
+    "company": "uber",
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155457/"
+  },
+  {
+    "id": "155776",
+    "role": "Engineering",
+    "title": "Application Developer II, Oracle EPM",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155776/"
+  },
+  {
+    "id": "153473",
+    "role": "Machine Learning",
+    "title": "Software Engineer II - Machine Learning, Marketplace/Maps/Membership/AV",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/153473/"
+  },
+  {
+    "id": "154913",
+    "role": "Backend",
+    "title": "Sr. Software Engineer, ML Platform (Michelangelo)",
+    "company": "uber",
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154913/"
+  },
+  {
+    "id": "154095",
+    "role": "Engineering",
+    "title": "Director, Engineering - Uber Direct",
+    "company": "uber",
+    "location": "Seattle, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154095/"
+  },
+  {
+    "id": "152343",
+    "role": "Backend",
+    "title": "Staff Software Engineer - Simulation and Data",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/152343/"
+  },
+  {
+    "id": "154691",
+    "role": "Fullstack",
+    "title": "Senior Software Engineer - Fullstack, Grocery",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154691/"
+  },
+  {
+    "id": "154739",
+    "role": "Engineering",
+    "title": "Application Developer - ServiceNow HRSD",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154739/"
+  },
+  {
+    "id": "154759",
+    "role": "Engineering",
+    "title": "Application Developer \u2013 Atlassian",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154759/"
+  },
+  {
+    "id": "154899",
+    "role": "Backend",
+    "title": "Staff Software Engineer - Marketplace",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154899/"
+  },
+  {
+    "id": "152571",
+    "role": "Manager",
+    "title": "Engineering Manager II, Core Security Engineering",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/152571/"
+  },
+  {
+    "id": "156955",
+    "role": "Manager",
+    "title": "Engineering Manager II, Ranking and Recommendations, Grocery and Retail",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156955/"
+  },
+  {
+    "id": "149926",
+    "role": "Manager",
+    "title": "Engineering Manager II, Marketplace Pricing",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/149926/"
+  },
+  {
+    "id": "146988",
+    "role": "Machine Learning",
+    "title": "Sr Staff ML Engineer - Applied AI",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/146988/"
+  },
+  {
+    "id": "154824",
+    "role": "Backend",
+    "title": "Software Engineer II",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154824/"
+  },
+  {
+    "id": "155904",
+    "role": "Machine Learning",
+    "title": "Sr. Engineering Manager, Matching & Segmentation",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155904/"
+  },
+  {
+    "id": "156570",
+    "role": "Manager",
+    "title": "Engineering Manager II, Eater Messaging, Core Consumer",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156570/"
+  },
+  {
+    "id": "153370",
+    "role": "Machine Learning",
+    "title": "Staff Machine Learning Engineer",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/153370/"
+  },
+  {
+    "id": "154716",
+    "role": "Engineering",
+    "title": "Principal Engineer - Client and Product Foundations",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154716/"
+  },
+  {
+    "id": "153457",
+    "role": "Machine Learning",
+    "title": "Machine Learning Engineer II\u2013 Ranking & Recommendations",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/153457/"
+  },
+  {
+    "id": "153491",
+    "role": "Engineering",
+    "title": "Sr. Staff Software Engineer, Capacity Engineering",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/153491/"
+  },
+  {
+    "id": "156903",
+    "role": "Machine Learning",
+    "title": "Staff Machine Learning Engineer \u2013 Ranking & Recommendations (Generative AI)",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156903/"
+  },
+  {
+    "id": "153471",
+    "role": "Backend",
+    "title": "Sr Software Engineer - Backend, Marketplace/Maps/Membership/AV",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/153471/"
+  },
+  {
+    "id": "154788",
+    "role": "Backend",
+    "title": "Sr Software Engineer, Core Security Engineering",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154788/"
+  },
+  {
+    "id": "154997",
+    "role": "Backend",
+    "title": "Sr Software Engineer - Fulfillment Shopping & Ordering",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154997/"
+  },
+  {
+    "id": "152626",
+    "role": "Machine Learning",
+    "title": "Staff Machine Learning Engineer - Ads",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/152626/"
+  },
+  {
+    "id": "154758",
+    "role": "Engineering",
+    "title": "Applications Developer II - ServiceNow",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154758/"
+  },
+  {
+    "id": "157570",
+    "role": "Backend",
+    "title": "Sr Software Engineer, Backend - Enterprise Identity",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157570/"
+  },
+  {
+    "id": "155529",
+    "role": "Manager",
+    "title": "Engineering Manager, Competitive Data Platform",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155529/"
+  },
+  {
+    "id": "153543",
+    "role": "Backend",
+    "title": "Staff Software Engineer - Fulfillment Logistics",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/153543/"
+  },
+  {
+    "id": "153194",
+    "role": "Machine Learning",
+    "title": "Staff Software Engineer - ML Michelangelo",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/153194/"
+  },
+  {
+    "id": "155960",
+    "role": "Backend",
+    "title": "Staff Software Engineer - Media Platform (Backend)",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155960/"
+  },
+  {
+    "id": "150907",
+    "role": "Program Manager",
+    "title": "Senior Program Manager, Tech- Gen AI Data Collections",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/150907/"
+  },
+  {
+    "id": "153215",
+    "role": "Backend",
+    "title": "Senior Staff Engineer IAM",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/153215/"
+  },
+  {
+    "id": "155652",
+    "role": "Machine Learning",
+    "title": "Senior Machine Learning Engineer - Moonshot AI",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155652/"
+  },
+  {
+    "id": "158468",
+    "role": "Engineering",
+    "title": "Principal Engineer - Evaluation & Simulation",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158468/"
+  },
+  {
+    "id": "148438",
+    "role": "Manager",
+    "title": "Engineering Manager, Fulfillment Matching and Indexing Team",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/148438/"
+  },
+  {
+    "id": "157392",
+    "role": "Manager",
+    "title": "Engineering Manager, Shopping Ranking & Personalization",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157392/"
+  },
+  {
+    "id": "158009",
+    "role": "Engineering",
+    "title": "Graduate 2026 Software Engineer I, US",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158009/"
+  },
+  {
+    "id": "147251",
+    "role": "Fullstack",
+    "title": "Principal Engineer - AI Tools",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/147251/"
+  },
+  {
+    "id": "157540",
+    "role": "Backend",
+    "title": "Software Engineer II - Uber Eats",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157540/"
+  },
+  {
+    "id": "153097",
+    "role": "Backend",
+    "title": "Sr. Salesforce Application Developer",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/153097/"
+  },
+  {
+    "id": "156290",
+    "role": "Backend",
+    "title": "Staff Software Engineer - Autonomous",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156290/"
+  },
+  {
+    "id": "156942",
+    "role": "Fullstack",
+    "title": "Senior Software Engineer - Fullstack, Engagement Growth",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156942/"
+  },
+  {
+    "id": "145860",
+    "role": "Machine Learning",
+    "title": "Staff Machine Learning Engineer - Applied AI",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/145860/"
+  },
+  {
+    "id": "142073",
+    "role": "Manager",
+    "title": "Senior Engineering Manager - (Machine Learning) Uber Eats",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/142073/"
+  },
+  {
+    "id": "157750",
+    "role": "Android",
+    "title": "Staff Software Engineer - Android",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157750/"
+  },
+  {
+    "id": "155854",
+    "role": "Fullstack",
+    "title": "Senior Software Engineer - Delivery Growth - 3PDG",
+    "company": "uber",
+    "location": "New York, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155854/"
+  },
+  {
+    "id": "157627",
+    "role": "Engineering",
+    "title": "Enterprise Application Developer",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157627/"
+  },
+  {
+    "id": "153476",
+    "role": "Machine Learning",
+    "title": "Sr Software Engineer - Machine Learning, Marketplace/Maps/Membership/AV",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/153476/"
+  },
+  {
+    "id": "153470",
+    "role": "Backend",
+    "title": "Software Engineer II- Backend, Marketplace/Maps/Membership/AV",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/153470/"
+  },
+  {
+    "id": "154195",
+    "role": "Backend",
+    "title": "Software Engineer II",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154195/"
+  },
+  {
+    "id": "155806",
+    "role": "Machine Learning",
+    "title": "Principal Engineer - Marketplace",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155806/"
+  },
+  {
+    "id": "157856",
+    "role": "Security Engineer",
+    "title": "Staff Security Engineer, Privacy Engineering & AI",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/157856/"
+  },
+  {
+    "id": "158467",
+    "role": "Machine Learning",
+    "title": "Principal Machine Learning Engineer \u2013 Autonomy",
+    "company": "uber",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.uber.com/global/en/careers/list/158467/"
+  },
+  {
+    "id": "154735",
+    "role": "Engineering",
+    "title": "Business System Analyst : ServiceNow Platform",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/154735/"
+  },
+  {
+    "id": "155595",
+    "role": "Backend",
+    "title": "Staff Engineer - Home Feed Foundations",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155595/"
+  },
+  {
+    "id": "156748",
+    "role": "Backend",
+    "title": "Sr Software Engineer - Incentives Platform",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/156748/"
+  },
+  {
+    "id": "155905",
+    "role": "Machine Learning",
+    "title": "Senior Staff Engineer, Matching & Segmentation",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155905/"
   },
   {
     "id": "154689",
@@ -1696,12 +1688,20 @@
     "link": "https://www.uber.com/global/en/careers/list/154689/"
   },
   {
-    "id": "152626",
-    "role": "Machine Learning",
-    "title": "Staff Machine Learning Engineer - Ads",
+    "id": "144523",
+    "role": "Backend",
+    "title": "Senior Software Engineer, Consumer Fulfillment (UberEats)",
     "company": "uber",
     "location": "New York, United States",
-    "link": "https://www.uber.com/global/en/careers/list/152626/"
+    "link": "https://www.uber.com/global/en/careers/list/144523/"
+  },
+  {
+    "id": "155034",
+    "role": "Backend",
+    "title": "Senior Staff Engineer (Backend) - Road Safety/Insurance",
+    "company": "uber",
+    "location": "San Francisco, United States",
+    "link": "https://www.uber.com/global/en/careers/list/155034/"
   },
   {
     "id": "137697",
