@@ -248,14 +248,6 @@
     "link": "https://jobs.ashbyhq.com/ramp/9fb1d2f5-2c06-4d06-9394-df2d4420bd5d"
   },
   {
-    "id": "e577622f-6657-4e53-8941-b3a774b04448",
-    "role": "Data",
-    "title": "Data Scientist, All Levels",
-    "company": "ramp",
-    "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/e577622f-6657-4e53-8941-b3a774b04448"
-  },
-  {
     "id": "3d81a24f-cca4-4b2b-9478-cf422adc8237",
     "role": "Design",
     "title": "Design Engineer",
@@ -662,6 +654,14 @@
     "company": "ramp",
     "location": "New York, NY (HQ)",
     "link": "https://jobs.ashbyhq.com/ramp/d6d0ad5d-184b-4500-8aea-8bd8c503a7b6"
+  },
+  {
+    "id": "c0fe115a-6251-4608-af07-d222ab6a0f42",
+    "role": "Channel Sales",
+    "title": "Senior Product Partnerships Manager",
+    "company": "ramp",
+    "location": "New York, NY (HQ)",
+    "link": "https://jobs.ashbyhq.com/ramp/c0fe115a-6251-4608-af07-d222ab6a0f42"
   },
   {
     "id": "f0f95d20-fb64-4c06-86ff-6142e937fe0b",
