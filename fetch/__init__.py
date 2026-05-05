@@ -12,6 +12,7 @@ def _is_doordash_engineering(job):
 def fetch_all():
     jobs = []
     jobs += greenhouse.fetch("anthropic")
+    jobs += greenhouse.fetch("stripe")
     doordash = greenhouse.fetch("doordashusa", name="doordash")
     jobs += [j for j in doordash if _is_doordash_engineering(j)]
     jobs += ashby.fetch("perplexity")
