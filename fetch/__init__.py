@@ -17,7 +17,8 @@ def fetch_all():
     jobs += ashby.fetch("perplexity")
     jobs += ashby.fetch("openai")
     jobs += ashby.fetch("ramp")
-    jobs += ashby.fetch("snowflake")
+    snowflake = ashby.fetch("snowflake")
+    jobs += [j for j in snowflake if j['role'] in ('Engineering', 'Data Analytics and AI')]
     jobs += uber.fetch("uber")
     jobs += google.fetch("google")
     jobs += netflix.fetch("netflix")
