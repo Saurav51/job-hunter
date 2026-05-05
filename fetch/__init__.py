@@ -17,6 +17,7 @@ def fetch_all():
     jobs += ashby.fetch("perplexity")
     jobs += ashby.fetch("openai")
     jobs += ashby.fetch("ramp")
+    jobs += ashby.fetch("snowflake")
     jobs += uber.fetch("uber")
     jobs += google.fetch("google")
     jobs += netflix.fetch("netflix")
