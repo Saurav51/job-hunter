@@ -4,11 +4,9 @@ from adapters.ats import greenhouse, ashby
 from adapters.companies import uber, google, netflix
 
 
-_NA_PATTERNS = re.compile(
-    r'\bus\b|\busa\b|u\.s\.|united states|north america'
+_US_PATTERNS = re.compile(
+    r'\bus\b|\busa\b|u\.s\.|united states'
     r'|us.?remote|remote.?us|remote in the us'
-    r'|canada|toronto|vancouver|montreal'
-    r'|mexico'
     r'|\bsf\b|\bsfo\b|san francisco|south san francisco'
     r'|\bnyc\b|\bny\b|new york'
     r'|\bsea\b|seattle'
@@ -17,11 +15,11 @@ _NA_PATTERNS = re.compile(
     r'|boston|austin|los angeles|privy',
     re.IGNORECASE,
 )
-_NA_SKIP = {'n/a', 'location', '', 'remote', 'na'}
+_US_SKIP = {'n/a', 'location', '', 'remote', 'na'}
 
-def _is_na(job):
+def _is_us(job):
     loc = job.get('location', '').strip()
-    return loc.lower() not in _NA_SKIP and bool(_NA_PATTERNS.search(loc))
+    return loc.lower() not in _US_SKIP and bool(_US_PATTERNS.search(loc))
 
 
 def _is_doordash_engineering(job):
@@ -33,7 +31,7 @@ def fetch_all():
     jobs = []
     jobs += greenhouse.fetch("anthropic")
     stripe = greenhouse.fetch("stripe")
-    jobs += [j for j in stripe if _is_na(j)]
+    jobs += [j for j in stripe if _is_us(j)]
     doordash = greenhouse.fetch("doordashusa", name="doordash")
     jobs += [j for j in doordash if _is_doordash_engineering(j)]
     jobs += ashby.fetch("perplexity")
