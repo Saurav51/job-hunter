@@ -1,24 +1,10 @@
-import re
-
 from adapters.ats import greenhouse
 
-_NA_RE = re.compile(
-    r'\bus\b|\busa\b|u\.s\.|united states|north america'
-    r'|us.?remote|remote.?us|remote in the us'
-    r'|canada|toronto|vancouver|montreal'
-    r'|mexico|mexico city'
-    r'|\bsf\b|\bsfo\b|san francisco|south san francisco'
-    r'|\bnyc\b|\bny\b|new york|\bsea\b|seattle'
-    r'|\bchi\b|chicago|atlanta|\bdc\b|washington'
-    r'|boston|austin|los angeles|privy',
-    re.IGNORECASE,
-)
-_NA_SKIP = {'n/a', 'location', '', 'remote', 'na'}
+_NA_PREFIXES = ("US", "Canada", "Mexico")
 
 
 def _is_na(job):
-    loc = job.get('location', '').strip()
-    return loc.lower() not in _NA_SKIP and bool(_NA_RE.search(loc))
+    return any(o.startswith(_NA_PREFIXES) for o in job.get("offices", []))
 
 
 def fetch():

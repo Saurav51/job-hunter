@@ -17,6 +17,7 @@ def fetch(company, name=None):
                 "company": name,
                 "location": job.get("location", {}).get("name", ""),
                 "link": job["absolute_url"],
+                "offices": [o["name"] for o in job.get("offices", [])],
             }
             for job in jobs
         ]
