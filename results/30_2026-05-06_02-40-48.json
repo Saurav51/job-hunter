@@ -1,0 +1,4573 @@
+{
+  "anthropic": [
+    {
+      "id": "5207565008",
+      "role": "Product Management, Support, & Operations",
+      "title": "Community & Executive Escalations Program Manager",
+      "company": "anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5207565008",
+      "offices": [
+        "San Francisco, CA"
+      ]
+    },
+    {
+      "id": "5210253008",
+      "role": "Legal",
+      "title": "Content Moderation Specialist",
+      "company": "anthropic",
+      "location": "Dublin, IE",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5210253008",
+      "offices": [
+        "Dublin, IE"
+      ]
+    },
+    {
+      "id": "5209896008",
+      "role": "Finance",
+      "title": "Corporate Finance & Strategy, R&D Opex",
+      "company": "anthropic",
+      "location": "San Francisco, CA | Seattle, WA",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5209896008",
+      "offices": [
+        "San Francisco, CA"
+      ]
+    },
+    {
+      "id": "5210631008",
+      "role": "Engineering & Design - Product",
+      "title": "Engineering Manager, Marketplace",
+      "company": "anthropic",
+      "location": "San Francisco, CA | Seattle, WA",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5210631008",
+      "offices": [
+        "San Francisco, CA"
+      ]
+    },
+    {
+      "id": "5210629008",
+      "role": "Engineering & Design - Product",
+      "title": "Engineering Manager, Passport ",
+      "company": "anthropic",
+      "location": "San Francisco, CA | Seattle, WA",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5210629008",
+      "offices": [
+        "San Francisco, CA"
+      ]
+    },
+    {
+      "id": "5194894008",
+      "role": "Finance",
+      "title": "Finance & Strategy, GTM Public Sector",
+      "company": "anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5194894008",
+      "offices": [
+        "San Francisco, CA"
+      ]
+    },
+    {
+      "id": "5139423008",
+      "role": "Sales",
+      "title": "GTM Strategy & Operations, Enterprise Business Partner",
+      "company": "anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5139423008",
+      "offices": [
+        "San Francisco, CA"
+      ]
+    },
+    {
+      "id": "5209661008",
+      "role": "Legal",
+      "title": "Manager, Commercial Counsel, GTM",
+      "company": "anthropic",
+      "location": "San Francisco, CA",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5209661008",
+      "offices": [
+        "San Francisco, CA"
+      ]
+    },
+    {
+      "id": "5209865008",
+      "role": "Legal",
+      "title": "Policy Counsel, EMEA",
+      "company": "anthropic",
+      "location": "Dublin, IE; London, UK",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5209865008",
+      "offices": [
+        "London, UK"
+      ]
+    },
+    {
+      "id": "5210242008",
+      "role": "Legal",
+      "title": "Privacy Governance Lead",
+      "company": "anthropic",
+      "location": "Dublin, IE",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5210242008",
+      "offices": [
+        "Dublin, IE"
+      ]
+    },
+    {
+      "id": "5208278008",
+      "role": "Communications",
+      "title": "Research Operations, External Artifacts",
+      "company": "anthropic",
+      "location": "Remote-Friendly, United States",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5208278008",
+      "offices": [
+        "Remote-Friendly US (Travel Required)"
+      ]
+    },
+    {
+      "id": "5160757008",
+      "role": "Security",
+      "title": "Security Risk & Compliance, HIPAA",
+      "company": "anthropic",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5160757008",
+      "offices": [
+        "San Francisco, CA"
+      ]
+    },
+    {
+      "id": "5209776008",
+      "role": "Security",
+      "title": "Security Software Engineer, Platform Integration",
+      "company": "anthropic",
+      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5209776008",
+      "offices": [
+        "San Francisco, CA"
+      ]
+    },
+    {
+      "id": "5110511008",
+      "role": "Software Engineering - Infrastructure",
+      "title": "Staff+ Software Engineer, Developer Productivity",
+      "company": "anthropic",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5110511008",
+      "offices": [
+        "New York City, NY",
+        "San Francisco, CA"
+      ]
+    },
+    {
+      "id": "5174556008",
+      "role": "Engineering & Design - Product",
+      "title": "User Experience Researcher",
+      "company": "anthropic",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5174556008",
+      "offices": [
+        "New York City, NY",
+        "Remote-Friendly US (Travel Required)",
+        "San Francisco, CA",
+        "Seattle, WA"
+      ]
+    }
+  ],
+  "stripe": [
+    {
+      "id": "7532733",
+      "role": "1175 Enterprise - Account Executives (NA)",
+      "title": "Account Executive, AI Sales",
+      "company": "stripe",
+      "location": "San Francisco, CA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7532733",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7863685",
+      "role": "1651 Velocity - Account Executives (NA)",
+      "title": "Account Executive, Commercial (New Business)",
+      "company": "stripe",
+      "location": "Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7863685",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7664841",
+      "role": "1653 Startups - Account Executives (NA)",
+      "title": "Account Executive, Funded Startups - New Business",
+      "company": "stripe",
+      "location": "San Francisco, New York City ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7664841",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7746888",
+      "role": "1653 Startups - Account Executives (NA)",
+      "title": "Account Executive, Funded Startups - New Business ",
+      "company": "stripe",
+      "location": "San Francisco, New York City ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7746888",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7576967",
+      "role": "1652 Platforms - Account Executives (NA)",
+      "title": "Account Executive, Platforms (Existing Business)",
+      "company": "stripe",
+      "location": "US-SF-HQ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7576967",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7675661",
+      "role": "1640 Product Sales - Payments",
+      "title": "Account Executive, Product - Buy Now Pay Later",
+      "company": "stripe",
+      "location": "San francisco, NYC",
+      "link": "https://stripe.com/jobs/search?gh_jid=7675661",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7393169",
+      "role": "1644 Product Sales - Prime Billing",
+      "title": "Account Executive, Product Sales, Billing",
+      "company": "stripe",
+      "location": "South San Francisco, CA; New York, NY; Seattle, WA; Chicago, IL; Atlanta, GA; Washington DC",
+      "link": "https://stripe.com/jobs/search?gh_jid=7393169",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7728365",
+      "role": "1642 Product Sales - MaaS",
+      "title": "Account Executive, Product Sales - Capital",
+      "company": "stripe",
+      "location": "SF, NYC, SEA, CHI",
+      "link": "https://stripe.com/jobs/search?gh_jid=7728365",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7782969",
+      "role": "1642 Product Sales - MaaS",
+      "title": "Account Executive, Product Sales - Payouts",
+      "company": "stripe",
+      "location": "SF, NYC",
+      "link": "https://stripe.com/jobs/search?gh_jid=7782969",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7866501",
+      "role": "1651 Velocity - Account Executives (NA)",
+      "title": "Account Executive, SMB (Grower)",
+      "company": "stripe",
+      "location": "Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7866501",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7277406",
+      "role": "1651 Velocity - Account Executives (NA)",
+      "title": "Account Executive, SMB (New Business)",
+      "company": "stripe",
+      "location": "Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7277406",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7891716",
+      "role": "1652 Platforms - Account Executives (NA)",
+      "title": "Account Executive, Velocity Platform (Grower)",
+      "company": "stripe",
+      "location": "Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7891716",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7891728",
+      "role": "1652 Platforms - Account Executives (NA)",
+      "title": "Account Executive, Velocity Platforms (Grower)",
+      "company": "stripe",
+      "location": "San Francisco",
+      "link": "https://stripe.com/jobs/search?gh_jid=7891728",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7875540",
+      "role": "6420 Accounting",
+      "title": "Accounting Technical Solutions Lead",
+      "company": "stripe",
+      "location": "Seattle, San Francisco, New York ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7875540",
+      "offices": [
+        "US-NYC",
+        "US-Seattle",
+        "US-SF-HQ"
+      ]
+    },
+    {
+      "id": "7434713",
+      "role": "6220 Executive Operations",
+      "title": "Administrative Coordinator",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7434713",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7844214",
+      "role": "2314 Performance Marketing",
+      "title": "AEO/GEO Marketing Manager",
+      "company": "stripe",
+      "location": "United States",
+      "link": "https://stripe.com/jobs/search?gh_jid=7844214",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7286376",
+      "role": "8511 PayIntel - Eng",
+      "title": "AI/ML Engineering Manager, Payment Intelligence",
+      "company": "stripe",
+      "location": "US-SF, US-NYC, US-SEA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7286376",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7863844",
+      "role": "1342 Payment Performance",
+      "title": "Analytics Engineer",
+      "company": "stripe",
+      "location": "Seattle, WA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7863844",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7543559",
+      "role": "8512 Terminal - Eng",
+      "title": "Android Engineer, Terminal",
+      "company": "stripe",
+      "location": "Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=7543559",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7550154",
+      "role": "8512 Terminal - Eng",
+      "title": "Android Engineer, Terminal Developer Productivity",
+      "company": "stripe",
+      "location": "San Francisco, Seattle, Remote in US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7550154",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7778627",
+      "role": "8512 Terminal - Eng",
+      "title": "Android Engineer, Terminal Global Payments",
+      "company": "stripe",
+      "location": "San Francisco, CA, Seattle, WA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7778627",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7557403",
+      "role": "8512 Terminal - Eng",
+      "title": "Android Engineer, Terminal OS Platform",
+      "company": "stripe",
+      "location": "San Francisco, Seattle",
+      "link": "https://stripe.com/jobs/search?gh_jid=7557403",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7695357",
+      "role": "3311 FinCRO",
+      "title": "Audit & Regulatory Management Lead, Regulatory Affairs",
+      "company": "stripe",
+      "location": "New York, San Francisco, US Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7695357",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7675097",
+      "role": "7312 CorpTech Customer Success",
+      "title": "AV Builds and Operations",
+      "company": "stripe",
+      "location": "NYC",
+      "link": "https://stripe.com/jobs/search?gh_jid=7675097",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7737237",
+      "role": "9014 Metronome - R&D",
+      "title": "Backend / API Engineer, Billing",
+      "company": "stripe",
+      "location": "Toronto, Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=7737237",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "6176758",
+      "role": "8546 MMS Platform - Eng",
+      "title": "Backend/API Engineer, Money as a Service",
+      "company": "stripe",
+      "location": "US",
+      "link": "https://stripe.com/jobs/search?gh_jid=6176758",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7579264",
+      "role": "8613 Data Privacy",
+      "title": "Backend / API Engineer, Privacy Products",
+      "company": "stripe",
+      "location": "San Francisco, Seattle",
+      "link": "https://stripe.com/jobs/search?gh_jid=7579264",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7826765",
+      "role": "8614 Office of the CISO & Partnership",
+      "title": "Backend Engineer, AI Security",
+      "company": "stripe",
+      "location": "New York, San Francisco, Seattle, or Remote (US/Canada)",
+      "link": "https://stripe.com/jobs/search?gh_jid=7826765",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7217048",
+      "role": "8412 Billing Products",
+      "title": "Backend Engineer, Billing/Tax",
+      "company": "stripe",
+      "location": "N/A",
+      "link": "https://stripe.com/jobs/search?gh_jid=7217048",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "6567253",
+      "role": "8127 Core Infrastructure",
+      "title": "Backend Engineer, Core Tech, Canada",
+      "company": "stripe",
+      "location": "Toronto, CAN-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=6567253",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "6042172",
+      "role": "8127 Core Infrastructure",
+      "title": "Backend Engineer, Core Technology",
+      "company": "stripe",
+      "location": "US-Remote, Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=6042172",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "6865161",
+      "role": "8122 Data Foundations",
+      "title": "Backend Engineer, Data",
+      "company": "stripe",
+      "location": "Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=6865161",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7292520",
+      "role": "8551 OAP - Eng",
+      "title": "Backend Engineer, Developer Experience & Product Platform ",
+      "company": "stripe",
+      "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=7292520",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7476555",
+      "role": "8116 Developer Platform - Eng",
+      "title": "Backend Engineer, Developer Experience & Product Platform ",
+      "company": "stripe",
+      "location": "SEA, SF",
+      "link": "https://stripe.com/jobs/search?gh_jid=7476555",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7775622",
+      "role": "8813 Web Presence & Platform",
+      "title": "Backend Engineer, Expansion",
+      "company": "stripe",
+      "location": "N/A",
+      "link": "https://stripe.com/jobs/search?gh_jid=7775622",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7249744",
+      "role": "8412 Billing Products",
+      "title": "Backend Engineer, Forward Deployed Engineering",
+      "company": "stripe",
+      "location": "N/A",
+      "link": "https://stripe.com/jobs/search?gh_jid=7249744",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7232592",
+      "role": "8582 Optimized Checkout - Eng",
+      "title": "Backend Engineer, Payments and Risk",
+      "company": "stripe",
+      "location": "US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7232592",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "6163230",
+      "role": "8560 Bank Connections - Eng",
+      "title": "Backend Engineer, Payments and Risk",
+      "company": "stripe",
+      "location": "US",
+      "link": "https://stripe.com/jobs/search?gh_jid=6163230",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7235875",
+      "role": "9001 Privy - R&D",
+      "title": "Backend Engineer, Privy",
+      "company": "stripe",
+      "location": "NYC-Privy",
+      "link": "https://stripe.com/jobs/search?gh_jid=7235875",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7793636",
+      "role": "8113 Brand Studio",
+      "title": "Brand Designer, Creative Labs",
+      "company": "stripe",
+      "location": "NYC",
+      "link": "https://stripe.com/jobs/search?gh_jid=7793636",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7721132",
+      "role": "9001 Privy - R&D",
+      "title": "Brand Designer, Privy",
+      "company": "stripe",
+      "location": "NYC-Privy",
+      "link": "https://stripe.com/jobs/search?gh_jid=7721132",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7868790",
+      "role": "2324 Brand Marketing",
+      "title": "Brand partnerships & strategy lead",
+      "company": "stripe",
+      "location": "NYC",
+      "link": "https://stripe.com/jobs/search?gh_jid=7868790",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7862775",
+      "role": "4899 SDC - Bridge RiskOps",
+      "title": "Bridge - Operations Associate, Financial Crimes (AML Investigations)",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7862775",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7524334",
+      "role": "1650 AI GTM Strategy & Solutions",
+      "title": "Business Development Manager, Agentic Commerce",
+      "company": "stripe",
+      "location": "San Francisco, CA; Seattle, WA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7524334",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7551322",
+      "role": "6410 Treasury Finance",
+      "title": "Capital & Liquidity Risk Lead",
+      "company": "stripe",
+      "location": "New York",
+      "link": "https://stripe.com/jobs/search?gh_jid=7551322",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7682459",
+      "role": "1630 Alliances & Channels",
+      "title": "Chief of Staff, Alliances Channels and Industries",
+      "company": "stripe",
+      "location": "SF, NYC, Seattle, CHI",
+      "link": "https://stripe.com/jobs/search?gh_jid=7682459",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7572925",
+      "role": "8505 Bridge - G&A",
+      "title": "Chief Operating Officer (COO) & Deputy Trust Officer, Bridge",
+      "company": "stripe",
+      "location": "San Francisco, New York, Seattle",
+      "link": "https://stripe.com/jobs/search?gh_jid=7572925",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7867389",
+      "role": "8614 Office of the CISO & Partnership",
+      "title": "Cloud Security Engineer",
+      "company": "stripe",
+      "location": "Seattle",
+      "link": "https://stripe.com/jobs/search?gh_jid=7867389",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7815794",
+      "role": "8526 Product Experience Operations",
+      "title": "Collections Program Manager",
+      "company": "stripe",
+      "location": "US-NYC",
+      "link": "https://stripe.com/jobs/search?gh_jid=7815794",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7398150",
+      "role": "4432 SDC - Product Experience Operations",
+      "title": "Collections Specialist",
+      "company": "stripe",
+      "location": "Mexico",
+      "link": "https://stripe.com/jobs/search?gh_jid=7398150",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7589402",
+      "role": "6320 Commercial Legal",
+      "title": "Commercial Counsel",
+      "company": "stripe",
+      "location": "United States",
+      "link": "https://stripe.com/jobs/search?gh_jid=7589402",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7392188",
+      "role": "6320 Commercial Legal",
+      "title": "Commercial Counsel, Crypto",
+      "company": "stripe",
+      "location": "New York City, Seattle, San Francisco, Chicago, Atlanta, US-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7392188",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7564387",
+      "role": "6531 Compensation",
+      "title": "Compensation Analyst",
+      "company": "stripe",
+      "location": "US-Remote, Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=7564387",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7859849",
+      "role": "6531 Compensation",
+      "title": "Compensation Business Partner, Core",
+      "company": "stripe",
+      "location": "US-Remote (35 miles+ outside an office)",
+      "link": "https://stripe.com/jobs/search?gh_jid=7859849",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7808044",
+      "role": "6531 Compensation",
+      "title": "Compensation Design & Programs Manager",
+      "company": "stripe",
+      "location": "South San Francisco HQ, NYC, Toronto, Seattle, Chicago, Atlanta, US-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7808044",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7733301",
+      "role": "4199 Consumer Operations - SDC",
+      "title": "Consumer Operations Associate",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7733301",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7364062",
+      "role": "2317 Marketing - PMM",
+      "title": "Content Activation Lead",
+      "company": "stripe",
+      "location": "US ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7364062",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7618067",
+      "role": "6420 Accounting",
+      "title": "Corporate Accountant",
+      "company": "stripe",
+      "location": "San Francisco, Seattle ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7618067",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7827403",
+      "role": "2413 Communications",
+      "title": "Corporate Communications",
+      "company": "stripe",
+      "location": "DC, SF, NYC",
+      "link": "https://stripe.com/jobs/search?gh_jid=7827403",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7804276",
+      "role": "2318 Corp Events",
+      "title": "Corporate Events Manager, Expo",
+      "company": "stripe",
+      "location": "Remote in United States",
+      "link": "https://stripe.com/jobs/search?gh_jid=7804276",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7736482",
+      "role": "7313 CorpTech Corporate Engineering",
+      "title": "Corporate Network Engineering Manager",
+      "company": "stripe",
+      "location": "US Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7736482",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7722938",
+      "role": "4890 Credit Operations",
+      "title": "Credit Operations Analyst, Risk Operations",
+      "company": "stripe",
+      "location": "Chicago, Toronto, Atlanta",
+      "link": "https://stripe.com/jobs/search?gh_jid=7722938",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7612192",
+      "role": "3130 Risk & Reward",
+      "title": "Credit Risk Analyst, North American Underwriter",
+      "company": "stripe",
+      "location": "Toronto, Remote-Canada ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7612192",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7456167",
+      "role": "4168 SDC - Credit Operations",
+      "title": "Credit Risk Operations Associate (CDMX)",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7456167",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7550951",
+      "role": "3130 Risk & Reward",
+      "title": "Credit Risk Strategist, Risk Foundations",
+      "company": "stripe",
+      "location": "Chicago, US-Remote, Toronto ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7550951",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7774312",
+      "role": "6420 Accounting",
+      "title": "Crypto Product Accountant",
+      "company": "stripe",
+      "location": "San Francisco, Seattle, New York",
+      "link": "https://stripe.com/jobs/search?gh_jid=7774312",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7868256",
+      "role": "1340 Customer Success Management",
+      "title": "Customer Success Manager",
+      "company": "stripe",
+      "location": "New York, NY ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7868256",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "6558993",
+      "role": "1340 Customer Success Management",
+      "title": "Customer Success Manager, Enterprise",
+      "company": "stripe",
+      "location": "Chicago, IL ",
+      "link": "https://stripe.com/jobs/search?gh_jid=6558993",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7559141",
+      "role": "1340 Customer Success Management",
+      "title": "Customer Success Manager, Key Accounts ",
+      "company": "stripe",
+      "location": "Atlanta, GA; Chicago, IL ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7559141",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "5416444",
+      "role": "7112 Data Science",
+      "title": "Data Analyst",
+      "company": "stripe",
+      "location": "Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=5416444",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "6282403",
+      "role": "4138 SDC - Tech Ops",
+      "title": "Data Analyst",
+      "company": "stripe",
+      "location": "Mexico City ",
+      "link": "https://stripe.com/jobs/search?gh_jid=6282403",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7440960",
+      "role": "1342 Payment Performance",
+      "title": "Data Analyst, Payments Performance",
+      "company": "stripe",
+      "location": "Seattle, WA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7440960",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "5922987",
+      "role": "1510 GTM Business Operations",
+      "title": "Data Governance Lead",
+      "company": "stripe",
+      "location": "Remote US",
+      "link": "https://stripe.com/jobs/search?gh_jid=5922987",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7644403",
+      "role": "7112 Data Science",
+      "title": "Data Science Manager",
+      "company": "stripe",
+      "location": "Seattle, WA OR New York, NY OR Remote North America",
+      "link": "https://stripe.com/jobs/search?gh_jid=7644403",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7440963",
+      "role": "7112 Data Science",
+      "title": "Data Science Manager, Growth",
+      "company": "stripe",
+      "location": "Seattle, WA OR New York, NY OR Remote North America",
+      "link": "https://stripe.com/jobs/search?gh_jid=7440963",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "5895430",
+      "role": "7112 Data Science",
+      "title": "Data Scientist",
+      "company": "stripe",
+      "location": "Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=5895430",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "5601879",
+      "role": "7112 Data Science",
+      "title": "Data Scientist",
+      "company": "stripe",
+      "location": "N/A",
+      "link": "https://stripe.com/jobs/search?gh_jid=5601879",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7809414",
+      "role": "PERM",
+      "title": "Data Scientist",
+      "company": "stripe",
+      "location": "Seattle, WA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7809414",
+      "offices": [
+        "US-PERM"
+      ]
+    },
+    {
+      "id": "7685049",
+      "role": "6444 Deal Pricing",
+      "title": "Deal Pricing",
+      "company": "stripe",
+      "location": "US-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7685049",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7144975",
+      "role": "8813 Web Presence & Platform",
+      "title": "Design Engineer, Presence",
+      "company": "stripe",
+      "location": "US, Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=7144975",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7241636",
+      "role": "8813 Web Presence & Platform",
+      "title": "Design Manager, Web Presence",
+      "company": "stripe",
+      "location": "US / Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=7241636",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7868564",
+      "role": "8810 Design",
+      "title": "Design Program Manager, AI",
+      "company": "stripe",
+      "location": "US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7868564",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7175216",
+      "role": "6516 Employee Relations",
+      "title": "Employee Relations Partner",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7175216",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7657999",
+      "role": "8116 Developer Platform - Eng",
+      "title": "Engineering Manager, Agent Experience",
+      "company": "stripe",
+      "location": "CA-Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=7657999",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7334661",
+      "role": "8510 Agentic Commerce",
+      "title": "Engineering Manager, Agentic Commerce",
+      "company": "stripe",
+      "location": "New York, NY",
+      "link": "https://stripe.com/jobs/search?gh_jid=7334661",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7762324",
+      "role": "8546 MMS Platform - Eng",
+      "title": "Engineering Manager, Connect",
+      "company": "stripe",
+      "location": "Seattle",
+      "link": "https://stripe.com/jobs/search?gh_jid=7762324",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7802210",
+      "role": "8133 Marketing Systems",
+      "title": "Engineering Manager, Contracting Platform ",
+      "company": "stripe",
+      "location": "N/A",
+      "link": "https://stripe.com/jobs/search?gh_jid=7802210",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7762570",
+      "role": "8126 Developer Infrastructure",
+      "title": "Engineering Manager, Core Events",
+      "company": "stripe",
+      "location": "Seattle",
+      "link": "https://stripe.com/jobs/search?gh_jid=7762570",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7813496",
+      "role": "8582 Optimized Checkout - Eng",
+      "title": "Engineering Manager, Cost Optimization",
+      "company": "stripe",
+      "location": "SEA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7813496",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7688358",
+      "role": "8122 Data Foundations",
+      "title": "Engineering Manager, Data Transformation",
+      "company": "stripe",
+      "location": "N/A",
+      "link": "https://stripe.com/jobs/search?gh_jid=7688358",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7736943",
+      "role": "8126 Developer Infrastructure",
+      "title": "Engineering Manager, Developer Productivity AI",
+      "company": "stripe",
+      "location": "US-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7736943",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7657997",
+      "role": "8126 Developer Infrastructure",
+      "title": "Engineering Manager, HADR",
+      "company": "stripe",
+      "location": "US Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7657997",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7867868",
+      "role": "8511 PayIntel - Eng",
+      "title": "Engineering Manager, Managed Payments",
+      "company": "stripe",
+      "location": "US-NYC",
+      "link": "https://stripe.com/jobs/search?gh_jid=7867868",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7663636",
+      "role": "8582 Optimized Checkout - Eng",
+      "title": "Engineering Manager, Payments API",
+      "company": "stripe",
+      "location": "New York, NY",
+      "link": "https://stripe.com/jobs/search?gh_jid=7663636",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7729216",
+      "role": "9001 Privy - R&D",
+      "title": "Engineering Manager, Privy",
+      "company": "stripe",
+      "location": "NYC-Privy",
+      "link": "https://stripe.com/jobs/search?gh_jid=7729216",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7747178",
+      "role": "8914 Core Tech Technical Program Management",
+      "title": "Engineering Program Manager, Infrastructure",
+      "company": "stripe",
+      "location": "Remote in the US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7747178",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7739260",
+      "role": "8135 Compliance",
+      "title": "Engineering Program Manager, Tech GRC",
+      "company": "stripe",
+      "location": "SFO, US Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7739260",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7375100",
+      "role": "1170 GEO Sales HQ (NA)",
+      "title": "Enterprise Platforms Sales Manager (Existing Business)",
+      "company": "stripe",
+      "location": "US-SF",
+      "link": "https://stripe.com/jobs/search?gh_jid=7375100",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7742552",
+      "role": "4401 Merchant Acquiring Bank - Legal",
+      "title": "Enterprise Risk Management Lead",
+      "company": "stripe",
+      "location": "Atlanta, GA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7742552",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7859196",
+      "role": "1170 GEO Sales HQ (NA)",
+      "title": "Enterprise Sales Manager (Key Accounts)",
+      "company": "stripe",
+      "location": "Remote, US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7859196",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7779497",
+      "role": "1150 Solutions Architecture",
+      "title": "Enterprise Solutions Architecture Manager, AMER",
+      "company": "stripe",
+      "location": "US-San Francisco",
+      "link": "https://stripe.com/jobs/search?gh_jid=7779497",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7787598",
+      "role": "2325 Exec Marketing",
+      "title": "Executive Briefing Manager",
+      "company": "stripe",
+      "location": "South San Francisco",
+      "link": "https://stripe.com/jobs/search?gh_jid=7787598",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7463755",
+      "role": "6443 GTM F&S",
+      "title": "Finance and Strategy Partner",
+      "company": "stripe",
+      "location": "Chicago, San Francisco, Seattle, New York City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7463755",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7576878",
+      "role": "6443 GTM F&S",
+      "title": "Finance & Strategy Analyst",
+      "company": "stripe",
+      "location": "San Francisco, New York City, Seattle",
+      "link": "https://stripe.com/jobs/search?gh_jid=7576878",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7812163",
+      "role": "PERM",
+      "title": "Finance & Strategy Partner",
+      "company": "stripe",
+      "location": "New York, NY",
+      "link": "https://stripe.com/jobs/search?gh_jid=7812163",
+      "offices": [
+        "US-PERM"
+      ]
+    },
+    {
+      "id": "7747640",
+      "role": "2315 Marketing - Marketing Operations",
+      "title": "Forward Deployed AI Accelerator, Marketing",
+      "company": "stripe",
+      "location": "United States",
+      "link": "https://stripe.com/jobs/search?gh_jid=7747640",
+      "offices": [
+        "US-Seattle"
+      ]
+    },
+    {
+      "id": "7747638",
+      "role": "2315 Marketing - Marketing Operations",
+      "title": "Forward Deployed AI Accelerator, Marketing",
+      "company": "stripe",
+      "location": "United States",
+      "link": "https://stripe.com/jobs/search?gh_jid=7747638",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7230452",
+      "role": "9001 Privy - R&D",
+      "title": "Forward Deployed Engineer, Privy",
+      "company": "stripe",
+      "location": "New York Privy HQ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7230452",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7671038",
+      "role": "1141 AMER Delivery",
+      "title": "Forward Deployed Engineer, Professional Services",
+      "company": "stripe",
+      "location": "United States",
+      "link": "https://stripe.com/jobs/search?gh_jid=7671038",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7651078",
+      "role": "4378 SDC - Fraud Operations",
+      "title": "Fraud Operations Associate SDC",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7651078",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7685460",
+      "role": "4378 SDC - Fraud Operations",
+      "title": "Fraud Operations Team Lead",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7685460",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7644950",
+      "role": "8813 Web Presence & Platform",
+      "title": "Frontend Engineer, Expansion",
+      "company": "stripe",
+      "location": "N/A",
+      "link": "https://stripe.com/jobs/search?gh_jid=7644950",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7656562",
+      "role": "9001 Privy - R&D",
+      "title": "Frontend Engineer, Privy",
+      "company": "stripe",
+      "location": "NYC-Privy",
+      "link": "https://stripe.com/jobs/search?gh_jid=7656562",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7737239",
+      "role": "9014 Metronome - R&D",
+      "title": " Full Stack Engineer, Billing",
+      "company": "stripe",
+      "location": "Toronto, Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=7737239",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "6567104",
+      "role": "8916 Growth - Eng",
+      "title": "Full Stack Engineer, Developer Experience & Product Platform",
+      "company": "stripe",
+      "location": "N/A",
+      "link": "https://stripe.com/jobs/search?gh_jid=6567104",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7403151",
+      "role": "8712 Enterprise Engine",
+      "title": "Full Stack Engineer, Ecosystem",
+      "company": "stripe",
+      "location": "Toronto, Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=7403151",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "6447175",
+      "role": "8560 Bank Connections - Eng",
+      "title": "Full Stack Engineer, Link",
+      "company": "stripe",
+      "location": "Toronto, Remote in Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=6447175",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "6606581",
+      "role": "8514 Connect - Eng",
+      "title": "Full Stack Engineer, Money as a Service",
+      "company": "stripe",
+      "location": "N/A",
+      "link": "https://stripe.com/jobs/search?gh_jid=6606581",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7091959",
+      "role": "9001 Privy - R&D",
+      "title": "Fullstack Engineer, Privy",
+      "company": "stripe",
+      "location": "NYC-Privy, US-Remote ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7091959",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7436086",
+      "role": "8813 Web Presence & Platform",
+      "title": "Full Stack Engineer, Web Presence and Platform",
+      "company": "stripe",
+      "location": "N/A",
+      "link": "https://stripe.com/jobs/search?gh_jid=7436086",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7523947",
+      "role": "1150 Solutions Architecture",
+      "title": "Global Head of Specialist Solutions Architecture, Revenue",
+      "company": "stripe",
+      "location": "SF",
+      "link": "https://stripe.com/jobs/search?gh_jid=7523947",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7819587",
+      "role": "2316 Marketing - Partner",
+      "title": "Global Partner Marketing Lead, AI",
+      "company": "stripe",
+      "location": "South San Francisco HQ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7819587",
+      "offices": [
+        "US-SF-HQ"
+      ]
+    },
+    {
+      "id": "7312491",
+      "role": "2314 Performance Marketing",
+      "title": "Growth Marketing Manager, Lifecycle",
+      "company": "stripe",
+      "location": "United States",
+      "link": "https://stripe.com/jobs/search?gh_jid=7312491",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7809072",
+      "role": "2317 Marketing - PMM",
+      "title": "GTM Product Marketing Manager, Money as a Service (MaaS)",
+      "company": "stripe",
+      "location": "United States",
+      "link": "https://stripe.com/jobs/search?gh_jid=7809072",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7739361",
+      "role": "6443 GTM F&S",
+      "title": "Head of Central GTM Finance & Strategy ",
+      "company": "stripe",
+      "location": "San Francisco, Seattle, New York City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7739361",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7736640",
+      "role": "6453 MaaS F&S",
+      "title": "Head of Connect & Crypto, Finance & Strategy",
+      "company": "stripe",
+      "location": "San Francisco, Seattle, New York City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7736640",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7813067",
+      "role": "3511 Financial Services Partnerships",
+      "title": "Head of Global Network Partnerships",
+      "company": "stripe",
+      "location": "US-NYC; US-San Francisco; US-Seattle; US-Remote; US-Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7813067",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7375436",
+      "role": "1170 GEO Sales HQ (NA)",
+      "title": "Head of Industry Pursuits, Enterprise Platforms (New Business)",
+      "company": "stripe",
+      "location": "San Francisco, CA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7375436",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7583815",
+      "role": "2323 Campaigns and Strategy",
+      "title": "Head of Integrated Campaigns, Startups & AI",
+      "company": "stripe",
+      "location": "San Francisco, New York",
+      "link": "https://stripe.com/jobs/search?gh_jid=7583815",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7826843",
+      "role": "1170 GEO Sales HQ (NA)",
+      "title": "Head of Revenue and Growth, Canada",
+      "company": "stripe",
+      "location": "Toronto, Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=7826843",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7813129",
+      "role": "1170 GEO Sales HQ (NA)",
+      "title": "Head of Sales - Large Enterprise, Growth",
+      "company": "stripe",
+      "location": "New York City, NY",
+      "link": "https://stripe.com/jobs/search?gh_jid=7813129",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7730667",
+      "role": "3131 Risk Supportability Strategy",
+      "title": "Head of User Risk Strategy",
+      "company": "stripe",
+      "location": "US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7730667",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7765976",
+      "role": "6513 People Systems & Solutions",
+      "title": "HRIS Lead",
+      "company": "stripe",
+      "location": "Canada, US-Remote, Chicago, Atlanta",
+      "link": "https://stripe.com/jobs/search?gh_jid=7765976",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7862528",
+      "role": "1135 Accelerate",
+      "title": "Implementation Consultant",
+      "company": "stripe",
+      "location": "San Francisco",
+      "link": "https://stripe.com/jobs/search?gh_jid=7862528",
+      "offices": [
+        "US-SF-HQ"
+      ]
+    },
+    {
+      "id": "7462961",
+      "role": "9001 Privy - R&D",
+      "title": "Infrastructure Engineer, Privy",
+      "company": "stripe",
+      "location": "New York",
+      "link": "https://stripe.com/jobs/search?gh_jid=7462961",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7587812",
+      "role": "2323 Campaigns and Strategy",
+      "title": "Integrated Campaigns Manager, Startups & AI",
+      "company": "stripe",
+      "location": "San Francisco, New York, Seattle, Chicago, Remote in the US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7587812",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7819426",
+      "role": "1141 AMER Delivery",
+      "title": "Integration Engineer (US) ",
+      "company": "stripe",
+      "location": "LOCATION",
+      "link": "https://stripe.com/jobs/search?gh_jid=7819426",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7569605",
+      "role": "6480 Internal Audit",
+      "title": "Internal Audit Lead, Merchant Acquirer Limited Purpose Bank (MALPB)",
+      "company": "stripe",
+      "location": "Atlanta; New York",
+      "link": "https://stripe.com/jobs/search?gh_jid=7569605",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7896151",
+      "role": "8127 Core Infrastructure",
+      "title": "Internal Product Engineer, DevProd AI",
+      "company": "stripe",
+      "location": "Toronto, Canada ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7896151",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7733233",
+      "role": "7312 CorpTech Customer Success",
+      "title": "IT Support Engineer",
+      "company": "stripe",
+      "location": "Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=7733233",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7733216",
+      "role": "7312 CorpTech Customer Success",
+      "title": "IT Support Engineer",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7733216",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7773831",
+      "role": "6540 Talent Development",
+      "title": "Learning Architect",
+      "company": "stripe",
+      "location": "SF or NYC",
+      "link": "https://stripe.com/jobs/search?gh_jid=7773831",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7811935",
+      "role": "3132 Risk Strategy",
+      "title": "MaaS User Oversight Risk Strategist",
+      "company": "stripe",
+      "location": "Chicago, US-Remote, SEA, NYC, SF ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7811935",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7079044",
+      "role": "7112 Data Science",
+      "title": "Machine Learning Engineer, Payments ML Accelerator",
+      "company": "stripe",
+      "location": "Seattle; San Francisco; New York City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7079044",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7629052",
+      "role": "8212 ML Foundations",
+      "title": "Machine Learning Engineer, Stripe Assistant ",
+      "company": "stripe",
+      "location": "Seattle; San Francisco; New York City; Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7629052",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7384709",
+      "role": "8217 Risk Engineering",
+      "title": "Machine Learning Engineer, Supportability",
+      "company": "stripe",
+      "location": "Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=7384709",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7813942",
+      "role": "4145 Support Products - Eng",
+      "title": "Machine Learning Engineer, Support Experience",
+      "company": "stripe",
+      "location": "Toronto, Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=7813942",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7871904",
+      "role": "4128 SDC - Product Support",
+      "title": "Manager, Community Operations",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7871904",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "6785098",
+      "role": "3313 SDC - Financial Crimes",
+      "title": "Manager, Financial Crimes (AML)",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=6785098",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7456177",
+      "role": "4128 SDC - Product Support",
+      "title": "Manager, Product Support Operations - Enterprise",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7456177",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7253148",
+      "role": "2315 Marketing - Marketing Operations",
+      "title": "Marketing Operations Manager, Americas",
+      "company": "stripe",
+      "location": "Seattle, WA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7253148",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7639823",
+      "role": "2315 Marketing - Marketing Operations",
+      "title": "Marketing Operations Program Manager",
+      "company": "stripe",
+      "location": "US- Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7639823",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7644883",
+      "role": "2317 Marketing - PMM",
+      "title": "Market Intelligence Program Manager ",
+      "company": "stripe",
+      "location": "United States",
+      "link": "https://stripe.com/jobs/search?gh_jid=7644883",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7804290",
+      "role": "2311 Marketing - AMER",
+      "title": "Mid-Market/Small Business Demand Gen Manager, Americas",
+      "company": "stripe",
+      "location": "Chicago, Seattle, US Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7804290",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7589897",
+      "role": "4119 Product Support",
+      "title": "Network Solution Lead",
+      "company": "stripe",
+      "location": "Chicago, Atlanta, San Francisco, Seattle, New York",
+      "link": "https://stripe.com/jobs/search?gh_jid=7589897",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7589978",
+      "role": "4119 Product Support",
+      "title": "Network Solution Specialist",
+      "company": "stripe",
+      "location": "Atlanta, Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7589978",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "5902523",
+      "role": "3313 SDC - Financial Crimes",
+      "title": "Operations Associate, Financial Crimes (AML Investigations)",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=5902523",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7202953",
+      "role": "3313 SDC - Financial Crimes",
+      "title": "Operations Associate, Financial Crimes EDD/PEP",
+      "company": "stripe",
+      "location": "Mexico City ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7202953",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7393071",
+      "role": "4712 SDC - Accelerate",
+      "title": "Operations Associate, GTM Onboarding Specialist",
+      "company": "stripe",
+      "location": "Mexico",
+      "link": "https://stripe.com/jobs/search?gh_jid=7393071",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7813141",
+      "role": "4128 SDC - Product Support",
+      "title": "Operations Associate - Product Support Operations (CDMX)",
+      "company": "stripe",
+      "location": "MX- Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7813141",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "6891805",
+      "role": "3313 SDC - Financial Crimes",
+      "title": "Operations Associate, Sanctions",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=6891805",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7576867",
+      "role": "3313 SDC - Financial Crimes",
+      "title": "Operations Manager, Enhanced Due Diligence",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7576867",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7812209",
+      "role": "PERM",
+      "title": "Operations Program Manager, Managed Operations",
+      "company": "stripe",
+      "location": "New York, NY",
+      "link": "https://stripe.com/jobs/search?gh_jid=7812209",
+      "offices": [
+        "US-PERM"
+      ]
+    },
+    {
+      "id": "7617049",
+      "role": "2314 Performance Marketing",
+      "title": "Paid Digital Marketing Manager",
+      "company": "stripe",
+      "location": "Remote-US/CA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7617049",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7249573",
+      "role": "3511 Financial Services Partnerships",
+      "title": "Partner Development Manager, Financial Partnership Capabilities ",
+      "company": "stripe",
+      "location": "US-Remote; US-Chicago; US-Atlanta; CA-Toronto; CA-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7249573",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7697675",
+      "role": "3511 Financial Services Partnerships",
+      "title": "Partner Development Manager, Global Networks",
+      "company": "stripe",
+      "location": "US-Remote; US-Chicago; US-Atlanta; Canada-Toronto; Canada-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7697675",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7697672",
+      "role": "3513 Core Product Partnerships",
+      "title": "Partner Development Manager, Strategic Partnerships",
+      "company": "stripe",
+      "location": "US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7697672",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7607761",
+      "role": "1160 Partner Solution Engineering",
+      "title": "Partner Solutions Architect - AWS",
+      "company": "stripe",
+      "location": "New York",
+      "link": "https://stripe.com/jobs/search?gh_jid=7607761",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7411434",
+      "role": "1160 Partner Solution Engineering",
+      "title": "Partner Solutions Architect - Consulting Partners",
+      "company": "stripe",
+      "location": "Chicago or Atlanta",
+      "link": "https://stripe.com/jobs/search?gh_jid=7411434",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7562148",
+      "role": "1342 Payment Performance",
+      "title": "Payments Performance Strategist, Network Cost ",
+      "company": "stripe",
+      "location": "San Francisco, CA; New York, NY; Chicago, IL; Seattle, WA; Atlanta, GA ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7562148",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7409686",
+      "role": "1342 Payment Performance",
+      "title": "Payments Performance Strategist, PINless Debit",
+      "company": "stripe",
+      "location": "Chicago, IL; Atlanta, GA; US-Remote; San Francisco, CA; New York; NY ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7409686",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7866374",
+      "role": "6515 People Specialists",
+      "title": "People Consultant",
+      "company": "stripe",
+      "location": "Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7866374",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7773621",
+      "role": "6515 People Specialists",
+      "title": "People Consultant",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7773621",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7466921",
+      "role": "6550 People Partners",
+      "title": "People Partner, GTM",
+      "company": "stripe",
+      "location": "San Francisco, Seattle, Chicago, NYC, Atlanta or Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=7466921",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7542823",
+      "role": "6550 People Partners",
+      "title": "People Partner, Technology",
+      "company": "stripe",
+      "location": "San Francisco, Seattle, NYC, Chicago, Atlanta or Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=7542823",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7594204",
+      "role": "6513 People Systems & Solutions",
+      "title": "People Process Optimization Specialist",
+      "company": "stripe",
+      "location": "USA Remote or office based",
+      "link": "https://stripe.com/jobs/search?gh_jid=7594204",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7874965",
+      "role": "5112 General University",
+      "title": "PhD Data Scientist, Intern",
+      "company": "stripe",
+      "location": "San Francisco, New York City, Seattle, Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "offices": [
+        "US-Chicago",
+        "US-NYC",
+        "US-Seattle",
+        "US-SF-HQ"
+      ]
+    },
+    {
+      "id": "7216664",
+      "role": "5112 General University",
+      "title": "PhD Machine Learning Engineer, Intern",
+      "company": "stripe",
+      "location": "San Francisco, New York City, Seattle",
+      "link": "https://stripe.com/jobs/search?gh_jid=7216664",
+      "offices": [
+        "US-NYC",
+        "US-Seattle",
+        "US-SF-HQ"
+      ]
+    },
+    {
+      "id": "7858811",
+      "role": "6447 Product Pricing",
+      "title": "Portfolio Pricing Strategist",
+      "company": "stripe",
+      "location": "US-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7858811",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7834218",
+      "role": "6311 Data Protection & Privacy",
+      "title": "Privacy Fellow",
+      "company": "stripe",
+      "location": "Seattle, WA; San Francisco, CA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7834218",
+      "offices": [
+        "US-SF-HQ"
+      ]
+    },
+    {
+      "id": "7775422",
+      "role": "8811 Product Design",
+      "title": "Product Designer, Crypto",
+      "company": "stripe",
+      "location": "Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=7775422",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7520327",
+      "role": "8811 Product Design",
+      "title": "Product Designer, Issuing",
+      "company": "stripe",
+      "location": "Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=7520327",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7663023",
+      "role": "8811 Product Design",
+      "title": "Product Designer, Stablecoin",
+      "company": "stripe",
+      "location": "Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=7663023",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7894884",
+      "role": "8811 Product Design",
+      "title": "Product Designer, Terminal",
+      "company": "stripe",
+      "location": "Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=7894884",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7655023",
+      "role": "8552 PayIntel - PM",
+      "title": "Product Lead, AI",
+      "company": "stripe",
+      "location": "San Francisco, Seattle, New York, Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7655023",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7561053",
+      "role": "8256 BaaS - PM",
+      "title": "Product Manager, Banking as a Service",
+      "company": "stripe",
+      "location": "Chicago / Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7561053",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7561551",
+      "role": "8121 Revenue Foundations",
+      "title": "Product Manager, Commerce Systems",
+      "company": "stripe",
+      "location": "SF, SEA, NYC, US - Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7561551",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7812346",
+      "role": "PERM",
+      "title": "Product Manager IC-02",
+      "company": "stripe",
+      "location": "San Francisco, CA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7812346",
+      "offices": [
+        "US-PERM"
+      ]
+    },
+    {
+      "id": "7392697",
+      "role": "8570 Consumer Network - Eng",
+      "title": "Product Manager, Link Consumer Product",
+      "company": "stripe",
+      "location": "SF, SEA, NY, Remote-US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7392697",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7176530",
+      "role": "8554 Payments Experiences - PM",
+      "title": "Product Manager, Payments",
+      "company": "stripe",
+      "location": "SF, NY, SEA, Remote-US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7176530",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7580706",
+      "role": "8256 BaaS - PM",
+      "title": "Product Manager, Payments Intelligence",
+      "company": "stripe",
+      "location": "US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7580706",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "6651889",
+      "role": "8915 Core Tech Product Management",
+      "title": "Product Manager, Stripe Infrastructure",
+      "company": "stripe",
+      "location": "Remote in the US",
+      "link": "https://stripe.com/jobs/search?gh_jid=6651889",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7397265",
+      "role": "8258 Terminal - PM",
+      "title": "Product Manager, Terminal Device Expansion",
+      "company": "stripe",
+      "location": "Seattle, San Francisco, New York",
+      "link": "https://stripe.com/jobs/search?gh_jid=7397265",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "6683456",
+      "role": "Terminal - PM (Planning Group)",
+      "title": "Product Manager, Terminal - Unified Commerce",
+      "company": "stripe",
+      "location": "Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=6683456",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7773463",
+      "role": "2317 Marketing - PMM",
+      "title": "Product Marketing Lead, Fraud and Risk",
+      "company": "stripe",
+      "location": "US / Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=7773463",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7773461",
+      "role": "2317 Marketing - PMM",
+      "title": "Product Marketing Lead, Stripe Tax and Data",
+      "company": "stripe",
+      "location": "US / Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=7773461",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "6348471",
+      "role": "2317 Marketing - PMM",
+      "title": "Product Marketing Manager",
+      "company": "stripe",
+      "location": "San Francisco, New York, Seattle, Chicago, Remote, Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=6348471",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7832098",
+      "role": "2317 Marketing - PMM",
+      "title": "Product Marketing Manager, Portfolio Pricing",
+      "company": "stripe",
+      "location": "United States",
+      "link": "https://stripe.com/jobs/search?gh_jid=7832098",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7812965",
+      "role": "2317 Marketing - PMM",
+      "title": "Product Marketing Manager, Pricing",
+      "company": "stripe",
+      "location": "SF, NYC, Seattle, US Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7812965",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7591150",
+      "role": "2317 Marketing - PMM",
+      "title": "Product Marketing Manager, Radar",
+      "company": "stripe",
+      "location": "US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7591150",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7421572",
+      "role": "2317 Marketing - PMM",
+      "title": "Product Marketing Manager, Stripe Billing",
+      "company": "stripe",
+      "location": "Remote US, Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=7421572",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7564364",
+      "role": "2317 Marketing - PMM",
+      "title": "Product Marketing, Velocity (Mid-market & SMB) Segment",
+      "company": "stripe",
+      "location": "Remote US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7564364",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7389837",
+      "role": "1640 Product Sales - Payments",
+      "title": "Product Sales Manager, Beachfront",
+      "company": "stripe",
+      "location": "SF, NYC",
+      "link": "https://stripe.com/jobs/search?gh_jid=7389837",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7678670",
+      "role": "8506 Bridge - S&O",
+      "title": "Product Support, Bridge ",
+      "company": "stripe",
+      "location": "San Francisco or New York",
+      "link": "https://stripe.com/jobs/search?gh_jid=7678670",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7572741",
+      "role": "4119 Product Support",
+      "title": "Product Support Specialist",
+      "company": "stripe",
+      "location": "Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7572741",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7604228",
+      "role": "4119 Product Support",
+      "title": "Product Support Specialist, Money Management",
+      "company": "stripe",
+      "location": "Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7604228",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7827182",
+      "role": "1141 AMER Delivery",
+      "title": "Professional Services Engagement Manager",
+      "company": "stripe",
+      "location": "US/Canada",
+      "link": "https://stripe.com/jobs/search?gh_jid=7827182",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7061338",
+      "role": "3510 CBO Admin",
+      "title": "Program Manager, Card Network Office (CNO) ",
+      "company": "stripe",
+      "location": "USA - San Francisco, Seattle, New York (office) or remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7061338",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7467934",
+      "role": "1340 Customer Success Management",
+      "title": "Program Manager, Enterprise Servicing ",
+      "company": "stripe",
+      "location": "U.S. ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7467934",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7656504",
+      "role": "1510 GTM Business Operations",
+      "title": "Program Manager, GTM Planning",
+      "company": "stripe",
+      "location": "US-Chicago, US-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7656504",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7569678",
+      "role": "6511 People Strategy & Enablement",
+      "title": "Program Manager, Intake & Portfolio Management",
+      "company": "stripe",
+      "location": "Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7569678",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7089901",
+      "role": "6510 People Operations",
+      "title": "Program Manager, People Operations Strategy",
+      "company": "stripe",
+      "location": "US-Remote, US-National, Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=7089901",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7214197",
+      "role": "4892 Risk Operations Enablement",
+      "title": "Program Manager, Risk Ops Enablement",
+      "company": "stripe",
+      "location": "US-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7214197",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7650177",
+      "role": "6425 Finance Operations",
+      "title": "Regulatory Reporting Program Manager, Stablecoin",
+      "company": "stripe",
+      "location": "SEA, SF",
+      "link": "https://stripe.com/jobs/search?gh_jid=7650177",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7767151",
+      "role": "8506 Bridge - S&O",
+      "title": "Reserve Operations Deputy",
+      "company": "stripe",
+      "location": "San Francisco or New York",
+      "link": "https://stripe.com/jobs/search?gh_jid=7767151",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7430296",
+      "role": "3313 SDC - Financial Crimes",
+      "title": "Risk Operations Analyst, Financial Crimes Programs",
+      "company": "stripe",
+      "location": "Remote, US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7430296",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7664549",
+      "role": "4129 SDC - User Policy Operations",
+      "title": "Risk Operations Associate (CDMX) - User Policy Operations",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7664549",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7815282",
+      "role": "4374 SDC - Partner Risk Operations",
+      "title": "Risk Operations Associate, Verifications (CDMX)",
+      "company": "stripe",
+      "location": "Mexico City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7815282",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7785828",
+      "role": "3511 Financial Services Partnerships",
+      "title": "Risk Partnerships Manager, Banks",
+      "company": "stripe",
+      "location": "US-Remote; US-Chicago; US-Atlanta; CA-Toronto; CA-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7785828",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7809397",
+      "role": "PERM",
+      "title": "Risk Strategist",
+      "company": "stripe",
+      "location": "San Francisco, CA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7809397",
+      "offices": [
+        "US-PERM"
+      ]
+    },
+    {
+      "id": "7874562",
+      "role": "3132 Risk Strategy",
+      "title": "Risk Strategist, Financial Crimes",
+      "company": "stripe",
+      "location": "US-Chicago, US-Atlanta, US-Remote; Canada-Toronto; Canada-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7874562",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7697973",
+      "role": "3133 Risk Onboarding Strategy",
+      "title": "Risk Strategist, Onboarding and Compliance",
+      "company": "stripe",
+      "location": "Chicago, US-Remote, Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=7697973",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7594866",
+      "role": "3131 Risk Supportability Strategy",
+      "title": "Risk Strategist, User Risk Strategy",
+      "company": "stripe",
+      "location": "Chicago, SEA, SF, NYC, US-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7594866",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7739207",
+      "role": "6452 Sales Comp",
+      "title": "Sales Compensation Analytics & Systems Specialist",
+      "company": "stripe",
+      "location": "CHI, SF, NYC",
+      "link": "https://stripe.com/jobs/search?gh_jid=7739207",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7359215",
+      "role": "1512 Global Sales Enablement",
+      "title": "Sales Enablement & Training Specialist",
+      "company": "stripe",
+      "location": "SF",
+      "link": "https://stripe.com/jobs/search?gh_jid=7359215",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7863336",
+      "role": "1150 Solutions Architecture",
+      "title": "Sales Engineer (Presales)",
+      "company": "stripe",
+      "location": "Chicago, IL",
+      "link": "https://stripe.com/jobs/search?gh_jid=7863336",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7306952",
+      "role": "1170 GEO Sales HQ (NA)",
+      "title": "Sales Manager, Commercial (Existing Business)",
+      "company": "stripe",
+      "location": "Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7306952",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7862532",
+      "role": "1170 GEO Sales HQ (NA)",
+      "title": "Sales Manager, Commercial (New Business)",
+      "company": "stripe",
+      "location": "Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7862532",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7883876",
+      "role": "1170 GEO Sales HQ (NA)",
+      "title": "Sales Manager, Platforms (Existing Business)",
+      "company": "stripe",
+      "location": "San Francisco, CA; New York, NY",
+      "link": "https://stripe.com/jobs/search?gh_jid=7883876",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7862536",
+      "role": "1170 GEO Sales HQ (NA)",
+      "title": "Sales Manager, SMB Account Executives (Existing Business)",
+      "company": "stripe",
+      "location": "Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7862536",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7736171",
+      "role": "9001 Privy - R&D",
+      "title": "SDK Engineer (React/React Native), Privy",
+      "company": "stripe",
+      "location": "NYC-Privy",
+      "link": "https://stripe.com/jobs/search?gh_jid=7736171",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7551324",
+      "role": "6410 Treasury Finance",
+      "title": "Senior Debt Capital Markets Specialist, Treasury-Finance",
+      "company": "stripe",
+      "location": "New York",
+      "link": "https://stripe.com/jobs/search?gh_jid=7551324",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7688069",
+      "role": "8811 Product Design",
+      "title": "Senior Staff Product Designer, Agentic Commerce",
+      "company": "stripe",
+      "location": "SF, Seattle, New York, Remote in the US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7688069",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7202630",
+      "role": "8811 Product Design",
+      "title": "Senior Staff Product Designer, Payments",
+      "company": "stripe",
+      "location": "SF, Seattle, New York, Remote in the US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7202630",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7409691",
+      "role": "8126 Developer Infrastructure",
+      "title": "Senior Staff Software Engineer,  Developer Infrastructure ",
+      "company": "stripe",
+      "location": "SEA, SF",
+      "link": "https://stripe.com/jobs/search?gh_jid=7409691",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7373865",
+      "role": "2413 Communications",
+      "title": "Short-form Video & Social, Community Comms",
+      "company": "stripe",
+      "location": "SF, NYC",
+      "link": "https://stripe.com/jobs/search?gh_jid=7373865",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "6898905",
+      "role": "4146 Community Ops - SDC",
+      "title": "Social Media Customer Support Associate ",
+      "company": "stripe",
+      "location": "Mexico",
+      "link": "https://stripe.com/jobs/search?gh_jid=6898905",
+      "offices": [
+        "Mexico Locations"
+      ]
+    },
+    {
+      "id": "7808471",
+      "role": "PERM",
+      "title": "Software Engineer",
+      "company": "stripe",
+      "location": "San Francisco, California",
+      "link": "https://stripe.com/jobs/search?gh_jid=7808471",
+      "offices": [
+        "US-PERM"
+      ]
+    },
+    {
+      "id": "7788088",
+      "role": "PERM",
+      "title": "Software Engineer",
+      "company": "stripe",
+      "location": "San Francisco",
+      "link": "https://stripe.com/jobs/search?gh_jid=7788088",
+      "offices": [
+        "US-PERM"
+      ]
+    },
+    {
+      "id": "7277110",
+      "role": "8504 Bridge - R&D",
+      "title": "Software Engineer, Bridge",
+      "company": "stripe",
+      "location": "San Francisco, NY, Seattle",
+      "link": "https://stripe.com/jobs/search?gh_jid=7277110",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7600792",
+      "role": "5113 Experimental Bets - Core Tech",
+      "title": "Software Engineer, Experimental Projects",
+      "company": "stripe",
+      "location": "LOCATION",
+      "link": "https://stripe.com/jobs/search?gh_jid=7600792",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7895344",
+      "role": "PERM",
+      "title": "Software Engineer IC-02",
+      "company": "stripe",
+      "location": "San Francisco, California ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7895344",
+      "offices": [
+        "US-PERM"
+      ]
+    },
+    {
+      "id": "7210115",
+      "role": "5112 General University",
+      "title": "Software Engineer, Intern (Summer)",
+      "company": "stripe",
+      "location": "San Francisco, Seattle, New York City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7210115",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7812279",
+      "role": "PERM",
+      "title": "Software Engineer L2",
+      "company": "stripe",
+      "location": "Seattle, WA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7812279",
+      "offices": [
+        "US-PERM"
+      ]
+    },
+    {
+      "id": "7376835",
+      "role": "8212 ML Foundations",
+      "title": "Software Engineer, Machine Learning Infrastructure",
+      "company": "stripe",
+      "location": "N/A",
+      "link": "https://stripe.com/jobs/search?gh_jid=7376835",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7761694",
+      "role": "8711 Experimental Bets - Product",
+      "title": "Software Engineer, Product Security Data Platforms",
+      "company": "stripe",
+      "location": "Seattle",
+      "link": "https://stripe.com/jobs/search?gh_jid=7761694",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7396679",
+      "role": "8612 Security Infrastructure",
+      "title": "Software Engineer, Secrets Infrastructure",
+      "company": "stripe",
+      "location": "na",
+      "link": "https://stripe.com/jobs/search?gh_jid=7396679",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7826761",
+      "role": "8611 Security Analytics",
+      "title": "Software Engineer, Security Analytics Infrastructure",
+      "company": "stripe",
+      "location": "N/A",
+      "link": "https://stripe.com/jobs/search?gh_jid=7826761",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7507904",
+      "role": "8504 Bridge - R&D",
+      "title": "Software Engineer - Smart Contract, Bridge",
+      "company": "stripe",
+      "location": "San Francisco or New York",
+      "link": "https://stripe.com/jobs/search?gh_jid=7507904",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7396509",
+      "role": "1150 Solutions Architecture",
+      "title": "Solutions Architect, Platforms",
+      "company": "stripe",
+      "location": "Chicago, IL or New York, NY",
+      "link": "https://stripe.com/jobs/search?gh_jid=7396509",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7361440",
+      "role": "1150 Solutions Architecture",
+      "title": "Solutions Architect, SMB",
+      "company": "stripe",
+      "location": "Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7361440",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7120766",
+      "role": "1150 Solutions Architecture",
+      "title": "Specialist Solutions Architect, Crypto & Stablecoins",
+      "company": "stripe",
+      "location": "US-NY",
+      "link": "https://stripe.com/jobs/search?gh_jid=7120766",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7380371",
+      "role": "1150 Solutions Architecture",
+      "title": "Specialist Solutions Architect, Money Management",
+      "company": "stripe",
+      "location": "NY, SF, Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7380371",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7377591",
+      "role": "1150 Solutions Architecture",
+      "title": "Specialist Solutions Architect, Payments",
+      "company": "stripe",
+      "location": "NY, SF, Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7377591",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7377593",
+      "role": "1150 Solutions Architecture",
+      "title": "Specialist Solutions Architect, Payments",
+      "company": "stripe",
+      "location": "Chicago",
+      "link": "https://stripe.com/jobs/search?gh_jid=7377593",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7365914",
+      "role": "1150 Solutions Architecture",
+      "title": "Specialist Solutions Architect, Radar (Fraud/Risk)",
+      "company": "stripe",
+      "location": "NY or SF",
+      "link": "https://stripe.com/jobs/search?gh_jid=7365914",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7867330",
+      "role": "2324 Brand Marketing",
+      "title": "Special Projects, Operations Manager",
+      "company": "stripe",
+      "location": "San Francisco ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7867330",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "6372750",
+      "role": "8412 Billing Products",
+      "title": "Sr Staff Engineer, Billing",
+      "company": "stripe",
+      "location": "SF, SEA",
+      "link": "https://stripe.com/jobs/search?gh_jid=6372750",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7801457",
+      "role": "7112 Data Science",
+      "title": "Staff Data Analyst",
+      "company": "stripe",
+      "location": "US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7801457",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7568328",
+      "role": "7112 Data Science",
+      "title": "Staff Data Scientist",
+      "company": "stripe",
+      "location": "N/A",
+      "link": "https://stripe.com/jobs/search?gh_jid=7568328",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7369269",
+      "role": "8514 Connect - Eng",
+      "title": "Staff Engineer, Account Engineering",
+      "company": "stripe",
+      "location": "NYC, SEA",
+      "link": "https://stripe.com/jobs/search?gh_jid=7369269",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7280343",
+      "role": "5113 Experimental Bets - Core Tech",
+      "title": "Staff Engineer, Experimental Projects",
+      "company": "stripe",
+      "location": "US-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7280343",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7416957",
+      "role": "8556 LPM Core - Eng",
+      "title": "Staff Engineer, Payments",
+      "company": "stripe",
+      "location": "Seattle",
+      "link": "https://stripe.com/jobs/search?gh_jid=7416957",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7600571",
+      "role": "8186 Service Platform",
+      "title": "Staff Engineer, Workflow Engine",
+      "company": "stripe",
+      "location": "Seattle, US-Remote, San Francisco",
+      "link": "https://stripe.com/jobs/search?gh_jid=7600571",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7536458",
+      "role": "8811 Product Design",
+      "title": "Staff Product Designer",
+      "company": "stripe",
+      "location": "US ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7536458",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7812856",
+      "role": "8712 Enterprise Engine",
+      "title": "Staff Product Manager, Enterprise (Industries) ",
+      "company": "stripe",
+      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7812856",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7819059",
+      "role": "8552 PayIntel - PM",
+      "title": "Staff Product Manager, Payments",
+      "company": "stripe",
+      "location": "SF, SEA, NYC, Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7819059",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7550590",
+      "role": "8566 Developer Platform - PM",
+      "title": "Staff Product Manager, Stripe Apps and Extensibility Platform",
+      "company": "stripe",
+      "location": "San Francisco, Seattle, NYC, Chicago, Toronto, US- Remote, Canada-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7550590",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7767063",
+      "role": "8127 Core Infrastructure",
+      "title": "Staff Software Engineer, Stream Compute",
+      "company": "stripe",
+      "location": "San Francisco, Seattle, New York, Toronto ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7767063",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7746721",
+      "role": "8414 MerchantXP - Eng",
+      "title": "Staff Software Engineer, Stripe Dashboard",
+      "company": "stripe",
+      "location": "Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=7746721",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7718488",
+      "role": "8121 Revenue Foundations",
+      "title": "Staff Software Engineer, Stripe Scale & Bundles",
+      "company": "stripe",
+      "location": "N/A",
+      "link": "https://stripe.com/jobs/search?gh_jid=7718488",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "5956528",
+      "role": "6490 BizOps and Compass",
+      "title": "Strategic Business Performance, Central Strategy & Operations",
+      "company": "stripe",
+      "location": "San Francisco, Seattle, Chicago, US-remote, New York",
+      "link": "https://stripe.com/jobs/search?gh_jid=5956528",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7577505",
+      "role": "6441 Corporate F&S",
+      "title": "Strategic Finance Partner",
+      "company": "stripe",
+      "location": "San Francisco",
+      "link": "https://stripe.com/jobs/search?gh_jid=7577505",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7822560",
+      "role": "4143 Support Programs, Process, and L&D",
+      "title": "Strategic Program Manager, Support",
+      "company": "stripe",
+      "location": "Remote, US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7822560",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7397878",
+      "role": "1520 Sales Operations (SS&O)",
+      "title": "Strategy & Operations Analyst, Customer Success",
+      "company": "stripe",
+      "location": "Chicago ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7397878",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7624667",
+      "role": "2413 Communications",
+      "title": "Stripe Communications (Open Application)",
+      "company": "stripe",
+      "location": "SF, NYC, LON",
+      "link": "https://stripe.com/jobs/search?gh_jid=7624667",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7863332",
+      "role": "6427 Procurement",
+      "title": "Supplier Deal Manager",
+      "company": "stripe",
+      "location": "SF, NYC, CHI, SEA, Remote US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7863332",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7751786",
+      "role": "6523 Recruiting Enablement",
+      "title": "Talent Brand Experience Manager",
+      "company": "stripe",
+      "location": "NYC, San Francisco, London, US-Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7751786",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "6458492",
+      "role": "4130 Technical Account Management, Support & Services - AMER",
+      "title": "Technical Account Manager",
+      "company": "stripe",
+      "location": "Atlanta, Chicago, New York City, San Francisco, Seattle, US Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=6458492",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7366283",
+      "role": "4149 Technical Account Management, Support & Services - S&S",
+      "title": "Technical Account Manager, Terminal",
+      "company": "stripe",
+      "location": "Remote, US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7366283",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7812348",
+      "role": "1512 Global Sales Enablement",
+      "title": "Technical Enablement Business Partner",
+      "company": "stripe",
+      "location": "US-NYC",
+      "link": "https://stripe.com/jobs/search?gh_jid=7812348",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7719602",
+      "role": "3515 Partner Engineering and Operations",
+      "title": "Technical Partner Manager, AMER Banks",
+      "company": "stripe",
+      "location": "US-Chicago, US-Remote; US-Atlanta",
+      "link": "https://stripe.com/jobs/search?gh_jid=7719602",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7543679",
+      "role": "3510 CBO Admin",
+      "title": "Technical Partner Manager - Networks",
+      "company": "stripe",
+      "location": "US-Remote; US-Chicago; US-Atlanta; Canada-Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=7543679",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7778643",
+      "role": "8414 MerchantXP - Eng",
+      "title": "Technical Program Manager,  Extensibility Programs",
+      "company": "stripe",
+      "location": "Remote in the US, Chicago, Atlanta",
+      "link": "https://stripe.com/jobs/search?gh_jid=7778643",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7749540",
+      "role": "8414 MerchantXP - Eng",
+      "title": "Technical Program Manager, Extensibility Programs",
+      "company": "stripe",
+      "location": "Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=7749540",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7417090",
+      "role": "8414 MerchantXP - Eng",
+      "title": "Technical Program Manager,  Identity and Access Management Programs",
+      "company": "stripe",
+      "location": "Remote in the US, Chicago, Atlanta",
+      "link": "https://stripe.com/jobs/search?gh_jid=7417090",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7680365",
+      "role": "7420 Finance Systems",
+      "title": "Technical Program Manager, Internal Systems",
+      "company": "stripe",
+      "location": "US Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7680365",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "6932491",
+      "role": "8512 Terminal - Eng",
+      "title": "Technical Program Manager, Payments Experiences",
+      "company": "stripe",
+      "location": "Chicago, Remote in the US",
+      "link": "https://stripe.com/jobs/search?gh_jid=6932491",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7685855",
+      "role": "8259 Risk Tech Program Management & Other",
+      "title": "Technical Program Manager, Risk",
+      "company": "stripe",
+      "location": "US Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7685855",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7812235",
+      "role": "PERM",
+      "title": "Tech-Operations",
+      "company": "stripe",
+      "location": "Chicago, IL",
+      "link": "https://stripe.com/jobs/search?gh_jid=7812235",
+      "offices": [
+        "US-PERM"
+      ]
+    },
+    {
+      "id": "7587393",
+      "role": "8506 Bridge - S&O",
+      "title": "Treasury and Reserve Management, Lead",
+      "company": "stripe",
+      "location": "San Francisco Or New York ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7587393",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7793069",
+      "role": "6410 Treasury Finance",
+      "title": "Treasury Finance AI and Quantitative Analytics",
+      "company": "stripe",
+      "location": "New York",
+      "link": "https://stripe.com/jobs/search?gh_jid=7793069",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7555681",
+      "role": "6410 Treasury Finance",
+      "title": "Treasury Finance Operations",
+      "company": "stripe",
+      "location": "Toronto",
+      "link": "https://stripe.com/jobs/search?gh_jid=7555681",
+      "offices": [
+        "Canada Locations"
+      ]
+    },
+    {
+      "id": "7587814",
+      "role": "2317 Marketing - PMM",
+      "title": "Writer, Content Marketing",
+      "company": "stripe",
+      "location": "Remote US",
+      "link": "https://stripe.com/jobs/search?gh_jid=7587814",
+      "offices": [
+        "US"
+      ]
+    }
+  ],
+  "doordash": [
+    {
+      "id": "7891795",
+      "role": "342 Logistics Engineering",
+      "title": "Director of Engineering, Logistics",
+      "company": "doordash",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "link": "https://job-boards.greenhouse.io/doordashusa/jobs/7891795",
+      "offices": [
+        "San Francisco"
+      ]
+    },
+    {
+      "id": "7516003",
+      "role": "341 Executive Engineering",
+      "title": "Engineering Manager, Search Quality",
+      "company": "doordash",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "link": "https://job-boards.greenhouse.io/doordashusa/jobs/7516003",
+      "offices": [
+        "San Francisco"
+      ]
+    },
+    {
+      "id": "7885121",
+      "role": "311 Autonomy",
+      "title": "Mechanical Engineer - Lighting & Audio Systems",
+      "company": "doordash",
+      "location": "Oakland, CA",
+      "link": "https://job-boards.greenhouse.io/doordashusa/jobs/7885121",
+      "offices": [
+        "Oakland"
+      ]
+    }
+  ],
+  "openai": [
+    {
+      "id": "631796f2-73af-4b94-9679-38204182e677",
+      "role": "Creative",
+      "title": "Art Director ",
+      "company": "openai",
+      "location": "Remote - US",
+      "link": "https://jobs.ashbyhq.com/openai/631796f2-73af-4b94-9679-38204182e677"
+    },
+    {
+      "id": "b75f6b5b-8a84-4796-9093-588cc9334c04",
+      "role": "Partnerships",
+      "title": "GTM Partnerships Enablement Lead",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/b75f6b5b-8a84-4796-9093-588cc9334c04"
+    },
+    {
+      "id": "107d13a4-4d88-4969-b97d-038b89c0c706",
+      "role": "Partnerships",
+      "title": "Partnerships Lead, Healthcare",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/107d13a4-4d88-4969-b97d-038b89c0c706"
+    },
+    {
+      "id": "e919ff2c-da0f-4ffd-bfd7-e8851cddc1d9",
+      "role": "Go To Market",
+      "title": "Private Equity Lead",
+      "company": "openai",
+      "location": "New York City",
+      "link": "https://jobs.ashbyhq.com/openai/e919ff2c-da0f-4ffd-bfd7-e8851cddc1d9"
+    },
+    {
+      "id": "884faf1b-32e5-4ed3-9355-2af496f603be",
+      "role": "Operations",
+      "title": "Product Lifecycle Manager",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/884faf1b-32e5-4ed3-9355-2af496f603be"
+    },
+    {
+      "id": "f6494cf8-efbc-4dbe-ae76-662088b4f32c",
+      "role": "Research",
+      "title": "Product Manager, Cyber Safety",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/f6494cf8-efbc-4dbe-ae76-662088b4f32c"
+    },
+    {
+      "id": "529feb11-4b9b-4baf-9b3f-f2b100156c5a",
+      "role": "Intelligence & Investigations",
+      "title": "Protection Scientist Engineer, Intelligence and Investigations ",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/529feb11-4b9b-4baf-9b3f-f2b100156c5a"
+    },
+    {
+      "id": "05bea751-62ab-43d9-a5bb-77f385920af0",
+      "role": "Growth",
+      "title": "Research Scientist, Learning & Cognitive Outcomes",
+      "company": "openai",
+      "location": "London, UK",
+      "link": "https://jobs.ashbyhq.com/openai/05bea751-62ab-43d9-a5bb-77f385920af0"
+    },
+    {
+      "id": "273a131c-1654-431b-af0e-a0378e515693",
+      "role": "Ads Solutions",
+      "title": "Revenue Operations Lead, Ads Solutions",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/273a131c-1654-431b-af0e-a0378e515693"
+    },
+    {
+      "id": "20f5484c-9821-44de-9a01-60da1cdcfe8f",
+      "role": "Consumer Products",
+      "title": "Service BI / Analytics Lead",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/20f5484c-9821-44de-9a01-60da1cdcfe8f"
+    },
+    {
+      "id": "2719a0cb-00c7-40dc-b237-ff013a454a20",
+      "role": "Finance",
+      "title": "Supplier Master Data Lead (P2P Systems, Controls & Automation)",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/2719a0cb-00c7-40dc-b237-ff013a454a20"
+    },
+    {
+      "id": "e14ba3e1-4151-498e-ba56-fce3e0dafbd3",
+      "role": "Recruiting",
+      "title": "Systems & Enablement Lead, Recruiting Operations",
+      "company": "openai",
+      "location": "Singapore",
+      "link": "https://jobs.ashbyhq.com/openai/e14ba3e1-4151-498e-ba56-fce3e0dafbd3"
+    }
+  ],
+  "snowflake": [
+    {
+      "id": "3dbe104f-8d7e-4694-918b-ad6ca5d24371",
+      "role": "Engineering",
+      "title": "Administrative Assistant",
+      "company": "snowflake",
+      "location": "DE-Berlin-Trion Building",
+      "link": "https://jobs.ashbyhq.com/snowflake/3dbe104f-8d7e-4694-918b-ad6ca5d24371"
+    },
+    {
+      "id": "217b1d27-815a-4ad1-b8b7-8fe52e57cd26",
+      "role": "Engineering",
+      "title": "AI Engineer - Cortex Code Quality",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/217b1d27-815a-4ad1-b8b7-8fe52e57cd26"
+    },
+    {
+      "id": "b8b30900-135e-4937-91b4-cec38d7901fd",
+      "role": "Engineering",
+      "title": "AI System Research and Development Engineer - Optimization",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/b8b30900-135e-4937-91b4-cec38d7901fd"
+    },
+    {
+      "id": "b241904d-7d42-41f0-9674-82e53d964846",
+      "role": "Data Analytics and AI",
+      "title": "Analyst, Finance Analytics & AI",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/b241904d-7d42-41f0-9674-82e53d964846"
+    },
+    {
+      "id": "fe119dd1-a243-4d43-ba0d-643876eb3ebf",
+      "role": "Data Analytics and AI",
+      "title": "Analyst/ Senior Analyst - Legal Analytics & AI ",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/fe119dd1-a243-4d43-ba0d-643876eb3ebf"
+    },
+    {
+      "id": "5f935ec0-5842-4c35-bd13-b38143551723",
+      "role": "Data Analytics and AI",
+      "title": "Analyst/ Senior Analyst, People Analytics",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/5f935ec0-5842-4c35-bd13-b38143551723"
+    },
+    {
+      "id": "6754de86-7485-4826-9aad-ef24cce405a9",
+      "role": "Engineering",
+      "title": "Anti-Abuse Senior Software Engineer, Product Security",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/6754de86-7485-4826-9aad-ef24cce405a9"
+    },
+    {
+      "id": "708992c7-67da-4f99-99f0-39ed70e360d4",
+      "role": "Engineering",
+      "title": "Backend Software Engineer - Native Apps",
+      "company": "snowflake",
+      "location": "CA-Ontario-Toronto",
+      "link": "https://jobs.ashbyhq.com/snowflake/708992c7-67da-4f99-99f0-39ed70e360d4"
+    },
+    {
+      "id": "72386951-2027-4f4e-a45f-99cafc0eae33",
+      "role": "Data Analytics and AI",
+      "title": "Data Architecture Lead",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/72386951-2027-4f4e-a45f-99cafc0eae33"
+    },
+    {
+      "id": "8904ed85-75d6-48cf-b01b-7941677fde4a",
+      "role": "Data Analytics and AI",
+      "title": "Data Engineer Intern - Pune (2026)",
+      "company": "snowflake",
+      "location": "IN-Pune",
+      "link": "https://jobs.ashbyhq.com/snowflake/8904ed85-75d6-48cf-b01b-7941677fde4a"
+    },
+    {
+      "id": "ff7fbdd3-98a7-4552-959f-bb4812b2dc8d",
+      "role": "Data Analytics and AI",
+      "title": "Director, Data Science \u2013 GTM (Data, Analytics & AI)",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/ff7fbdd3-98a7-4552-959f-bb4812b2dc8d"
+    },
+    {
+      "id": "9fc4661b-31df-42f0-a0c6-2bf1465d90be",
+      "role": "Engineering",
+      "title": "Director of Engineering, Snowflake Apps",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/9fc4661b-31df-42f0-a0c6-2bf1465d90be"
+    },
+    {
+      "id": "b1faeb20-716c-4b93-9f2b-91d8751ed503",
+      "role": "Engineering",
+      "title": "Engineering Manager - Feature Store",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/b1faeb20-716c-4b93-9f2b-91d8751ed503"
+    },
+    {
+      "id": "6c2a6557-61d6-4c1b-b448-47334a70f5c7",
+      "role": "Engineering",
+      "title": "Engineering Manager - Freepool",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/6c2a6557-61d6-4c1b-b448-47334a70f5c7"
+    },
+    {
+      "id": "eacac37f-9bba-4503-b329-72864edb822c",
+      "role": "Engineering",
+      "title": "Engineering Manager, Observe Product Backend",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/eacac37f-9bba-4503-b329-72864edb822c"
+    },
+    {
+      "id": "f6d40ad9-da07-477e-8f4f-e29e67e65f6b",
+      "role": "Engineering",
+      "title": " Engineering Manager - SnowConvert AI ",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/f6d40ad9-da07-477e-8f4f-e29e67e65f6b"
+    },
+    {
+      "id": "03ca61bb-e8f3-4fb4-8b2a-1295841fdf14",
+      "role": "Engineering",
+      "title": "Engineering Manager \u2013 Snowtrail",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/03ca61bb-e8f3-4fb4-8b2a-1295841fdf14"
+    },
+    {
+      "id": "fa33b692-0ce3-43e2-a2f7-1c3fb7ab82ab",
+      "role": "Engineering",
+      "title": "Engineering Manager - Transformation & Data Lake",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/fa33b692-0ce3-43e2-a2f7-1c3fb7ab82ab"
+    },
+    {
+      "id": "e03f342c-7c03-44e5-962e-f2c52af6998c",
+      "role": "Engineering",
+      "title": "Executive Assistant - Engineering",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/e03f342c-7c03-44e5-962e-f2c52af6998c"
+    },
+    {
+      "id": "ce981ec2-4d1d-4840-aca4-21dfd6ba85bf",
+      "role": "Engineering",
+      "title": "Executive Assistant, Observe, Product & Engineering",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/ce981ec2-4d1d-4840-aca4-21dfd6ba85bf"
+    },
+    {
+      "id": "7fe10cf3-f04a-4f5e-8536-2d20e3eb5d91",
+      "role": "Engineering",
+      "title": "Executive Operations",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/7fe10cf3-f04a-4f5e-8536-2d20e3eb5d91"
+    },
+    {
+      "id": "13fe38e8-d130-4ab2-bea6-f586e30b7c5e",
+      "role": "Engineering",
+      "title": "Forward Deployment Senior Software Engineer ",
+      "company": "snowflake",
+      "location": "US-VA-McLean",
+      "link": "https://jobs.ashbyhq.com/snowflake/13fe38e8-d130-4ab2-bea6-f586e30b7c5e"
+    },
+    {
+      "id": "54c04244-8d07-4a36-a81c-4454215f6ae9",
+      "role": "Engineering",
+      "title": "Front End Engineer - Analytics & Compute Experience ",
+      "company": "snowflake",
+      "location": "CA-Ontario-Toronto",
+      "link": "https://jobs.ashbyhq.com/snowflake/54c04244-8d07-4a36-a81c-4454215f6ae9"
+    },
+    {
+      "id": "143a2248-564b-4cfa-85f5-d47bac911d74",
+      "role": "Engineering",
+      "title": "Infrastructure Engineer, Observe by Snowflake",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/143a2248-564b-4cfa-85f5-d47bac911d74"
+    },
+    {
+      "id": "2c855f7d-9228-4ee6-b6b7-dcb3c33c3796",
+      "role": "Engineering",
+      "title": "Postgres Engineer",
+      "company": "snowflake",
+      "location": "TR-Istanbul-MSO",
+      "link": "https://jobs.ashbyhq.com/snowflake/2c855f7d-9228-4ee6-b6b7-dcb3c33c3796"
+    },
+    {
+      "id": "69d17996-c9a1-4309-a379-398013a7e410",
+      "role": "Engineering",
+      "title": "Principal Machine Learning Engineer- Search Quality",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/69d17996-c9a1-4309-a379-398013a7e410"
+    },
+    {
+      "id": "2c4b3726-7738-4f94-b81f-9a1dfb24143e",
+      "role": "Data Analytics and AI",
+      "title": "Principal Product Manager, Enterprise Data & AI",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/2c4b3726-7738-4f94-b81f-9a1dfb24143e"
+    },
+    {
+      "id": "b6e0f4a7-7e69-4c92-b3cc-13d018bbabe9",
+      "role": "Engineering",
+      "title": "Principal Software Engineer - AI Poland",
+      "company": "snowflake",
+      "location": "PL-Warsaw",
+      "link": "https://jobs.ashbyhq.com/snowflake/b6e0f4a7-7e69-4c92-b3cc-13d018bbabe9"
+    },
+    {
+      "id": "cac27b18-bd24-4722-8bb7-0b5ce7b18eaf",
+      "role": "Data Analytics and AI",
+      "title": "Principal Software Engineer - AI Poland",
+      "company": "snowflake",
+      "location": "PL-Warsaw",
+      "link": "https://jobs.ashbyhq.com/snowflake/cac27b18-bd24-4722-8bb7-0b5ce7b18eaf"
+    },
+    {
+      "id": "b80ae1a9-7f32-499a-89de-fc227d65d089",
+      "role": "Engineering",
+      "title": "Principal Software Engineer II, Horizon Catalog",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/b80ae1a9-7f32-499a-89de-fc227d65d089"
+    },
+    {
+      "id": "d297d07c-eaa7-4896-946d-df2879c8cde3",
+      "role": "Engineering",
+      "title": "Principal Software Engineer II - Interoperable Foundations",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/d297d07c-eaa7-4896-946d-df2879c8cde3"
+    },
+    {
+      "id": "f991db58-6bc1-40b2-a1b9-97d4d2b20a83",
+      "role": "Engineering",
+      "title": "Principal Software Engineer II - Next-Gen Data Transformations",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/f991db58-6bc1-40b2-a1b9-97d4d2b20a83"
+    },
+    {
+      "id": "a20eb88b-5307-406f-b2ed-e9d5c5001a82",
+      "role": "Engineering",
+      "title": "Principal Software Engineer II - Product Security",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/a20eb88b-5307-406f-b2ed-e9d5c5001a82"
+    },
+    {
+      "id": "e2739aab-b0a2-4583-92c1-13bbd4fd9672",
+      "role": "Engineering",
+      "title": "Principal Software Engineer I - Metadata",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/e2739aab-b0a2-4583-92c1-13bbd4fd9672"
+    },
+    {
+      "id": "7657edf1-2646-4a37-b178-2807cd7dd5e5",
+      "role": "Engineering",
+      "title": "Principal Software Engineer I - Snowhouse Foundation",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/7657edf1-2646-4a37-b178-2807cd7dd5e5"
+    },
+    {
+      "id": "d386f15a-9d4c-43ff-861c-122d22da66dd",
+      "role": "Engineering",
+      "title": "Principal Software Engineer - PostgreSQL",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/d386f15a-9d4c-43ff-861c-122d22da66dd"
+    },
+    {
+      "id": "a9b4dab9-0b27-47b0-b0fb-2d83c5742717",
+      "role": "Engineering",
+      "title": "Principal Software Engineer - Snowflake Intelligence",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/a9b4dab9-0b27-47b0-b0fb-2d83c5742717"
+    },
+    {
+      "id": "e2412cd5-19dd-44f8-addd-c9ef3c99ff82",
+      "role": "Engineering",
+      "title": "Research Intern (AI) - 2026",
+      "company": "snowflake",
+      "location": "PL-Warsaw",
+      "link": "https://jobs.ashbyhq.com/snowflake/e2412cd5-19dd-44f8-addd-c9ef3c99ff82"
+    },
+    {
+      "id": "6de9c390-d879-444d-b90b-9c6a33a1fb96",
+      "role": "Engineering",
+      "title": "Senior AI/ML Architect, Applied Field Engineering",
+      "company": "snowflake",
+      "location": "US-WA-Seattle-Remote",
+      "link": "https://jobs.ashbyhq.com/snowflake/6de9c390-d879-444d-b90b-9c6a33a1fb96"
+    },
+    {
+      "id": "251af11d-4cd3-4c51-9b12-3df73fd653b0",
+      "role": "Engineering",
+      "title": "Senior Analytics Architect, Applied Field Engineer",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/251af11d-4cd3-4c51-9b12-3df73fd653b0"
+    },
+    {
+      "id": "bcb00e62-34db-41b4-a044-07f4438ea60a",
+      "role": "Engineering",
+      "title": "Senior Anti-Abuse Security Engineer, Product Security",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/bcb00e62-34db-41b4-a044-07f4438ea60a"
+    },
+    {
+      "id": "c02bab9f-5d7f-4808-9dce-c118efc347ac",
+      "role": "Data Analytics and AI",
+      "title": "Senior Data Analytics Engineer",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/c02bab9f-5d7f-4808-9dce-c118efc347ac"
+    },
+    {
+      "id": "22228c5b-1683-49ef-9056-d2240ca92ce7",
+      "role": "Data Analytics and AI",
+      "title": "Senior Data Analytics Engineer ",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/22228c5b-1683-49ef-9056-d2240ca92ce7"
+    },
+    {
+      "id": "e31c32b8-0707-4bfb-81a4-fe9764f20686",
+      "role": "Engineering",
+      "title": "Senior Director of Engineering, Traffic and Networking",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/e31c32b8-0707-4bfb-81a4-fe9764f20686"
+    },
+    {
+      "id": "0bd2f4bd-d46a-43cf-b923-74e56b17cb85",
+      "role": "Engineering",
+      "title": "Senior Engineering Manager - Developer Platform",
+      "company": "snowflake",
+      "location": "PL-Warsaw",
+      "link": "https://jobs.ashbyhq.com/snowflake/0bd2f4bd-d46a-43cf-b923-74e56b17cb85"
+    },
+    {
+      "id": "2e759451-ea65-4731-a4ea-23c2a4cb2b88",
+      "role": "Engineering",
+      "title": "Senior Engineering Manager - Postgres ",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/2e759451-ea65-4731-a4ea-23c2a4cb2b88"
+    },
+    {
+      "id": "247840b3-4332-45ce-9ade-0424a0f27290",
+      "role": "Engineering",
+      "title": "Senior Engineering Manager - Query Execution Platform",
+      "company": "snowflake",
+      "location": "DE-Berlin-Trion Building",
+      "link": "https://jobs.ashbyhq.com/snowflake/247840b3-4332-45ce-9ade-0424a0f27290"
+    },
+    {
+      "id": "bd6e11e3-ee22-49ca-b92b-394cbcaa32d3",
+      "role": "Engineering",
+      "title": "Senior Forward Deployed Engineer - SnowConvert AI",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/bd6e11e3-ee22-49ca-b92b-394cbcaa32d3"
+    },
+    {
+      "id": "97813cac-e55c-4631-94fe-5eda15c7eaed",
+      "role": "Engineering",
+      "title": "Senior Forward Deployed Engineer -Spark",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/97813cac-e55c-4631-94fe-5eda15c7eaed"
+    },
+    {
+      "id": "364c14ff-e4c9-4f50-b5aa-b02b0aa98e7a",
+      "role": "Engineering",
+      "title": "Senior Frontend Software Engineer - Notebooks ",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/364c14ff-e4c9-4f50-b5aa-b02b0aa98e7a"
+    },
+    {
+      "id": "b0283c67-3bd8-4be2-a861-d538b7504bb0",
+      "role": "Engineering",
+      "title": "Senior Infrastructure Engineer, Observe by Snowflake",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/b0283c67-3bd8-4be2-a861-d538b7504bb0"
+    },
+    {
+      "id": "ad1b51cd-14f1-42a4-b9b9-830b93c1e1df",
+      "role": "Engineering",
+      "title": "Senior Manager Engineering - Snowhouse Foundation",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/ad1b51cd-14f1-42a4-b9b9-830b93c1e1df"
+    },
+    {
+      "id": "520ee3ea-d898-4db9-9ad9-8f12c91a96b0",
+      "role": "Engineering",
+      "title": "Senior Manager of Engineering - Capacity Engineering",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/520ee3ea-d898-4db9-9ad9-8f12c91a96b0"
+    },
+    {
+      "id": "1309d94f-1450-41a3-a1cd-17125cfcb6d9",
+      "role": "Engineering",
+      "title": "Senior Penetration Testing Engineer ",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/1309d94f-1450-41a3-a1cd-17125cfcb6d9"
+    },
+    {
+      "id": "4ed363e0-cdb3-44ab-bdd9-6e91e00ce660",
+      "role": "Engineering",
+      "title": "Senior Principal Engineer - Front End",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/4ed363e0-cdb3-44ab-bdd9-6e91e00ce660"
+    },
+    {
+      "id": "3861127d-444b-4352-a490-c1bd6aa74715",
+      "role": "Engineering",
+      "title": "Senior Production Engineer",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/3861127d-444b-4352-a490-c1bd6aa74715"
+    },
+    {
+      "id": "9d0fd974-03be-402c-8052-4a879ac8c1b0",
+      "role": "Engineering",
+      "title": "SENIOR SECURITY ENGINEER - PRODUCT SECURITY",
+      "company": "snowflake",
+      "location": "PL-Warsaw",
+      "link": "https://jobs.ashbyhq.com/snowflake/9d0fd974-03be-402c-8052-4a879ac8c1b0"
+    },
+    {
+      "id": "227b8c06-b6de-4f3a-ae37-7e0c015e5b7a",
+      "role": "Engineering",
+      "title": "Senior Software Engineer",
+      "company": "snowflake",
+      "location": "PL-Warsaw",
+      "link": "https://jobs.ashbyhq.com/snowflake/227b8c06-b6de-4f3a-ae37-7e0c015e5b7a"
+    },
+    {
+      "id": "87966ed3-94f5-47b5-8fa8-855f10480346",
+      "role": "Engineering",
+      "title": "Senior Software Engineer - APM & AI Observability",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/87966ed3-94f5-47b5-8fa8-855f10480346"
+    },
+    {
+      "id": "6dab6ed8-97c8-4413-b95f-31b84dafd5c3",
+      "role": "Engineering",
+      "title": "Senior Software Engineer - Database Engineering",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/6dab6ed8-97c8-4413-b95f-31b84dafd5c3"
+    },
+    {
+      "id": "f4a4fc50-0bda-418e-a8ca-203dea81e801",
+      "role": "Engineering",
+      "title": "Senior Software Engineer - Data Clean Room/ AI Data Hub ",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/f4a4fc50-0bda-418e-a8ca-203dea81e801"
+    },
+    {
+      "id": "502fa357-fec6-4504-bd44-3af11527c1eb",
+      "role": "Engineering",
+      "title": "Senior Software Engineer, Data Governance",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/502fa357-fec6-4504-bd44-3af11527c1eb"
+    },
+    {
+      "id": "3eea87fa-73c8-46dc-b69b-7beb438b48d8",
+      "role": "Engineering",
+      "title": "Senior Software Engineer, Enterprise",
+      "company": "snowflake",
+      "location": "CH-Zurich-Observe",
+      "link": "https://jobs.ashbyhq.com/snowflake/3eea87fa-73c8-46dc-b69b-7beb438b48d8"
+    },
+    {
+      "id": "0de66140-c2df-4314-8660-bb074a9d313f",
+      "role": "Engineering",
+      "title": "Senior Software Engineer, Identity & Access Management",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/0de66140-c2df-4314-8660-bb074a9d313f"
+    },
+    {
+      "id": "2427f45b-bac6-4b57-b4c4-c7108064d0cc",
+      "role": "Engineering",
+      "title": "Senior Software Engineer, Monitoring & Alerting",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/2427f45b-bac6-4b57-b4c4-c7108064d0cc"
+    },
+    {
+      "id": "76e65492-9ff5-4ca1-950a-3565f075f6cb",
+      "role": "Engineering",
+      "title": "Senior Software Engineer - Observe by Snowflake, AI Products",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/76e65492-9ff5-4ca1-950a-3565f075f6cb"
+    },
+    {
+      "id": "db54960b-fe73-4cd9-9c2d-85221eca66b2",
+      "role": "Engineering",
+      "title": "Senior Software Engineer, Observe by Snowflake Frontend  ",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/db54960b-fe73-4cd9-9c2d-85221eca66b2"
+    },
+    {
+      "id": "b8ff4e0d-7fdb-4c7a-a139-1d69d5ca4b09",
+      "role": "Engineering",
+      "title": "Senior Software Engineer - Observe by Snowflake, Indexing and Query Execution",
+      "company": "snowflake",
+      "location": "CH-Zurich-MSO",
+      "link": "https://jobs.ashbyhq.com/snowflake/b8ff4e0d-7fdb-4c7a-a139-1d69d5ca4b09"
+    },
+    {
+      "id": "db4f0492-ae21-49b7-a7eb-100be61e92bb",
+      "role": "Engineering",
+      "title": "Senior Software Engineer - Observe by Snowflake, Metrics Platform",
+      "company": "snowflake",
+      "location": "CH-Zurich-Observe",
+      "link": "https://jobs.ashbyhq.com/snowflake/db4f0492-ae21-49b7-a7eb-100be61e92bb"
+    },
+    {
+      "id": "dba101f7-c6f7-49e2-a1e6-06c3c2ddee5b",
+      "role": "Engineering",
+      "title": "Senior Software Engineer - Observe Data Management",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/dba101f7-c6f7-49e2-a1e6-06c3c2ddee5b"
+    },
+    {
+      "id": "afa654dd-0431-4030-9878-1e48c27465bd",
+      "role": "Engineering",
+      "title": "Senior Software Engineer - Openflow",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/afa654dd-0431-4030-9878-1e48c27465bd"
+    },
+    {
+      "id": "b77b3b89-1fd1-474f-a642-af0c41b43a3b",
+      "role": "Engineering",
+      "title": "Senior Software Engineer- Open Source Analytics",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/b77b3b89-1fd1-474f-a642-af0c41b43a3b"
+    },
+    {
+      "id": "bcd7eea8-1f1e-437b-b7d1-52361493d55e",
+      "role": "Engineering",
+      "title": "Senior Software Engineer - Production Control Plane",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/bcd7eea8-1f1e-437b-b7d1-52361493d55e"
+    },
+    {
+      "id": "d08e3ff6-378e-4e3e-9787-39638817ae0f",
+      "role": "Engineering",
+      "title": "Senior Software Engineer - Product Security Assurance",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/d08e3ff6-378e-4e3e-9787-39638817ae0f"
+    },
+    {
+      "id": "dcbd8798-31d0-4551-acf4-0d7a8f8d7757",
+      "role": "Engineering",
+      "title": "Senior Software Engineer - Snowpark Container Service",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/dcbd8798-31d0-4551-acf4-0d7a8f8d7757"
+    },
+    {
+      "id": "65f598bd-f528-42da-b5e5-b3b0bdeed52c",
+      "role": "Engineering",
+      "title": "Senior (Staff) Penetration Tester",
+      "company": "snowflake",
+      "location": "PL-Warsaw",
+      "link": "https://jobs.ashbyhq.com/snowflake/65f598bd-f528-42da-b5e5-b3b0bdeed52c"
+    },
+    {
+      "id": "34584833-b410-4c03-bf0c-0208bcf962c6",
+      "role": "Engineering",
+      "title": "Senior/Staff Software Engineer - Machine Learning Platform (Inference)",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/34584833-b410-4c03-bf0c-0208bcf962c6"
+    },
+    {
+      "id": "a9ac05e3-cfe7-474c-a8e6-41baff859964",
+      "role": "Engineering",
+      "title": "Senior SWE, AI Backend: Observe by Snowflake",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/a9ac05e3-cfe7-474c-a8e6-41baff859964"
+    },
+    {
+      "id": "92cabd7b-3aad-4e1c-a822-7757f2a13d95",
+      "role": "Engineering",
+      "title": "Senior Technical Account Manager",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/92cabd7b-3aad-4e1c-a822-7757f2a13d95"
+    },
+    {
+      "id": "45fd2192-852d-4cf4-bffe-b0fcc46b7426",
+      "role": "Engineering",
+      "title": "Senior Technical Program Manager",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/45fd2192-852d-4cf4-bffe-b0fcc46b7426"
+    },
+    {
+      "id": "f288375d-5d6b-4686-94bf-8018583ff03b",
+      "role": "Engineering",
+      "title": "Senior Technical Support Engineer, Observe by Snowflake",
+      "company": "snowflake",
+      "location": "CH-Zurich-Observe",
+      "link": "https://jobs.ashbyhq.com/snowflake/f288375d-5d6b-4686-94bf-8018583ff03b"
+    },
+    {
+      "id": "21137a73-0d22-43cc-b72c-b7ef30037bc0",
+      "role": "Engineering",
+      "title": "Software Engineer ",
+      "company": "snowflake",
+      "location": "PL-Warsaw",
+      "link": "https://jobs.ashbyhq.com/snowflake/21137a73-0d22-43cc-b72c-b7ef30037bc0"
+    },
+    {
+      "id": "5f4ae8d3-bf84-430d-8f9f-325f14ddf947",
+      "role": "Engineering",
+      "title": "Software Engineer - APG",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/5f4ae8d3-bf84-430d-8f9f-325f14ddf947"
+    },
+    {
+      "id": "3eb872af-0ab1-4986-8f72-e7321fcd1538",
+      "role": "Engineering",
+      "title": "Software Engineer - Backend",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/3eb872af-0ab1-4986-8f72-e7321fcd1538"
+    },
+    {
+      "id": "db1375f0-ea5d-404a-b640-259f94dbc995",
+      "role": "Engineering",
+      "title": "Software Engineer - Database Engineering",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/db1375f0-ea5d-404a-b640-259f94dbc995"
+    },
+    {
+      "id": "8aaca557-05dc-4412-8d3b-28ed686df200",
+      "role": "Engineering",
+      "title": "Software Engineer, Engineering Infrastructure",
+      "company": "snowflake",
+      "location": "CA-Ontario-Toronto",
+      "link": "https://jobs.ashbyhq.com/snowflake/8aaca557-05dc-4412-8d3b-28ed686df200"
+    },
+    {
+      "id": "b8c95597-b452-49bf-994c-04027b7bd6dd",
+      "role": "Engineering",
+      "title": "Software Engineer \u2013 Engineering Systems Continuous Integration Team",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/b8c95597-b452-49bf-994c-04027b7bd6dd"
+    },
+    {
+      "id": "de785884-dd32-4943-afd2-db5ec94b0c94",
+      "role": "Engineering",
+      "title": "Software Engineering Manager, Identity Access Management",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/de785884-dd32-4943-afd2-db5ec94b0c94"
+    },
+    {
+      "id": "897e1850-c590-4462-b187-0516b65b2034",
+      "role": "Engineering",
+      "title": "Software Engineer Intern (AI/ML) - 2026",
+      "company": "snowflake",
+      "location": "PL-Warsaw",
+      "link": "https://jobs.ashbyhq.com/snowflake/897e1850-c590-4462-b187-0516b65b2034"
+    },
+    {
+      "id": "38f79cb1-c366-4bc5-9965-cc679ee730a4",
+      "role": "Engineering",
+      "title": "Software Engineer Intern (Backend) - Warsaw 2026",
+      "company": "snowflake",
+      "location": "PL-Warsaw",
+      "link": "https://jobs.ashbyhq.com/snowflake/38f79cb1-c366-4bc5-9965-cc679ee730a4"
+    },
+    {
+      "id": "41e65c6c-a01e-4f40-af14-ae75d3b95e27",
+      "role": "Engineering",
+      "title": "Software Engineer Intern - Berlin (2026)",
+      "company": "snowflake",
+      "location": "DE-Berlin-Trion Building",
+      "link": "https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27"
+    },
+    {
+      "id": "3272836f-807d-4306-af07-83a848803e01",
+      "role": "Engineering",
+      "title": "Software Engineer - Notebooks ",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/3272836f-807d-4306-af07-83a848803e01"
+    },
+    {
+      "id": "07e50e24-84ac-4002-ad26-9de1d991362c",
+      "role": "Engineering",
+      "title": "Software Engineer - Observe",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/07e50e24-84ac-4002-ad26-9de1d991362c"
+    },
+    {
+      "id": "5e571ebe-6cae-4384-a6e2-c151f72ccd41",
+      "role": "Engineering",
+      "title": "Software Engineer, Observe by Snowflake",
+      "company": "snowflake",
+      "location": "CH-Zurich-Observe",
+      "link": "https://jobs.ashbyhq.com/snowflake/5e571ebe-6cae-4384-a6e2-c151f72ccd41"
+    },
+    {
+      "id": "853f7a17-2e85-4469-861f-6220e2daf00a",
+      "role": "Engineering",
+      "title": "Software Engineer - Platform Infrastructure Engineering",
+      "company": "snowflake",
+      "location": "PL-Warsaw",
+      "link": "https://jobs.ashbyhq.com/snowflake/853f7a17-2e85-4469-861f-6220e2daf00a"
+    },
+    {
+      "id": "3a3238f1-3010-4ef9-855e-bd116d6f4cc1",
+      "role": "Engineering",
+      "title": "Software Engineer - Platform Infrastructure Engineering ",
+      "company": "snowflake",
+      "location": "PL-Warsaw",
+      "link": "https://jobs.ashbyhq.com/snowflake/3a3238f1-3010-4ef9-855e-bd116d6f4cc1"
+    },
+    {
+      "id": "0745faaf-63aa-449d-8cbd-bee6e8a0632b",
+      "role": "Engineering",
+      "title": "Software Engineer - Production Engineering ",
+      "company": "snowflake",
+      "location": "PL-Warsaw",
+      "link": "https://jobs.ashbyhq.com/snowflake/0745faaf-63aa-449d-8cbd-bee6e8a0632b"
+    },
+    {
+      "id": "fb3529d5-d3da-41ec-b488-bca4c3587fc9",
+      "role": "Engineering",
+      "title": "Software Engineer - Production Engineering  ",
+      "company": "snowflake",
+      "location": "PL-Warsaw",
+      "link": "https://jobs.ashbyhq.com/snowflake/fb3529d5-d3da-41ec-b488-bca4c3587fc9"
+    },
+    {
+      "id": "2a928b93-a5d4-4285-a92c-032fb389faa2",
+      "role": "Engineering",
+      "title": "Software Engineer - SnowConvert AI",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/2a928b93-a5d4-4285-a92c-032fb389faa2"
+    },
+    {
+      "id": "3c018564-63c0-4179-ba91-f42ce75a40fa",
+      "role": "Engineering",
+      "title": "Software Engineer - Streamlit",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/3c018564-63c0-4179-ba91-f42ce75a40fa"
+    },
+    {
+      "id": "5ee8f744-ff46-45c8-8d1c-b83514b24f61",
+      "role": "Engineering",
+      "title": "Staff AI Engineer - Snowflake Intelligence",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/5ee8f744-ff46-45c8-8d1c-b83514b24f61"
+    },
+    {
+      "id": "ae43323e-8b10-4c01-b1af-987145191d01",
+      "role": "Engineering",
+      "title": "Staff Machine Learning Engineer - Cortex Code Quality",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/ae43323e-8b10-4c01-b1af-987145191d01"
+    },
+    {
+      "id": "deaebf03-4681-417b-a870-648d0d6a2a94",
+      "role": "Engineering",
+      "title": "Staff Research Scientist, AI Agents & LLMs",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/deaebf03-4681-417b-a870-648d0d6a2a94"
+    },
+    {
+      "id": "a6292a81-7cf7-4e29-bb77-f7d0935e7bdb",
+      "role": "Engineering",
+      "title": "Staff Software Engineer -  AI Developer Tooling ",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/a6292a81-7cf7-4e29-bb77-f7d0935e7bdb"
+    },
+    {
+      "id": "09adfe1d-f78c-4d58-9aad-04d84c6ef980",
+      "role": "Engineering",
+      "title": "Staff Software Engineer - Applied Performance Group",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/09adfe1d-f78c-4d58-9aad-04d84c6ef980"
+    },
+    {
+      "id": "a1f1779b-464c-48f6-a664-56314825c8ac",
+      "role": "Engineering",
+      "title": "Staff Software Engineer, Cortex AI Infrastructure",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/a1f1779b-464c-48f6-a664-56314825c8ac"
+    },
+    {
+      "id": "9670db54-bd0d-4dcc-a4af-61724dd82188",
+      "role": "Engineering",
+      "title": "Staff Software Engineer, Identity & Access Management",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/9670db54-bd0d-4dcc-a4af-61724dd82188"
+    },
+    {
+      "id": "1ed263be-f6d1-41fb-8cd7-fc99112c2ca1",
+      "role": "Engineering",
+      "title": "Staff Software Engineer - Parameters",
+      "company": "snowflake",
+      "location": "US-WA-Bellevue",
+      "link": "https://jobs.ashbyhq.com/snowflake/1ed263be-f6d1-41fb-8cd7-fc99112c2ca1"
+    },
+    {
+      "id": "67eb5996-1c4b-4855-aa9a-7c48080ca633",
+      "role": "Engineering",
+      "title": "Staff Software Engineer - Production Engineering",
+      "company": "snowflake",
+      "location": "PL-Warsaw",
+      "link": "https://jobs.ashbyhq.com/snowflake/67eb5996-1c4b-4855-aa9a-7c48080ca633"
+    },
+    {
+      "id": "4674b19c-2a2f-4315-8229-b23a2c1336b4",
+      "role": "Engineering",
+      "title": "Technical Director for AI Functions",
+      "company": "snowflake",
+      "location": "US-CA-Menlo Park",
+      "link": "https://jobs.ashbyhq.com/snowflake/4674b19c-2a2f-4315-8229-b23a2c1336b4"
+    }
+  ],
+  "uber": [
+    {
+      "id": "158936",
+      "role": "Machine Learning",
+      "title": "Staff Machine Learning Engineer - AV Labs",
+      "company": "uber",
+      "location": "Sunnyvale, United States",
+      "link": "https://www.uber.com/global/en/careers/list/158936/"
+    },
+    {
+      "id": "156031",
+      "role": "Machine Learning",
+      "title": "Software Engineer II ML, Merchant Intel 8",
+      "company": "uber",
+      "location": "New York, United States",
+      "link": "https://www.uber.com/global/en/careers/list/156031/"
+    },
+    {
+      "id": "158935",
+      "role": "Machine Learning",
+      "title": "Senior Machine Learning Engineer - AV Labs",
+      "company": "uber",
+      "location": "Sunnyvale, United States",
+      "link": "https://www.uber.com/global/en/careers/list/158935/"
+    },
+    {
+      "id": "156953",
+      "role": "Backend",
+      "title": "Senior Software Engineer, Financial Products",
+      "company": "uber",
+      "location": "Sunnyvale, United States",
+      "link": "https://www.uber.com/global/en/careers/list/156953/"
+    },
+    {
+      "id": "159224",
+      "role": "Backend",
+      "title": "Software Engineer II, Airports and Travel",
+      "company": "uber",
+      "location": "Seattle, United States",
+      "link": "https://www.uber.com/global/en/careers/list/159224/"
+    },
+    {
+      "id": "142810",
+      "role": "Manager",
+      "title": "Engineering Manager II, Merchant Selection",
+      "company": "uber",
+      "location": "New York, United States",
+      "link": "https://www.uber.com/global/en/careers/list/142810/"
+    }
+  ],
+  "google": [
+    {
+      "id": "92701240483291846",
+      "role": "",
+      "title": "Software Engineer, Security, Chrome Product Security",
+      "company": "google",
+      "location": "Kirkland, WA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/92701240483291846"
+    }
+  ],
+  "netflix": [
+    {
+      "id": "790315807051",
+      "role": "Product Management",
+      "title": "Product Manager, Ads (Campaign APIs & Integrations)",
+      "company": "netflix",
+      "location": "Los Gatos,California,United States of America",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315807051"
+    },
+    {
+      "id": "790315807662",
+      "role": "Netflix Games Studio",
+      "title": "Franchise Planning Manager, Games",
+      "company": "netflix",
+      "location": "Los Angeles,California,United States of America",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315807662"
+    },
+    {
+      "id": "790315807762",
+      "role": "Netflix Games Studio",
+      "title": "Slate Planning Manager, Games",
+      "company": "netflix",
+      "location": "Los Angeles,California,United States of America",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315807762"
+    },
+    {
+      "id": "790315812205",
+      "role": "Program Management",
+      "title": "Director, Global Program Management - Production Solutions",
+      "company": "netflix",
+      "location": "Los Angeles,California,United States of America",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315812205"
+    },
+    {
+      "id": "790315762007",
+      "role": "Marketing",
+      "title": "Manager, Awards Creative Content",
+      "company": "netflix",
+      "location": "Los Angeles,California,United States of America",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315762007"
+    },
+    {
+      "id": "790315763077",
+      "role": "Marketing",
+      "title": "Manager, UCAN Series Marketing - Action / Thriller",
+      "company": "netflix",
+      "location": "Los Angeles,California,United States of America",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315763077"
+    },
+    {
+      "id": "790315660439",
+      "role": "Engineering",
+      "title": "Full Stack Engineer 4 - Catalog Foundation & Distribution",
+      "company": "netflix",
+      "location": "Los Gatos,California,United States of America",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315660439"
+    },
+    {
+      "id": "790315796514",
+      "role": "Engineering",
+      "title": "Software Engineer 5 - Games SDK",
+      "company": "netflix",
+      "location": "USA - Remote",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315796514"
+    },
+    {
+      "id": "790315649135",
+      "role": "Data & Insights",
+      "title": "Manager, Identity and Signals - Ads DSE",
+      "company": "netflix",
+      "location": "USA - Remote",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315649135"
+    },
+    {
+      "id": "790314294439",
+      "role": "Core Finance & Controllership",
+      "title": "Accounting Specialist, Expenditures & Lease Accounting",
+      "company": "netflix",
+      "location": "Manila,Philippines",
+      "link": "https://explore.jobs.netflix.net/careers/job/790314294439"
+    }
+  ]
+}

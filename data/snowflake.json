@@ -1,0 +1,882 @@
+[
+  {
+    "id": "3dbe104f-8d7e-4694-918b-ad6ca5d24371",
+    "role": "Engineering",
+    "title": "Administrative Assistant",
+    "company": "snowflake",
+    "location": "DE-Berlin-Trion Building",
+    "link": "https://jobs.ashbyhq.com/snowflake/3dbe104f-8d7e-4694-918b-ad6ca5d24371"
+  },
+  {
+    "id": "217b1d27-815a-4ad1-b8b7-8fe52e57cd26",
+    "role": "Engineering",
+    "title": "AI Engineer - Cortex Code Quality",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/217b1d27-815a-4ad1-b8b7-8fe52e57cd26"
+  },
+  {
+    "id": "b8b30900-135e-4937-91b4-cec38d7901fd",
+    "role": "Engineering",
+    "title": "AI System Research and Development Engineer - Optimization",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/b8b30900-135e-4937-91b4-cec38d7901fd"
+  },
+  {
+    "id": "b241904d-7d42-41f0-9674-82e53d964846",
+    "role": "Data Analytics and AI",
+    "title": "Analyst, Finance Analytics & AI",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/b241904d-7d42-41f0-9674-82e53d964846"
+  },
+  {
+    "id": "fe119dd1-a243-4d43-ba0d-643876eb3ebf",
+    "role": "Data Analytics and AI",
+    "title": "Analyst/ Senior Analyst - Legal Analytics & AI ",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/fe119dd1-a243-4d43-ba0d-643876eb3ebf"
+  },
+  {
+    "id": "5f935ec0-5842-4c35-bd13-b38143551723",
+    "role": "Data Analytics and AI",
+    "title": "Analyst/ Senior Analyst, People Analytics",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/5f935ec0-5842-4c35-bd13-b38143551723"
+  },
+  {
+    "id": "6754de86-7485-4826-9aad-ef24cce405a9",
+    "role": "Engineering",
+    "title": "Anti-Abuse Senior Software Engineer, Product Security",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/6754de86-7485-4826-9aad-ef24cce405a9"
+  },
+  {
+    "id": "708992c7-67da-4f99-99f0-39ed70e360d4",
+    "role": "Engineering",
+    "title": "Backend Software Engineer - Native Apps",
+    "company": "snowflake",
+    "location": "CA-Ontario-Toronto",
+    "link": "https://jobs.ashbyhq.com/snowflake/708992c7-67da-4f99-99f0-39ed70e360d4"
+  },
+  {
+    "id": "72386951-2027-4f4e-a45f-99cafc0eae33",
+    "role": "Data Analytics and AI",
+    "title": "Data Architecture Lead",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/72386951-2027-4f4e-a45f-99cafc0eae33"
+  },
+  {
+    "id": "8904ed85-75d6-48cf-b01b-7941677fde4a",
+    "role": "Data Analytics and AI",
+    "title": "Data Engineer Intern - Pune (2026)",
+    "company": "snowflake",
+    "location": "IN-Pune",
+    "link": "https://jobs.ashbyhq.com/snowflake/8904ed85-75d6-48cf-b01b-7941677fde4a"
+  },
+  {
+    "id": "ff7fbdd3-98a7-4552-959f-bb4812b2dc8d",
+    "role": "Data Analytics and AI",
+    "title": "Director, Data Science \u2013 GTM (Data, Analytics & AI)",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/ff7fbdd3-98a7-4552-959f-bb4812b2dc8d"
+  },
+  {
+    "id": "9fc4661b-31df-42f0-a0c6-2bf1465d90be",
+    "role": "Engineering",
+    "title": "Director of Engineering, Snowflake Apps",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/9fc4661b-31df-42f0-a0c6-2bf1465d90be"
+  },
+  {
+    "id": "b1faeb20-716c-4b93-9f2b-91d8751ed503",
+    "role": "Engineering",
+    "title": "Engineering Manager - Feature Store",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/b1faeb20-716c-4b93-9f2b-91d8751ed503"
+  },
+  {
+    "id": "6c2a6557-61d6-4c1b-b448-47334a70f5c7",
+    "role": "Engineering",
+    "title": "Engineering Manager - Freepool",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/6c2a6557-61d6-4c1b-b448-47334a70f5c7"
+  },
+  {
+    "id": "eacac37f-9bba-4503-b329-72864edb822c",
+    "role": "Engineering",
+    "title": "Engineering Manager, Observe Product Backend",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/eacac37f-9bba-4503-b329-72864edb822c"
+  },
+  {
+    "id": "f6d40ad9-da07-477e-8f4f-e29e67e65f6b",
+    "role": "Engineering",
+    "title": " Engineering Manager - SnowConvert AI ",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/f6d40ad9-da07-477e-8f4f-e29e67e65f6b"
+  },
+  {
+    "id": "03ca61bb-e8f3-4fb4-8b2a-1295841fdf14",
+    "role": "Engineering",
+    "title": "Engineering Manager \u2013 Snowtrail",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/03ca61bb-e8f3-4fb4-8b2a-1295841fdf14"
+  },
+  {
+    "id": "fa33b692-0ce3-43e2-a2f7-1c3fb7ab82ab",
+    "role": "Engineering",
+    "title": "Engineering Manager - Transformation & Data Lake",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/fa33b692-0ce3-43e2-a2f7-1c3fb7ab82ab"
+  },
+  {
+    "id": "e03f342c-7c03-44e5-962e-f2c52af6998c",
+    "role": "Engineering",
+    "title": "Executive Assistant - Engineering",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/e03f342c-7c03-44e5-962e-f2c52af6998c"
+  },
+  {
+    "id": "ce981ec2-4d1d-4840-aca4-21dfd6ba85bf",
+    "role": "Engineering",
+    "title": "Executive Assistant, Observe, Product & Engineering",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/ce981ec2-4d1d-4840-aca4-21dfd6ba85bf"
+  },
+  {
+    "id": "7fe10cf3-f04a-4f5e-8536-2d20e3eb5d91",
+    "role": "Engineering",
+    "title": "Executive Operations",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/7fe10cf3-f04a-4f5e-8536-2d20e3eb5d91"
+  },
+  {
+    "id": "13fe38e8-d130-4ab2-bea6-f586e30b7c5e",
+    "role": "Engineering",
+    "title": "Forward Deployment Senior Software Engineer ",
+    "company": "snowflake",
+    "location": "US-VA-McLean",
+    "link": "https://jobs.ashbyhq.com/snowflake/13fe38e8-d130-4ab2-bea6-f586e30b7c5e"
+  },
+  {
+    "id": "54c04244-8d07-4a36-a81c-4454215f6ae9",
+    "role": "Engineering",
+    "title": "Front End Engineer - Analytics & Compute Experience ",
+    "company": "snowflake",
+    "location": "CA-Ontario-Toronto",
+    "link": "https://jobs.ashbyhq.com/snowflake/54c04244-8d07-4a36-a81c-4454215f6ae9"
+  },
+  {
+    "id": "143a2248-564b-4cfa-85f5-d47bac911d74",
+    "role": "Engineering",
+    "title": "Infrastructure Engineer, Observe by Snowflake",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/143a2248-564b-4cfa-85f5-d47bac911d74"
+  },
+  {
+    "id": "2c855f7d-9228-4ee6-b6b7-dcb3c33c3796",
+    "role": "Engineering",
+    "title": "Postgres Engineer",
+    "company": "snowflake",
+    "location": "TR-Istanbul-MSO",
+    "link": "https://jobs.ashbyhq.com/snowflake/2c855f7d-9228-4ee6-b6b7-dcb3c33c3796"
+  },
+  {
+    "id": "69d17996-c9a1-4309-a379-398013a7e410",
+    "role": "Engineering",
+    "title": "Principal Machine Learning Engineer- Search Quality",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/69d17996-c9a1-4309-a379-398013a7e410"
+  },
+  {
+    "id": "2c4b3726-7738-4f94-b81f-9a1dfb24143e",
+    "role": "Data Analytics and AI",
+    "title": "Principal Product Manager, Enterprise Data & AI",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/2c4b3726-7738-4f94-b81f-9a1dfb24143e"
+  },
+  {
+    "id": "b6e0f4a7-7e69-4c92-b3cc-13d018bbabe9",
+    "role": "Engineering",
+    "title": "Principal Software Engineer - AI Poland",
+    "company": "snowflake",
+    "location": "PL-Warsaw",
+    "link": "https://jobs.ashbyhq.com/snowflake/b6e0f4a7-7e69-4c92-b3cc-13d018bbabe9"
+  },
+  {
+    "id": "cac27b18-bd24-4722-8bb7-0b5ce7b18eaf",
+    "role": "Data Analytics and AI",
+    "title": "Principal Software Engineer - AI Poland",
+    "company": "snowflake",
+    "location": "PL-Warsaw",
+    "link": "https://jobs.ashbyhq.com/snowflake/cac27b18-bd24-4722-8bb7-0b5ce7b18eaf"
+  },
+  {
+    "id": "b80ae1a9-7f32-499a-89de-fc227d65d089",
+    "role": "Engineering",
+    "title": "Principal Software Engineer II, Horizon Catalog",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/b80ae1a9-7f32-499a-89de-fc227d65d089"
+  },
+  {
+    "id": "d297d07c-eaa7-4896-946d-df2879c8cde3",
+    "role": "Engineering",
+    "title": "Principal Software Engineer II - Interoperable Foundations",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/d297d07c-eaa7-4896-946d-df2879c8cde3"
+  },
+  {
+    "id": "f991db58-6bc1-40b2-a1b9-97d4d2b20a83",
+    "role": "Engineering",
+    "title": "Principal Software Engineer II - Next-Gen Data Transformations",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/f991db58-6bc1-40b2-a1b9-97d4d2b20a83"
+  },
+  {
+    "id": "a20eb88b-5307-406f-b2ed-e9d5c5001a82",
+    "role": "Engineering",
+    "title": "Principal Software Engineer II - Product Security",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/a20eb88b-5307-406f-b2ed-e9d5c5001a82"
+  },
+  {
+    "id": "e2739aab-b0a2-4583-92c1-13bbd4fd9672",
+    "role": "Engineering",
+    "title": "Principal Software Engineer I - Metadata",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/e2739aab-b0a2-4583-92c1-13bbd4fd9672"
+  },
+  {
+    "id": "7657edf1-2646-4a37-b178-2807cd7dd5e5",
+    "role": "Engineering",
+    "title": "Principal Software Engineer I - Snowhouse Foundation",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/7657edf1-2646-4a37-b178-2807cd7dd5e5"
+  },
+  {
+    "id": "d386f15a-9d4c-43ff-861c-122d22da66dd",
+    "role": "Engineering",
+    "title": "Principal Software Engineer - PostgreSQL",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/d386f15a-9d4c-43ff-861c-122d22da66dd"
+  },
+  {
+    "id": "a9b4dab9-0b27-47b0-b0fb-2d83c5742717",
+    "role": "Engineering",
+    "title": "Principal Software Engineer - Snowflake Intelligence",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/a9b4dab9-0b27-47b0-b0fb-2d83c5742717"
+  },
+  {
+    "id": "e2412cd5-19dd-44f8-addd-c9ef3c99ff82",
+    "role": "Engineering",
+    "title": "Research Intern (AI) - 2026",
+    "company": "snowflake",
+    "location": "PL-Warsaw",
+    "link": "https://jobs.ashbyhq.com/snowflake/e2412cd5-19dd-44f8-addd-c9ef3c99ff82"
+  },
+  {
+    "id": "6de9c390-d879-444d-b90b-9c6a33a1fb96",
+    "role": "Engineering",
+    "title": "Senior AI/ML Architect, Applied Field Engineering",
+    "company": "snowflake",
+    "location": "US-WA-Seattle-Remote",
+    "link": "https://jobs.ashbyhq.com/snowflake/6de9c390-d879-444d-b90b-9c6a33a1fb96"
+  },
+  {
+    "id": "251af11d-4cd3-4c51-9b12-3df73fd653b0",
+    "role": "Engineering",
+    "title": "Senior Analytics Architect, Applied Field Engineer",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/251af11d-4cd3-4c51-9b12-3df73fd653b0"
+  },
+  {
+    "id": "bcb00e62-34db-41b4-a044-07f4438ea60a",
+    "role": "Engineering",
+    "title": "Senior Anti-Abuse Security Engineer, Product Security",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/bcb00e62-34db-41b4-a044-07f4438ea60a"
+  },
+  {
+    "id": "c02bab9f-5d7f-4808-9dce-c118efc347ac",
+    "role": "Data Analytics and AI",
+    "title": "Senior Data Analytics Engineer",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/c02bab9f-5d7f-4808-9dce-c118efc347ac"
+  },
+  {
+    "id": "22228c5b-1683-49ef-9056-d2240ca92ce7",
+    "role": "Data Analytics and AI",
+    "title": "Senior Data Analytics Engineer ",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/22228c5b-1683-49ef-9056-d2240ca92ce7"
+  },
+  {
+    "id": "e31c32b8-0707-4bfb-81a4-fe9764f20686",
+    "role": "Engineering",
+    "title": "Senior Director of Engineering, Traffic and Networking",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/e31c32b8-0707-4bfb-81a4-fe9764f20686"
+  },
+  {
+    "id": "0bd2f4bd-d46a-43cf-b923-74e56b17cb85",
+    "role": "Engineering",
+    "title": "Senior Engineering Manager - Developer Platform",
+    "company": "snowflake",
+    "location": "PL-Warsaw",
+    "link": "https://jobs.ashbyhq.com/snowflake/0bd2f4bd-d46a-43cf-b923-74e56b17cb85"
+  },
+  {
+    "id": "2e759451-ea65-4731-a4ea-23c2a4cb2b88",
+    "role": "Engineering",
+    "title": "Senior Engineering Manager - Postgres ",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/2e759451-ea65-4731-a4ea-23c2a4cb2b88"
+  },
+  {
+    "id": "247840b3-4332-45ce-9ade-0424a0f27290",
+    "role": "Engineering",
+    "title": "Senior Engineering Manager - Query Execution Platform",
+    "company": "snowflake",
+    "location": "DE-Berlin-Trion Building",
+    "link": "https://jobs.ashbyhq.com/snowflake/247840b3-4332-45ce-9ade-0424a0f27290"
+  },
+  {
+    "id": "bd6e11e3-ee22-49ca-b92b-394cbcaa32d3",
+    "role": "Engineering",
+    "title": "Senior Forward Deployed Engineer - SnowConvert AI",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/bd6e11e3-ee22-49ca-b92b-394cbcaa32d3"
+  },
+  {
+    "id": "97813cac-e55c-4631-94fe-5eda15c7eaed",
+    "role": "Engineering",
+    "title": "Senior Forward Deployed Engineer -Spark",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/97813cac-e55c-4631-94fe-5eda15c7eaed"
+  },
+  {
+    "id": "364c14ff-e4c9-4f50-b5aa-b02b0aa98e7a",
+    "role": "Engineering",
+    "title": "Senior Frontend Software Engineer - Notebooks ",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/364c14ff-e4c9-4f50-b5aa-b02b0aa98e7a"
+  },
+  {
+    "id": "b0283c67-3bd8-4be2-a861-d538b7504bb0",
+    "role": "Engineering",
+    "title": "Senior Infrastructure Engineer, Observe by Snowflake",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/b0283c67-3bd8-4be2-a861-d538b7504bb0"
+  },
+  {
+    "id": "ad1b51cd-14f1-42a4-b9b9-830b93c1e1df",
+    "role": "Engineering",
+    "title": "Senior Manager Engineering - Snowhouse Foundation",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/ad1b51cd-14f1-42a4-b9b9-830b93c1e1df"
+  },
+  {
+    "id": "520ee3ea-d898-4db9-9ad9-8f12c91a96b0",
+    "role": "Engineering",
+    "title": "Senior Manager of Engineering - Capacity Engineering",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/520ee3ea-d898-4db9-9ad9-8f12c91a96b0"
+  },
+  {
+    "id": "1309d94f-1450-41a3-a1cd-17125cfcb6d9",
+    "role": "Engineering",
+    "title": "Senior Penetration Testing Engineer ",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/1309d94f-1450-41a3-a1cd-17125cfcb6d9"
+  },
+  {
+    "id": "4ed363e0-cdb3-44ab-bdd9-6e91e00ce660",
+    "role": "Engineering",
+    "title": "Senior Principal Engineer - Front End",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/4ed363e0-cdb3-44ab-bdd9-6e91e00ce660"
+  },
+  {
+    "id": "3861127d-444b-4352-a490-c1bd6aa74715",
+    "role": "Engineering",
+    "title": "Senior Production Engineer",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/3861127d-444b-4352-a490-c1bd6aa74715"
+  },
+  {
+    "id": "9d0fd974-03be-402c-8052-4a879ac8c1b0",
+    "role": "Engineering",
+    "title": "SENIOR SECURITY ENGINEER - PRODUCT SECURITY",
+    "company": "snowflake",
+    "location": "PL-Warsaw",
+    "link": "https://jobs.ashbyhq.com/snowflake/9d0fd974-03be-402c-8052-4a879ac8c1b0"
+  },
+  {
+    "id": "227b8c06-b6de-4f3a-ae37-7e0c015e5b7a",
+    "role": "Engineering",
+    "title": "Senior Software Engineer",
+    "company": "snowflake",
+    "location": "PL-Warsaw",
+    "link": "https://jobs.ashbyhq.com/snowflake/227b8c06-b6de-4f3a-ae37-7e0c015e5b7a"
+  },
+  {
+    "id": "87966ed3-94f5-47b5-8fa8-855f10480346",
+    "role": "Engineering",
+    "title": "Senior Software Engineer - APM & AI Observability",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/87966ed3-94f5-47b5-8fa8-855f10480346"
+  },
+  {
+    "id": "6dab6ed8-97c8-4413-b95f-31b84dafd5c3",
+    "role": "Engineering",
+    "title": "Senior Software Engineer - Database Engineering",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/6dab6ed8-97c8-4413-b95f-31b84dafd5c3"
+  },
+  {
+    "id": "f4a4fc50-0bda-418e-a8ca-203dea81e801",
+    "role": "Engineering",
+    "title": "Senior Software Engineer - Data Clean Room/ AI Data Hub ",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/f4a4fc50-0bda-418e-a8ca-203dea81e801"
+  },
+  {
+    "id": "502fa357-fec6-4504-bd44-3af11527c1eb",
+    "role": "Engineering",
+    "title": "Senior Software Engineer, Data Governance",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/502fa357-fec6-4504-bd44-3af11527c1eb"
+  },
+  {
+    "id": "3eea87fa-73c8-46dc-b69b-7beb438b48d8",
+    "role": "Engineering",
+    "title": "Senior Software Engineer, Enterprise",
+    "company": "snowflake",
+    "location": "CH-Zurich-Observe",
+    "link": "https://jobs.ashbyhq.com/snowflake/3eea87fa-73c8-46dc-b69b-7beb438b48d8"
+  },
+  {
+    "id": "0de66140-c2df-4314-8660-bb074a9d313f",
+    "role": "Engineering",
+    "title": "Senior Software Engineer, Identity & Access Management",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/0de66140-c2df-4314-8660-bb074a9d313f"
+  },
+  {
+    "id": "2427f45b-bac6-4b57-b4c4-c7108064d0cc",
+    "role": "Engineering",
+    "title": "Senior Software Engineer, Monitoring & Alerting",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/2427f45b-bac6-4b57-b4c4-c7108064d0cc"
+  },
+  {
+    "id": "76e65492-9ff5-4ca1-950a-3565f075f6cb",
+    "role": "Engineering",
+    "title": "Senior Software Engineer - Observe by Snowflake, AI Products",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/76e65492-9ff5-4ca1-950a-3565f075f6cb"
+  },
+  {
+    "id": "db54960b-fe73-4cd9-9c2d-85221eca66b2",
+    "role": "Engineering",
+    "title": "Senior Software Engineer, Observe by Snowflake Frontend  ",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/db54960b-fe73-4cd9-9c2d-85221eca66b2"
+  },
+  {
+    "id": "b8ff4e0d-7fdb-4c7a-a139-1d69d5ca4b09",
+    "role": "Engineering",
+    "title": "Senior Software Engineer - Observe by Snowflake, Indexing and Query Execution",
+    "company": "snowflake",
+    "location": "CH-Zurich-MSO",
+    "link": "https://jobs.ashbyhq.com/snowflake/b8ff4e0d-7fdb-4c7a-a139-1d69d5ca4b09"
+  },
+  {
+    "id": "db4f0492-ae21-49b7-a7eb-100be61e92bb",
+    "role": "Engineering",
+    "title": "Senior Software Engineer - Observe by Snowflake, Metrics Platform",
+    "company": "snowflake",
+    "location": "CH-Zurich-Observe",
+    "link": "https://jobs.ashbyhq.com/snowflake/db4f0492-ae21-49b7-a7eb-100be61e92bb"
+  },
+  {
+    "id": "dba101f7-c6f7-49e2-a1e6-06c3c2ddee5b",
+    "role": "Engineering",
+    "title": "Senior Software Engineer - Observe Data Management",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/dba101f7-c6f7-49e2-a1e6-06c3c2ddee5b"
+  },
+  {
+    "id": "afa654dd-0431-4030-9878-1e48c27465bd",
+    "role": "Engineering",
+    "title": "Senior Software Engineer - Openflow",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/afa654dd-0431-4030-9878-1e48c27465bd"
+  },
+  {
+    "id": "b77b3b89-1fd1-474f-a642-af0c41b43a3b",
+    "role": "Engineering",
+    "title": "Senior Software Engineer- Open Source Analytics",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/b77b3b89-1fd1-474f-a642-af0c41b43a3b"
+  },
+  {
+    "id": "bcd7eea8-1f1e-437b-b7d1-52361493d55e",
+    "role": "Engineering",
+    "title": "Senior Software Engineer - Production Control Plane",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/bcd7eea8-1f1e-437b-b7d1-52361493d55e"
+  },
+  {
+    "id": "d08e3ff6-378e-4e3e-9787-39638817ae0f",
+    "role": "Engineering",
+    "title": "Senior Software Engineer - Product Security Assurance",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/d08e3ff6-378e-4e3e-9787-39638817ae0f"
+  },
+  {
+    "id": "dcbd8798-31d0-4551-acf4-0d7a8f8d7757",
+    "role": "Engineering",
+    "title": "Senior Software Engineer - Snowpark Container Service",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/dcbd8798-31d0-4551-acf4-0d7a8f8d7757"
+  },
+  {
+    "id": "65f598bd-f528-42da-b5e5-b3b0bdeed52c",
+    "role": "Engineering",
+    "title": "Senior (Staff) Penetration Tester",
+    "company": "snowflake",
+    "location": "PL-Warsaw",
+    "link": "https://jobs.ashbyhq.com/snowflake/65f598bd-f528-42da-b5e5-b3b0bdeed52c"
+  },
+  {
+    "id": "34584833-b410-4c03-bf0c-0208bcf962c6",
+    "role": "Engineering",
+    "title": "Senior/Staff Software Engineer - Machine Learning Platform (Inference)",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/34584833-b410-4c03-bf0c-0208bcf962c6"
+  },
+  {
+    "id": "a9ac05e3-cfe7-474c-a8e6-41baff859964",
+    "role": "Engineering",
+    "title": "Senior SWE, AI Backend: Observe by Snowflake",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/a9ac05e3-cfe7-474c-a8e6-41baff859964"
+  },
+  {
+    "id": "92cabd7b-3aad-4e1c-a822-7757f2a13d95",
+    "role": "Engineering",
+    "title": "Senior Technical Account Manager",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/92cabd7b-3aad-4e1c-a822-7757f2a13d95"
+  },
+  {
+    "id": "45fd2192-852d-4cf4-bffe-b0fcc46b7426",
+    "role": "Engineering",
+    "title": "Senior Technical Program Manager",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/45fd2192-852d-4cf4-bffe-b0fcc46b7426"
+  },
+  {
+    "id": "f288375d-5d6b-4686-94bf-8018583ff03b",
+    "role": "Engineering",
+    "title": "Senior Technical Support Engineer, Observe by Snowflake",
+    "company": "snowflake",
+    "location": "CH-Zurich-Observe",
+    "link": "https://jobs.ashbyhq.com/snowflake/f288375d-5d6b-4686-94bf-8018583ff03b"
+  },
+  {
+    "id": "21137a73-0d22-43cc-b72c-b7ef30037bc0",
+    "role": "Engineering",
+    "title": "Software Engineer ",
+    "company": "snowflake",
+    "location": "PL-Warsaw",
+    "link": "https://jobs.ashbyhq.com/snowflake/21137a73-0d22-43cc-b72c-b7ef30037bc0"
+  },
+  {
+    "id": "5f4ae8d3-bf84-430d-8f9f-325f14ddf947",
+    "role": "Engineering",
+    "title": "Software Engineer - APG",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/5f4ae8d3-bf84-430d-8f9f-325f14ddf947"
+  },
+  {
+    "id": "3eb872af-0ab1-4986-8f72-e7321fcd1538",
+    "role": "Engineering",
+    "title": "Software Engineer - Backend",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/3eb872af-0ab1-4986-8f72-e7321fcd1538"
+  },
+  {
+    "id": "db1375f0-ea5d-404a-b640-259f94dbc995",
+    "role": "Engineering",
+    "title": "Software Engineer - Database Engineering",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/db1375f0-ea5d-404a-b640-259f94dbc995"
+  },
+  {
+    "id": "8aaca557-05dc-4412-8d3b-28ed686df200",
+    "role": "Engineering",
+    "title": "Software Engineer, Engineering Infrastructure",
+    "company": "snowflake",
+    "location": "CA-Ontario-Toronto",
+    "link": "https://jobs.ashbyhq.com/snowflake/8aaca557-05dc-4412-8d3b-28ed686df200"
+  },
+  {
+    "id": "b8c95597-b452-49bf-994c-04027b7bd6dd",
+    "role": "Engineering",
+    "title": "Software Engineer \u2013 Engineering Systems Continuous Integration Team",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/b8c95597-b452-49bf-994c-04027b7bd6dd"
+  },
+  {
+    "id": "de785884-dd32-4943-afd2-db5ec94b0c94",
+    "role": "Engineering",
+    "title": "Software Engineering Manager, Identity Access Management",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/de785884-dd32-4943-afd2-db5ec94b0c94"
+  },
+  {
+    "id": "897e1850-c590-4462-b187-0516b65b2034",
+    "role": "Engineering",
+    "title": "Software Engineer Intern (AI/ML) - 2026",
+    "company": "snowflake",
+    "location": "PL-Warsaw",
+    "link": "https://jobs.ashbyhq.com/snowflake/897e1850-c590-4462-b187-0516b65b2034"
+  },
+  {
+    "id": "38f79cb1-c366-4bc5-9965-cc679ee730a4",
+    "role": "Engineering",
+    "title": "Software Engineer Intern (Backend) - Warsaw 2026",
+    "company": "snowflake",
+    "location": "PL-Warsaw",
+    "link": "https://jobs.ashbyhq.com/snowflake/38f79cb1-c366-4bc5-9965-cc679ee730a4"
+  },
+  {
+    "id": "41e65c6c-a01e-4f40-af14-ae75d3b95e27",
+    "role": "Engineering",
+    "title": "Software Engineer Intern - Berlin (2026)",
+    "company": "snowflake",
+    "location": "DE-Berlin-Trion Building",
+    "link": "https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27"
+  },
+  {
+    "id": "3272836f-807d-4306-af07-83a848803e01",
+    "role": "Engineering",
+    "title": "Software Engineer - Notebooks ",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/3272836f-807d-4306-af07-83a848803e01"
+  },
+  {
+    "id": "07e50e24-84ac-4002-ad26-9de1d991362c",
+    "role": "Engineering",
+    "title": "Software Engineer - Observe",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/07e50e24-84ac-4002-ad26-9de1d991362c"
+  },
+  {
+    "id": "5e571ebe-6cae-4384-a6e2-c151f72ccd41",
+    "role": "Engineering",
+    "title": "Software Engineer, Observe by Snowflake",
+    "company": "snowflake",
+    "location": "CH-Zurich-Observe",
+    "link": "https://jobs.ashbyhq.com/snowflake/5e571ebe-6cae-4384-a6e2-c151f72ccd41"
+  },
+  {
+    "id": "853f7a17-2e85-4469-861f-6220e2daf00a",
+    "role": "Engineering",
+    "title": "Software Engineer - Platform Infrastructure Engineering",
+    "company": "snowflake",
+    "location": "PL-Warsaw",
+    "link": "https://jobs.ashbyhq.com/snowflake/853f7a17-2e85-4469-861f-6220e2daf00a"
+  },
+  {
+    "id": "3a3238f1-3010-4ef9-855e-bd116d6f4cc1",
+    "role": "Engineering",
+    "title": "Software Engineer - Platform Infrastructure Engineering ",
+    "company": "snowflake",
+    "location": "PL-Warsaw",
+    "link": "https://jobs.ashbyhq.com/snowflake/3a3238f1-3010-4ef9-855e-bd116d6f4cc1"
+  },
+  {
+    "id": "0745faaf-63aa-449d-8cbd-bee6e8a0632b",
+    "role": "Engineering",
+    "title": "Software Engineer - Production Engineering ",
+    "company": "snowflake",
+    "location": "PL-Warsaw",
+    "link": "https://jobs.ashbyhq.com/snowflake/0745faaf-63aa-449d-8cbd-bee6e8a0632b"
+  },
+  {
+    "id": "fb3529d5-d3da-41ec-b488-bca4c3587fc9",
+    "role": "Engineering",
+    "title": "Software Engineer - Production Engineering  ",
+    "company": "snowflake",
+    "location": "PL-Warsaw",
+    "link": "https://jobs.ashbyhq.com/snowflake/fb3529d5-d3da-41ec-b488-bca4c3587fc9"
+  },
+  {
+    "id": "2a928b93-a5d4-4285-a92c-032fb389faa2",
+    "role": "Engineering",
+    "title": "Software Engineer - SnowConvert AI",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/2a928b93-a5d4-4285-a92c-032fb389faa2"
+  },
+  {
+    "id": "3c018564-63c0-4179-ba91-f42ce75a40fa",
+    "role": "Engineering",
+    "title": "Software Engineer - Streamlit",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/3c018564-63c0-4179-ba91-f42ce75a40fa"
+  },
+  {
+    "id": "5ee8f744-ff46-45c8-8d1c-b83514b24f61",
+    "role": "Engineering",
+    "title": "Staff AI Engineer - Snowflake Intelligence",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/5ee8f744-ff46-45c8-8d1c-b83514b24f61"
+  },
+  {
+    "id": "ae43323e-8b10-4c01-b1af-987145191d01",
+    "role": "Engineering",
+    "title": "Staff Machine Learning Engineer - Cortex Code Quality",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/ae43323e-8b10-4c01-b1af-987145191d01"
+  },
+  {
+    "id": "deaebf03-4681-417b-a870-648d0d6a2a94",
+    "role": "Engineering",
+    "title": "Staff Research Scientist, AI Agents & LLMs",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/deaebf03-4681-417b-a870-648d0d6a2a94"
+  },
+  {
+    "id": "a6292a81-7cf7-4e29-bb77-f7d0935e7bdb",
+    "role": "Engineering",
+    "title": "Staff Software Engineer -  AI Developer Tooling ",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/a6292a81-7cf7-4e29-bb77-f7d0935e7bdb"
+  },
+  {
+    "id": "09adfe1d-f78c-4d58-9aad-04d84c6ef980",
+    "role": "Engineering",
+    "title": "Staff Software Engineer - Applied Performance Group",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/09adfe1d-f78c-4d58-9aad-04d84c6ef980"
+  },
+  {
+    "id": "a1f1779b-464c-48f6-a664-56314825c8ac",
+    "role": "Engineering",
+    "title": "Staff Software Engineer, Cortex AI Infrastructure",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/a1f1779b-464c-48f6-a664-56314825c8ac"
+  },
+  {
+    "id": "9670db54-bd0d-4dcc-a4af-61724dd82188",
+    "role": "Engineering",
+    "title": "Staff Software Engineer, Identity & Access Management",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/9670db54-bd0d-4dcc-a4af-61724dd82188"
+  },
+  {
+    "id": "1ed263be-f6d1-41fb-8cd7-fc99112c2ca1",
+    "role": "Engineering",
+    "title": "Staff Software Engineer - Parameters",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/1ed263be-f6d1-41fb-8cd7-fc99112c2ca1"
+  },
+  {
+    "id": "67eb5996-1c4b-4855-aa9a-7c48080ca633",
+    "role": "Engineering",
+    "title": "Staff Software Engineer - Production Engineering",
+    "company": "snowflake",
+    "location": "PL-Warsaw",
+    "link": "https://jobs.ashbyhq.com/snowflake/67eb5996-1c4b-4855-aa9a-7c48080ca633"
+  },
+  {
+    "id": "4674b19c-2a2f-4315-8229-b23a2c1336b4",
+    "role": "Engineering",
+    "title": "Technical Director for AI Functions",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/4674b19c-2a2f-4315-8229-b23a2c1336b4"
+  }
+]
