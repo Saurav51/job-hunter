@@ -123,7 +123,7 @@
   {
     "id": "7891716",
     "role": "1652 Platforms - Account Executives (NA)",
-    "title": "Account Executive, Velocity Platform (Grower)",
+    "title": "Account Executive, Velocity Platforms (Grower)",
     "company": "stripe",
     "location": "Chicago",
     "link": "https://stripe.com/jobs/search?gh_jid=7891716",
@@ -138,6 +138,17 @@
     "company": "stripe",
     "location": "San Francisco",
     "link": "https://stripe.com/jobs/search?gh_jid=7891728",
+    "offices": [
+      "US"
+    ]
+  },
+  {
+    "id": "7891721",
+    "role": "1652 Platforms - Account Executives (NA)",
+    "title": "Account Executive, Velocity Platforms (Grower)",
+    "company": "stripe",
+    "location": "New York City",
+    "link": "https://stripe.com/jobs/search?gh_jid=7891721",
     "offices": [
       "US"
     ]
@@ -173,17 +184,6 @@
     "company": "stripe",
     "location": "United States",
     "link": "https://stripe.com/jobs/search?gh_jid=7844214",
-    "offices": [
-      "US"
-    ]
-  },
-  {
-    "id": "7286376",
-    "role": "8511 PayIntel - Eng",
-    "title": "AI/ML Engineering Manager, Payment Intelligence",
-    "company": "stripe",
-    "location": "US-SF, US-NYC, US-SEA",
-    "link": "https://stripe.com/jobs/search?gh_jid=7286376",
     "offices": [
       "US"
     ]
@@ -239,6 +239,17 @@
     "company": "stripe",
     "location": "San Francisco, Seattle",
     "link": "https://stripe.com/jobs/search?gh_jid=7557403",
+    "offices": [
+      "US"
+    ]
+  },
+  {
+    "id": "7867330",
+    "role": "2324 Brand Marketing",
+    "title": "Assistant Project Manager, Environments",
+    "company": "stripe",
+    "location": "San Francisco ",
+    "link": "https://stripe.com/jobs/search?gh_jid=7867330",
     "offices": [
       "US"
     ]
@@ -365,17 +376,6 @@
     ]
   },
   {
-    "id": "7476555",
-    "role": "8116 Developer Platform - Eng",
-    "title": "Backend Engineer, Developer Experience & Product Platform ",
-    "company": "stripe",
-    "location": "SEA, SF",
-    "link": "https://stripe.com/jobs/search?gh_jid=7476555",
-    "offices": [
-      "US"
-    ]
-  },
-  {
     "id": "7775622",
     "role": "8813 Web Presence & Platform",
     "title": "Backend Engineer, Expansion",
@@ -398,23 +398,23 @@
     ]
   },
   {
-    "id": "7232592",
-    "role": "8582 Optimized Checkout - Eng",
-    "title": "Backend Engineer, Payments and Risk",
-    "company": "stripe",
-    "location": "US",
-    "link": "https://stripe.com/jobs/search?gh_jid=7232592",
-    "offices": [
-      "US"
-    ]
-  },
-  {
     "id": "6163230",
     "role": "8560 Bank Connections - Eng",
     "title": "Backend Engineer, Payments and Risk",
     "company": "stripe",
     "location": "US",
     "link": "https://stripe.com/jobs/search?gh_jid=6163230",
+    "offices": [
+      "US"
+    ]
+  },
+  {
+    "id": "7232592",
+    "role": "8582 Optimized Checkout - Eng",
+    "title": "Backend Engineer, Payments and Risk",
+    "company": "stripe",
+    "location": "US",
+    "link": "https://stripe.com/jobs/search?gh_jid=7232592",
     "offices": [
       "US"
     ]
@@ -455,9 +455,9 @@
   {
     "id": "7868790",
     "role": "2324 Brand Marketing",
-    "title": "Brand partnerships & strategy lead",
+    "title": "Brand Partnerships & Strategy Lead",
     "company": "stripe",
-    "location": "NYC",
+    "location": "New York City, NY",
     "link": "https://stripe.com/jobs/search?gh_jid=7868790",
     "offices": [
       "US"
@@ -743,32 +743,10 @@
     "role": "1340 Customer Success Management",
     "title": "Customer Success Manager, Enterprise",
     "company": "stripe",
-    "location": "Chicago, IL ",
+    "location": "Chicago, IL; Atlanta, GA",
     "link": "https://stripe.com/jobs/search?gh_jid=6558993",
     "offices": [
       "US"
-    ]
-  },
-  {
-    "id": "7559141",
-    "role": "1340 Customer Success Management",
-    "title": "Customer Success Manager, Key Accounts ",
-    "company": "stripe",
-    "location": "Atlanta, GA; Chicago, IL ",
-    "link": "https://stripe.com/jobs/search?gh_jid=7559141",
-    "offices": [
-      "US"
-    ]
-  },
-  {
-    "id": "5416444",
-    "role": "7112 Data Science",
-    "title": "Data Analyst",
-    "company": "stripe",
-    "location": "Canada",
-    "link": "https://stripe.com/jobs/search?gh_jid=5416444",
-    "offices": [
-      "Canada Locations"
     ]
   },
   {
@@ -783,23 +761,23 @@
     ]
   },
   {
+    "id": "5416444",
+    "role": "7112 Data Science",
+    "title": "Data Analyst",
+    "company": "stripe",
+    "location": "Canada",
+    "link": "https://stripe.com/jobs/search?gh_jid=5416444",
+    "offices": [
+      "Canada Locations"
+    ]
+  },
+  {
     "id": "7440960",
     "role": "1342 Payment Performance",
     "title": "Data Analyst, Payments Performance",
     "company": "stripe",
     "location": "Seattle, WA",
     "link": "https://stripe.com/jobs/search?gh_jid=7440960",
-    "offices": [
-      "US"
-    ]
-  },
-  {
-    "id": "5922987",
-    "role": "1510 GTM Business Operations",
-    "title": "Data Governance Lead",
-    "company": "stripe",
-    "location": "Remote US",
-    "link": "https://stripe.com/jobs/search?gh_jid=5922987",
     "offices": [
       "US"
     ]
@@ -827,17 +805,6 @@
     ]
   },
   {
-    "id": "5895430",
-    "role": "7112 Data Science",
-    "title": "Data Scientist",
-    "company": "stripe",
-    "location": "Toronto",
-    "link": "https://stripe.com/jobs/search?gh_jid=5895430",
-    "offices": [
-      "Canada Locations"
-    ]
-  },
-  {
     "id": "5601879",
     "role": "7112 Data Science",
     "title": "Data Scientist",
@@ -857,6 +824,17 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7809414",
     "offices": [
       "US-PERM"
+    ]
+  },
+  {
+    "id": "5895430",
+    "role": "7112 Data Science",
+    "title": "Data Scientist",
+    "company": "stripe",
+    "location": "Toronto",
+    "link": "https://stripe.com/jobs/search?gh_jid=5895430",
+    "offices": [
+      "Canada Locations"
     ]
   },
   {
@@ -1146,6 +1124,28 @@
     ]
   },
   {
+    "id": "7896349",
+    "role": "6443 GTM F&S",
+    "title": "Finance & Strategy Lead, Growth",
+    "company": "stripe",
+    "location": "Seattle, San Francisco, New York ",
+    "link": "https://stripe.com/jobs/search?gh_jid=7896349",
+    "offices": [
+      "US"
+    ]
+  },
+  {
+    "id": "7902126",
+    "role": "6448 Payments & Risk F&S",
+    "title": "Finance & Strategy Lead, Payments Product",
+    "company": "stripe",
+    "location": "Seattle, Chicago, San Francisco, New York",
+    "link": "https://stripe.com/jobs/search?gh_jid=7902126",
+    "offices": [
+      "US"
+    ]
+  },
+  {
     "id": "7812163",
     "role": "PERM",
     "title": "Finance & Strategy Partner",
@@ -1157,17 +1157,6 @@
     ]
   },
   {
-    "id": "7747640",
-    "role": "2315 Marketing - Marketing Operations",
-    "title": "Forward Deployed AI Accelerator, Marketing",
-    "company": "stripe",
-    "location": "United States",
-    "link": "https://stripe.com/jobs/search?gh_jid=7747640",
-    "offices": [
-      "US-Seattle"
-    ]
-  },
-  {
     "id": "7747638",
     "role": "2315 Marketing - Marketing Operations",
     "title": "Forward Deployed AI Accelerator, Marketing",
@@ -1176,6 +1165,17 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7747638",
     "offices": [
       "US"
+    ]
+  },
+  {
+    "id": "7747640",
+    "role": "2315 Marketing - Marketing Operations",
+    "title": "Forward Deployed AI Accelerator, Marketing",
+    "company": "stripe",
+    "location": "United States",
+    "link": "https://stripe.com/jobs/search?gh_jid=7747640",
+    "offices": [
+      "US-Seattle"
     ]
   },
   {
@@ -1861,17 +1861,6 @@
     ]
   },
   {
-    "id": "7562148",
-    "role": "1342 Payment Performance",
-    "title": "Payments Performance Strategist, Network Cost ",
-    "company": "stripe",
-    "location": "San Francisco, CA; New York, NY; Chicago, IL; Seattle, WA; Atlanta, GA ",
-    "link": "https://stripe.com/jobs/search?gh_jid=7562148",
-    "offices": [
-      "US"
-    ]
-  },
-  {
     "id": "7409686",
     "role": "1342 Payment Performance",
     "title": "Payments Performance Strategist, PINless Debit",
@@ -1909,7 +1898,7 @@
     "role": "6550 People Partners",
     "title": "People Partner, GTM",
     "company": "stripe",
-    "location": "San Francisco, Seattle, Chicago, NYC, Atlanta or Toronto",
+    "location": "San Francisco, Chicago or NYC",
     "link": "https://stripe.com/jobs/search?gh_jid=7466921",
     "offices": [
       "US"
@@ -1971,6 +1960,17 @@
     "company": "stripe",
     "location": "US-Remote",
     "link": "https://stripe.com/jobs/search?gh_jid=7858811",
+    "offices": [
+      "US"
+    ]
+  },
+  {
+    "id": "7559141",
+    "role": "1340 Customer Success Management",
+    "title": "Principal Customer Success Manager, Key Accounts ",
+    "company": "stripe",
+    "location": "Atlanta, GA; Chicago, IL ",
+    "link": "https://stripe.com/jobs/search?gh_jid=7559141",
     "offices": [
       "US"
     ]
@@ -2244,7 +2244,7 @@
     "role": "8506 Bridge - S&O",
     "title": "Product Support, Bridge ",
     "company": "stripe",
-    "location": "San Francisco or New York",
+    "location": "New York, Dublin, London",
     "link": "https://stripe.com/jobs/search?gh_jid=7678670",
     "offices": [
       "US"
@@ -2647,17 +2647,6 @@
     ]
   },
   {
-    "id": "7600792",
-    "role": "5113 Experimental Bets - Core Tech",
-    "title": "Software Engineer, Experimental Projects",
-    "company": "stripe",
-    "location": "LOCATION",
-    "link": "https://stripe.com/jobs/search?gh_jid=7600792",
-    "offices": [
-      "US"
-    ]
-  },
-  {
     "id": "7895344",
     "role": "PERM",
     "title": "Software Engineer IC-02",
@@ -2746,17 +2735,6 @@
     ]
   },
   {
-    "id": "7396509",
-    "role": "1150 Solutions Architecture",
-    "title": "Solutions Architect, Platforms",
-    "company": "stripe",
-    "location": "Chicago, IL or New York, NY",
-    "link": "https://stripe.com/jobs/search?gh_jid=7396509",
-    "offices": [
-      "US"
-    ]
-  },
-  {
     "id": "7361440",
     "role": "1150 Solutions Architecture",
     "title": "Solutions Architect, SMB",
@@ -2790,17 +2768,6 @@
     ]
   },
   {
-    "id": "7377591",
-    "role": "1150 Solutions Architecture",
-    "title": "Specialist Solutions Architect, Payments",
-    "company": "stripe",
-    "location": "NY, SF, Chicago",
-    "link": "https://stripe.com/jobs/search?gh_jid=7377591",
-    "offices": [
-      "US"
-    ]
-  },
-  {
     "id": "7377593",
     "role": "1150 Solutions Architecture",
     "title": "Specialist Solutions Architect, Payments",
@@ -2812,23 +2779,23 @@
     ]
   },
   {
+    "id": "7377591",
+    "role": "1150 Solutions Architecture",
+    "title": "Specialist Solutions Architect, Payments",
+    "company": "stripe",
+    "location": "NY, SF, Chicago",
+    "link": "https://stripe.com/jobs/search?gh_jid=7377591",
+    "offices": [
+      "US"
+    ]
+  },
+  {
     "id": "7365914",
     "role": "1150 Solutions Architecture",
     "title": "Specialist Solutions Architect, Radar (Fraud/Risk)",
     "company": "stripe",
     "location": "NY or SF",
     "link": "https://stripe.com/jobs/search?gh_jid=7365914",
-    "offices": [
-      "US"
-    ]
-  },
-  {
-    "id": "7867330",
-    "role": "2324 Brand Marketing",
-    "title": "Special Projects, Operations Manager",
-    "company": "stripe",
-    "location": "San Francisco ",
-    "link": "https://stripe.com/jobs/search?gh_jid=7867330",
     "offices": [
       "US"
     ]
@@ -2884,6 +2851,17 @@
     "company": "stripe",
     "location": "US-Remote",
     "link": "https://stripe.com/jobs/search?gh_jid=7280343",
+    "offices": [
+      "US"
+    ]
+  },
+  {
+    "id": "7895467",
+    "role": "8217 Risk Engineering",
+    "title": "Staff Engineer, Identity",
+    "company": "stripe",
+    "location": "Seattle, San Francisco, New York, Remote",
+    "link": "https://stripe.com/jobs/search?gh_jid=7895467",
     "offices": [
       "US"
     ]

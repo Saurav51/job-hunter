@@ -1,0 +1,578 @@
+{
+  "anthropic": [
+    {
+      "id": "5197529008",
+      "role": "Data Science & Analytics",
+      "title": "Data Scientist, Developer Productivity",
+      "company": "anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5197529008",
+      "offices": [
+        "San Francisco, CA"
+      ]
+    },
+    {
+      "id": "5211222008",
+      "role": "Sales",
+      "title": "GTM Engineer",
+      "company": "anthropic",
+      "location": "San Francisco, CA",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5211222008",
+      "offices": [
+        "San Francisco, CA"
+      ]
+    },
+    {
+      "id": "5183021008",
+      "role": "Finance",
+      "title": "Head of Finance AI & Innovation",
+      "company": "anthropic",
+      "location": "San Francisco, CA",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5183021008",
+      "offices": [
+        "San Francisco, CA"
+      ]
+    },
+    {
+      "id": "5208284008",
+      "role": "Security",
+      "title": "IT Support Engineer",
+      "company": "anthropic",
+      "location": "Dublin, IE",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5208284008",
+      "offices": [
+        "Dublin, IE"
+      ]
+    },
+    {
+      "id": "5199976008",
+      "role": "People",
+      "title": "Recruiting Coordinator [contract]",
+      "company": "anthropic",
+      "location": "London, UK",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5199976008",
+      "offices": [
+        "London, UK"
+      ]
+    },
+    {
+      "id": "4017331008",
+      "role": "AI Research & Engineering",
+      "title": "Research Engineer, Knowledge Team",
+      "company": "anthropic",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/4017331008",
+      "offices": [
+        "New York City, NY",
+        "Remote-Friendly US (Travel Required)",
+        "San Francisco, CA",
+        "Seattle, WA"
+      ]
+    },
+    {
+      "id": "5211241008",
+      "role": "Software Engineering - Infrastructure",
+      "title": "Staff Software Engineer, Kubernetes Platform",
+      "company": "anthropic",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5211241008",
+      "offices": [
+        "New York City, NY",
+        "San Francisco, CA"
+      ]
+    },
+    {
+      "id": "5202462008",
+      "role": "People",
+      "title": "Workforce Planning Lead, People Analytics",
+      "company": "anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5202462008",
+      "offices": [
+        "San Francisco, CA"
+      ]
+    }
+  ],
+  "stripe": [
+    {
+      "id": "7891721",
+      "role": "1652 Platforms - Account Executives (NA)",
+      "title": "Account Executive, Velocity Platforms (Grower)",
+      "company": "stripe",
+      "location": "New York City",
+      "link": "https://stripe.com/jobs/search?gh_jid=7891721",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7896349",
+      "role": "6443 GTM F&S",
+      "title": "Finance & Strategy Lead, Growth",
+      "company": "stripe",
+      "location": "Seattle, San Francisco, New York ",
+      "link": "https://stripe.com/jobs/search?gh_jid=7896349",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7902126",
+      "role": "6448 Payments & Risk F&S",
+      "title": "Finance & Strategy Lead, Payments Product",
+      "company": "stripe",
+      "location": "Seattle, Chicago, San Francisco, New York",
+      "link": "https://stripe.com/jobs/search?gh_jid=7902126",
+      "offices": [
+        "US"
+      ]
+    },
+    {
+      "id": "7895467",
+      "role": "8217 Risk Engineering",
+      "title": "Staff Engineer, Identity",
+      "company": "stripe",
+      "location": "Seattle, San Francisco, New York, Remote",
+      "link": "https://stripe.com/jobs/search?gh_jid=7895467",
+      "offices": [
+        "US"
+      ]
+    }
+  ],
+  "doordash": [
+    {
+      "id": "5630445",
+      "role": "341 Executive Engineering",
+      "title": "Software Engineer, Backend (All Teams)",
+      "company": "doordash",
+      "location": "Los Angeles, CA; Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI",
+      "link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630445",
+      "offices": [
+        "San Francisco"
+      ]
+    },
+    {
+      "id": "5516835",
+      "role": "341 Executive Engineering",
+      "title": "Software Engineer, Machine Learning - Fraud",
+      "company": "doordash",
+      "location": "Sunnyvale, CA; San Francisco, CA",
+      "link": "https://job-boards.greenhouse.io/doordashusa/jobs/5516835",
+      "offices": [
+        "San Francisco"
+      ]
+    }
+  ],
+  "perplexity": [
+    {
+      "id": "bf58f336-d644-4679-a771-69db80c7694f",
+      "role": "Platform & Infrastructure",
+      "title": "Developer Relations Manager - Perplexity API Platform ",
+      "company": "perplexity",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/perplexity/bf58f336-d644-4679-a771-69db80c7694f"
+    }
+  ],
+  "openai": [
+    {
+      "id": "f659227e-e916-45fc-8726-6861f60979b6",
+      "role": "Product Management",
+      "title": "Ads Product Manager",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/f659227e-e916-45fc-8726-6861f60979b6"
+    },
+    {
+      "id": "c4d36b49-a51d-41c3-83f4-f9e7caca556f",
+      "role": "Hardware",
+      "title": "Advanced Packaging Multi-Physics Modeling Engineer",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/c4d36b49-a51d-41c3-83f4-f9e7caca556f"
+    },
+    {
+      "id": "cc843c56-fac0-4174-aad5-dee875f2d86f",
+      "role": "Go To Market",
+      "title": "AI Workflow & Operations, Revenue Strategy & Operations",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/cc843c56-fac0-4174-aad5-dee875f2d86f"
+    },
+    {
+      "id": "cfd44591-1d8a-431c-b082-2b68de4bc736",
+      "role": "Legal",
+      "title": "Associate General Counsel, Executive Compensation & Benefits",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/cfd44591-1d8a-431c-b082-2b68de4bc736"
+    },
+    {
+      "id": "80b2f787-7ba8-465c-b3c9-e1e95593bfd4",
+      "role": "Executive Operations",
+      "title": "Executive Business Partner, APAC",
+      "company": "openai",
+      "location": "Singapore",
+      "link": "https://jobs.ashbyhq.com/openai/80b2f787-7ba8-465c-b3c9-e1e95593bfd4"
+    },
+    {
+      "id": "f6b9903c-9034-436b-a4ec-4c8643a6d0dd",
+      "role": "Hardware",
+      "title": "Networking Operating System Firmware Engineer",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/f6b9903c-9034-436b-a4ec-4c8643a6d0dd"
+    },
+    {
+      "id": "82d89295-807f-4bd1-9f4f-ec24265b2f44",
+      "role": "Product Partnerships",
+      "title": "Partner Manager - Search, Commerce ",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/82d89295-807f-4bd1-9f4f-ec24265b2f44"
+    },
+    {
+      "id": "3457e47b-d45a-4e3a-a415-f09f5b97d93a",
+      "role": "Product Partnerships",
+      "title": "Partnerships Deal Lead - Search, Commerce",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/3457e47b-d45a-4e3a-a415-f09f5b97d93a"
+    },
+    {
+      "id": "9a903274-2ba2-4def-8f70-37a8461b6956",
+      "role": "People Systems & Operations",
+      "title": "People (HR) Operations Specialist",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/9a903274-2ba2-4def-8f70-37a8461b6956"
+    },
+    {
+      "id": "791d2486-1e95-483f-ab79-098b255d1a16",
+      "role": "Product Management",
+      "title": "Product Manager, ChatGPT and Codex App Ecosystem",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/791d2486-1e95-483f-ab79-098b255d1a16"
+    },
+    {
+      "id": "03538000-4fa6-408c-b956-af5adc05a5e0",
+      "role": "Finance",
+      "title": "Senior Manager, Customs and Trade",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/03538000-4fa6-408c-b956-af5adc05a5e0"
+    },
+    {
+      "id": "e8b22611-337e-429c-9828-4ef188e4b933",
+      "role": "Finance",
+      "title": "Senior Manager, Export Controls",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/e8b22611-337e-429c-9828-4ef188e4b933"
+    },
+    {
+      "id": "33cf88f5-3861-40d9-b5a2-f4ea623bee98",
+      "role": "Finance",
+      "title": "Senior Manager, Strategic Tax Operations",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/33cf88f5-3861-40d9-b5a2-f4ea623bee98"
+    },
+    {
+      "id": "98b712b7-4e53-4c5f-abb4-3cd0cd865b1c",
+      "role": "Finance",
+      "title": "Senior Manager, Transfer Pricing",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/98b712b7-4e53-4c5f-abb4-3cd0cd865b1c"
+    },
+    {
+      "id": "a2370c44-2bae-4bcb-aacd-2bd16685e05f",
+      "role": "Legal",
+      "title": "Senior Paralegal, Employment",
+      "company": "openai",
+      "location": "San Francisco",
+      "link": "https://jobs.ashbyhq.com/openai/a2370c44-2bae-4bcb-aacd-2bd16685e05f"
+    }
+  ],
+  "ramp": [
+    {
+      "id": "0d731586-3626-48fb-9dc5-3061ae5fd240",
+      "role": "CX Frontline",
+      "title": "Customer Experience Agent - London",
+      "company": "ramp",
+      "location": "London",
+      "link": "https://jobs.ashbyhq.com/ramp/0d731586-3626-48fb-9dc5-3061ae5fd240"
+    }
+  ],
+  "uber": [
+    {
+      "id": "157476",
+      "role": "Engineering",
+      "title": "Software Engineer I",
+      "company": "uber",
+      "location": "San Francisco, United States",
+      "link": "https://www.uber.com/global/en/careers/list/157476/"
+    },
+    {
+      "id": "156782",
+      "role": "Engineering",
+      "title": "Software Engineer",
+      "company": "uber",
+      "location": "Sunnyvale, United States",
+      "link": "https://www.uber.com/global/en/careers/list/156782/"
+    },
+    {
+      "id": "156794",
+      "role": "Engineering",
+      "title": "Software Engineer",
+      "company": "uber",
+      "location": "San Francisco, United States",
+      "link": "https://www.uber.com/global/en/careers/list/156794/"
+    },
+    {
+      "id": "156795",
+      "role": "Engineering",
+      "title": "Software Engineer",
+      "company": "uber",
+      "location": "San Francisco, United States",
+      "link": "https://www.uber.com/global/en/careers/list/156795/"
+    },
+    {
+      "id": "152677",
+      "role": "Backend",
+      "title": "Senior Software Engineer, Uber AI Solutions",
+      "company": "uber",
+      "location": "Sunnyvale, United States",
+      "link": "https://www.uber.com/global/en/careers/list/152677/"
+    },
+    {
+      "id": "157483",
+      "role": "Engineering",
+      "title": "Software Engineer",
+      "company": "uber",
+      "location": "Sunnyvale, United States",
+      "link": "https://www.uber.com/global/en/careers/list/157483/"
+    },
+    {
+      "id": "156790",
+      "role": "Staff",
+      "title": "Software Engineer",
+      "company": "uber",
+      "location": "Sunnyvale, United States",
+      "link": "https://www.uber.com/global/en/careers/list/156790/"
+    },
+    {
+      "id": "157138",
+      "role": "Engineering",
+      "title": "Software Engineer",
+      "company": "uber",
+      "location": "San Francisco, United States",
+      "link": "https://www.uber.com/global/en/careers/list/157138/"
+    },
+    {
+      "id": "157139",
+      "role": "Engineering",
+      "title": "Sr Software Engineer",
+      "company": "uber",
+      "location": "Sunnyvale, United States",
+      "link": "https://www.uber.com/global/en/careers/list/157139/"
+    },
+    {
+      "id": "157472",
+      "role": "Engineering",
+      "title": "Software Engineer",
+      "company": "uber",
+      "location": "San Francisco, United States",
+      "link": "https://www.uber.com/global/en/careers/list/157472/"
+    },
+    {
+      "id": "157144",
+      "role": "Program Manager",
+      "title": "Project Manager, Tech",
+      "company": "uber",
+      "location": "San Francisco, United States",
+      "link": "https://www.uber.com/global/en/careers/list/157144/"
+    }
+  ],
+  "google": [
+    {
+      "id": "98205601850368710",
+      "role": "",
+      "title": "Software Engineer, Host Network Function",
+      "company": "google",
+      "location": "Sunnyvale, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/98205601850368710"
+    },
+    {
+      "id": "104398738532770502",
+      "role": "",
+      "title": "Software Engineer, Infrastructure, Platforms and Devices",
+      "company": "google",
+      "location": "Los Angeles, CA, USA",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104398738532770502"
+    }
+  ],
+  "netflix": [
+    {
+      "id": "790315820670",
+      "role": "Program Management",
+      "title": "Manager, Creative Production (Live, Sports Sponsorships)",
+      "company": "netflix",
+      "location": "Los Angeles,California,United States of America",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315820670"
+    },
+    {
+      "id": "790315821606",
+      "role": "Data & Insights",
+      "title": "Research Scientist 5, Signal Privacy - Ads DSE",
+      "company": "netflix",
+      "location": "Los Gatos,California,United States of America",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315821606"
+    },
+    {
+      "id": "790315821929",
+      "role": "Program Management",
+      "title": "Program Manager, Brand Creative Studio - Netflix House",
+      "company": "netflix",
+      "location": "Los Angeles,California,United States of America",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315821929"
+    },
+    {
+      "id": "790315822921",
+      "role": "Marketing",
+      "title": "Manager, Multicultural Publicity",
+      "company": "netflix",
+      "location": "Los Angeles,California,United States of America",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315822921"
+    },
+    {
+      "id": "790315823003",
+      "role": "Product Design",
+      "title": "Senior Product Designer, AI Enablement",
+      "company": "netflix",
+      "location": "Los Gatos,California,United States of America",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315823003"
+    },
+    {
+      "id": "790315823317",
+      "role": "Legal",
+      "title": "Manager/Counsel - Business & Legal Affairs, Original Series (US Studio Partnerships)",
+      "company": "netflix",
+      "location": "Los Angeles,California,United States of America",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315823317"
+    },
+    {
+      "id": "790315176843",
+      "role": "Talent",
+      "title": "Writer, Leadership Programs",
+      "company": "netflix",
+      "location": "Los Angeles,California,United States of America",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315176843"
+    },
+    {
+      "id": "790311798908",
+      "role": "Product Management",
+      "title": "Product Manager, Ads (Media Planning & Orders Aggregations)",
+      "company": "netflix",
+      "location": "New York,New York,United States of America",
+      "link": "https://explore.jobs.netflix.net/careers/job/790311798908"
+    },
+    {
+      "id": "790315823290",
+      "role": "Advertising",
+      "title": "Account Manager (Australia)",
+      "company": "netflix",
+      "location": "Melbourne,Australia",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315823290"
+    },
+    {
+      "id": "790315815480",
+      "role": "Legal",
+      "title": "Manager, Business & Legal Affairs, SEA/TW Content & Music",
+      "company": "netflix",
+      "location": "Bangkok,Thailand",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315815480"
+    },
+    {
+      "id": "790315819792",
+      "role": "Engineering",
+      "title": "Software Engineer 4 - Revenue Infrastructure",
+      "company": "netflix",
+      "location": "USA - Remote",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315819792"
+    },
+    {
+      "id": "790315822683",
+      "role": "Netflix Games Studio",
+      "title": "Principal Technical Artist,  Games R&D - Tech Lab",
+      "company": "netflix",
+      "location": "USA - Remote",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315822683"
+    },
+    {
+      "id": "790315822746",
+      "role": "Legal",
+      "title": "Rights Analyst & Music Coordinator, LATAM",
+      "company": "netflix",
+      "location": "Sao Paulo,Brazil",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315822746"
+    },
+    {
+      "id": "790315823060",
+      "role": null,
+      "title": "Specialist, Art & Print Producer - LATAM",
+      "company": "netflix",
+      "location": "Sao Paulo,Brazil",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315823060"
+    },
+    {
+      "id": "790315823078",
+      "role": "Core Finance & Controllership",
+      "title": "Revenue Accounting Manager, LATAM",
+      "company": "netflix",
+      "location": "Sao Paulo,Brazil",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315823078"
+    },
+    {
+      "id": "790315755711",
+      "role": "Content Production Operations",
+      "title": "Manager Live Production Technology, Production Solutions, EMEA",
+      "company": "netflix",
+      "location": "London,United Kingdom",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315755711"
+    },
+    {
+      "id": "790315733612",
+      "role": "Engineering",
+      "title": "TV UI Engineer 5 - Games Player Experiences",
+      "company": "netflix",
+      "location": "USA - Remote",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315733612"
+    },
+    {
+      "id": "790315734464",
+      "role": "Data & Insights",
+      "title": "Research Engineer 5 - LLM-Driven Product Understanding",
+      "company": "netflix",
+      "location": "USA - Remote",
+      "link": "https://explore.jobs.netflix.net/careers/job/790315734464"
+    },
+    {
+      "id": "790314811709",
+      "role": "Talent",
+      "title": "Compensation Manager, India",
+      "company": "netflix",
+      "location": "Mumbai,India",
+      "link": "https://explore.jobs.netflix.net/careers/job/790314811709"
+    },
+    {
+      "id": "790313582395",
+      "role": "Advertising",
+      "title": "Account Manager (Korea)",
+      "company": "netflix",
+      "location": "Seoul,Korea, Republic of",
+      "link": "https://explore.jobs.netflix.net/careers/job/790313582395"
+    }
+  ]
+}

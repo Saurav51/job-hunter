@@ -144,14 +144,6 @@
     "link": "https://jobs.ashbyhq.com/snowflake/fa33b692-0ce3-43e2-a2f7-1c3fb7ab82ab"
   },
   {
-    "id": "e03f342c-7c03-44e5-962e-f2c52af6998c",
-    "role": "Engineering",
-    "title": "Executive Assistant - Engineering",
-    "company": "snowflake",
-    "location": "US-CA-Menlo Park",
-    "link": "https://jobs.ashbyhq.com/snowflake/e03f342c-7c03-44e5-962e-f2c52af6998c"
-  },
-  {
     "id": "ce981ec2-4d1d-4840-aca4-21dfd6ba85bf",
     "role": "Engineering",
     "title": "Executive Assistant, Observe, Product & Engineering",
@@ -174,14 +166,6 @@
     "company": "snowflake",
     "location": "US-VA-McLean",
     "link": "https://jobs.ashbyhq.com/snowflake/13fe38e8-d130-4ab2-bea6-f586e30b7c5e"
-  },
-  {
-    "id": "54c04244-8d07-4a36-a81c-4454215f6ae9",
-    "role": "Engineering",
-    "title": "Front End Engineer - Analytics & Compute Experience ",
-    "company": "snowflake",
-    "location": "CA-Ontario-Toronto",
-    "link": "https://jobs.ashbyhq.com/snowflake/54c04244-8d07-4a36-a81c-4454215f6ae9"
   },
   {
     "id": "143a2248-564b-4cfa-85f5-d47bac911d74",
@@ -488,14 +472,6 @@
     "link": "https://jobs.ashbyhq.com/snowflake/f4a4fc50-0bda-418e-a8ca-203dea81e801"
   },
   {
-    "id": "502fa357-fec6-4504-bd44-3af11527c1eb",
-    "role": "Engineering",
-    "title": "Senior Software Engineer, Data Governance",
-    "company": "snowflake",
-    "location": "US-CA-Menlo Park",
-    "link": "https://jobs.ashbyhq.com/snowflake/502fa357-fec6-4504-bd44-3af11527c1eb"
-  },
-  {
     "id": "3eea87fa-73c8-46dc-b69b-7beb438b48d8",
     "role": "Engineering",
     "title": "Senior Software Engineer, Enterprise",
@@ -696,14 +672,6 @@
     "link": "https://jobs.ashbyhq.com/snowflake/b8c95597-b452-49bf-994c-04027b7bd6dd"
   },
   {
-    "id": "de785884-dd32-4943-afd2-db5ec94b0c94",
-    "role": "Engineering",
-    "title": "Software Engineering Manager, Identity Access Management",
-    "company": "snowflake",
-    "location": "US-WA-Bellevue",
-    "link": "https://jobs.ashbyhq.com/snowflake/de785884-dd32-4943-afd2-db5ec94b0c94"
-  },
-  {
     "id": "897e1850-c590-4462-b187-0516b65b2034",
     "role": "Engineering",
     "title": "Software Engineer Intern (AI/ML) - 2026",
@@ -752,28 +720,12 @@
     "link": "https://jobs.ashbyhq.com/snowflake/5e571ebe-6cae-4384-a6e2-c151f72ccd41"
   },
   {
-    "id": "853f7a17-2e85-4469-861f-6220e2daf00a",
-    "role": "Engineering",
-    "title": "Software Engineer - Platform Infrastructure Engineering",
-    "company": "snowflake",
-    "location": "PL-Warsaw",
-    "link": "https://jobs.ashbyhq.com/snowflake/853f7a17-2e85-4469-861f-6220e2daf00a"
-  },
-  {
     "id": "3a3238f1-3010-4ef9-855e-bd116d6f4cc1",
     "role": "Engineering",
     "title": "Software Engineer - Platform Infrastructure Engineering ",
     "company": "snowflake",
     "location": "PL-Warsaw",
     "link": "https://jobs.ashbyhq.com/snowflake/3a3238f1-3010-4ef9-855e-bd116d6f4cc1"
-  },
-  {
-    "id": "0745faaf-63aa-449d-8cbd-bee6e8a0632b",
-    "role": "Engineering",
-    "title": "Software Engineer - Production Engineering ",
-    "company": "snowflake",
-    "location": "PL-Warsaw",
-    "link": "https://jobs.ashbyhq.com/snowflake/0745faaf-63aa-449d-8cbd-bee6e8a0632b"
   },
   {
     "id": "fb3529d5-d3da-41ec-b488-bca4c3587fc9",
@@ -800,20 +752,20 @@
     "link": "https://jobs.ashbyhq.com/snowflake/3c018564-63c0-4179-ba91-f42ce75a40fa"
   },
   {
+    "id": "ae43323e-8b10-4c01-b1af-987145191d01",
+    "role": "Engineering",
+    "title": "Staff AI Engineer - Cortex Code Agentic System",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/ae43323e-8b10-4c01-b1af-987145191d01"
+  },
+  {
     "id": "5ee8f744-ff46-45c8-8d1c-b83514b24f61",
     "role": "Engineering",
     "title": "Staff AI Engineer - Snowflake Intelligence",
     "company": "snowflake",
     "location": "US-CA-Menlo Park",
     "link": "https://jobs.ashbyhq.com/snowflake/5ee8f744-ff46-45c8-8d1c-b83514b24f61"
-  },
-  {
-    "id": "ae43323e-8b10-4c01-b1af-987145191d01",
-    "role": "Engineering",
-    "title": "Staff Machine Learning Engineer - Cortex Code Quality",
-    "company": "snowflake",
-    "location": "US-CA-Menlo Park",
-    "link": "https://jobs.ashbyhq.com/snowflake/ae43323e-8b10-4c01-b1af-987145191d01"
   },
   {
     "id": "deaebf03-4681-417b-a870-648d0d6a2a94",

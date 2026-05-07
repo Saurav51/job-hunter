@@ -80,6 +80,14 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
   },
   {
+    "id": "98205601850368710",
+    "role": "",
+    "title": "Software Engineer, Host Network Function",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/98205601850368710"
+  },
+  {
     "id": "120479753218990790",
     "role": "",
     "title": "Software Engineer, Full Stack, gUP Engineering",
@@ -112,14 +120,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/81389984547775174"
   },
   {
-    "id": "90342411158332102",
-    "role": "",
-    "title": "Software Engineer",
-    "company": "google",
-    "location": "Boulder, CO, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/90342411158332102"
-  },
-  {
     "id": "122502275867255494",
     "role": "",
     "title": "Software Engineer, iOS, Google Search",
@@ -136,20 +136,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
   },
   {
-    "id": "133268525148971718",
+    "id": "104398738532770502",
     "role": "",
-    "title": "Software Engineer, Infrastructure, Geo Earth Engine",
+    "title": "Software Engineer, Infrastructure, Platforms and Devices",
     "company": "google",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/133268525148971718"
-  },
-  {
-    "id": "132647057339884230",
-    "role": "",
-    "title": "Software Engineer, Android, Digital Identity",
-    "company": "google",
-    "location": "San Francisco, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/132647057339884230"
+    "location": "Los Angeles, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/104398738532770502"
   },
   {
     "id": "89000220456559302",
@@ -158,5 +150,13 @@
     "company": "google",
     "location": "Mountain View, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/89000220456559302"
+  },
+  {
+    "id": "132647057339884230",
+    "role": "",
+    "title": "Software Engineer, Android, Digital Identity",
+    "company": "google",
+    "location": "San Francisco, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/132647057339884230"
   }
 ]

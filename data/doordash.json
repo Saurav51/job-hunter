@@ -495,6 +495,17 @@
     ]
   },
   {
+    "id": "5630445",
+    "role": "341 Executive Engineering",
+    "title": "Software Engineer, Backend (All Teams)",
+    "company": "doordash",
+    "location": "Los Angeles, CA; Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI",
+    "link": "https://job-boards.greenhouse.io/doordashusa/jobs/5630445",
+    "offices": [
+      "San Francisco"
+    ]
+  },
+  {
     "id": "6458514",
     "role": "318 Data",
     "title": "Software Engineer II, Data Engineering",
@@ -512,6 +523,17 @@
     "company": "doordash",
     "location": "San Francisco, CA",
     "link": "https://job-boards.greenhouse.io/doordashusa/jobs/6367350",
+    "offices": [
+      "San Francisco"
+    ]
+  },
+  {
+    "id": "5516835",
+    "role": "341 Executive Engineering",
+    "title": "Software Engineer, Machine Learning - Fraud",
+    "company": "doordash",
+    "location": "Sunnyvale, CA; San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/doordashusa/jobs/5516835",
     "offices": [
       "San Francisco"
     ]
