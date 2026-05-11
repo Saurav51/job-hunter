@@ -120,14 +120,6 @@
     "link": "https://jobs.ashbyhq.com/ramp/7bfa613e-151c-469b-9973-c89ee3d14838"
   },
   {
-    "id": "461eae23-fbc5-4590-aa3e-d0e61bdb9905",
-    "role": "Corporate",
-    "title": "Business Lead | Procure\u2011to\u2011Pay",
-    "company": "ramp",
-    "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/461eae23-fbc5-4590-aa3e-d0e61bdb9905"
-  },
-  {
     "id": "71411021-d7d9-47fe-95b4-4b0b1365dff8",
     "role": "Channel Sales",
     "title": "Channel Market Development Manager",
@@ -304,14 +296,6 @@
     "link": "https://jobs.ashbyhq.com/ramp/979c7cc4-4d7e-4604-abe8-bcaf8e258523"
   },
   {
-    "id": "b4cbb19e-8249-4339-8eac-20e3806d7999",
-    "role": "Account Executive",
-    "title": "Enterprise Account Executive, Juno",
-    "company": "ramp",
-    "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/b4cbb19e-8249-4339-8eac-20e3806d7999"
-  },
-  {
     "id": "bf7064e1-3eb3-4d03-ac81-0e52b71661a4",
     "role": "Channel Sales",
     "title": "Enterprise Channel Sales Consultant, Juno",
@@ -360,12 +344,12 @@
     "link": "https://jobs.ashbyhq.com/ramp/8e91631a-7e69-4d76-a73b-de2f09d7de9f"
   },
   {
-    "id": "5f29499f-1f33-4104-8277-65f02e17c955",
-    "role": "Communications",
-    "title": "Head of Content",
+    "id": "20331539-c49c-4bf7-a719-a7e1b6e55537",
+    "role": "Business Development",
+    "title": "GTM Associate - Europe ",
     "company": "ramp",
-    "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/5f29499f-1f33-4104-8277-65f02e17c955"
+    "location": "London",
+    "link": "https://jobs.ashbyhq.com/ramp/20331539-c49c-4bf7-a719-a7e1b6e55537"
   },
   {
     "id": "e5c809a6-7ea8-4470-9b42-a0c99e81dd31",
@@ -488,14 +472,6 @@
     "link": "https://jobs.ashbyhq.com/ramp/8baec095-2235-41ab-ab64-9abc57823b4b"
   },
   {
-    "id": "624cd0cc-7471-4c9a-99be-56b90809d2ce",
-    "role": "People & Talent",
-    "title": "Recruiting Manager | Engineering",
-    "company": "ramp",
-    "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/624cd0cc-7471-4c9a-99be-56b90809d2ce"
-  },
-  {
     "id": "924ad606-e32a-4bb9-967c-f609cdaebaa7",
     "role": "Risk Operations",
     "title": "Risk Operations, Collections",
@@ -510,6 +486,14 @@
     "company": "ramp",
     "location": "New York, NY (HQ)",
     "link": "https://jobs.ashbyhq.com/ramp/fbc42a9a-6fc2-4061-9511-502ee4f2a60a"
+  },
+  {
+    "id": "d2d32a6d-5f29-4708-83d0-03b4e44c031d",
+    "role": "SDR",
+    "title": "Sales Development Representative",
+    "company": "ramp",
+    "location": "New York, NY (HQ)",
+    "link": "https://jobs.ashbyhq.com/ramp/d2d32a6d-5f29-4708-83d0-03b4e44c031d"
   },
   {
     "id": "add8bb4a-f618-44f9-9874-81b32d7d862b",
@@ -566,6 +550,14 @@
     "company": "ramp",
     "location": "New York, NY (HQ)",
     "link": "https://jobs.ashbyhq.com/ramp/c539b349-d570-41a8-824f-94fc9729caa6"
+  },
+  {
+    "id": "2888b101-b1da-4e53-a02e-1bb9b1b5a951",
+    "role": "Data",
+    "title": "Senior Applied Scientist, Credit Risk",
+    "company": "ramp",
+    "location": "New York, NY (HQ)",
+    "link": "https://jobs.ashbyhq.com/ramp/2888b101-b1da-4e53-a02e-1bb9b1b5a951"
   },
   {
     "id": "ca9a8794-b40c-44bc-8f8a-d85182c62c6e",
@@ -864,20 +856,20 @@
     "link": "https://jobs.ashbyhq.com/ramp/e45a8b6a-5029-4ca5-ac6f-5af940843c72"
   },
   {
+    "id": "624cd0cc-7471-4c9a-99be-56b90809d2ce",
+    "role": "People & Talent",
+    "title": "Technical Recruiter | Engineering ",
+    "company": "ramp",
+    "location": "New York, NY (HQ)",
+    "link": "https://jobs.ashbyhq.com/ramp/624cd0cc-7471-4c9a-99be-56b90809d2ce"
+  },
+  {
     "id": "21aabcbe-948c-47ab-bcf8-3ac3f13174a9",
     "role": "Talent",
     "title": "Technical Recruiter | Engineering | Industry or University",
     "company": "ramp",
     "location": "New York, NY (HQ)",
     "link": "https://jobs.ashbyhq.com/ramp/21aabcbe-948c-47ab-bcf8-3ac3f13174a9"
-  },
-  {
-    "id": "47dfbc1a-824a-40a6-96f6-d500f26cf361",
-    "role": "People & Talent",
-    "title": "Technical Sourcer | Engineering",
-    "company": "ramp",
-    "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/47dfbc1a-824a-40a6-96f6-d500f26cf361"
   },
   {
     "id": "fc971889-db1d-4a20-a25e-f282f9296936",

@@ -22,28 +22,6 @@
     ]
   },
   {
-    "id": "7664841",
-    "role": "1653 Startups - Account Executives (NA)",
-    "title": "Account Executive, Funded Startups - New Business",
-    "company": "stripe",
-    "location": "San Francisco, New York City ",
-    "link": "https://stripe.com/jobs/search?gh_jid=7664841",
-    "offices": [
-      "US"
-    ]
-  },
-  {
-    "id": "7746888",
-    "role": "1653 Startups - Account Executives (NA)",
-    "title": "Account Executive, Funded Startups - New Business ",
-    "company": "stripe",
-    "location": "San Francisco, New York City ",
-    "link": "https://stripe.com/jobs/search?gh_jid=7746888",
-    "offices": [
-      "US"
-    ]
-  },
-  {
     "id": "7576967",
     "role": "1652 Platforms - Account Executives (NA)",
     "title": "Account Executive, Platforms (Existing Business)",
@@ -121,23 +99,34 @@
     ]
   },
   {
+    "id": "7891728",
+    "role": "1652 Platforms - Account Executives (NA)",
+    "title": "Account Executive, Startup Platforms ",
+    "company": "stripe",
+    "location": "San Francisco",
+    "link": "https://stripe.com/jobs/search?gh_jid=7891728",
+    "offices": [
+      "US"
+    ]
+  },
+  {
+    "id": "7872736",
+    "role": "1653 Startups - Account Executives (NA)",
+    "title": "Account Executive, Startups (Existing Business) ",
+    "company": "stripe",
+    "location": "Chicago ",
+    "link": "https://stripe.com/jobs/search?gh_jid=7872736",
+    "offices": [
+      "US"
+    ]
+  },
+  {
     "id": "7891716",
     "role": "1652 Platforms - Account Executives (NA)",
     "title": "Account Executive, Velocity Platforms (Grower)",
     "company": "stripe",
     "location": "Chicago",
     "link": "https://stripe.com/jobs/search?gh_jid=7891716",
-    "offices": [
-      "US"
-    ]
-  },
-  {
-    "id": "7891728",
-    "role": "1652 Platforms - Account Executives (NA)",
-    "title": "Account Executive, Velocity Platforms (Grower)",
-    "company": "stripe",
-    "location": "San Francisco",
-    "link": "https://stripe.com/jobs/search?gh_jid=7891728",
     "offices": [
       "US"
     ]
@@ -246,7 +235,7 @@
   {
     "id": "7867330",
     "role": "2324 Brand Marketing",
-    "title": "Assistant Project Manager, Environments",
+    "title": "Assistant Project Manager, Capital Projects",
     "company": "stripe",
     "location": "San Francisco ",
     "link": "https://stripe.com/jobs/search?gh_jid=7867330",
@@ -351,17 +340,6 @@
     "link": "https://stripe.com/jobs/search?gh_jid=6042172",
     "offices": [
       "US"
-    ]
-  },
-  {
-    "id": "6865161",
-    "role": "8122 Data Foundations",
-    "title": "Backend Engineer, Data",
-    "company": "stripe",
-    "location": "Canada",
-    "link": "https://stripe.com/jobs/search?gh_jid=6865161",
-    "offices": [
-      "Canada Locations"
     ]
   },
   {
@@ -486,28 +464,6 @@
     ]
   },
   {
-    "id": "7551322",
-    "role": "6410 Treasury Finance",
-    "title": "Capital & Liquidity Risk Lead",
-    "company": "stripe",
-    "location": "New York",
-    "link": "https://stripe.com/jobs/search?gh_jid=7551322",
-    "offices": [
-      "US"
-    ]
-  },
-  {
-    "id": "7682459",
-    "role": "1630 Alliances & Channels",
-    "title": "Chief of Staff, Alliances Channels and Industries",
-    "company": "stripe",
-    "location": "SF, NYC, Seattle, CHI",
-    "link": "https://stripe.com/jobs/search?gh_jid=7682459",
-    "offices": [
-      "US"
-    ]
-  },
-  {
     "id": "7572925",
     "role": "8505 Bridge - G&A",
     "title": "Chief Operating Officer (COO) & Deputy Trust Officer, Bridge",
@@ -602,6 +558,17 @@
     "company": "stripe",
     "location": "South San Francisco HQ, NYC, Toronto, Seattle, Chicago, Atlanta, US-Remote",
     "link": "https://stripe.com/jobs/search?gh_jid=7808044",
+    "offices": [
+      "US"
+    ]
+  },
+  {
+    "id": "7644883",
+    "role": "2317 Marketing - PMM",
+    "title": "Competitive Program Manager",
+    "company": "stripe",
+    "location": "United States",
+    "link": "https://stripe.com/jobs/search?gh_jid=7644883",
     "offices": [
       "US"
     ]
@@ -750,17 +717,6 @@
     ]
   },
   {
-    "id": "6282403",
-    "role": "4138 SDC - Tech Ops",
-    "title": "Data Analyst",
-    "company": "stripe",
-    "location": "Mexico City ",
-    "link": "https://stripe.com/jobs/search?gh_jid=6282403",
-    "offices": [
-      "Mexico Locations"
-    ]
-  },
-  {
     "id": "5416444",
     "role": "7112 Data Science",
     "title": "Data Analyst",
@@ -769,6 +725,17 @@
     "link": "https://stripe.com/jobs/search?gh_jid=5416444",
     "offices": [
       "Canada Locations"
+    ]
+  },
+  {
+    "id": "6282403",
+    "role": "4138 SDC - Tech Ops",
+    "title": "Data Analyst",
+    "company": "stripe",
+    "location": "Mexico City ",
+    "link": "https://stripe.com/jobs/search?gh_jid=6282403",
+    "offices": [
+      "Mexico Locations"
     ]
   },
   {
@@ -805,14 +772,14 @@
     ]
   },
   {
-    "id": "5601879",
+    "id": "5895430",
     "role": "7112 Data Science",
     "title": "Data Scientist",
     "company": "stripe",
-    "location": "N/A",
-    "link": "https://stripe.com/jobs/search?gh_jid=5601879",
+    "location": "Toronto",
+    "link": "https://stripe.com/jobs/search?gh_jid=5895430",
     "offices": [
-      "US"
+      "Canada Locations"
     ]
   },
   {
@@ -824,17 +791,6 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7809414",
     "offices": [
       "US-PERM"
-    ]
-  },
-  {
-    "id": "5895430",
-    "role": "7112 Data Science",
-    "title": "Data Scientist",
-    "company": "stripe",
-    "location": "Toronto",
-    "link": "https://stripe.com/jobs/search?gh_jid=5895430",
-    "offices": [
-      "Canada Locations"
     ]
   },
   {
@@ -926,17 +882,6 @@
     ]
   },
   {
-    "id": "7802210",
-    "role": "8133 Marketing Systems",
-    "title": "Engineering Manager, Contracting Platform ",
-    "company": "stripe",
-    "location": "N/A",
-    "link": "https://stripe.com/jobs/search?gh_jid=7802210",
-    "offices": [
-      "US"
-    ]
-  },
-  {
     "id": "7762570",
     "role": "8126 Developer Infrastructure",
     "title": "Engineering Manager, Core Events",
@@ -963,7 +908,7 @@
     "role": "8122 Data Foundations",
     "title": "Engineering Manager, Data Transformation",
     "company": "stripe",
-    "location": "N/A",
+    "location": "US-SEA, US-SF, US-NYC, Canada-OPEN",
     "link": "https://stripe.com/jobs/search?gh_jid=7688358",
     "offices": [
       "US"
@@ -981,12 +926,12 @@
     ]
   },
   {
-    "id": "7657997",
-    "role": "8126 Developer Infrastructure",
-    "title": "Engineering Manager, HADR",
+    "id": "7760378",
+    "role": "8590 BaaS - Eng",
+    "title": "Engineering Manager, Issuing",
     "company": "stripe",
-    "location": "US Remote",
-    "link": "https://stripe.com/jobs/search?gh_jid=7657997",
+    "location": "New York City",
+    "link": "https://stripe.com/jobs/search?gh_jid=7760378",
     "offices": [
       "US"
     ]
@@ -1157,6 +1102,17 @@
     ]
   },
   {
+    "id": "7868815",
+    "role": "4516 SDC - Bridge",
+    "title": "Financial Crimes Operations Manager, Bridge",
+    "company": "stripe",
+    "location": "Mexico City",
+    "link": "https://stripe.com/jobs/search?gh_jid=7868815",
+    "offices": [
+      "Mexico Locations"
+    ]
+  },
+  {
     "id": "7747638",
     "role": "2315 Marketing - Marketing Operations",
     "title": "Forward Deployed AI Accelerator, Marketing",
@@ -1231,6 +1187,17 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7644950",
     "offices": [
       "Canada Locations"
+    ]
+  },
+  {
+    "id": "7325252",
+    "role": "8513 Payments Experience - Eng",
+    "title": "Frontend Engineer, Payments & Risk",
+    "company": "stripe",
+    "location": "N/A",
+    "link": "https://stripe.com/jobs/search?gh_jid=7325252",
+    "offices": [
+      "US"
     ]
   },
   {
@@ -1319,6 +1286,17 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7436086",
     "offices": [
       "Canada Locations"
+    ]
+  },
+  {
+    "id": "7895020",
+    "role": "3313 SDC - Financial Crimes",
+    "title": "Global AML Lead, Risk Operations",
+    "company": "stripe",
+    "location": "United States",
+    "link": "https://stripe.com/jobs/search?gh_jid=7895020",
+    "offices": [
+      "US"
     ]
   },
   {
@@ -1531,17 +1509,6 @@
     ]
   },
   {
-    "id": "7733233",
-    "role": "7312 CorpTech Customer Success",
-    "title": "IT Support Engineer",
-    "company": "stripe",
-    "location": "Toronto",
-    "link": "https://stripe.com/jobs/search?gh_jid=7733233",
-    "offices": [
-      "Canada Locations"
-    ]
-  },
-  {
     "id": "7733216",
     "role": "7312 CorpTech Customer Success",
     "title": "IT Support Engineer",
@@ -1550,6 +1517,17 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7733216",
     "offices": [
       "Mexico Locations"
+    ]
+  },
+  {
+    "id": "7733233",
+    "role": "7312 CorpTech Customer Success",
+    "title": "IT Support Engineer",
+    "company": "stripe",
+    "location": "Toronto",
+    "link": "https://stripe.com/jobs/search?gh_jid=7733233",
+    "offices": [
+      "Canada Locations"
     ]
   },
   {
@@ -1570,17 +1548,6 @@
     "company": "stripe",
     "location": "Chicago, US-Remote, SEA, NYC, SF ",
     "link": "https://stripe.com/jobs/search?gh_jid=7811935",
-    "offices": [
-      "US"
-    ]
-  },
-  {
-    "id": "7079044",
-    "role": "7112 Data Science",
-    "title": "Machine Learning Engineer, Payments ML Accelerator",
-    "company": "stripe",
-    "location": "Seattle; San Francisco; New York City",
-    "link": "https://stripe.com/jobs/search?gh_jid=7079044",
     "offices": [
       "US"
     ]
@@ -1652,6 +1619,17 @@
     ]
   },
   {
+    "id": "7896538",
+    "role": "1130 Global Sales Development Mgrs",
+    "title": "Manager, Sales Development",
+    "company": "stripe",
+    "location": "Chicago",
+    "link": "https://stripe.com/jobs/search?gh_jid=7896538",
+    "offices": [
+      "US"
+    ]
+  },
+  {
     "id": "7253148",
     "role": "2315 Marketing - Marketing Operations",
     "title": "Marketing Operations Manager, Americas",
@@ -1663,23 +1641,12 @@
     ]
   },
   {
-    "id": "7639823",
+    "id": "7892945",
     "role": "2315 Marketing - Marketing Operations",
-    "title": "Marketing Operations Program Manager",
+    "title": "Marketing Program Manager - Sports Sponsorship",
     "company": "stripe",
-    "location": "US- Remote",
-    "link": "https://stripe.com/jobs/search?gh_jid=7639823",
-    "offices": [
-      "US"
-    ]
-  },
-  {
-    "id": "7644883",
-    "role": "2317 Marketing - PMM",
-    "title": "Market Intelligence Program Manager ",
-    "company": "stripe",
-    "location": "United States",
-    "link": "https://stripe.com/jobs/search?gh_jid=7644883",
+    "location": "US",
+    "link": "https://stripe.com/jobs/search?gh_jid=7892945",
     "offices": [
       "US"
     ]
@@ -1702,17 +1669,6 @@
     "company": "stripe",
     "location": "Chicago, Atlanta, San Francisco, Seattle, New York",
     "link": "https://stripe.com/jobs/search?gh_jid=7589897",
-    "offices": [
-      "US"
-    ]
-  },
-  {
-    "id": "7589978",
-    "role": "4119 Product Support",
-    "title": "Network Solution Specialist",
-    "company": "stripe",
-    "location": "Atlanta, Chicago",
-    "link": "https://stripe.com/jobs/search?gh_jid=7589978",
     "offices": [
       "US"
     ]
@@ -2108,6 +2064,17 @@
     ]
   },
   {
+    "id": "7901987",
+    "role": "3710 Startup Product",
+    "title": "Product Manager, Startup Products",
+    "company": "stripe",
+    "location": "NYC",
+    "link": "https://stripe.com/jobs/search?gh_jid=7901987",
+    "offices": [
+      "US"
+    ]
+  },
+  {
     "id": "6651889",
     "role": "8915 Core Tech Product Management",
     "title": "Product Manager, Stripe Infrastructure",
@@ -2189,7 +2156,7 @@
     "role": "2317 Marketing - PMM",
     "title": "Product Marketing Manager, Pricing",
     "company": "stripe",
-    "location": "SF, NYC, Seattle, US Remote",
+    "location": "SF, NYC, Seattle, Remote in the US",
     "link": "https://stripe.com/jobs/search?gh_jid=7812965",
     "offices": [
       "US"
@@ -2372,6 +2339,17 @@
     ]
   },
   {
+    "id": "7230921",
+    "role": "4891 Partner Risk Operations",
+    "title": "Risk Operations Analyst",
+    "company": "stripe",
+    "location": "Remote",
+    "link": "https://stripe.com/jobs/search?gh_jid=7230921",
+    "offices": [
+      "US"
+    ]
+  },
+  {
     "id": "7430296",
     "role": "3313 SDC - Financial Crimes",
     "title": "Risk Operations Analyst, Financial Crimes Programs",
@@ -2449,6 +2427,17 @@
     ]
   },
   {
+    "id": "7874862",
+    "role": "3132 Risk Strategy",
+    "title": "Risk Strategist - Screening (Financial Crimes)",
+    "company": "stripe",
+    "location": "US-Chicago; US-Atlanta; US-Remote; Canada-Toronto; Canada-Remote",
+    "link": "https://stripe.com/jobs/search?gh_jid=7874862",
+    "offices": [
+      "US"
+    ]
+  },
+  {
     "id": "7594866",
     "role": "3131 Risk Supportability Strategy",
     "title": "Risk Strategist, User Risk Strategy",
@@ -2466,6 +2455,17 @@
     "company": "stripe",
     "location": "CHI, SF, NYC",
     "link": "https://stripe.com/jobs/search?gh_jid=7739207",
+    "offices": [
+      "US"
+    ]
+  },
+  {
+    "id": "6570253",
+    "role": "1132 AMER Sales Development Reps",
+    "title": "Sales Development Representative",
+    "company": "stripe",
+    "location": "Chicago, Illinois",
+    "link": "https://stripe.com/jobs/search?gh_jid=6570253",
     "offices": [
       "US"
     ]
@@ -2537,12 +2537,45 @@
     ]
   },
   {
+    "id": "7872739",
+    "role": "1653 Startups - Account Executives (NA)",
+    "title": "Scaled Account Executive, Startups ",
+    "company": "stripe",
+    "location": "Chicago ",
+    "link": "https://stripe.com/jobs/search?gh_jid=7872739",
+    "offices": [
+      "US"
+    ]
+  },
+  {
     "id": "7736171",
     "role": "9001 Privy - R&D",
     "title": "SDK Engineer (React/React Native), Privy",
     "company": "stripe",
     "location": "NYC-Privy",
     "link": "https://stripe.com/jobs/search?gh_jid=7736171",
+    "offices": [
+      "US"
+    ]
+  },
+  {
+    "id": "7657732",
+    "role": "8504 Bridge - R&D",
+    "title": "Security Analyst, Bridge",
+    "company": "stripe",
+    "location": "San Francisco, New York City, Dublin",
+    "link": "https://stripe.com/jobs/search?gh_jid=7657732",
+    "offices": [
+      "US"
+    ]
+  },
+  {
+    "id": "7776179",
+    "role": "8504 Bridge - R&D",
+    "title": "Security Engineer, Bridge",
+    "company": "stripe",
+    "location": "SF, New York, Seattle, Dublin",
+    "link": "https://stripe.com/jobs/search?gh_jid=7776179",
     "offices": [
       "US"
     ]
@@ -2603,14 +2636,14 @@
     ]
   },
   {
-    "id": "6898905",
-    "role": "4146 Community Ops - SDC",
-    "title": "Social Media Customer Support Associate ",
+    "id": "7788088",
+    "role": "PERM",
+    "title": "Software Engineer",
     "company": "stripe",
-    "location": "Mexico",
-    "link": "https://stripe.com/jobs/search?gh_jid=6898905",
+    "location": "San Francisco",
+    "link": "https://stripe.com/jobs/search?gh_jid=7788088",
     "offices": [
-      "Mexico Locations"
+      "US-PERM"
     ]
   },
   {
@@ -2625,12 +2658,12 @@
     ]
   },
   {
-    "id": "7788088",
+    "id": "7908923",
     "role": "PERM",
-    "title": "Software Engineer",
+    "title": "Software Engineer, Balance Abstraction",
     "company": "stripe",
-    "location": "San Francisco",
-    "link": "https://stripe.com/jobs/search?gh_jid=7788088",
+    "location": "Seattle, WA",
+    "link": "https://stripe.com/jobs/search?gh_jid=7908923",
     "offices": [
       "US-PERM"
     ]
@@ -2655,17 +2688,6 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7895344",
     "offices": [
       "US-PERM"
-    ]
-  },
-  {
-    "id": "7210115",
-    "role": "5112 General University",
-    "title": "Software Engineer, Intern (Summer)",
-    "company": "stripe",
-    "location": "San Francisco, Seattle, New York City",
-    "link": "https://stripe.com/jobs/search?gh_jid=7210115",
-    "offices": [
-      "US"
     ]
   },
   {
@@ -2746,6 +2768,17 @@
     ]
   },
   {
+    "id": "7434912",
+    "role": "8589 Bridge - S&M",
+    "title": "Solutions Engineer, Bridge",
+    "company": "stripe",
+    "location": "NYC",
+    "link": "https://stripe.com/jobs/search?gh_jid=7434912",
+    "offices": [
+      "US"
+    ]
+  },
+  {
     "id": "7120766",
     "role": "1150 Solutions Architecture",
     "title": "Specialist Solutions Architect, Crypto & Stablecoins",
@@ -2768,23 +2801,23 @@
     ]
   },
   {
-    "id": "7377593",
-    "role": "1150 Solutions Architecture",
-    "title": "Specialist Solutions Architect, Payments",
-    "company": "stripe",
-    "location": "Chicago",
-    "link": "https://stripe.com/jobs/search?gh_jid=7377593",
-    "offices": [
-      "US"
-    ]
-  },
-  {
     "id": "7377591",
     "role": "1150 Solutions Architecture",
     "title": "Specialist Solutions Architect, Payments",
     "company": "stripe",
     "location": "NY, SF, Chicago",
     "link": "https://stripe.com/jobs/search?gh_jid=7377591",
+    "offices": [
+      "US"
+    ]
+  },
+  {
+    "id": "7377593",
+    "role": "1150 Solutions Architecture",
+    "title": "Specialist Solutions Architect, Payments",
+    "company": "stripe",
+    "location": "Chicago",
+    "link": "https://stripe.com/jobs/search?gh_jid=7377593",
     "offices": [
       "US"
     ]
@@ -2840,17 +2873,6 @@
     "company": "stripe",
     "location": "NYC, SEA",
     "link": "https://stripe.com/jobs/search?gh_jid=7369269",
-    "offices": [
-      "US"
-    ]
-  },
-  {
-    "id": "7280343",
-    "role": "5113 Experimental Bets - Core Tech",
-    "title": "Staff Engineer, Experimental Projects",
-    "company": "stripe",
-    "location": "US-Remote",
-    "link": "https://stripe.com/jobs/search?gh_jid=7280343",
     "offices": [
       "US"
     ]
@@ -2917,17 +2939,6 @@
     "company": "stripe",
     "location": "SF, SEA, NYC, Remote",
     "link": "https://stripe.com/jobs/search?gh_jid=7819059",
-    "offices": [
-      "US"
-    ]
-  },
-  {
-    "id": "7550590",
-    "role": "8566 Developer Platform - PM",
-    "title": "Staff Product Manager, Stripe Apps and Extensibility Platform",
-    "company": "stripe",
-    "location": "San Francisco, Seattle, NYC, Chicago, Toronto, US- Remote, Canada-Remote",
-    "link": "https://stripe.com/jobs/search?gh_jid=7550590",
     "offices": [
       "US"
     ]
@@ -3043,6 +3054,17 @@
     ]
   },
   {
+    "id": "7904582",
+    "role": "4128 SDC - Product Support",
+    "title": "Team Lead, Product Support - Revenue Suite",
+    "company": "stripe",
+    "location": "Mexico City, Mexico",
+    "link": "https://stripe.com/jobs/search?gh_jid=7904582",
+    "offices": [
+      "Mexico Locations"
+    ]
+  },
+  {
     "id": "6458492",
     "role": "4130 Technical Account Management, Support & Services - AMER",
     "title": "Technical Account Manager",
@@ -3082,17 +3104,6 @@
     "company": "stripe",
     "location": "US-Chicago, US-Remote; US-Atlanta",
     "link": "https://stripe.com/jobs/search?gh_jid=7719602",
-    "offices": [
-      "US"
-    ]
-  },
-  {
-    "id": "7543679",
-    "role": "3510 CBO Admin",
-    "title": "Technical Partner Manager - Networks",
-    "company": "stripe",
-    "location": "US-Remote; US-Chicago; US-Atlanta; Canada-Toronto",
-    "link": "https://stripe.com/jobs/search?gh_jid=7543679",
     "offices": [
       "US"
     ]
@@ -3203,6 +3214,17 @@
     "company": "stripe",
     "location": "Toronto",
     "link": "https://stripe.com/jobs/search?gh_jid=7555681",
+    "offices": [
+      "Canada Locations"
+    ]
+  },
+  {
+    "id": "7901827",
+    "role": "6630 Real Estate",
+    "title": "Workplace Space Planner",
+    "company": "stripe",
+    "location": "Toronto, Chicago",
+    "link": "https://stripe.com/jobs/search?gh_jid=7901827",
     "offices": [
       "Canada Locations"
     ]

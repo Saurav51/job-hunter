@@ -8,14 +8,6 @@
     "link": "https://jobs.ashbyhq.com/perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd"
   },
   {
-    "id": "09a2f0e5-c38c-49ee-a5af-9a179e137a44",
-    "role": "Legal",
-    "title": "Commercial Counsel",
-    "company": "perplexity",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/perplexity/09a2f0e5-c38c-49ee-a5af-9a179e137a44"
-  },
-  {
     "id": "d7e05546-4d42-4f1a-8ccd-c95d2519f5f6",
     "role": "Business",
     "title": "Community & Field Marketer",
@@ -184,20 +176,20 @@
     "link": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef"
   },
   {
-    "id": "598e1f7d-b802-4de2-99ac-90eb2bc33315",
-    "role": "AI",
-    "title": "Member of Technical Staff (AI Infrastructure Engineer)",
-    "company": "perplexity",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315"
-  },
-  {
     "id": "60deb376-51b5-46c6-9e17-55377a5ef34e",
     "role": "AI",
     "title": "Member of Technical Staff (AI Infrastructure Engineer)",
     "company": "perplexity",
     "location": "London",
     "link": "https://jobs.ashbyhq.com/perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e"
+  },
+  {
+    "id": "598e1f7d-b802-4de2-99ac-90eb2bc33315",
+    "role": "AI",
+    "title": "Member of Technical Staff (AI Infrastructure Engineer)",
+    "company": "perplexity",
+    "location": "San Francisco",
+    "link": "https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315"
   },
   {
     "id": "0359ebb4-7cbd-4641-a6d1-1127823e2fd5",
@@ -254,6 +246,14 @@
     "company": "perplexity",
     "location": "Belgrade",
     "link": "https://jobs.ashbyhq.com/perplexity/dd80ab52-34bd-42af-aa5e-6283b7e6c194"
+  },
+  {
+    "id": "2cef7831-6ed3-4663-aec4-57f79f08c95a",
+    "role": "Platform & Infrastructure",
+    "title": "Member of Technical Staff (Backend Software Engineer)",
+    "company": "perplexity",
+    "location": "London",
+    "link": "https://jobs.ashbyhq.com/perplexity/2cef7831-6ed3-4663-aec4-57f79f08c95a"
   },
   {
     "id": "2b5a9f9c-7cd5-4579-b7c2-69d09e0214c8",
@@ -326,14 +326,6 @@
     "company": "perplexity",
     "location": "Belgrade",
     "link": "https://jobs.ashbyhq.com/perplexity/30a09c0f-8715-447d-92b7-9f0adb772fd6"
-  },
-  {
-    "id": "1dc97d9e-565e-4079-9fba-40fab14a3602",
-    "role": "Mobile",
-    "title": "Member of Technical Staff (iOS Software Engineer)",
-    "company": "perplexity",
-    "location": "San Francisco",
-    "link": "https://jobs.ashbyhq.com/perplexity/1dc97d9e-565e-4079-9fba-40fab14a3602"
   },
   {
     "id": "8c6b0350-e920-47a5-a575-b018a280bbb9",
@@ -446,14 +438,6 @@
     "company": "perplexity",
     "location": "London",
     "link": "https://jobs.ashbyhq.com/perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc"
-  },
-  {
-    "id": "2cef7831-6ed3-4663-aec4-57f79f08c95a",
-    "role": "Platform & Infrastructure",
-    "title": "Member of Technical Staff (Software Engineer, Infrastructure)",
-    "company": "perplexity",
-    "location": "London",
-    "link": "https://jobs.ashbyhq.com/perplexity/2cef7831-6ed3-4663-aec4-57f79f08c95a"
   },
   {
     "id": "043d6a58-87a1-4e3c-bf47-4dc351b94cf4",

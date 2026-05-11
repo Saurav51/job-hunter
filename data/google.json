@@ -16,14 +16,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/114738878203470534"
   },
   {
-    "id": "129280004709065414",
-    "role": "",
-    "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
-    "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
-  },
-  {
     "id": "99326551270531782",
     "role": "",
     "title": "Software Engineer III, Technical Infrastructure",
@@ -32,12 +24,28 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/99326551270531782"
   },
   {
+    "id": "129280004709065414",
+    "role": "",
+    "title": "Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube",
+    "company": "google",
+    "location": "Mountain View, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/129280004709065414"
+  },
+  {
     "id": "92701240483291846",
     "role": "",
     "title": "Software Engineer, Security, Chrome Product Security",
     "company": "google",
     "location": "Kirkland, WA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/92701240483291846"
+  },
+  {
+    "id": "79311164541936326",
+    "role": "",
+    "title": "Software Engineer, Supply Chain Systems",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/79311164541936326"
   },
   {
     "id": "96957711316329158",
@@ -64,14 +72,6 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/136273135019139782"
   },
   {
-    "id": "140194199642219206",
-    "role": "",
-    "title": "Software Engineer, Fabric Networking",
-    "company": "google",
-    "location": "Sunnyvale, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
-  },
-  {
     "id": "122258040807137990",
     "role": "",
     "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
@@ -80,12 +80,36 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990"
   },
   {
+    "id": "140194199642219206",
+    "role": "",
+    "title": "Software Engineer, Fabric Networking",
+    "company": "google",
+    "location": "Sunnyvale, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/140194199642219206"
+  },
+  {
+    "id": "101732680533451462",
+    "role": "",
+    "title": "Software Engineer, Serverless Networking, Infrastructure",
+    "company": "google",
+    "location": "San Francisco, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/101732680533451462"
+  },
+  {
     "id": "98205601850368710",
     "role": "",
     "title": "Software Engineer, Host Network Function",
     "company": "google",
     "location": "Sunnyvale, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/98205601850368710"
+  },
+  {
+    "id": "101927182422418118",
+    "role": "",
+    "title": "Software Engineer, AI/ML Data and Training Infrastructure",
+    "company": "google",
+    "location": "Mountain View, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/101927182422418118"
   },
   {
     "id": "120479753218990790",
@@ -112,6 +136,14 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
+    "id": "114466537011585734",
+    "role": "",
+    "title": "Software Engineer, Map Ads",
+    "company": "google",
+    "location": "Mountain View, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/114466537011585734"
+  },
+  {
     "id": "81389984547775174",
     "role": "",
     "title": "Software Engineer, Compiling, Quantum AI",
@@ -126,37 +158,5 @@
     "company": "google",
     "location": "Mountain View, CA, USA",
     "link": "https://www.google.com/about/careers/applications/jobs/results/122502275867255494"
-  },
-  {
-    "id": "88922787028050630",
-    "role": "",
-    "title": "Software Engineer, Platform UI",
-    "company": "google",
-    "location": "Boulder, CO, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/88922787028050630"
-  },
-  {
-    "id": "104398738532770502",
-    "role": "",
-    "title": "Software Engineer, Infrastructure, Platforms and Devices",
-    "company": "google",
-    "location": "Los Angeles, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104398738532770502"
-  },
-  {
-    "id": "89000220456559302",
-    "role": "",
-    "title": "Software Engineer, Pixel Camera, Platforms and Devices",
-    "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/89000220456559302"
-  },
-  {
-    "id": "132647057339884230",
-    "role": "",
-    "title": "Software Engineer, Android, Digital Identity",
-    "company": "google",
-    "location": "San Francisco, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/132647057339884230"
   }
 ]
