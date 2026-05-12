@@ -20,8 +20,16 @@
     "role": "Engineering",
     "title": "AI System Research and Development Engineer - Optimization",
     "company": "snowflake",
-    "location": "US-WA-Bellevue",
+    "location": "US-CA-Menlo Park",
     "link": "https://jobs.ashbyhq.com/snowflake/b8b30900-135e-4937-91b4-cec38d7901fd"
+  },
+  {
+    "id": "d418df1a-3be4-45dc-a98e-97df5390757e",
+    "role": "Data Analytics and AI",
+    "title": "Analyst, Finance Analytics",
+    "company": "snowflake",
+    "location": "IN-Pune",
+    "link": "https://jobs.ashbyhq.com/snowflake/d418df1a-3be4-45dc-a98e-97df5390757e"
   },
   {
     "id": "b241904d-7d42-41f0-9674-82e53d964846",
@@ -288,6 +296,14 @@
     "link": "https://jobs.ashbyhq.com/snowflake/e2412cd5-19dd-44f8-addd-c9ef3c99ff82"
   },
   {
+    "id": "5ed76bcd-cb61-4222-900b-ad9fa89a472e",
+    "role": "Engineering",
+    "title": "Security Engineer - Threat Detection ",
+    "company": "snowflake",
+    "location": "US, Remote",
+    "link": "https://jobs.ashbyhq.com/snowflake/5ed76bcd-cb61-4222-900b-ad9fa89a472e"
+  },
+  {
     "id": "bcb00e62-34db-41b4-a044-07f4438ea60a",
     "role": "Engineering",
     "title": "Senior Anti-Abuse Security Engineer, Product Security",
@@ -496,6 +512,14 @@
     "link": "https://jobs.ashbyhq.com/snowflake/b8ff4e0d-7fdb-4c7a-a139-1d69d5ca4b09"
   },
   {
+    "id": "84ae5b39-9c5d-4c57-876d-7530be35a5f1",
+    "role": "Engineering",
+    "title": "Senior Software Engineer - Observe by Snowflake, Logs",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/84ae5b39-9c5d-4c57-876d-7530be35a5f1"
+  },
+  {
     "id": "db4f0492-ae21-49b7-a7eb-100be61e92bb",
     "role": "Engineering",
     "title": "Senior Software Engineer - Observe by Snowflake, Metrics Platform",
@@ -576,6 +600,14 @@
     "link": "https://jobs.ashbyhq.com/snowflake/d08e3ff6-378e-4e3e-9787-39638817ae0f"
   },
   {
+    "id": "3acc2938-fbcb-4dcb-b512-05b62d03dcee",
+    "role": "Engineering",
+    "title": "Senior Software Engineer - Snowflake Postgres",
+    "company": "snowflake",
+    "location": "US-CA-Menlo Park",
+    "link": "https://jobs.ashbyhq.com/snowflake/3acc2938-fbcb-4dcb-b512-05b62d03dcee"
+  },
+  {
     "id": "dcbd8798-31d0-4551-acf4-0d7a8f8d7757",
     "role": "Engineering",
     "title": "Senior Software Engineer - Snowpark Container Service",
@@ -606,14 +638,6 @@
     "company": "snowflake",
     "location": "US-CA-Menlo Park",
     "link": "https://jobs.ashbyhq.com/snowflake/a9ac05e3-cfe7-474c-a8e6-41baff859964"
-  },
-  {
-    "id": "92cabd7b-3aad-4e1c-a822-7757f2a13d95",
-    "role": "Engineering",
-    "title": "Senior Technical Account Manager",
-    "company": "snowflake",
-    "location": "US-CA-Menlo Park",
-    "link": "https://jobs.ashbyhq.com/snowflake/92cabd7b-3aad-4e1c-a822-7757f2a13d95"
   },
   {
     "id": "45fd2192-852d-4cf4-bffe-b0fcc46b7426",
@@ -736,6 +760,14 @@
     "link": "https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7"
   },
   {
+    "id": "26a0ae52-97a6-4a46-9216-3c382570d89b",
+    "role": "Engineering",
+    "title": "Software Engineer Intern - Zurich (2026)",
+    "company": "snowflake",
+    "location": "CH-Zurich-Observe",
+    "link": "https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b"
+  },
+  {
     "id": "3272836f-807d-4306-af07-83a848803e01",
     "role": "Engineering",
     "title": "Software Engineer - Notebooks ",
@@ -800,6 +832,14 @@
     "link": "https://jobs.ashbyhq.com/snowflake/3c018564-63c0-4179-ba91-f42ce75a40fa"
   },
   {
+    "id": "b3418869-2cbf-4bb0-9286-e25852dc1506",
+    "role": "Engineering",
+    "title": "Software Engineer - Workspaces ",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/b3418869-2cbf-4bb0-9286-e25852dc1506"
+  },
+  {
     "id": "ae43323e-8b10-4c01-b1af-987145191d01",
     "role": "Engineering",
     "title": "Staff AI Engineer - Cortex Code Agentic System",
@@ -854,6 +894,14 @@
     "company": "snowflake",
     "location": "US-CA-Menlo Park",
     "link": "https://jobs.ashbyhq.com/snowflake/a1f1779b-464c-48f6-a664-56314825c8ac"
+  },
+  {
+    "id": "514bfbdf-fe61-4809-bab5-d100cd2f44d6",
+    "role": "Engineering",
+    "title": "Staff Software Engineer \u2014 Dynamic Tables, Performance",
+    "company": "snowflake",
+    "location": "US-WA-Bellevue",
+    "link": "https://jobs.ashbyhq.com/snowflake/514bfbdf-fe61-4809-bab5-d100cd2f44d6"
   },
   {
     "id": "9670db54-bd0d-4dcc-a4af-61724dd82188",
