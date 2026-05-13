@@ -1,5 +1,13 @@
 [
   {
+    "id": "790315907933",
+    "role": "Core Finance & Controllership",
+    "title": "Ads Revenue Accountant",
+    "company": "netflix",
+    "location": "Los Gatos,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315907933"
+  },
+  {
     "id": "790315883316",
     "role": "Talent",
     "title": "Senior Manager, Compensation  \u2013 Product and Technology",
@@ -16,6 +24,22 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315885533"
   },
   {
+    "id": "790315891106",
+    "role": "Program Management",
+    "title": "Specialist, Awards Marketing Operations",
+    "company": "netflix",
+    "location": "Los Angeles,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315891106"
+  },
+  {
+    "id": "790315893295",
+    "role": "Engineering",
+    "title": "Integration Support Engineer 5 - Ads Aggregation",
+    "company": "netflix",
+    "location": "New York,New York,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315893295"
+  },
+  {
     "id": "790315886169",
     "role": "Engineering Operations",
     "title": "Manager, Change Management & Technology Enablement - Finance PMO",
@@ -24,12 +48,12 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315886169"
   },
   {
-    "id": "790315869993",
-    "role": "Advertising",
-    "title": "Sr. Account Manager (US)",
+    "id": "790315892840",
+    "role": "Content Production Operations",
+    "title": "Specialist, Physical Assets - Production Services",
     "company": "netflix",
-    "location": "New York,New York,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315869993"
+    "location": "Los Angeles,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315892840"
   },
   {
     "id": "790315870120",
@@ -40,9 +64,17 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315870120"
   },
   {
+    "id": "790315869993",
+    "role": "Advertising",
+    "title": "Sr. Account Manager (US)",
+    "company": "netflix",
+    "location": "New York,New York,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315869993"
+  },
+  {
     "id": "790315863340",
     "role": "Program Management",
-    "title": "Localization Program Manager, Globalization Operations",
+    "title": "Localization Program Manager, Globalization",
     "company": "netflix",
     "location": "Los Gatos,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790315863340"
@@ -54,6 +86,14 @@
     "company": "netflix",
     "location": "Los Angeles,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790315842072"
+  },
+  {
+    "id": "790315842253",
+    "role": "Program Management",
+    "title": "Manager, Crisis Management and Enterprise Resilience",
+    "company": "netflix",
+    "location": "Los Angeles,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315842253"
   },
   {
     "id": "790315830727",
@@ -70,30 +110,6 @@
     "company": "netflix",
     "location": "New York,New York,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790315834781"
-  },
-  {
-    "id": "790315821606",
-    "role": "Data & Insights",
-    "title": "Research Scientist 5, Signal Privacy - Ads DSE",
-    "company": "netflix",
-    "location": "Los Gatos,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315821606"
-  },
-  {
-    "id": "790315823317",
-    "role": "Legal",
-    "title": "Manager/Counsel - Business & Legal Affairs, Original Series (US Studio Partnerships)",
-    "company": "netflix",
-    "location": "Los Angeles,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315823317"
-  },
-  {
-    "id": "790315819792",
-    "role": "Engineering",
-    "title": "Software Engineer 4 - Revenue Infrastructure",
-    "company": "netflix",
-    "location": "Los Gatos,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315819792"
   },
   {
     "id": "790315820670",
@@ -134,6 +150,30 @@
     "company": "netflix",
     "location": "Los Gatos,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790315823003"
+  },
+  {
+    "id": "790315823317",
+    "role": "Legal",
+    "title": "Manager/Counsel - Business & Legal Affairs, Original Series (US Studio Partnerships)",
+    "company": "netflix",
+    "location": "Los Angeles,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315823317"
+  },
+  {
+    "id": "790315819792",
+    "role": "Engineering",
+    "title": "Software Engineer 4 - Revenue Infrastructure",
+    "company": "netflix",
+    "location": "Los Gatos,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315819792"
+  },
+  {
+    "id": "790315821606",
+    "role": "Data & Insights",
+    "title": "Research Scientist 5, Signal Privacy - Ads DSE",
+    "company": "netflix",
+    "location": "Los Gatos,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315821606"
   },
   {
     "id": "790315807051",
@@ -216,6 +256,14 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315763376"
   },
   {
+    "id": "790315742970",
+    "role": "Engineering",
+    "title": "Distributed Systems Engineer 5 - Decisioning & Optimization",
+    "company": "netflix",
+    "location": "New York,New York,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315742970"
+  },
+  {
     "id": "790315743980",
     "role": "Core Finance & Controllership",
     "title": "Senior Supplier Operations Specialist",
@@ -230,14 +278,6 @@
     "company": "netflix",
     "location": "Los Gatos,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790315746686"
-  },
-  {
-    "id": "790315742970",
-    "role": "Engineering",
-    "title": "Distributed Systems Engineer 5 - Decisioning & Optimization",
-    "company": "netflix",
-    "location": "New York,New York,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315742970"
   },
   {
     "id": "790315746837",
@@ -312,14 +352,6 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315702145"
   },
   {
-    "id": "790315672114",
-    "role": "Program Management",
-    "title": "Ads Business Planning & Operations Associate",
-    "company": "netflix",
-    "location": "New York,New York,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315672114"
-  },
-  {
     "id": "790315668627",
     "role": "Engineering",
     "title": "Distributed Systems Engineer 6 - Decisioning & Optimization",
@@ -334,6 +366,14 @@
     "company": "netflix",
     "location": "New York,New York,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790315668708"
+  },
+  {
+    "id": "790315672114",
+    "role": "Program Management",
+    "title": "Ads Business Planning & Operations Associate",
+    "company": "netflix",
+    "location": "New York,New York,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315672114"
   },
   {
     "id": "790315673526",
@@ -368,22 +408,6 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315674121"
   },
   {
-    "id": "790315659551",
-    "role": "Product Management",
-    "title": "Product Manager, Content Intelligence",
-    "company": "netflix",
-    "location": "Los Angeles,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315659551"
-  },
-  {
-    "id": "790315661163",
-    "role": "Engineering",
-    "title": "Engineering Manager - Ads Serving",
-    "company": "netflix",
-    "location": "New York,New York,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315661163"
-  },
-  {
     "id": "790315656710",
     "role": "Content Production Operations",
     "title": "Manager, Generative Workflows - Production Technology",
@@ -392,12 +416,28 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315656710"
   },
   {
+    "id": "790315659551",
+    "role": "Product Management",
+    "title": "Product Manager, Content Intelligence",
+    "company": "netflix",
+    "location": "Los Angeles,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315659551"
+  },
+  {
     "id": "790315660439",
     "role": "Engineering",
     "title": "Full Stack Engineer 4 - Catalog Foundation & Distribution",
     "company": "netflix",
     "location": "Los Gatos,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790315660439"
+  },
+  {
+    "id": "790315661163",
+    "role": "Engineering",
+    "title": "Engineering Manager - Ads Serving",
+    "company": "netflix",
+    "location": "New York,New York,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315661163"
   },
   {
     "id": "790315649094",
@@ -488,20 +528,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315480476"
   },
   {
-    "id": "790315471559",
-    "role": "Product Management",
-    "title": "Content Business Product Enablement Manager",
-    "company": "netflix",
-    "location": "Los Angeles,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315471559"
-  },
-  {
     "id": "790315480031",
     "role": "Marketing",
     "title": "Manager, Animation + Kids & Family Publicity",
     "company": "netflix",
     "location": "Los Angeles,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790315480031"
+  },
+  {
+    "id": "790315471559",
+    "role": "Product Management",
+    "title": "Content Business Product Enablement Manager",
+    "company": "netflix",
+    "location": "Los Angeles,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315471559"
   },
   {
     "id": "790315463586",
@@ -520,20 +560,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315439617"
   },
   {
-    "id": "790315423718",
-    "role": "Enterprise Operations",
-    "title": "Manager, Studio Security Operations - Fort Monmouth & Brooklyn",
-    "company": "netflix",
-    "location": "New Jersey,New Jersey,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315423718"
-  },
-  {
     "id": "790315422460",
     "role": "Engineering",
     "title": "Software Engineer 6 - Ads Pricing & Packaging",
     "company": "netflix",
     "location": "Los Gatos,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790315422460"
+  },
+  {
+    "id": "790315423718",
+    "role": "Enterprise Operations",
+    "title": "Manager, Studio Security Operations - Fort Monmouth & Brooklyn",
+    "company": "netflix",
+    "location": "New Jersey,New Jersey,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315423718"
   },
   {
     "id": "790315423619",
@@ -592,20 +632,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315228907"
   },
   {
-    "id": "790315230655",
-    "role": "Administration",
-    "title": "Administrative Assistant, Business Finance & Strategy",
-    "company": "netflix",
-    "location": "Los Gatos,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315230655"
-  },
-  {
     "id": "790315230905",
     "role": "Talent",
     "title": "Director, HR Business Partner - Film",
     "company": "netflix",
     "location": "Los Angeles,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790315230905"
+  },
+  {
+    "id": "790315230655",
+    "role": "Administration",
+    "title": "Administrative Assistant, Business Finance & Strategy",
+    "company": "netflix",
+    "location": "Los Gatos,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315230655"
   },
   {
     "id": "790315232658",
@@ -800,20 +840,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315116667"
   },
   {
-    "id": "790315090775",
-    "role": "Data & Insights",
-    "title": "Researcher - Games",
-    "company": "netflix",
-    "location": "Los Angeles,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315090775"
-  },
-  {
     "id": "790315088215",
     "role": "Marketing",
     "title": "Manager, Business Development & Licensing - Experiences (UCAN & LATAM)",
     "company": "netflix",
     "location": "Los Angeles,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790315088215"
+  },
+  {
+    "id": "790315090775",
+    "role": "Data & Insights",
+    "title": "Researcher - Games",
+    "company": "netflix",
+    "location": "Los Angeles,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315090775"
   },
   {
     "id": "790315090641",
@@ -838,14 +878,6 @@
     "company": "netflix",
     "location": "Los Angeles,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790315058902"
-  },
-  {
-    "id": "790315061540",
-    "role": "Engineering",
-    "title": "Software Engineer 4 - Partner Test Tech",
-    "company": "netflix",
-    "location": "Los Gatos,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315061540"
   },
   {
     "id": "790315065582",
@@ -952,20 +984,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790314969162"
   },
   {
-    "id": "790314969078",
-    "role": "Marketing",
-    "title": "Associate Ads Product Marketing Manager",
-    "company": "netflix",
-    "location": "New York,New York,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790314969078"
-  },
-  {
     "id": "790314968726",
     "role": "Core Finance & Controllership",
     "title": "Manager, Content Accounting- Animation",
     "company": "netflix",
     "location": "Los Angeles,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790314968726"
+  },
+  {
+    "id": "790314969078",
+    "role": "Marketing",
+    "title": "Associate Ads Product Marketing Manager",
+    "company": "netflix",
+    "location": "New York,New York,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790314969078"
   },
   {
     "id": "790314900751",
@@ -1022,6 +1054,14 @@
     "company": "netflix",
     "location": "Los Gatos,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790314862212"
+  },
+  {
+    "id": "790314244485",
+    "role": "Engineering",
+    "title": "Mobile Engineer 5 - Commerce Design System",
+    "company": "netflix",
+    "location": "Los Gatos,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790314244485"
   },
   {
     "id": "790314626417",
@@ -1128,14 +1168,6 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790314877774"
   },
   {
-    "id": "790314737634",
-    "role": "Strategy & Analysis",
-    "title": "Associate, Partnerships Finance & Strategy (F&S) - Global CE & Platforms",
-    "company": "netflix",
-    "location": "Los Gatos,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790314737634"
-  },
-  {
     "id": "790314734553",
     "role": "Legal",
     "title": "Associate, Physical Production Legal",
@@ -1150,6 +1182,14 @@
     "company": "netflix",
     "location": "Burbank,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790314737551"
+  },
+  {
+    "id": "790314737634",
+    "role": "Strategy & Analysis",
+    "title": "Associate, Partnerships Finance & Strategy (F&S) - Global CE & Platforms",
+    "company": "netflix",
+    "location": "Los Gatos,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790314737634"
   },
   {
     "id": "790314738792",
@@ -1176,12 +1216,12 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790314754913"
   },
   {
-    "id": "790314689060",
-    "role": "Night School Studio",
-    "title": "Senior Operations Manager, Game Studio",
+    "id": "790314670132",
+    "role": "Product Management",
+    "title": "Pricing Strategy Manager",
     "company": "netflix",
-    "location": "Los Angeles,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790314689060"
+    "location": "Los Gatos,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790314670132"
   },
   {
     "id": "790314667663",
@@ -1198,14 +1238,6 @@
     "company": "netflix",
     "location": "Los Gatos,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790314669813"
-  },
-  {
-    "id": "790314670132",
-    "role": "Product Management",
-    "title": "Pricing Strategy Manager",
-    "company": "netflix",
-    "location": "Los Gatos,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790314670132"
   },
   {
     "id": "790314645748",
@@ -1246,6 +1278,14 @@
     "company": "netflix",
     "location": "Los Gatos,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790314432037"
+  },
+  {
+    "id": "790315420153",
+    "role": "Feature Animation",
+    "title": "Lead Editor",
+    "company": "netflix",
+    "location": "Burbank,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315420153"
   },
   {
     "id": "790314514999",
@@ -1408,20 +1448,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790314107125"
   },
   {
-    "id": "790314109721",
-    "role": "Engineering",
-    "title": "Software Engineer 5 - Commerce Design System",
-    "company": "netflix",
-    "location": "Los Gatos,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790314109721"
-  },
-  {
     "id": "790314117179",
     "role": "Legal",
     "title": "Principal Counsel - M&A and Corporate Structuring Legal",
     "company": "netflix",
     "location": "Los Angeles,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790314117179"
+  },
+  {
+    "id": "790314109721",
+    "role": "Engineering",
+    "title": "Software Engineer 5 - Commerce Design System",
+    "company": "netflix",
+    "location": "Los Gatos,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790314109721"
   },
   {
     "id": "790314079977",
@@ -1464,20 +1504,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790313925284"
   },
   {
-    "id": "790313924737",
-    "role": "Data & Insights",
-    "title": "Machine Learning Manager - Localization Algorithms",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790313924737"
-  },
-  {
     "id": "790314045478",
     "role": "Advertising",
     "title": "Senior Client Partner (Auto)",
     "company": "netflix",
     "location": "New York,New York,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790314045478"
+  },
+  {
+    "id": "790313924737",
+    "role": "Data & Insights",
+    "title": "Machine Learning Manager - Localization Algorithms",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790313924737"
   },
   {
     "id": "790314387586",
@@ -1504,20 +1544,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790313777659"
   },
   {
-    "id": "790313792322",
-    "role": "Data & Insights",
-    "title": "Analytics Engineer 5 - Content DSE",
-    "company": "netflix",
-    "location": "Los Gatos,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790313792322"
-  },
-  {
     "id": "790313794168",
     "role": "Data & Insights",
     "title": "Senior Researcher - Cultural Trends & Intelligence",
     "company": "netflix",
     "location": "Los Angeles,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790313794168"
+  },
+  {
+    "id": "790313792322",
+    "role": "Data & Insights",
+    "title": "Analytics Engineer 5 - Content DSE",
+    "company": "netflix",
+    "location": "Los Gatos,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790313792322"
   },
   {
     "id": "790313767826",
@@ -1552,14 +1592,6 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790313736490"
   },
   {
-    "id": "790313700969",
-    "role": "Strategy & Analysis",
-    "title": "Associate, Content & Business Products and Delivery Finance & Strategy - Studio",
-    "company": "netflix",
-    "location": "Los Angeles,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790313700969"
-  },
-  {
     "id": "790313721684",
     "role": "Content Production",
     "title": "Manager, Post Production - Live Sports & Specials",
@@ -1582,6 +1614,14 @@
     "company": "netflix",
     "location": "New York,New York,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790313723456"
+  },
+  {
+    "id": "790313700969",
+    "role": "Strategy & Analysis",
+    "title": "Associate, Content & Business Products and Delivery Finance & Strategy - Studio",
+    "company": "netflix",
+    "location": "Los Angeles,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790313700969"
   },
   {
     "id": "790313703352",
@@ -1632,14 +1672,6 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790313619400"
   },
   {
-    "id": "790313604640",
-    "role": "Engineering",
-    "title": "Software Engineer 5 - Ads Finance",
-    "company": "netflix",
-    "location": "Los Gatos,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790313604640"
-  },
-  {
     "id": "790313605018",
     "role": "Engineering",
     "title": "Full Stack Engineer 4 - Content & Business Products",
@@ -1656,6 +1688,14 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790313607309"
   },
   {
+    "id": "790313604640",
+    "role": "Engineering",
+    "title": "Software Engineer 5 - Ads Finance",
+    "company": "netflix",
+    "location": "Los Gatos,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790313604640"
+  },
+  {
     "id": "790313590764",
     "role": "Product Management",
     "title": "Product Manager, Media Platform",
@@ -1664,20 +1704,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790313590764"
   },
   {
-    "id": "790313590938",
-    "role": "Product Management",
-    "title": "Group Product Manager, New Content Exploration",
-    "company": "netflix",
-    "location": "Los Angeles,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790313590938"
-  },
-  {
     "id": "790313590984",
     "role": "Core Finance & Controllership",
     "title": "Senior Analyst, Casualty Claims",
     "company": "netflix",
     "location": "Los Angeles,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790313590984"
+  },
+  {
+    "id": "790313590938",
+    "role": "Product Management",
+    "title": "Group Product Manager, New Content Exploration",
+    "company": "netflix",
+    "location": "Los Angeles,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790313590938"
   },
   {
     "id": "790313551266",
@@ -1694,14 +1734,6 @@
     "company": "netflix",
     "location": "Los Gatos,California,United States of America",
     "link": "https://explore.jobs.netflix.net/careers/job/790313529500"
-  },
-  {
-    "id": "790313513147",
-    "role": "Financial Planning and Analysis",
-    "title": "Director, Games FP&A",
-    "company": "netflix",
-    "location": "Los Angeles,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790313513147"
   },
   {
     "id": "790313310824",
@@ -1824,20 +1856,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790298263930"
   },
   {
-    "id": "790298128655",
-    "role": "Engineering",
-    "title": "Software Engineer 4 - Content & Business Products",
-    "company": "netflix",
-    "location": "Los Gatos,California,United States of America",
-    "link": "https://explore.jobs.netflix.net/careers/job/790298128655"
-  },
-  {
     "id": "790298128594",
     "role": "Engineering",
     "title": "Software Engineer 5 - Content & Business Products",
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790298128594"
+  },
+  {
+    "id": "790298128655",
+    "role": "Engineering",
+    "title": "Software Engineer 4 - Content & Business Products",
+    "company": "netflix",
+    "location": "Los Gatos,California,United States of America",
+    "link": "https://explore.jobs.netflix.net/careers/job/790298128655"
   },
   {
     "id": "790298117912",
@@ -1856,12 +1888,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790298013499"
   },
   {
-    "id": "790315869201",
-    "role": "Administration",
-    "title": "Executive Assistant, Content - Japan",
+    "id": "790315651282",
+    "role": "Data & Insights",
+    "title": "Analytics Engineer (L5) - Localization",
     "company": "netflix",
-    "location": "Tokyo,Japan",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315869201"
+    "location": "Amsterdam,Netherlands",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315651282"
+  },
+  {
+    "id": "790315905756",
+    "role": "Content Production Operations",
+    "title": "Manager, Production Operations (LatAm)",
+    "company": "netflix",
+    "location": "Sao Paulo,Brazil",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315905756"
   },
   {
     "id": "790315875802",
@@ -1880,20 +1920,52 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315876739"
   },
   {
+    "id": "790315890398",
+    "role": "Games",
+    "title": "Senior Technical Game Designer, Game Prototypes",
+    "company": "netflix",
+    "location": "Canada - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315890398"
+  },
+  {
+    "id": "790315892585",
+    "role": "Data & Insights",
+    "title": "Manager, Member Experience - Ads DSE",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315892585"
+  },
+  {
+    "id": "790315869201",
+    "role": "Administration",
+    "title": "Executive Assistant, Content - Japan",
+    "company": "netflix",
+    "location": "Tokyo,Japan",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315869201"
+  },
+  {
+    "id": "790315872790",
+    "role": "Advertising",
+    "title": "Manager, Sales Operations (Japan)",
+    "company": "netflix",
+    "location": "Tokyo,Japan",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315872790"
+  },
+  {
+    "id": "790315870225",
+    "role": "Advertising",
+    "title": "Manager, Ad Sales (Canada)",
+    "company": "netflix",
+    "location": "Toronto,Canada",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315870225"
+  },
+  {
     "id": "790315835923",
     "role": "Advertising",
     "title": "Agency Development Manager - APAC Export",
     "company": "netflix",
     "location": "Singapore,Singapore",
     "link": "https://explore.jobs.netflix.net/careers/job/790315835923"
-  },
-  {
-    "id": "790315837388",
-    "role": "Next Games",
-    "title": "Principal Visual Development Artist",
-    "company": "netflix",
-    "location": "Helsinki,Finland",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315837388"
   },
   {
     "id": "790315839950",
@@ -1912,20 +1984,12 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315840276"
   },
   {
-    "id": "790315829379",
-    "role": "Marketing",
-    "title": "Art & Print Producer",
+    "id": "790315837388",
+    "role": "Next Games",
+    "title": "Principal Visual Development Artist",
     "company": "netflix",
-    "location": "Amsterdam,Netherlands",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315829379"
-  },
-  {
-    "id": "790315833593",
-    "role": "Feature Animation",
-    "title": "Artist Manager, Netflix Animation Studios",
-    "company": "netflix",
-    "location": "Vancouver,Canada",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315833593"
+    "location": "Helsinki,Finland",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315837388"
   },
   {
     "id": "790315823290",
@@ -1976,12 +2040,44 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315832704"
   },
   {
+    "id": "790315833593",
+    "role": "Feature Animation",
+    "title": "Artist Manager, Netflix Animation Studios",
+    "company": "netflix",
+    "location": "Vancouver,Canada",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315833593"
+  },
+  {
     "id": "790315836909",
     "role": "Engineering",
     "title": "Senior Software Engineer (L5) - Personalization Data",
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790315836909"
+  },
+  {
+    "id": "790315829379",
+    "role": "Marketing",
+    "title": "Art & Print Producer",
+    "company": "netflix",
+    "location": "Amsterdam,Netherlands",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315829379"
+  },
+  {
+    "id": "790315823060",
+    "role": null,
+    "title": "Art & Print Producer, LATAM",
+    "company": "netflix",
+    "location": "Sao Paulo,Brazil",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315823060"
+  },
+  {
+    "id": "790315823078",
+    "role": "Core Finance & Controllership",
+    "title": "Revenue Accounting Manager, LATAM",
+    "company": "netflix",
+    "location": "Sao Paulo,Brazil",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315823078"
   },
   {
     "id": "790315815480",
@@ -2008,28 +2104,12 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315822746"
   },
   {
-    "id": "790315823078",
-    "role": "Core Finance & Controllership",
-    "title": "Revenue Accounting Manager, LATAM",
+    "id": "790315796536",
+    "role": "Administration",
+    "title": "Department Assistant",
     "company": "netflix",
-    "location": "Sao Paulo,Brazil",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315823078"
-  },
-  {
-    "id": "790315823060",
-    "role": null,
-    "title": "Art & Print Producer, LATAM",
-    "company": "netflix",
-    "location": "Sao Paulo,Brazil",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315823060"
-  },
-  {
-    "id": "790315794173",
-    "role": "Engineering Operations",
-    "title": "Technology Experience Domain Specialist",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315794173"
+    "location": "Mexico City,Mexico",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315796536"
   },
   {
     "id": "790315789360",
@@ -2038,6 +2118,22 @@
     "company": "netflix",
     "location": "Manila,Philippines",
     "link": "https://explore.jobs.netflix.net/careers/job/790315789360"
+  },
+  {
+    "id": "790315793603",
+    "role": "Talent",
+    "title": "Employee Services Generalist",
+    "company": "netflix",
+    "location": "Hyderabad,India",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315793603"
+  },
+  {
+    "id": "790315794173",
+    "role": "Engineering Operations",
+    "title": "Technology Experience Domain Specialist",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315794173"
   },
   {
     "id": "790315796358",
@@ -2056,20 +2152,12 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315796514"
   },
   {
-    "id": "790315793603",
-    "role": "Talent",
-    "title": "Employee Services Generalist",
+    "id": "790315245289",
+    "role": "Engineering Operations",
+    "title": "Support Solutions Engineer (L5), Graph Search",
     "company": "netflix",
-    "location": "Hyderabad,India",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315793603"
-  },
-  {
-    "id": "790315796536",
-    "role": "Administration",
-    "title": "Department Assistant",
-    "company": "netflix",
-    "location": "Mexico City,Mexico",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315796536"
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315245289"
   },
   {
     "id": "790315770254",
@@ -2088,22 +2176,6 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315772163"
   },
   {
-    "id": "790315245289",
-    "role": "Engineering Operations",
-    "title": "Support Solutions Engineer (L5), Graph Search",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315245289"
-  },
-  {
-    "id": "790315755711",
-    "role": "Content Production Operations",
-    "title": "Manager Live Production Technology, Production Solutions, EMEA",
-    "company": "netflix",
-    "location": "London,United Kingdom",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315755711"
-  },
-  {
     "id": "790315750824",
     "role": "Legal",
     "title": "Marketing Counsel,  Marketing, Advertising and Consumer Products (MACC) Legal",
@@ -2120,14 +2192,6 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315750825"
   },
   {
-    "id": "790315747794",
-    "role": "Administration",
-    "title": "Administrative Assistant, Finance COE & Manila Site Leadership",
-    "company": "netflix",
-    "location": "Manila,Philippines",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315747794"
-  },
-  {
     "id": "790315756419",
     "role": "Strategy & Analysis",
     "title": "Manager, Ads Finance & Strategy, EMEA",
@@ -2142,6 +2206,14 @@
     "company": "netflix",
     "location": "Warsaw,Poland",
     "link": "https://explore.jobs.netflix.net/careers/job/790315756513"
+  },
+  {
+    "id": "790315747794",
+    "role": "Administration",
+    "title": "Administrative Assistant, Finance COE & Manila Site Leadership",
+    "company": "netflix",
+    "location": "Manila,Philippines",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315747794"
   },
   {
     "id": "790315746657",
@@ -2184,14 +2256,6 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315708471"
   },
   {
-    "id": "790315713077",
-    "role": "Administration",
-    "title": "Administrative Assistant, SOLA",
-    "company": "netflix",
-    "location": "Buenos Aires,Argentina",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315713077"
-  },
-  {
     "id": "790315710864",
     "role": "Marketing",
     "title": "Performance Sr. Analyst, LATAM",
@@ -2200,28 +2264,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315710864"
   },
   {
-    "id": "790315651219",
-    "role": "Customer Service",
-    "title": "Resource Planning Specialist - EMEA",
+    "id": "790315713077",
+    "role": "Administration",
+    "title": "Administrative Assistant, SOLA",
     "company": "netflix",
-    "location": "Amsterdam,Netherlands",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315651219"
+    "location": "Buenos Aires,Argentina",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315713077"
   },
   {
-    "id": "790315649534",
-    "role": "Core Finance & Controllership",
-    "title": "Lead, Production Finance - Japan",
+    "id": "790315653836",
+    "role": "Data & Insights",
+    "title": "Senior Measurement Partner - Australia",
     "company": "netflix",
-    "location": "Tokyo,Japan",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315649534"
-  },
-  {
-    "id": "790315660659",
-    "role": "Advertising",
-    "title": "Ads Packages & Solutions Manager",
-    "company": "netflix",
-    "location": "Mexico City,Mexico",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315660659"
+    "location": "Sydney,Australia",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315653836"
   },
   {
     "id": "790315661504",
@@ -2240,12 +2296,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315661896"
   },
   {
-    "id": "790315653836",
-    "role": "Data & Insights",
-    "title": "Senior Measurement Partner - Australia",
+    "id": "790315649534",
+    "role": "Core Finance & Controllership",
+    "title": "Lead, Production Finance - Japan",
     "company": "netflix",
-    "location": "Sydney,Australia",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315653836"
+    "location": "Tokyo,Japan",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315649534"
+  },
+  {
+    "id": "790315660659",
+    "role": "Advertising",
+    "title": "Ads Packages & Solutions Manager",
+    "company": "netflix",
+    "location": "Mexico City,Mexico",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315660659"
   },
   {
     "id": "790315562607",
@@ -2256,22 +2320,6 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315562607"
   },
   {
-    "id": "790315562772",
-    "role": "All Streaming Job Profiles",
-    "title": "Manager, Brand & Slate Marketing - Korea",
-    "company": "netflix",
-    "location": "Seoul,Korea, Republic of",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315562772"
-  },
-  {
-    "id": "790314059145",
-    "role": "Engineering",
-    "title": "UI Software Engineer 4/5 - Data Platform",
-    "company": "netflix",
-    "location": "Warsaw,Poland",
-    "link": "https://explore.jobs.netflix.net/careers/job/790314059145"
-  },
-  {
     "id": "790315562655",
     "role": "Marketing",
     "title": "Marketing Manager, France - 10 month FTC",
@@ -2280,12 +2328,28 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315562655"
   },
   {
+    "id": "790315562772",
+    "role": "All Streaming Job Profiles",
+    "title": "Manager, Brand & Slate Marketing - Korea",
+    "company": "netflix",
+    "location": "Seoul,Korea, Republic of",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315562772"
+  },
+  {
     "id": "790315649135",
     "role": "Data & Insights",
     "title": "Manager, Identity and Signals - Ads DSE",
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790315649135"
+  },
+  {
+    "id": "790314059145",
+    "role": "Engineering",
+    "title": "UI Software Engineer 4/5 - Data Platform",
+    "company": "netflix",
+    "location": "Warsaw,Poland",
+    "link": "https://explore.jobs.netflix.net/careers/job/790314059145"
   },
   {
     "id": "790315556753",
@@ -2336,28 +2400,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315505146"
   },
   {
-    "id": "790315484105",
-    "role": "Engineering",
-    "title": "Software Engineer 4, Javascript Foundations",
-    "company": "netflix",
-    "location": "Warsaw,Poland",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315484105"
-  },
-  {
-    "id": "790315764775",
-    "role": "Engineering",
-    "title": "Engineering Manager, Privacy Infrastructure Engineering",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315764775"
-  },
-  {
     "id": "790315483617",
     "role": "Consumer Products & Experiences",
     "title": "Retail Manager, Consumer Products - DACH",
     "company": "netflix",
     "location": "Germany - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790315483617"
+  },
+  {
+    "id": "790315484105",
+    "role": "Engineering",
+    "title": "Software Engineer 4, Javascript Foundations",
+    "company": "netflix",
+    "location": "Warsaw,Poland",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315484105"
   },
   {
     "id": "790315492635",
@@ -2368,36 +2424,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315492635"
   },
   {
+    "id": "790315764775",
+    "role": "Engineering",
+    "title": "Engineering Manager, Privacy Infrastructure Engineering",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315764775"
+  },
+  {
     "id": "790315481039",
     "role": "Engineering",
     "title": "Distributed Systems Engineer 5 - Cloud Gateway",
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790315481039"
-  },
-  {
-    "id": "790315245272",
-    "role": "Engineering",
-    "title": "Software Engineer L5 -  Edge Platform Automation & Validation",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315245272"
-  },
-  {
-    "id": "790315468739",
-    "role": "Customer Service",
-    "title": "Technical Research Specialist - Streaming & Devices",
-    "company": "netflix",
-    "location": "Amsterdam,Netherlands",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315468739"
-  },
-  {
-    "id": "790315481619",
-    "role": "Data & Insights",
-    "title": "Data Scientist 5 - Ads Experimentation",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315481619"
   },
   {
     "id": "790315481820",
@@ -2408,20 +2448,28 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315481820"
   },
   {
+    "id": "790315481619",
+    "role": "Data & Insights",
+    "title": "Data Scientist 5 - Ads Experimentation",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315481619"
+  },
+  {
+    "id": "790315245272",
+    "role": "Engineering",
+    "title": "Software Engineer L5 -  Edge Platform Automation & Validation",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315245272"
+  },
+  {
     "id": "790315414821",
     "role": "Marketing",
     "title": "Manager, Sponsorships & Solutions APAC",
     "company": "netflix",
     "location": "Singapore,Singapore",
     "link": "https://explore.jobs.netflix.net/careers/job/790315414821"
-  },
-  {
-    "id": "790315438320",
-    "role": "Engineering",
-    "title": "Software Engineer 5 - TV & Web Player Platform",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315438320"
   },
   {
     "id": "790315405967",
@@ -2520,6 +2568,22 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315374867"
   },
   {
+    "id": "790315366826",
+    "role": "Advertising",
+    "title": "Sales Partner (Australia)",
+    "company": "netflix",
+    "location": "Sydney,Australia",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315366826"
+  },
+  {
+    "id": "790315377111",
+    "role": "Content Production Operations",
+    "title": "Senior Manager, Sustainability Standards & Partnerships",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315377111"
+  },
+  {
     "id": "790315364711",
     "role": "Consumer Products & Experiences",
     "title": "Senior Manager, Consumer Products - Korea",
@@ -2528,12 +2592,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315364711"
   },
   {
-    "id": "790315366826",
-    "role": "Advertising",
-    "title": "Sales Partner (Australia)",
+    "id": "790315377854",
+    "role": "Netflix Games Studio",
+    "title": "Audio Lead, Games Studio",
     "company": "netflix",
-    "location": "Sydney,Australia",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315366826"
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315377854"
+  },
+  {
+    "id": "790315378175",
+    "role": "Product Discovery & Promotion",
+    "title": "Conversational Designer",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315378175"
   },
   {
     "id": "790315367185",
@@ -2558,30 +2630,6 @@
     "company": "netflix",
     "location": "London,United Kingdom",
     "link": "https://explore.jobs.netflix.net/careers/job/790315368164"
-  },
-  {
-    "id": "790315377111",
-    "role": "Content Production Operations",
-    "title": "Senior Manager, Sustainability Standards & Partnerships",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315377111"
-  },
-  {
-    "id": "790315377854",
-    "role": "Netflix Games Studio",
-    "title": "Audio Lead, Games Studio",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315377854"
-  },
-  {
-    "id": "790315378175",
-    "role": "Product Discovery & Promotion",
-    "title": "Conversational Designer",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315378175"
   },
   {
     "id": "790315379539",
@@ -2632,20 +2680,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315255747"
   },
   {
-    "id": "790315255289",
-    "role": "Data & Insights",
-    "title": "Machine Learning Scientist 4 - Pricing Science",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315255289"
-  },
-  {
     "id": "790315237520",
     "role": "Marketing",
     "title": "Manager, Live & Custom Ads Commercialization (EMEA)",
     "company": "netflix",
     "location": "London,United Kingdom",
     "link": "https://explore.jobs.netflix.net/careers/job/790315237520"
+  },
+  {
+    "id": "790315255289",
+    "role": "Data & Insights",
+    "title": "Machine Learning Scientist 4 - Pricing Science",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315255289"
   },
   {
     "id": "790315220203",
@@ -2712,20 +2760,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315213143"
   },
   {
-    "id": "790315182203",
-    "role": "Content Production",
-    "title": "Senior Manager, Production Management - Korea",
-    "company": "netflix",
-    "location": "Seoul,Korea, Republic of",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315182203"
-  },
-  {
     "id": "790315196993",
     "role": "Netflix Games Studio",
     "title": "Games Content Acquisition & Licensing Manager, Games (Co-Development + Work-For-Hire Partnerships)",
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790315196993"
+  },
+  {
+    "id": "790315182203",
+    "role": "Content Production",
+    "title": "Senior Manager, Production Management - Korea",
+    "company": "netflix",
+    "location": "Seoul,Korea, Republic of",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315182203"
   },
   {
     "id": "790315174792",
@@ -2744,20 +2792,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315177083"
   },
   {
-    "id": "790315167680",
-    "role": "Engineering Operations",
-    "title": "Media Systems Engineer",
-    "company": "netflix",
-    "location": "Amsterdam,Netherlands",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315167680"
-  },
-  {
     "id": "790315182253",
     "role": "Engineering",
     "title": "Distributed Systems Engineer (L5) - Commerce Insights and Data Products Engineering",
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790315182253"
+  },
+  {
+    "id": "790315167680",
+    "role": "Engineering Operations",
+    "title": "Media Systems Engineer",
+    "company": "netflix",
+    "location": "Amsterdam,Netherlands",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315167680"
   },
   {
     "id": "790315145439",
@@ -2808,20 +2856,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315124296"
   },
   {
-    "id": "790315129328",
-    "role": "Legal",
-    "title": "Content and Production Clearance Manager - IP, UK",
-    "company": "netflix",
-    "location": "London,United Kingdom",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315129328"
-  },
-  {
     "id": "790315141459",
     "role": "Engineering",
     "title": "Software Engineer 5 - Research Data Products",
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790315141459"
+  },
+  {
+    "id": "790315129328",
+    "role": "Legal",
+    "title": "Content and Production Clearance Manager - IP, UK",
+    "company": "netflix",
+    "location": "London,United Kingdom",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315129328"
   },
   {
     "id": "790315121720",
@@ -2960,6 +3008,14 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315066555"
   },
   {
+    "id": "790315043614",
+    "role": "Feature Animation",
+    "title": "Associate Technical Supervisor (Back-End)",
+    "company": "netflix",
+    "location": "Vancouver,Canada",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315043614"
+  },
+  {
     "id": "790315030326",
     "role": "Core Finance & Controllership",
     "title": "EMEA Payroll Specialist",
@@ -2976,12 +3032,12 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315041533"
   },
   {
-    "id": "790315043614",
-    "role": "Feature Animation",
-    "title": "Associate Technical Supervisor (Back-End)",
+    "id": "790315044699",
+    "role": "Marketing",
+    "title": "Performance Senior Analyst, NCX",
     "company": "netflix",
-    "location": "Vancouver,Canada",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315043614"
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315044699"
   },
   {
     "id": "790315044370",
@@ -2990,14 +3046,6 @@
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790315044370"
-  },
-  {
-    "id": "790315044699",
-    "role": "Marketing",
-    "title": "Performance Senior Analyst, NCX",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315044699"
   },
   {
     "id": "790315047549",
@@ -3016,20 +3064,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790313542413"
   },
   {
-    "id": "790315023479",
-    "role": "Engineering",
-    "title": "Site Reliability Engineer 5 - Live SRE",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315023479"
-  },
-  {
     "id": "790315029556",
     "role": "Product Management",
     "title": "Product Manager, Games Discovery",
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790315029556"
+  },
+  {
+    "id": "790315023479",
+    "role": "Engineering",
+    "title": "Site Reliability Engineer 5 - Live SRE",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315023479"
   },
   {
     "id": "790315007354",
@@ -3040,20 +3088,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790315007354"
   },
   {
-    "id": "790315003996",
-    "role": "Core Finance & Controllership",
-    "title": "Senior Ads Revenue EMEA Business Partner",
-    "company": "netflix",
-    "location": "London,United Kingdom",
-    "link": "https://explore.jobs.netflix.net/careers/job/790315003996"
-  },
-  {
     "id": "790315010955",
     "role": "Program Management",
     "title": "Configuration Lead, Technical Merchandising",
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790315010955"
+  },
+  {
+    "id": "790315003996",
+    "role": "Core Finance & Controllership",
+    "title": "Senior Ads Revenue EMEA Business Partner",
+    "company": "netflix",
+    "location": "London,United Kingdom",
+    "link": "https://explore.jobs.netflix.net/careers/job/790315003996"
   },
   {
     "id": "790314962550",
@@ -3232,6 +3280,14 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790314732912"
   },
   {
+    "id": "790314517795",
+    "role": "Product Design",
+    "title": "Senior Product Designer, Developer Platform - Observability",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790314517795"
+  },
+  {
     "id": "790314691088",
     "role": "Engineering",
     "title": "Distributed Systems Engineer 5 \u2014 Cloud Network Engineering",
@@ -3256,12 +3312,12 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790314760028"
   },
   {
-    "id": "790314517795",
-    "role": "Product Design",
-    "title": "Senior Product Designer, Developer Platform - Observability",
+    "id": "790314671878",
+    "role": "Program Management",
+    "title": "General Program Manager (L5) - Developer Enablement",
     "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790314517795"
+    "location": "Warsaw,Poland",
+    "link": "https://explore.jobs.netflix.net/careers/job/790314671878"
   },
   {
     "id": "790314668577",
@@ -3270,14 +3326,6 @@
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790314668577"
-  },
-  {
-    "id": "790314671878",
-    "role": "Program Management",
-    "title": "General Program Manager (L5) - Developer Enablement",
-    "company": "netflix",
-    "location": "Warsaw,Poland",
-    "link": "https://explore.jobs.netflix.net/careers/job/790314671878"
   },
   {
     "id": "790314647101",
@@ -3296,6 +3344,14 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790314617243"
   },
   {
+    "id": "790314479309",
+    "role": "Engineering Operations",
+    "title": "Creative Technology Systems and Operations Specialist - Global (Hyderabad, India)",
+    "company": "netflix",
+    "location": "Hyderabad,India",
+    "link": "https://explore.jobs.netflix.net/careers/job/790314479309"
+  },
+  {
     "id": "790314572002",
     "role": "Advertising",
     "title": "Sr. Sales Partner (Japan)",
@@ -3312,6 +3368,14 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790314573041"
   },
   {
+    "id": "790314588599",
+    "role": "Advertising",
+    "title": "Sr. Sales Partner (Agency Creative - Brazil)",
+    "company": "netflix",
+    "location": "Sao Paulo,Brazil",
+    "link": "https://explore.jobs.netflix.net/careers/job/790314588599"
+  },
+  {
     "id": "790314592298",
     "role": "Core Finance & Controllership",
     "title": "Content Accountant",
@@ -3320,20 +3384,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790314592298"
   },
   {
-    "id": "790314479309",
-    "role": "Engineering Operations",
-    "title": "Creative Technology Systems and Operations Specialist - Global (Hyderabad, India)",
-    "company": "netflix",
-    "location": "Hyderabad,India",
-    "link": "https://explore.jobs.netflix.net/careers/job/790314479309"
-  },
-  {
     "id": "790314572272",
     "role": "Product Design",
     "title": "Staff Product Designer - Content Intelligence",
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790314572272"
+  },
+  {
+    "id": "790314489056",
+    "role": "Talent",
+    "title": "HR Shared Services Specialist",
+    "company": "netflix",
+    "location": "Manila,Philippines",
+    "link": "https://explore.jobs.netflix.net/careers/job/790314489056"
   },
   {
     "id": "790314491820",
@@ -3376,28 +3440,12 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790314514467"
   },
   {
-    "id": "790314489056",
-    "role": "Talent",
-    "title": "HR Shared Services Specialist",
-    "company": "netflix",
-    "location": "Manila,Philippines",
-    "link": "https://explore.jobs.netflix.net/careers/job/790314489056"
-  },
-  {
     "id": "790314487223",
     "role": "Core Finance & Controllership",
     "title": "AR & Collections Analyst",
     "company": "netflix",
     "location": "Manila,Philippines",
     "link": "https://explore.jobs.netflix.net/careers/job/790314487223"
-  },
-  {
-    "id": "790314462276",
-    "role": "Legal",
-    "title": "Manager, Ads Policy - APAC",
-    "company": "netflix",
-    "location": "Singapore,Singapore",
-    "link": "https://explore.jobs.netflix.net/careers/job/790314462276"
   },
   {
     "id": "790314478026",
@@ -3446,14 +3494,6 @@
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790314433740"
-  },
-  {
-    "id": "790314415249",
-    "role": "Marketing",
-    "title": "Director, Brand Partnerships, APAC",
-    "company": "netflix",
-    "location": "Singapore,Singapore",
-    "link": "https://explore.jobs.netflix.net/careers/job/790314415249"
   },
   {
     "id": "790314439327",
@@ -3592,14 +3632,6 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790314177676"
   },
   {
-    "id": "790314138850",
-    "role": "Engineering Operations",
-    "title": "AV Engineer L5 - EMEA",
-    "company": "netflix",
-    "location": "Amsterdam,Netherlands",
-    "link": "https://explore.jobs.netflix.net/careers/job/790314138850"
-  },
-  {
     "id": "790314153318",
     "role": "Engineering Operations",
     "title": "APAC Technology Systems and Operations Specialist",
@@ -3608,12 +3640,12 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790314153318"
   },
   {
-    "id": "790314140363",
-    "role": "Data & Insights",
-    "title": "Engineering Manager, Core Applications - AI for Member Systems",
+    "id": "790314138850",
+    "role": "Engineering Operations",
+    "title": "AV Engineer L5 - EMEA",
     "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790314140363"
+    "location": "Amsterdam,Netherlands",
+    "link": "https://explore.jobs.netflix.net/careers/job/790314138850"
   },
   {
     "id": "790314144520",
@@ -3622,6 +3654,14 @@
     "company": "netflix",
     "location": "Warsaw,Poland",
     "link": "https://explore.jobs.netflix.net/careers/job/790314144520"
+  },
+  {
+    "id": "790314140363",
+    "role": "Data & Insights",
+    "title": "Engineering Manager, Core Applications - AI for Member Systems",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790314140363"
   },
   {
     "id": "790314085904",
@@ -3696,20 +3736,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790314075555"
   },
   {
-    "id": "790314082892",
-    "role": "Program Management",
-    "title": "Branded Project Manager, Mx",
-    "company": "netflix",
-    "location": "Mexico City,Mexico",
-    "link": "https://explore.jobs.netflix.net/careers/job/790314082892"
-  },
-  {
     "id": "790314082821",
     "role": "Engineering",
     "title": "Manager, Engineering - Ads Measurement",
     "company": "netflix",
     "location": "Warsaw,Poland",
     "link": "https://explore.jobs.netflix.net/careers/job/790314082821"
+  },
+  {
+    "id": "790314082892",
+    "role": "Program Management",
+    "title": "Branded Project Manager, Mx",
+    "company": "netflix",
+    "location": "Mexico City,Mexico",
+    "link": "https://explore.jobs.netflix.net/careers/job/790314082892"
   },
   {
     "id": "790314064883",
@@ -3760,22 +3800,6 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790313991242"
   },
   {
-    "id": "790314045477",
-    "role": "Data & Insights",
-    "title": "Analytics Engineer 5 - Content",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790314045477"
-  },
-  {
-    "id": "790313925194",
-    "role": "Engineering",
-    "title": "Android Software Engineer 5 \u2013 Streaming & Discovery Experiences",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790313925194"
-  },
-  {
     "id": "790313890400",
     "role": "Marketing",
     "title": "Manager, Social Marketing",
@@ -3816,20 +3840,20 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790313766911"
   },
   {
-    "id": "790313768593",
-    "role": "Data & Insights",
-    "title": "Research Scientist 5, Identity - Ads DSE",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790313768593"
-  },
-  {
     "id": "790313768849",
     "role": "Product Management",
     "title": "Group Product Manager, Security Platforms Engineering",
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790313768849"
+  },
+  {
+    "id": "790313768593",
+    "role": "Data & Insights",
+    "title": "Research Scientist 5, Identity - Ads DSE",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790313768593"
   },
   {
     "id": "790313726093",
@@ -3880,28 +3904,12 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790314004257"
   },
   {
-    "id": "790313737252",
-    "role": "Data & Insights",
-    "title": "Data Scientist 5 - Availability",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790313737252"
-  },
-  {
     "id": "790313736032",
     "role": "Data & Insights",
     "title": "Manager, Data Science - Core TV & Interactive Discovery",
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790313736032"
-  },
-  {
-    "id": "790313729862",
-    "role": "Advertising",
-    "title": "Manager, Account Management, SG Export",
-    "company": "netflix",
-    "location": "Singapore,Singapore",
-    "link": "https://explore.jobs.netflix.net/careers/job/790313729862"
   },
   {
     "id": "790313737382",
@@ -3918,6 +3926,22 @@
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790313738714"
+  },
+  {
+    "id": "790313729862",
+    "role": "Advertising",
+    "title": "Manager, Account Management, SG Export",
+    "company": "netflix",
+    "location": "Singapore,Singapore",
+    "link": "https://explore.jobs.netflix.net/careers/job/790313729862"
+  },
+  {
+    "id": "790313737252",
+    "role": "Data & Insights",
+    "title": "Data Scientist 5 - Availability",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790313737252"
   },
   {
     "id": "790312824871",
@@ -3952,14 +3976,6 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790313697206"
   },
   {
-    "id": "790313700509",
-    "role": "Engineering",
-    "title": "Engineering Manager, Cloud Infrastructure Security",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790313700509"
-  },
-  {
     "id": "790313701024",
     "role": "Engineering",
     "title": "Software Engineer L5 - Open Connect Control Plane",
@@ -3974,6 +3990,14 @@
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790313702182"
+  },
+  {
+    "id": "790313700509",
+    "role": "Engineering",
+    "title": "Engineering Manager, Cloud Infrastructure Security",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790313700509"
   },
   {
     "id": "790313688863",
@@ -4016,14 +4040,6 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790313627841"
   },
   {
-    "id": "790313617579",
-    "role": "Data & Insights",
-    "title": "Research Scientist 5 - Content Promotion and Distribution",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790313617579"
-  },
-  {
     "id": "790313253713",
     "role": "Engineering",
     "title": "Senior Manager, Enterprise Governance & Assurance",
@@ -4048,12 +4064,28 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790313628221"
   },
   {
+    "id": "790313617579",
+    "role": "Data & Insights",
+    "title": "Research Scientist 5 - Content Promotion and Distribution",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790313617579"
+  },
+  {
     "id": "790313611279",
     "role": "Program Management",
     "title": "Head of Product Merchandising - Japan",
     "company": "netflix",
     "location": "Tokyo,Japan",
     "link": "https://explore.jobs.netflix.net/careers/job/790313611279"
+  },
+  {
+    "id": "790313610912",
+    "role": "Next Games",
+    "title": "Senior Puzzle Game Designer - Games",
+    "company": "netflix",
+    "location": "Helsinki,Finland",
+    "link": "https://explore.jobs.netflix.net/careers/job/790313610912"
   },
   {
     "id": "790313614025",
@@ -4070,14 +4102,6 @@
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790313620212"
-  },
-  {
-    "id": "790313610912",
-    "role": "Next Games",
-    "title": "Senior Puzzle Game Designer - Games",
-    "company": "netflix",
-    "location": "Helsinki,Finland",
-    "link": "https://explore.jobs.netflix.net/careers/job/790313610912"
   },
   {
     "id": "790313594056",
@@ -4150,14 +4174,6 @@
     "company": "netflix",
     "location": "Mexico City,Mexico",
     "link": "https://explore.jobs.netflix.net/careers/job/790313514335"
-  },
-  {
-    "id": "790313514466",
-    "role": "Data & Insights",
-    "title": "Senior Manager, Ad Marketplace - Ads DSE",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790313514466"
   },
   {
     "id": "790313447232",
@@ -4258,7 +4274,7 @@
   {
     "id": "790313087535",
     "role": "Marketing",
-    "title": "Events Senior Manager - Japan",
+    "title": "Japan Events Lead",
     "company": "netflix",
     "location": "Tokyo,Japan",
     "link": "https://explore.jobs.netflix.net/careers/job/790313087535"
@@ -4416,28 +4432,12 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790312337126"
   },
   {
-    "id": "790312328477",
-    "role": "Program Management",
-    "title": "Launch Manager, Product Merchandising - Thailand and Philippines",
-    "company": "netflix",
-    "location": "Bangkok,Thailand",
-    "link": "https://explore.jobs.netflix.net/careers/job/790312328477"
-  },
-  {
     "id": "790312050573",
     "role": "Data & Insights",
     "title": "Senior Quantitive Researcher - Ads Experiences",
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790312050573"
-  },
-  {
-    "id": "790312031373",
-    "role": "Engineering",
-    "title": "Android Software Engineer 4 \u2013 Foundations Teams",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790312031373"
   },
   {
     "id": "790311890356",
@@ -4560,6 +4560,14 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790301685346"
   },
   {
+    "id": "790301385075",
+    "role": "Feature Animation",
+    "title": "Expression of Interest - Feature Animation, Technical Directors and R&D Engineers, Sydney",
+    "company": "netflix",
+    "location": "Sydney,Australia",
+    "link": "https://explore.jobs.netflix.net/careers/job/790301385075"
+  },
+  {
     "id": "790301384045",
     "role": "Feature Animation",
     "title": "Expression of Interest - Feature Animation, Rigging, Vancouver",
@@ -4582,14 +4590,6 @@
     "company": "netflix",
     "location": "Vancouver,Canada",
     "link": "https://explore.jobs.netflix.net/careers/job/790301385074"
-  },
-  {
-    "id": "790301385075",
-    "role": "Feature Animation",
-    "title": "Expression of Interest - Feature Animation, Technical Directors and R&D Engineers, Sydney",
-    "company": "netflix",
-    "location": "Sydney,Australia",
-    "link": "https://explore.jobs.netflix.net/careers/job/790301385075"
   },
   {
     "id": "790301385076",
@@ -4616,14 +4616,6 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790300350307"
   },
   {
-    "id": "790300762468",
-    "role": "Data & Insights",
-    "title": "Software Engineer L4/L5 Training Platform, Machine Learning Platform",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790300762468"
-  },
-  {
     "id": "790300763295",
     "role": "Data & Insights",
     "title": "Research Scientist 5/6 \u2013 AI for Member Systems",
@@ -4632,20 +4624,28 @@
     "link": "https://explore.jobs.netflix.net/careers/job/790300763295"
   },
   {
-    "id": "790300763299",
-    "role": "Data & Insights",
-    "title": "Software Engineer L4/L5 - Data and Feature Infrastructure, Machine Learning Platform",
-    "company": "netflix",
-    "location": "USA - Remote",
-    "link": "https://explore.jobs.netflix.net/careers/job/790300763299"
-  },
-  {
     "id": "790300763300",
     "role": "Data & Insights",
     "title": "Research Engineer 4/5 \u2013 AI for Member Systems",
     "company": "netflix",
     "location": "USA - Remote",
     "link": "https://explore.jobs.netflix.net/careers/job/790300763300"
+  },
+  {
+    "id": "790300762468",
+    "role": "Data & Insights",
+    "title": "Software Engineer L4/L5 Training Platform, Machine Learning Platform",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790300762468"
+  },
+  {
+    "id": "790300763299",
+    "role": "Data & Insights",
+    "title": "Software Engineer L4/L5 - Data and Feature Infrastructure, Machine Learning Platform",
+    "company": "netflix",
+    "location": "USA - Remote",
+    "link": "https://explore.jobs.netflix.net/careers/job/790300763299"
   },
   {
     "id": "790300766176",

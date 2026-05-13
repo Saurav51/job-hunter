@@ -96,6 +96,14 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/118631220769628870"
   },
   {
+    "id": "74768609561191110",
+    "role": "",
+    "title": "Software Engineer, Pixel Camera, Platforms and Devices",
+    "company": "google",
+    "location": "Mountain View, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/74768609561191110"
+  },
+  {
     "id": "101732680533451462",
     "role": "",
     "title": "Software Engineer, Serverless Networking, Infrastructure",
@@ -104,12 +112,12 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/101732680533451462"
   },
   {
-    "id": "76744225797874374",
+    "id": "119766363446092486",
     "role": "",
-    "title": "Software Engineer, Google Cloud Storage",
+    "title": "Software Engineer, Camera Cloud, Platforms and Devices",
     "company": "google",
-    "location": "Raleigh, NC, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/76744225797874374"
+    "location": "Mountain View, CA, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/119766363446092486"
   },
   {
     "id": "98205601850368710",
@@ -144,19 +152,11 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/130915876281950918"
   },
   {
-    "id": "101927182422418118",
+    "id": "76744225797874374",
     "role": "",
-    "title": "Software Engineer, AI/ML Data and Training Infrastructure",
+    "title": "Software Engineer, Google Cloud Storage",
     "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/101927182422418118"
-  },
-  {
-    "id": "114466537011585734",
-    "role": "",
-    "title": "Software Engineer, Map Ads",
-    "company": "google",
-    "location": "Mountain View, CA, USA",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/114466537011585734"
+    "location": "Raleigh, NC, USA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/76744225797874374"
   }
 ]

@@ -374,17 +374,6 @@
     ]
   },
   {
-    "id": "7724830",
-    "role": "315 Security Engineering",
-    "title": "Senior Manager, Cyber Defense",
-    "company": "doordash",
-    "location": "United States - Remote",
-    "link": "https://job-boards.greenhouse.io/doordashusa/jobs/7724830",
-    "offices": [
-      "DC Metro"
-    ]
-  },
-  {
     "id": "7577073",
     "role": "318 Data",
     "title": "Senior & SDE II Software Engineer, Data Platform (All Teams)",
@@ -404,6 +393,17 @@
     "link": "https://job-boards.greenhouse.io/doordashusa/jobs/7732457",
     "offices": [
       "San Francisco"
+    ]
+  },
+  {
+    "id": "5516948",
+    "role": "341 Executive Engineering",
+    "title": "Senior Software Engineer, iOS",
+    "company": "doordash",
+    "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA",
+    "link": "https://job-boards.greenhouse.io/doordashusa/jobs/5516948",
+    "offices": [
+      "New York"
     ]
   },
   {
@@ -569,17 +569,6 @@
     "link": "https://job-boards.greenhouse.io/doordashusa/jobs/7767391",
     "offices": [
       "Florida"
-    ]
-  },
-  {
-    "id": "7727512",
-    "role": "315 Security Engineering",
-    "title": "Staff Software Engineer",
-    "company": "doordash",
-    "location": "United States - Remote",
-    "link": "https://job-boards.greenhouse.io/doordashusa/jobs/7727512",
-    "offices": [
-      "San Francisco"
     ]
   },
   {

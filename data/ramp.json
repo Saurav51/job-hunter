@@ -16,6 +16,14 @@
     "link": "https://jobs.ashbyhq.com/ramp/f8e75f30-738c-4987-8e00-2837af8d8bf6"
   },
   {
+    "id": "f7c4de3c-1d64-42e9-8111-f38e265327d8",
+    "role": "Account Executive",
+    "title": " Account Executive | Mid-Market",
+    "company": "ramp",
+    "location": "New York, NY (HQ)",
+    "link": "https://jobs.ashbyhq.com/ramp/f7c4de3c-1d64-42e9-8111-f38e265327d8"
+  },
+  {
     "id": "3f94674f-6af8-4e10-9631-77b1b0a410bf",
     "role": "Account Executive",
     "title": "Account Executive, SMB | Canada",
@@ -56,20 +64,20 @@
     "link": "https://jobs.ashbyhq.com/ramp/51acae48-933b-4c71-be48-3e9317cf3ab7"
   },
   {
+    "id": "a3afd259-ba6b-4eb0-a1b6-05d01dddacd8",
+    "role": "Product Operations",
+    "title": "AI Operations Manager | Agentic CX",
+    "company": "ramp",
+    "location": "New York, NY (HQ)",
+    "link": "https://jobs.ashbyhq.com/ramp/a3afd259-ba6b-4eb0-a1b6-05d01dddacd8"
+  },
+  {
     "id": "63df0ffc-bdc6-40ba-906f-fe03378536b0",
     "role": "Product Operations",
     "title": "AI Operations Specialist | Agentic Workflows",
     "company": "ramp",
     "location": "New York, NY (HQ)",
     "link": "https://jobs.ashbyhq.com/ramp/63df0ffc-bdc6-40ba-906f-fe03378536b0"
-  },
-  {
-    "id": "33a7a700-b9e1-4f6e-ac4e-b69942c6b5b0",
-    "role": "Compliance",
-    "title": "AML Operations Analyst ",
-    "company": "ramp",
-    "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/33a7a700-b9e1-4f6e-ac4e-b69942c6b5b0"
   },
   {
     "id": "d204e136-2749-42de-82b4-88a0dd352090",
@@ -296,6 +304,14 @@
     "link": "https://jobs.ashbyhq.com/ramp/979c7cc4-4d7e-4604-abe8-bcaf8e258523"
   },
   {
+    "id": "b4cbb19e-8249-4339-8eac-20e3806d7999",
+    "role": "Account Executive",
+    "title": "Enterprise Account Executive, Juno",
+    "company": "ramp",
+    "location": "New York, NY (HQ)",
+    "link": "https://jobs.ashbyhq.com/ramp/b4cbb19e-8249-4339-8eac-20e3806d7999"
+  },
+  {
     "id": "bf7064e1-3eb3-4d03-ac81-0e52b71661a4",
     "role": "Channel Sales",
     "title": "Enterprise Channel Sales Consultant, Juno",
@@ -326,14 +342,6 @@
     "company": "ramp",
     "location": "New York, NY (HQ)",
     "link": "https://jobs.ashbyhq.com/ramp/f2ad6068-02e7-4986-967e-804ecef9e043"
-  },
-  {
-    "id": "2f9eaac5-ab42-4f00-aa89-6030bb2b5acb",
-    "role": "Financial Partnerships",
-    "title": "Financial Partnerships Manager, Stablecoins & Cross-Border Payments",
-    "company": "ramp",
-    "location": "New York, NY (HQ)",
-    "link": "https://jobs.ashbyhq.com/ramp/2f9eaac5-ab42-4f00-aa89-6030bb2b5acb"
   },
   {
     "id": "8e91631a-7e69-4d76-a73b-de2f09d7de9f",
@@ -392,14 +400,6 @@
     "link": "https://jobs.ashbyhq.com/ramp/baf0a4d2-e07e-4f76-af85-d85c91f479a4"
   },
   {
-    "id": "28babcd7-1da5-434d-8e87-deb7b5809a43",
-    "role": "Customer Success Management",
-    "title": "Manager, Partner Success Strategy & Operations",
-    "company": "ramp",
-    "location": "San Francisco, CA",
-    "link": "https://jobs.ashbyhq.com/ramp/28babcd7-1da5-434d-8e87-deb7b5809a43"
-  },
-  {
     "id": "f564dcf9-9390-4a3f-896f-8047a5086040",
     "role": "Mobile",
     "title": "Mobile Engineer, Android",
@@ -414,6 +414,14 @@
     "company": "ramp",
     "location": "New York, NY (HQ)",
     "link": "https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f"
+  },
+  {
+    "id": "c63ba7d7-5290-4d9b-b002-40b2873b66f6",
+    "role": "Solutions Consulting",
+    "title": "Partner Consultant",
+    "company": "ramp",
+    "location": "Remote (US)",
+    "link": "https://jobs.ashbyhq.com/ramp/c63ba7d7-5290-4d9b-b002-40b2873b66f6"
   },
   {
     "id": "b55447c0-4adc-42eb-9ca2-f88fd44e0e5b",
@@ -438,6 +446,14 @@
     "company": "ramp",
     "location": "New York, NY (HQ)",
     "link": "https://jobs.ashbyhq.com/ramp/b599c5a9-9c9d-4826-b67a-ca5e012faaad"
+  },
+  {
+    "id": "5dc7f421-20a8-4fd9-be60-04f836480428",
+    "role": "Accounting",
+    "title": "Payroll Analyst | Temp to Perm",
+    "company": "ramp",
+    "location": "New York, NY (HQ)",
+    "link": "https://jobs.ashbyhq.com/ramp/5dc7f421-20a8-4fd9-be60-04f836480428"
   },
   {
     "id": "4c24a55a-ea3b-4cea-a5b5-7862938616bf",
@@ -606,14 +622,6 @@
     "company": "ramp",
     "location": "New York, NY (HQ)",
     "link": "https://jobs.ashbyhq.com/ramp/bdd28c40-f95b-43df-bebe-3b8a25c8f602"
-  },
-  {
-    "id": "130259a3-866d-4f6e-9f89-390f82c8d8ac",
-    "role": "Solutions Consulting",
-    "title": "Senior Manager, Technical Consulting",
-    "company": "ramp",
-    "location": "Remote (US)",
-    "link": "https://jobs.ashbyhq.com/ramp/130259a3-866d-4f6e-9f89-390f82c8d8ac"
   },
   {
     "id": "d6d0ad5d-184b-4500-8aea-8bd8c503a7b6",
